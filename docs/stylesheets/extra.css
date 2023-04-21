@@ -1,0 +1,27 @@
+/* Increase standard font size */
+.md-typeset {
+    font-size: 18px !important;
+}
+
+
+/* Increase size of menu items */
+.md-tabs__link {
+    font-size: 17px !important;
+}
+
+/* Increase size of Admonition text */
+.admonition {
+    font-size: 16px !important;
+}
+
+/* Footer */
+
+.md-footer {
+  color: var(--md-footer-fg-color);
+  --md-footer-bg-color: #007cff;
+}
+
+/* Remove hover menu */
+.md-header__topic:hover .md-ellipsis::before {
+  content: none;
+}
