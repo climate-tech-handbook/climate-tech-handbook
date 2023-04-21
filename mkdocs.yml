@@ -28,7 +28,7 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-# - typeset
+  - typeset
 #   - tags
 
 markdown_extensions:

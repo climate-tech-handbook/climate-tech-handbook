@@ -1,11 +1,11 @@
 /* Increase standard font size */
-.md-typeset {
+.md-content__inner {
     font-size: 18px !important;
 }
 
 /* Increase size of menu items */
 .md-tabs__link {
-    font-size: 17px !important;
+    font-size: 18px !important;
 }
 
 /* Increase size of Admonition text */
