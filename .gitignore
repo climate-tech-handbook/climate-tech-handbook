@@ -1,6 +1,9 @@
 # Ignore MKDocs site build
 /site
 
+# Ignore .env
+.env
+
 ## Ignore Python
 
 # Byte-compiled / optimized / DLL files
