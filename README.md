@@ -4,8 +4,6 @@
 
 This is brand spanking new! Please be kind.
 
-(quick test)
-
 ## Contribute:
 
 _If you are a beginner to git, GitHub, Python etc. and these instructions are confusing, please email feedback@climatetechhandbook.com._
