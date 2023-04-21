@@ -1,6 +1,6 @@
 # The Climate Tech Handbook
 
-![Climate Tech Handbook - logo - small - full color](https://user-images.githubusercontent.com/1459051/233495668-13a7bc63-28b2-444f-8827-765edb7bc0e8.png)
+[![Climate Tech Handbook - logo - small - full color](https://user-images.githubusercontent.com/1459051/233495668-13a7bc63-28b2-444f-8827-765edb7bc0e8.png)](https://climatetechhandbook.com)
 
 This is brand spanking new! Please be kind.
 
