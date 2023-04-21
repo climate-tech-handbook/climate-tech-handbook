@@ -22,7 +22,7 @@ theme:
     repo: fontawesome/brands/git-alt
 
 repo_name: Contribute
-repo_url: https://github.com/climate-tech-handbook
+repo_url: https://github.com/climate-tech-handbook/climate-tech-handbook
 
 extra_css:
   - stylesheets/extra.css
