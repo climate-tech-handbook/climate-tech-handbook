@@ -28,7 +28,8 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - typeset
+#  - typeset
+  - search
 #   - tags
 
 markdown_extensions:
