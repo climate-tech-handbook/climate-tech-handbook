@@ -14,7 +14,7 @@ _I'm still working on the Beginner's Guide._
 
 Make sure you have Python and Pip installed.
 
-This project is built with [Material for MKDocs](https://squidfunk.github.io/mkdocs-material).
+This project is built with [Material for MKDocs](https://squidfunk.github.io/mkdocs-material) - an advanced theme for the [MKDocs](https://www.mkdocs.org/) static site generator.
 
 Run `pip install mkdocs-material`
 
