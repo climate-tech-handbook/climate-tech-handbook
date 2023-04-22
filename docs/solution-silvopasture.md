@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Silvopasture
 
 !!! info "[Help us](../../contribute) track this Solution"
 

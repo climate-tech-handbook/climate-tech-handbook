@@ -12,7 +12,7 @@ _insert description and emissions pie chart_
 
 ## Solutions in this Sector
 
-- [Biochar Production](../biochar-production)
+- [Biochar Production](../solution-biochar-production)
 
  -
  -

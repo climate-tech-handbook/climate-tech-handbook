@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Nutrient Management
 
 !!! info "[Help us](../../contribute) track this Solution"
 

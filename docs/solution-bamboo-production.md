@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Bamboo Production
 
 !!! info "[Help us](../../contribute) track this Solution"
 

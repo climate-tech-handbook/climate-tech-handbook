@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Improved Cattle Feed
 
 !!! info "[Help us](../../contribute) track this Solution"
 

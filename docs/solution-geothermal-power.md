@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Geothermal Power
 
 !!! info "[Help us](../../contribute) track this Solution"
 

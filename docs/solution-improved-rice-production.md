@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Improved Rice Production
 
 !!! info "[Help us](../../contribute) track this Solution"
 

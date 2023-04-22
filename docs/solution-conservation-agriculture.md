@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Conservation Agriculture
 
 !!! info "[Help us](../../contribute) track this Solution"
 

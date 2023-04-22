@@ -12,69 +12,69 @@ _insert description and emissions pie chart_
 
 ## Solutions in this Sector
 
-- [Utility-Scale Energy Storage](../utility-scale-energy-storage)
+- [Utility-Scale Energy Storage](../solution-utility-scale-energy-storage)
 
-- [Distributed Energy Storage](../distributed-energy-storage)
+- [Distributed Energy Storage](../solution-distributed-energy-storage)
 
-- [Microgrids](../microgrids)
+- [Microgrids](../solution-microgrids)
 
-- [Grid Flexibility](../grid-flexibility)
+- [Grid Flexibility](../solution-grid-flexibility)
 
-- [Net Zero Buildings](../net-zero-buildings)
+- [Net Zero Buildings](../solution-net-zero-buildings)
 
-- [Building Retrofitting](../building-retrofitting)
+- [Building Retrofitting](../solution-building-retrofitting)
 
-- [Micro Wind Turbines](../micro-wind-turbines)
+- [Micro Wind Turbines](../solution-micro-wind-turbines)
 
-- [Dynamic Glass](../dynamic-glass)
+- [Dynamic Glass](../solution-dynamic-glass)
 
-- [Green and Cool Roofs](../green-and-cool-roofs)
+- [Green and Cool Roofs](../solution-green-and-cool-roofs)
 
-- [Water Distribution Efficiency](../water-distribution-efficiency)
+- [Water Distribution Efficiency](../solution-water-distribution-efficiency)
 
-- [Low-Flow Fixtures](../low-flow-fixtures)
+- [Low-Flow Fixtures](../solution-low-flow-fixtures)
 
-- [Ocean Power](../ocean-power)
+- [Ocean Power](../solution-ocean-power)
 
-- [Small Hydropower](../small-hydropower)
+- [Small Hydropower](../solution-small-hydropower)
 
-- [Biomass Power](../biomass-power)
+- [Biomass Power](../solution-biomass-power)
 
-- [Nuclear Power](../nuclear-power)
+- [Nuclear Power](../solution-nuclear-power)
 
-- [Solar Hot Water](../solar-hot-water)
+- [Solar Hot Water](../solution-solar-hot-water)
 
-- [Landfill Methane Capture](../landfill-methane-capture)
+- [Landfill Methane Capture](../solution-landfill-methane-capture)
 
-- [High-Efficiency Heat Pumps](../high-efficiency-heat-pumps)
+- [High-Efficiency Heat Pumps](../solution-high-efficiency-heat-pumps)
 
-- [Methane Digesters](../methane-digesters)
+- [Methane Digesters](../solution-methane-digesters)
 
-- [Geothermal Power](../geothermal-power)
+- [Geothermal Power](../solution-geothermal-power)
 
-- [District Heating](../district-heating)
+- [District Heating](../solution-district-heating)
 
-- [Waste to Energy](../waste-to-energy)
+- [Waste to Energy](../solution-waste-to-energy)
 
-- [Smart Thermostats](../smart-thermostats)
+- [Smart Thermostats](../solution-smart-thermostats)
 
-- [High-Performance Glass](../high-performance-glass)
+- [High-Performance Glass](../solution-high-performance-glass)
 
-- [Building Automation Systems](../building-automation-systems)
+- [Building Automation Systems](../solution-building-automation-systems)
 
-- [Offshore Wind Turbines](../offshore-wind-turbines)
+- [Offshore Wind Turbines](../solution-offshore-wind-turbines)
 
-- [LED Lighting](../led-lighting)
+- [LED Lighting](../solution-led-lighting)
 
-- [Insulation](../insulation)
+- [Insulation](../solution-insulation)
 
-- [Concentrated Solar Power](../concentrated-solar-power)
+- [Concentrated Solar Power](../solution-concentrated-solar-power)
 
-- [Distributed Solar Photovoltaics](../distributed-solar-photovoltaics)
+- [Distributed Solar Photovoltaics](../solution-distributed-solar-photovoltaics)
 
-- [Utility-Scale Solar Photovoltaics](../utility-scale-solar-photovoltaics)
+- [Utility-Scale Solar Photovoltaics](../solution-utility-scale-solar-photovoltaics)
 
-- [Onshore Wind Turbines](../onshore-wind-turbines)
+- [Onshore Wind Turbines](../solution-onshore-wind-turbines)
 
  -
  -

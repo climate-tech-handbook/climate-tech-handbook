@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Nuclear Power
 
 !!! info "[Help us](../../contribute) track this Solution"
 

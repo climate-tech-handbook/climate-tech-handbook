@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Methane Digesters
 
 !!! info "[Help us](../../contribute) track this Solution"
 

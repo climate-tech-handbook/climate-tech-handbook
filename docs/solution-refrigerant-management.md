@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Refrigerant Management
 
 !!! info "[Help us](../../contribute) track this Solution"
 

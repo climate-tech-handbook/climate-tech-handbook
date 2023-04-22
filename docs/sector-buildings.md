@@ -12,37 +12,37 @@ _insert description and emissions pie chart_
 
 ## Solutions in this Sector
 
-- [Net Zero Buildings](../net-zero-buildings)
+- [Net Zero Buildings](../solution-net-zero-buildings)
 
-- [Building Retrofitting](../building-retrofitting)
+- [Building Retrofitting](../solution-building-retrofitting)
 
-- [Dynamic Glass](../dynamic-glass)
+- [Dynamic Glass](../solution-dynamic-glass)
 
-- [Green and Cool Roofs](../green-and-cool-roofs)
+- [Green and Cool Roofs](../solution-green-and-cool-roofs)
 
-- [Low-Flow Fixtures](../low-flow-fixtures)
+- [Low-Flow Fixtures](../solution-low-flow-fixtures)
 
-- [Solar Hot Water](../solar-hot-water)
+- [Solar Hot Water](../solution-solar-hot-water)
 
-- [High-Efficiency Heat Pumps](../high-efficiency-heat-pumps)
+- [High-Efficiency Heat Pumps](../solution-high-efficiency-heat-pumps)
 
-- [Biogas for Cooking](../biogas-for-cooking)
+- [Biogas for Cooking](../solution-biogas-for-cooking)
 
-- [District Heating](../district-heating)
+- [District Heating](../solution-district-heating)
 
-- [Smart Thermostats](../smart-thermostats)
+- [Smart Thermostats](../solution-smart-thermostats)
 
-- [High-Performance Glass](../high-performance-glass)
+- [High-Performance Glass](../solution-high-performance-glass)
 
-- [Building Automation Systems](../building-automation-systems)
+- [Building Automation Systems](../solution-building-automation-systems)
 
-- [Insulation](../insulation)
+- [Insulation](../solution-insulation)
 
-- [Clean Cooking](../clean-cooking)
+- [Clean Cooking](../solution-clean-cooking)
 
-- [Alternative Refrigerants](../alternative-refrigerants)
+- [Alternative Refrigerants](../solution-alternative-refrigerants)
 
-- [Refrigerant Management](../refrigerant-management)
+- [Refrigerant Management](../solution-refrigerant-management)
 
  -
  -

@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Biochar Production
 
 !!! info "[Help us](../../contribute) track this Solution"
 

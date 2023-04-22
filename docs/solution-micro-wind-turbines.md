@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Micro Wind Turbines
 
 !!! info "[Help us](../../contribute) track this Solution"
 

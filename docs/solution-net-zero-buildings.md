@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Net Zero Buildings
 
 !!! info "[Help us](../../contribute) track this Solution"
 

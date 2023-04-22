@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Biogas for Cooking
 
 !!! info "[Help us](../../contribute) track this Solution"
 

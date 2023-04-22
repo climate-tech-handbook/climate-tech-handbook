@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Tree Plantations (on Degraded Land)
 
 !!! info "[Help us](../../contribute) track this Solution"
 

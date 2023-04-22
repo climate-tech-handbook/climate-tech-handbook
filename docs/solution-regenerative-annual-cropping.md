@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Regenerative Annual Cropping
 
 !!! info "[Help us](../../contribute) track this Solution"
 

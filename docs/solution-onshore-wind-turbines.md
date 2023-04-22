@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Onshore Wind Turbines
 
 !!! info "[Help us](../../contribute) track this Solution"
 

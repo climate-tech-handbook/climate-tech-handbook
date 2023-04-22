@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Small Hydropower
 
 !!! info "[Help us](../../contribute) track this Solution"
 

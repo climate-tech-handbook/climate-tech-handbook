@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Composting
 
 !!! info "[Help us](../../contribute) track this Solution"
 

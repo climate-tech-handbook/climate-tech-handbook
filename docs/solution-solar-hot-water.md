@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Solar Hot Water
 
 !!! info "[Help us](../../contribute) track this Solution"
 

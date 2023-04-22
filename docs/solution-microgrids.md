@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Microgrids
 
 !!! info "[Help us](../../contribute) track this Solution"
 

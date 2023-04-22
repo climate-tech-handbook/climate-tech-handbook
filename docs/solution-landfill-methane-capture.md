@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Landfill Methane Capture
 
 !!! info "[Help us](../../contribute) track this Solution"
 

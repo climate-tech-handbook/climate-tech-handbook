@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Efficient Aviation
 
 !!! info "[Help us](../../contribute) track this Solution"
 

@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Peatland Protection and Rewetting
 
 !!! info "[Help us](../../contribute) track this Solution"
 

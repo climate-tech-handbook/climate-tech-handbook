@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Utility-Scale Solar Photovoltaics
 
 !!! info "[Help us](../../contribute) track this Solution"
 

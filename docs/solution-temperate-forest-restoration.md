@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Temperate Forest Restoration
 
 !!! info "[Help us](../../contribute) track this Solution"
 

@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# System of Rice Intensification
 
 !!! info "[Help us](../../contribute) track this Solution"
 

@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Macroalgae Protection and Restoration
 
 !!! info "[Help us](../../contribute) track this Solution"
 

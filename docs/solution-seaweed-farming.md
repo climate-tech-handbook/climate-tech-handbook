@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Seaweed Farming
 
 !!! info "[Help us](../../contribute) track this Solution"
 

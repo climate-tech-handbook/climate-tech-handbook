@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Hybrid Cars
 
 !!! info "[Help us](../../contribute) track this Solution"
 

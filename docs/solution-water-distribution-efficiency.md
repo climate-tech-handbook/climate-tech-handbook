@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Water Distribution Efficiency
 
 !!! info "[Help us](../../contribute) track this Solution"
 

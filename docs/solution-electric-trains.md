@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Electric Trains
 
 !!! info "[Help us](../../contribute) track this Solution"
 

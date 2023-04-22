@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# High-Efficiency Heat Pumps
 
 !!! info "[Help us](../../contribute) track this Solution"
 

@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Abandoned Farmland Restoration
 
 !!! info "[Help us](../../contribute) track this Solution"
 

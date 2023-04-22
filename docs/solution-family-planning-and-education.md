@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Family Planning and Education
 
 !!! info "[Help us](../../contribute) track this Solution"
 

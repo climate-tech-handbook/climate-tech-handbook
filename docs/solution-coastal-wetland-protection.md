@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Coastal Wetland Protection
 
 !!! info "[Help us](../../contribute) track this Solution"
 

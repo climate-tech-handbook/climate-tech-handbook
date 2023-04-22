@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Building Automation Systems
 
 !!! info "[Help us](../../contribute) track this Solution"
 

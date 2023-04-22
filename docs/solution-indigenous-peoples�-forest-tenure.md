@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Indigenous Peoples� Forest Tenure
 
 !!! info "[Help us](../../contribute) track this Solution"
 

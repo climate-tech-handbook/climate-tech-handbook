@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# District Heating
 
 !!! info "[Help us](../../contribute) track this Solution"
 

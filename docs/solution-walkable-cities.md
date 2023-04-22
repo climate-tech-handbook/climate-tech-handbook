@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Walkable Cities
 
 !!! info "[Help us](../../contribute) track this Solution"
 

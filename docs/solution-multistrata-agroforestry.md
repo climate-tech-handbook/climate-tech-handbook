@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Multistrata Agroforestry
 
 !!! info "[Help us](../../contribute) track this Solution"
 

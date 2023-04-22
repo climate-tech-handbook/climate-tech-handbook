@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Grid Flexibility
 
 !!! info "[Help us](../../contribute) track this Solution"
 

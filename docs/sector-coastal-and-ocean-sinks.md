@@ -12,17 +12,15 @@ _insert description and emissions pie chart_
 
 ## Solutions in this Sector
 
-- [Coastal Wetland Restoration](../coastal-wetland-restoration)
+- [Coastal Wetland Restoration](../solution-coastal-wetland-restoration)
 
-- [Improved Fisheries](../improved-fisheries)
+- [Improved Fisheries](../solution-improved-fisheries)
 
-- [Coastal Wetland Protection](../coastal-wetland-protection)
+- [Coastal Wetland Protection](../solution-coastal-wetland-protection)
 
-- [Seaweed Farming](../seaweed-farming)
+- [Seaweed Farming](../solution-seaweed-farming)
 
-- [Seaweed Farming](../seaweed-farming)
-
-- [Macroalgae Protection and Restoration](../macroalgae-protection-and-restoration)
+- [Macroalgae Protection and Restoration](../solution-macroalgae-protection-and-restoration)
 
  -
  -

@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Seafloor Protection
 
 !!! info "[Help us](../../contribute) track this Solution"
 

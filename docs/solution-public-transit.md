@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Public Transit
 
 !!! info "[Help us](../../contribute) track this Solution"
 

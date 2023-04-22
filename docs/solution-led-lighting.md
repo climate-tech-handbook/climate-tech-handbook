@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# LED Lighting
 
 !!! info "[Help us](../../contribute) track this Solution"
 

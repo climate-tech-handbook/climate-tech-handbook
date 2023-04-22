@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Low-Flow Fixtures
 
 !!! info "[Help us](../../contribute) track this Solution"
 

@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Recycled Metals
 
 !!! info "[Help us](../../contribute) track this Solution"
 

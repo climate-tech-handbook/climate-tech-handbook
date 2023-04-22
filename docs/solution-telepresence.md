@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Telepresence
 
 !!! info "[Help us](../../contribute) track this Solution"
 

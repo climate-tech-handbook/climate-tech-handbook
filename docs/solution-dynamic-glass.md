@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Dynamic Glass
 
 !!! info "[Help us](../../contribute) track this Solution"
 

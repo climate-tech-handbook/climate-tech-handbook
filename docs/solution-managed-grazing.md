@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Managed Grazing
 
 !!! info "[Help us](../../contribute) track this Solution"
 

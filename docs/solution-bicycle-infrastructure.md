@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Bicycle Infrastructure
 
 !!! info "[Help us](../../contribute) track this Solution"
 

@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Utility-Scale Energy Storage
 
 !!! info "[Help us](../../contribute) track this Solution"
 

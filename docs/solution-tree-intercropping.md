@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Tree Intercropping
 
 !!! info "[Help us](../../contribute) track this Solution"
 

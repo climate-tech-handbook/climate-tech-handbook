@@ -3,7 +3,7 @@ Title:
 Description: 
 ---
 
-# Reduced Food Waste
+# Sustainable Intensification for Smallholders
 
 !!! info "[Help us](../../contribute) track this Solution"
 
