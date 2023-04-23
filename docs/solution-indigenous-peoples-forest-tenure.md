@@ -9,7 +9,7 @@ Description:
 
 <div class="grid cards" markdown>
 
--   :material-check-bold:{ .lg .middle } __xx__ Gigatons saved from [carbon budget](glossary/#carbon-budget)
+-   :material-check-bold:{ .lg .middle } __##__ Gigatons saved from [carbon budget](glossary/#carbon-budget)
 
 </div>
 
@@ -26,18 +26,18 @@ _insert description_
 
 ## Lessons Learned
 
--
--
--
+ -
+ -
+ -
 
 ## Biggest Challenges
 
--
--
--
+ -
+ -
+ -
 
 ## Best Path Forward
 
--
--
--
+ -
+ -
+ -

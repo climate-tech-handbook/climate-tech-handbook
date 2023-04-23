@@ -12,31 +12,31 @@ _insert description and emissions pie chart_
 
 ## Solutions in this Sector
 
-- [Recycled Plastics](../recycled-plastics)
+- [Recycled Plastics](../solution-recycled-plastics)
 
-- [Composting](../composting)
+- [Composting](../solution-composting)
 
-- [Bioplastics](../bioplastics)
+- [Bioplastics](../solution-bioplastics)
 
-- [Recycled Paper](../recycled-paper)
+- [Recycled Paper](../solution-recycled-paper)
 
-- [Reduced Plastics](../reduced-plastics)
+- [Reduced Plastics](../solution-reduced-plastics)
 
-- [Landfill Methane Capture](../landfill-methane-capture)
+- [Landfill Methane Capture](../solution-landfill-methane-capture)
 
-- [Recycled Metals](../recycled-metals)
+- [Recycled Metals](../solution-recycled-metals)
 
-- [Methane Digesters](../methane-digesters)
+- [Methane Digesters](../solution-methane-digesters)
 
-- [Waste to Energy](../waste-to-energy)
+- [Waste to Energy](../solution-waste-to-energy)
 
-- [Alternative Cement](../alternative-cement)
+- [Alternative Cement](../solution-alternative-cement)
 
-- [Recycling](../recycling)
+- [Recycling](../solution-recycling)
 
-- [Alternative Refrigerants](../alternative-refrigerants)
+- [Alternative Refrigerants](../solution-alternative-refrigerants)
 
-- [Refrigerant Management](../refrigerant-management)
+- [Refrigerant Management](../solution-refrigerant-management)
 
  -
  -

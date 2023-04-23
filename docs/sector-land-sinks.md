@@ -12,49 +12,49 @@ _insert description and emissions pie chart_
 
 ## Solutions in this Sector
 
-- [Sustainable Intensification for Smallholders](../sustainable-intensification-for-smallholders)
+- [Sustainable Intensification for Smallholders](../solution-sustainable-intensification-for-smallholders)
 
-- [System of Rice Intensification](../system-of-rice-intensification)
+- [System of Rice Intensification](../solution-system-of-rice-intensification)
 
-- [Grassland Protection](../grassland-protection)
+- [Grassland Protection](../solution-grassland-protection)
 
-- [Perennial Biomass Production](../perennial-biomass-production)
+- [Perennial Biomass Production](../solution-perennial-biomass-production)
 
-- [Forest Protection](../forest-protection)
+- [Forest Protection](../solution-forest-protection)
 
-- [Bamboo Production](../bamboo-production)
+- [Bamboo Production](../solution-bamboo-production)
 
-- [Indigenous Peoples' Forest Tenure](../indigenous-peoples-forest-tenure)
+- [Indigenous Peoples' Forest Tenure](../solution-indigenous-peoples-forest-tenure)
 
-- [Improved Rice Production](../improved-rice-production)
+- [Improved Rice Production](../solution-improved-rice-production)
 
-- [Abandoned Farmland Restoration](../abandoned-farmland-restoration)
+- [Abandoned Farmland Restoration](../solution-abandoned-farmland-restoration)
 
-- [Conservation Agriculture](../conservation-agriculture)
+- [Conservation Agriculture](../solution-conservation-agriculture)
 
-- [Multistrata Agroforestry](../multistrata-agroforestry)
+- [Multistrata Agroforestry](../solution-multistrata-agroforestry)
 
-- [Managed Grazing](../managed-grazing)
+- [Managed Grazing](../solution-managed-grazing)
 
-- [Tree Intercropping](../tree-intercropping)
+- [Tree Intercropping](../solution-tree-intercropping)
 
-- [Regenerative Annual Cropping](../regenerative-annual-cropping)
+- [Regenerative Annual Cropping](../solution-regenerative-annual-cropping)
 
-- [Perennial Staple Crops](../perennial-staple-crops)
+- [Perennial Staple Crops](../solution-perennial-staple-crops)
 
-- [Temperate Forest Restoration](../temperate-forest-restoration)
+- [Temperate Forest Restoration](../solution-temperate-forest-restoration)
 
-- [Tree Plantations (on Degraded Land)](../tree-plantations-(on-degraded-land))
+- [Tree Plantations (on Degraded Land)](../solution-tree-plantations-(on-degraded-land))
 
-- [Peatland Protection and Rewetting](../peatland-protection-and-rewetting)
+- [Peatland Protection and Rewetting](../solution-peatland-protection-and-rewetting)
 
-- [Silvopasture](../silvopasture)
+- [Silvopasture](../solution-silvopasture)
 
-- [Tropical Forest Restoration](../tropical-forest-restoration)
+- [Tropical Forest Restoration](../solution-tropical-forest-restoration)
 
-- [Plant-Rich Diets](../plant-rich-diets)
+- [Plant-Rich Diets](../solution-plant-rich-diets)
 
-- [Reduced Food Waste](../reduced-food-waste)
+- [Reduced Food Waste](../solution-reduced-food-waste)
 
  -
  -

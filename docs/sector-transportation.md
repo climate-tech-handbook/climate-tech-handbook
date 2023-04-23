@@ -15,31 +15,31 @@ _insert description and emissions pie chart_
 
 ## Solutions in this Sector
 
-- [High-Speed Rail](../high-speed-rail)
+- [High-Speed Rail](../solution-high-speed-rail)
 
-- [Electric Bicycles](../electric-bicycles)
+- [Electric Bicycles](../solution-electric-bicycles)
 
-- [Hybrid Cars](../hybrid-cars)
+- [Hybrid Cars](../solution-hybrid-cars)
 
-- [Electric Trains](../electric-trains)
+- [Electric Trains](../solution-electric-trains)
 
-- [Telepresence](../telepresence)
+- [Telepresence](../solution-telepresence)
 
-- [Bicycle Infrastructure](../bicycle-infrastructure)
+- [Bicycle Infrastructure](../solution-bicycle-infrastructure)
 
-- [Walkable Cities](../walkable-cities)
+- [Walkable Cities](../solution-walkable-cities)
 
-- [Efficient Aviation](../efficient-aviation)
+- [Efficient Aviation](../solution-efficient-aviation)
 
-- [Efficient Ocean Shipping](../efficient-ocean-shipping)
+- [Efficient Ocean Shipping](../solution-efficient-ocean-shipping)
 
-- [Electric Cars](../electric-cars)
+- [Electric Cars](../solution-electric-cars)
 
-- [Carpooling](../carpooling)
+- [Carpooling](../solution-carpooling)
 
-- [Efficient Trucks](../efficient-trucks)
+- [Efficient Trucks](../solution-efficient-trucks)
 
-- [Public Transit](../public-transit)
+- [Public Transit](../solution-public-transit)
 
  -
  -

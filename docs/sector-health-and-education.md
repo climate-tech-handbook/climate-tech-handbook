@@ -12,7 +12,7 @@ _insert description and emissions pie chart_
 
 ## Solutions in this Sector
 
-- [Family Planning and Education](../family-planning-and-education)
+- [Family Planning and Education](../solution-family-planning-and-education)
 
  -
  -

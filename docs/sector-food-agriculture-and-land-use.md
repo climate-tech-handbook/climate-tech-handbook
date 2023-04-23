@@ -12,43 +12,43 @@ _insert description and emissions pie chart_
 
 ## Solutions in this Sector
 
-- [Improved Aquaculture](../improved-aquaculture)
+- [Improved Aquaculture](../solution-improved-aquaculture)
 
-- [Improved Fisheries](../improved-fisheries)
+- [Improved Fisheries](../solution-improved-fisheries)
 
-- [Farm Irrigation Efficiency](../farm-irrigation-efficiency)
+- [Farm Irrigation Efficiency](../solution-farm-irrigation-efficiency)
 
-- [Coastal Wetland Protection](../coastal-wetland-protection)
+- [Coastal Wetland Protection](../solution-coastal-wetland-protection)
 
-- [Sustainable Intensification for Smallholders](../sustainable-intensification-for-smallholders)
+- [Sustainable Intensification for Smallholders](../solution-sustainable-intensification-for-smallholders)
 
-- [Nutrient Management](../nutrient-management)
+- [Nutrient Management](../solution-nutrient-management)
 
-- [System of Rice Intensification](../system-of-rice-intensification)
+- [System of Rice Intensification](../solution-system-of-rice-intensification)
 
-- [Improved Manure Management](../improved-manure-management)
+- [Improved Manure Management](../solution-improved-manure-management)
 
-- [Grassland Protection](../grassland-protection)
+- [Grassland Protection](../solution-grassland-protection)
 
-- [Seafloor Protection](../seafloor-protection)
+- [Seafloor Protection](../solution-seafloor-protection)
 
-- [Improved Cattle Feed](../improved-cattle-feed)
+- [Improved Cattle Feed](../solution-improved-cattle-feed)
 
-- [Forest Protection](../forest-protection)
+- [Forest Protection](../solution-forest-protection)
 
-- [Indigenous Peoples' Forest Tenure](../indigenous-peoples�-forest-tenure)
+- [Indigenous Peoples' Forest Tenure](../solution-indigenous-peoples�-forest-tenure)
 
-- [Improved Rice Production](../improved-rice-production)
+- [Improved Rice Production](../solution-improved-rice-production)
 
-- [Conservation Agriculture](../conservation-agriculture)
+- [Conservation Agriculture](../solution-conservation-agriculture)
 
-- [Regenerative Annual Cropping](../regenerative-annual-cropping)
+- [Regenerative Annual Cropping](../solution-regenerative-annual-cropping)
 
-- [Peatland Protection and Rewetting](../peatland-protection-and-rewetting)
+- [Peatland Protection and Rewetting](../solution-peatland-protection-and-rewetting)
 
-- [Plant-Rich Diets](../plant-rich-diets)
+- [Plant-Rich Diets](../solution-plant-rich-diets)
 
-- [Reduced Food Waste](../reduced-food-waste)
+- [Reduced Food Waste](../solution-reduced-food-waste)
 
  -
  -
