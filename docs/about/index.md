@@ -4,11 +4,16 @@ Description:
 
 # About the Handbook
 
+![Offshore Wind Farm](../img/offshore-wind-farm.jpg)
+
 The climate tech movement is **exploding**.
 
-New developments are happening so fast, it's been impossible to write it all down.
+Every day there is news about which technologies are succeeding, which are failing, and the best ways to make an impact.
 
-![Offshore Wind Farm](../img/offshore-wind-farm.jpg)
+**Job seekers** and career changers need experience.
+
+**Investors** need confidence and risk management.
+
 
 ## Our Mission
 
@@ -47,11 +52,11 @@ We are made possible by our [Advisory Board](#advisory-board) and [Contributors]
 
 ## Inspiration
 
-* [Wikipedia](https://wikipedia.org)
-* The [Change Handbook](https://www.bkconnection.com/books/title/the-change-handbook)
-* The [GitLab Handook](https://about.gitlab.com/handbook/)
-* The [principles of journalism](https://journalistsresource.org/home/principles-of-journalism/)
-* The [Whole Earth Catalog](https://en.wikipedia.org/wiki/Whole_Earth_Catalog)
+* [:simple-wikipedia:ikipedia](https://wikipedia.org)
+* The [:fontawesome-solid-book: Change Handbook](https://www.bkconnection.com/books/title/the-change-handbook)
+* The [:simple-gitlab: GitLab Handook](https://about.gitlab.com/handbook/)
+* The [:fontawesome-solid-pencil: principles of journalism](https://journalistsresource.org/home/principles-of-journalism/)
+* The [:material-earth: Whole Earth Catalog](https://en.wikipedia.org/wiki/Whole_Earth_Catalog)
 
 ---
 
@@ -64,3 +69,5 @@ We are made possible by our [Advisory Board](#advisory-board) and [Contributors]
 ---
 
 Photo by <a href="https://unsplash.com/@nrdoherty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicholas Doherty</a> on <a href="https://unsplash.com/photos/pONBhDyOFoM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Copyright 2023 - Differential Design, LLC.

@@ -27,10 +27,12 @@ repo_url: https://github.com/climate-tech-handbook/climate-tech-handbook
 extra_css:
   - stylesheets/extra.css
 
-plugins:
+## NOTE: plugins need to be passed over to mkdocs.insiders.yml due to paid Insiders version of Material for MKDocs
+
+# plugins:
 #  - typeset
-  - search
-#   - tags
+#  - search
+#  - tags
 
 markdown_extensions:
 
@@ -76,45 +78,7 @@ nav:
   - 'Home': index.md
   - 'Solutions':
       - solutions/index.md
-      - Electricity:
-        - Electricity Sector Overview: sector-electricity.md
-      - Food, Agriculture, Land Use:
-        - Sector Overview: sector-food-agriculture-and-land-use.md
-        - solution-reduced-food-waste.md
-      - Transportation:
-        - Transportation Sector Overview: sector-transportation.md
-        - solutions/public-transit.md
-        - solutions/efficient-trucks.md
-        - solutions/carpooling.md
-        - solutions/electric-cars.md
-        - solutions/efficient-ocean-shipping.md
-        - solutions/efficient-aviation.md
-        - solutions/walkable-cities.md
-        - solutions/bicycle-infrastructure.md
-        - solutions/telepresence.md
-        - solutions/electric-trains.md
-        - solutions/hybrid-cars.md
-        - solutions/electric-bicycles.md
-        - solutions/high-speed-rail.md
-      - Buildings:
-        - Buildings Sector Overview: sector-buildings.md
-        - solutions/refrigerant-management.md
-        - solutions/alternative-refrigerants.md
-        - solutions/clean-cooking.md
-        - solutions/insulation.md
-        - solutions/building-automation-systems.md
-        - solutions/high-performance-glass.md
-        - solutions/smart-thermostats.md
-        - solutions/district-heating.md
-        - solutions/biogas-for-cooking.md
-        - solutions/high-efficiency-heat-pumps.md
-        - solutions/solar-hot-water.md
-        - solutions/low-flow-fixtures.md
-        - solutions/green-and-cool-roofs.md
-        - solutions/dynamic-glass.md
-        - solutions/building-retrofitting.md
-        - solutions/net-zero-buildings.md     
-  
+
   - 'Resources':
       - resources/index.md
       - Career Guide: career-guide.md

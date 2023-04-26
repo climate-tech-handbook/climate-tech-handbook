@@ -1,6 +1,7 @@
 ---
 Title: Food, Agriculture and Land Use
 Description: 
+icon: material/food-apple
 ---
 
 # :material-food-apple:  Food, Agriculture and Land Use

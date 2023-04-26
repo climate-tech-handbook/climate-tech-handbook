@@ -1,9 +1,13 @@
 ---
 Title:
 Description: 
+hide:
+- navigation
 ---
 
 # Public Transit
+
+![Electric bus in Germany](../img/electric-bus-germany.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
 
@@ -41,3 +45,5 @@ _insert description_
  -
  -
  -
+
+[^]: Photo by <a href="https://unsplash.com/ja/@phuocanhdang?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Phuoc Anh Dang</a> on <a href="https://unsplash.com/photos/bziZP52xxnU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

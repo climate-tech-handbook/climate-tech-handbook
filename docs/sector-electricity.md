@@ -1,6 +1,7 @@
 ---
 Title: Electricity
 Description: 
+icon: material/lightning-bolt
 ---
 
 # :material-lightning-bolt:  Electricity

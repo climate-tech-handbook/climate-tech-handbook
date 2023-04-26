@@ -8,6 +8,7 @@ To build the world's most accessible and accurate resource for anyone using tech
 
 ## Contribute:
 
+<<<<<<< Updated upstream
 Please [start a Discussion thread](https://github.com/orgs/climate-tech-handbook/discussions/new/choose) and we can talk about the best ways you can help out.
 
 If you prefer a private email, send it to feedback@climatetechhandbook.com
@@ -27,6 +28,8 @@ This project is built with [Material for MKDocs](https://squidfunk.github.io/mkd
 
 _If you are a beginner to git, GitHub, Python, Terminal commands, and these instructions are confusing or don't work, please [file an Issue](https://github.com/climate-tech-handbook/climate-tech-handbook/issues/new)_
 
+=======
+>>>>>>> Stashed changes
 ---
 
 Make sure you have Python and Pip installed by typing `python3 --version` and `pip --version` in your Terminal ("Command Prompt" for Windows Users).

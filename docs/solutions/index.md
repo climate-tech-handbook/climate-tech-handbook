@@ -1,18 +1,18 @@
 ---
 title: Solutions Overview
 description:
+hide:
+  - navigation
 icon:
 tags: 
 ---
 
 # Solutions Overview
 
+![organic-farming](../img/organic-farming.jpg) 
+
 !!! Tip "Our Immediate Goal"
 	Track the progress of all 93 solutions with **lessons learned**, **biggest challenges**, and **best path forward**.
-
-[Project Drawdown](../glossary/#project-drawdown) has the best science available to meet the IPCC goal of reducing catastrophic warming beyond 1.5C.
-
-There are **93** Solutions categorized by **14 Sectors**. [^drawdown-sectors] [^climate-base-sectors]
 
 ---
 ## Sectors
@@ -72,6 +72,10 @@ sector-food-agriculture-and-land-use)
 
 -->
 ---
+
+[Project Drawdown](../glossary/#project-drawdown) has the best science available to meet the IPCC goal of reducing catastrophic warming beyond 1.5C.
+
+There are **93** Solutions categorized by **14 Sectors**. [^drawdown-sectors] [^climate-base-sectors]
 
 ??? Abstract "Project Drawdown Solutions Table"
 
@@ -180,3 +184,5 @@ sector-food-agriculture-and-land-use)
 [^drawdown-sectors]: Project Drawdown's [9 sectors listed here](https://drawdown.org/sectors).
 [^climate-base-sectors]: ClimateBase sectors are listed in their [Organization Database](https://climatebase.org/organizations)
 [^last-accessed]: Project Drawdown's [Table of Solutions](https://drawdown.org/solutions/table-of-solutions) last accessed 3/28/23
+
+[^]: Photo by <a href="https://unsplash.com/@sweeksco?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steven Weeks</a> on <a href="https://unsplash.com/photos/DUPFowqI6oI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
