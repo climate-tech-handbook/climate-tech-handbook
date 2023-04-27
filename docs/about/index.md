@@ -10,9 +10,9 @@ The climate tech movement is **exploding**.
 
 Every day there is news about which technologies are succeeding, which are failing, and the best ways to make an impact.
 
-**Job seekers** and career changers need experience.
+**Job seekers** and **career changers** need experience _as quickly as possible_.
 
-**Investors** need confidence and risk management.
+**Founders and **Investors** need confidence and risk management.
 
 
 ## Our Mission
@@ -30,7 +30,7 @@ The Climate Tech Handbook is here to serve:
 
 3. Investors
 
-4. Students / Academics
+4. Academic researchers
 
 
 We value:
