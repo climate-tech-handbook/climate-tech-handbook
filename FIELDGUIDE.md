@@ -2,7 +2,7 @@
 
 Feel free to make contributions, suggestions, or comments on the suggested stack so far.
 
-I have includes an extensive list of additional relative technologies to look into that we may find useful.
+I have included an extensive list of additional relative technologies to look into that we may find useful.
 
 This guide is still a "work in progress" and this is meant to be a starting point, so please stay tuned for updates!
 
