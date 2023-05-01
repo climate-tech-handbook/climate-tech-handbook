@@ -2,12 +2,12 @@
 
 _If you are a new dev on this project, welcome and feel free to reach out to me with any questions_ - Wesley Grant
 
-1. **Fork the repository**: Go to the original repository on GitHub (in this case, `https://github.com/climate-tech-handbook/data-magic`) and click the "Fork" button in the top-right corner. This will create a copy of the repository under your GitHub account.
+1. **Fork the repository**: Go to the original repository on GitHub (in this case, `https://github.com/climate-tech-handbook/climate-tech-handbook`) and click the "Fork" button in the top-right corner. This will create a copy of the repository under your GitHub account.
 
 2. **Clone the forked repository**: Clone the forked repository to your local machine using the following command:
 
 ```
-git clone https://github.com/<your-github-username>/data-magic-wg.git
+git clone https://github.com/<your-github-username>/climate-tech-handbook.git
 ```
 
 Replace `<your-github-username>` with your actual GitHub username.
@@ -15,7 +15,7 @@ Replace `<your-github-username>` with your actual GitHub username.
 3. **Navigate to the cloned repository**: Change the directory to the cloned repository:
 
 ```
-cd data-magic-wg
+cd climate-tech-handbook
 ```
 
 4. **Create a new branch**: Create a new branch (e.g., `field-guide`) and switch to it:
@@ -60,11 +60,11 @@ git push origin main
 11. **Create a pull request**: Create a pull request from your fork's `main` branch to the original repository's `main` branch using the `gh` command:
 
 ```
-gh pr create --title "Field Guide 1.0" --body "First iteration of the list of suggested and alternative technologies we may find useful" --base main --head <your-github-username>:main --repo climate-tech-handbook/data-magic
+gh pr create --title "Field Guide 1.0" --body "First iteration of the list of suggested and alternative technologies we may find useful" --base main --head <your-github-username>:main --repo climate-tech-handbook/climate-tech-handbook
 ```
 
 Replace `<your-github-username>` with your actual GitHub username.
 
-This command specifies the base repository (the original `data-magic` repository) using the `--repo` option. The pull request will be created from your fork's `main` branch to the original repository's `main` branch.
+This command specifies the base repository (the original `climate-tech-handbook` repository) using the `--repo` option. The pull request will be created from your fork's `main` branch to the original repository's `main` branch.
 
 After running this command, the pull request will be created, and you can then collaborate with the project maintainers on the changes you've proposed.
