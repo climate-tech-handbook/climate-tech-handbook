@@ -10,14 +10,13 @@ To build the world's most accessible and accurate resource for anyone using tech
 
 Please [start a Discussion thread](https://github.com/orgs/climate-tech-handbook/discussions/new/choose) or [join us on Slack](https://chat.climatetechhandbook.com) and we can talk about the best ways you can help out.
 
-
 **We need:**
 
-* Content writers
-* Data analysts
-* Financial contribuors
-* Business advisors for financial sustainability
-* People who love making cool things with data
+- Content writers
+- Data analysts
+- Financial contribuors
+- Business advisors for financial sustainability
+- People who love making cool things with data
 
 ## Installation instructions
 
@@ -41,15 +40,16 @@ Spin up the site by running `mkdocs serve`
 
 [Join our Discussions](https://github.com/orgs/climate-tech-handbook/discussions) and let's talk about your desired changes.
 
-
 ### Mac users
+
 Install Homebrew if you don't already have it installed.
 
-Install Python 3 by running ``brew install python3`` in the terminal.
+Install Python 3 by running `brew install python3` in the terminal.
 
 Then follow the remaining instructions above.
 
 ### Windows users
+
 _Note: this is untested, please [file an Issue](https://github.com/climate-tech-handbook/climate-tech-handbook/issues/new) if you can't get it running and we'll troubleshoot with you._
 
 Download and install Python from the [official website](https://www.python.org/downloads/windows/).
