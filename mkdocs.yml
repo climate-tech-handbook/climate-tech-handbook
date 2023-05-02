@@ -12,7 +12,7 @@ theme:
   copyright: Copyright 2023 - Differential Design, LLC
   features:
     - navigation.tabs
-#   - navigation.tabs.sticky
+    #   - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
     - navigation.path
@@ -35,7 +35,6 @@ extra_css:
 #  - tags
 
 markdown_extensions:
-
   # Python Markdown
   - abbr
   - admonition
@@ -69,23 +68,22 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-
 # Additional plugins passed over to `mkdocs.insiders.yml` file
 
 # === NAVIGATION ===
 
 nav:
-  - 'Home': index.md
-  - 'Solutions':
+  - "Home": index.md
+  - "Solutions":
       - solutions/index.md
 
-  - 'Resources':
+  - "Resources":
       - resources/index.md
       - Career Guide: career-guide.md
       - Technologies: technologies.md
       - Full Glossary: glossary.md
 
-  - 'About':
+  - "About":
       - About the Handbook: about/index.md
-#     - Frequently Asked Questions: faq.md
+      #     - Frequently Asked Questions: faq.md
       - Contribute: contribute.md
