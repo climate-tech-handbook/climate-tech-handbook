@@ -78,6 +78,19 @@ nav:
   - 'Home': index.md
   - 'Solutions':
       - solutions/index.md
+      - Electricity: sector-electricity.md
+      - Food, Agriculture, and Land Use: sector-food-agriculture-and-land-use.md
+      - Industry: sector-industry.md
+      - Transportation: sector-transportation.md
+      - Land Sinks: sector-land-sinks.md
+      - Coastal and Ocean Sinks: sector-coastal-and-ocean-sinks.md
+      - Engineered Sinks: sector-engineered-sinks.md
+      - Health and Education: sector-health-and-education.md
+      - Climate Adaptation: sector-climate-adaptation.md
+      - Research and Education: sector-research-and-education.md
+      - Media and Journalism: sector-media-and-journalism.md
+      - Advocacy or Policy: sector-advocacy-or-policy.md
+      - Other: sector-other.md
 
   - 'Resources':
       - resources/index.md

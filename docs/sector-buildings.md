@@ -1,6 +1,7 @@
 ---
 Title: Buildings
 Description: 
+icon: fontawesome/solid/city
 ---
 
 # :fontawesome-solid-city: Buildings

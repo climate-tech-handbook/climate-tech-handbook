@@ -1,6 +1,7 @@
 ---
 Title: Other
 Description: 
+icon: material/shape-outline
 ---
 
 # :material-shape-outline: Other

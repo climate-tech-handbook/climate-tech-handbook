@@ -1,6 +1,7 @@
 ---
 Title: Industry
 Description: 
+icon: material/factory
 ---
 
 # :material-factory: Industry

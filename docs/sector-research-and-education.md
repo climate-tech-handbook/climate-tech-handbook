@@ -1,6 +1,7 @@
 ---
 Title: Research and Education
 Description: 
+icon: fontawesome/solid/user-graduate
 ---
 
 # :fontawesome-solid-user-graduate: Research and Education

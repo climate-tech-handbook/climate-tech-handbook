@@ -1,6 +1,7 @@
 ---
 Title: Advocacy or Policy
 Description: 
+icon: fontawesome/solid/hand
 ---
 
 # :fontawesome-solid-hand: Advocacy or Policy

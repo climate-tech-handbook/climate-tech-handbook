@@ -1,6 +1,7 @@
 ---
 Title: Media and Journalism
 Description: 
+icon: fontawesome/solid/pencil
 ---
 
 # :fontawesome-solid-pencil: Media and Journalism

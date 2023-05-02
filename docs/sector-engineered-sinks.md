@@ -1,6 +1,7 @@
 ---
 Title: Engineered Sinks
 Description: 
+icon: material/chart-bubble
 ---
 
 # :material-chart-bubble: Engineered Sinks

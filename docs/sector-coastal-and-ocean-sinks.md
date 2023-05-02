@@ -1,6 +1,7 @@
 ---
 Title: Coastal and Ocean Sinks
 Description: 
+icon: fontawesome/solid/water
 ---
 
 # :fontawesome-solid-water:  Coastal and Ocean Sinks
