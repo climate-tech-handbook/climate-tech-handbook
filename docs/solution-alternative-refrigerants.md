@@ -1,6 +1,6 @@
 ---
 Title:
-Description: 
+Description:
 ---
 
 # Alternative Refrigerants
@@ -9,7 +9,7 @@ Description:
 
 <div class="grid cards" markdown>
 
--   :material-check-bold:{ .lg .middle } __##__ Gigatons saved from [carbon budget](glossary/#carbon-budget)
+- :material-check-bold:{ .lg .middle } **##** Gigatons saved from [carbon budget](glossary/#carbon-budget)
 
 </div>
 
@@ -17,27 +17,26 @@ Description:
 
 _insert description_
 
-
 ## Progress Made
 
- -
- -
- -
+-
+-
+-
 
 ## Lessons Learned
 
- -
- -
- -
+-
+-
+-
 
 ## Biggest Challenges
 
- -
- -
- -
+-
+-
+-
 
 ## Best Path Forward
 
- -
- -
- -
+-
+-
+-
