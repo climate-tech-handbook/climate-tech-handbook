@@ -8,7 +8,7 @@
 
 #### Carbon Budget
 
-??x Gigatons left for 1.5c scenario out of emission --{{get number}}
+The amount of carbon dioxide we can emit before we reach a critical tipping point and cause extensive damage and loss of life. _More exact numbers to come_
 
 #### Carbon Class
 
@@ -28,5 +28,55 @@ Not "positive" as in good. Positive as in rapid acceleration through a feedback 
 
 A collaboration of the best scientific researchers who devised a list of 93 climate solutions. According to founder Paul Hawken, these Drawdown solutions are the most viable and effective means available today to mitigate the impacts of climate change. Project Drawdown is a non-profit organization.  [projectdrawdown.org](https://projectdrawdown.org)
 
----
+#### Albedo
+
+The measure of how much light is reflected off a surface. In the context of climate change, albedo refers to the ability of different surfaces (e.g., ice, land, water) to reflect sunlight back into space. When ice melts, for example, it exposes darker water or land underneath, which absorbs more sunlight and heats up the Earth.
+
+#### Biogenic Carbon
+
+Carbon that comes from living organisms, such as plants, animals, and microorganisms. Biogenic carbon is different from fossil carbon, which is carbon that has been locked away in the ground for millions of years and is released through burning fossil fuels.
+
+#### Carbon Pricing
+
+A policy tool that puts a price on carbon emissions to incentivize companies and individuals to reduce their carbon footprint. Carbon pricing can take many forms, such as a carbon tax or a cap-and-trade system.
+
+#### Climate Equity
+
+The idea that the impacts of climate change are not distributed equally and that those who have contributed the least to climate change are often the most vulnerable to its impacts. Climate equity seeks to ensure that climate policies and actions are fair and just for all.
+
+#### Climate Feedbacks
+
+The complex interactions between different components of the Earth system that can either amplify or dampen the effects of climate change. For example, as the planet warms, permafrost in the Arctic starts to thaw, releasing methane, a potent greenhouse gas, which in turn warms the planet even more.
+
+#### Climate Migration
+
+The movement of people from one place to another due to the impacts of climate change, such as rising sea levels, drought, or extreme weather events. Climate migration is becoming increasingly common as the impacts of climate change worsen.
+
+#### Greenwashing
+
+The practice of making misleading or exaggerated claims about the environmental benefits of a product, service, or company. Greenwashing can make it difficult for consumers to make informed choices about their purchases and can undermine genuine efforts to address climate change.
+
+#### Mitigation Hierarchy
+
+A framework for addressing climate change that prioritizes actions in the following order: avoid, reduce, and offset. The mitigation hierarchy seeks to minimize greenhouse gas emissions by first avoiding them altogether, then reducing them where possible, and finally offsetting any remaining emissions.
+
+#### Ocean Acidification
+
+The process by which the pH of the ocean decreases due to the absorption of carbon dioxide from the atmosphere. Ocean acidification can have serious impacts on marine life, such as making it more difficult for certain species to form shells or skeletons.
+
+#### Permafrost
+
+Ground that remains frozen for at least two consecutive years. Permafrost is found mainly in the Arctic and contains large amounts of carbon in the form of dead plant material that has been frozen for thousands of years. As the planet warms, permafrost is starting to thaw, releasing carbon dioxide and methane into the atmosphere.
+
+#### Regenerative Agriculture
+
+An approach to farming that prioritizes the health of the soil and ecosystem, rather than simply maximizing yields. Regenerative agriculture aims to restore and improve soil health, sequester carbon in the soil, and promote biodiversity.
+
+#### Solar Radiation Management
+
+A set of proposed geoengineering techniques that aim to cool the planet by reflecting more sunlight back into space. Solar radiation management techniques include spraying reflective particles into the upper atmosphere or brightening clouds to make them more reflective.
+
+#### Tipping Point
+
+A critical threshold in the Earth system, beyond which a small change can lead to a large and potentially irreversible change. For example, the melting of the Greenland ice sheet could pass a tipping point where it would continue to melt even if global warming were stopped.
 
