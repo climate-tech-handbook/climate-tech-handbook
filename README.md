@@ -30,9 +30,13 @@ Make sure you have Python and Pip installed by typing `python3 --version` and `p
 
 If you don't have Python or Pip installed, use the [Mac](#mac-users) or [Windows](#windows-users) instructions below.
 
-Run `pip install mkdocs-material`
-
 Open your terminal and navigate to your project directory `cd /climate-tech-handbook`
+
+Set up your environment variable `python3 -m venv env`
+
+Activate your environment variable `source env/bin/activate`
+
+Run `pip install --upgrade mkdocs-material`
 
 Spin up the site by running `mkdocs serve`
 
