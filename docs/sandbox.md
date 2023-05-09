@@ -4,7 +4,25 @@ visibility: hidden
 
 # Sandbox
 
+## Carbon Budget callout test
 
+This callout would go at the top of a Solutions page title.
+
+<div class="grid cards" markdown>
+
+-   :material-check-bold:{ .lg .middle } __##__ Gigatons saved from [carbon budget](glossary/#carbon-budget)
+
+</div>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Newsfeed embed
 
