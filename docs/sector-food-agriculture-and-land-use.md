@@ -8,8 +8,11 @@ icon: material/food-apple
 
 ## Sector Overview
 
-_insert description and emissions pie chart_
+<div class="grid cards" markdown>
 
+-   :material-check-bold:{ .lg .middle } 226.5–312 Gigatons saved from [carbon budget](glossary/#carbon-budget)
+
+</div>
 
 ## Solutions in this Sector
 

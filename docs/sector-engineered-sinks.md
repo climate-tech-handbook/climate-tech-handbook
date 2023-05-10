@@ -6,10 +6,11 @@ icon: material/chart-bubble
 
 # :material-chart-bubble: Engineered Sinks
 
-## Sector Overview
+<div class="grid cards" markdown>
 
-_insert description and emissions pie chart_
+-   :material-check-bold:{ .lg .middle } 1.4–3 Gigatons saved from [carbon budget](glossary/#carbon-budget)
 
+</div>
 
 ## Solutions in this Sector
 

@@ -1,7 +1,8 @@
 # Coastal Wetland Restoration
 
-![Cover Image](https://images.unsplash.com/photo-1680458842508-e30d36b1cba5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxDb2FzdGFsJTIwV2V0bGFuZCUyMFJlc3RvcmF0aW9ufGVufDB8fHx8MTY4MzY1ODI2OA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@aleexcif)
+![NOAA’s Largest Wetland Restoration Project Underway in Louisiana](img/coastal-wetland-restoration.jpg)
+
+_Image of [NOAA’s Largest Wetland Restoration Project Underway in Louisiana](https://www.fisheries.noaa.gov/feature-story/noaas-largest-wetland-restoration-project-underway-louisiana)_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

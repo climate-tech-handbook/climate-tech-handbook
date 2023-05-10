@@ -1,10 +1,11 @@
 # Distributed Energy Storage
 
-![Cover Image](https://images.unsplash.com/photo-1515191107209-c28698631303?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxEaXN0cmlidXRlZCUyMEVuZXJneSUyMFN0b3JhZ2V8ZW58MHx8fHwxNjgzNjU4NDAx&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@mbrunacr)
+![Distributed Energy Storage diagram](img/distributed-energy-storage.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
+
+_Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distributed-energy-resources)_
 
 ## Overview
 

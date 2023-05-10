@@ -1,7 +1,8 @@
 # Bioplastics
 
-![Cover Image](https://images.unsplash.com/photo-1605050630544-54e735b5e2e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxCaW9wbGFzdGljc3xlbnwwfHx8fDE2ODM2NTgwMjQ&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/es/@sashapestano)
+![Packaging peanuts made from bioplastics (thermoplastic starch) ](img/bioplastic-packing-peanuts.jpg)
+
+_Packing peanuts made from bioplastics (thermoplastic starch) ([Wikipedia](https://commons.wikimedia.org/wiki/File:St%C3%A4rke-Packstoff_P%C3%B6mpel_CG.jpg))_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

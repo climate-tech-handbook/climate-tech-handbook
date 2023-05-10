@@ -1,7 +1,6 @@
 # Building Automation Systems
 
-![Cover Image](https://images.unsplash.com/photo-1598518142144-68fdb94156e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMEF1dG9tYXRpb24lMjBTeXN0ZW1zfGVufDB8fHx8MTY4MzY1ODA3MA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/pt-br/@sammoghadamkhamseh)
+![Cover Image](img/building-automation.png)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -70,3 +69,7 @@ News articles that address these lessons include:
 2. "Philips launches energy-saving LED lighting" (http://www.reuters.com/article/2009/05/13/us-philips-led-idUSTRE54C1G320090513)
 3. "Johnson Controls launches energy management system" (http://www.businessgreen.com/bg/news/2286294/johnson-controls-launches-energy-management-system)
 4. "Honeywell launches home automation system" (http://www.gizmag.com/honeywell-launches-evolution-home-automation-system/39952/)
+
+---
+
+Image credit: [homebase.ai](https://homebase.ai/connected-buildings/the-benefits-of-building-automation/)

@@ -1,16 +1,13 @@
 # Hybrid Cars
 
-![Cover Image](https://images.unsplash.com/photo-1570394217969-3cb9e23a4068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxIeWJyaWQlMjBDYXJzfGVufDB8fHx8MTY4MzY1OTEyNg&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@javiestebaan)
+![Cover Image](img/hyrid-car.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
 
 ## Overview
 
-In the past decade, there has been significant progress in the development of hybrid cars to reverse climate change. One of the most breakthrough technologies is the development of hybrid electric vehicles (HEVs), which use both a gasoline engine and an electric motor. HEVs can significantly reduce greenhouse gas emissions by up to 30% compared to conventional gasoline-powered vehicles. Additionally, HEVs are much more efficient in terms of fuel economy and can save drivers hundreds of dollars in fuel costs over the life of the vehicle.
-
-Some of the leading companies and organizations involved in the development of hybrid cars include Toyota, Honda, General Motors, Ford, and Nissan. These companies have been at the forefront of hybrid car development, and have introduced a number of different hybrid models in recent years. Additionally, there are a number of government incentives and programs that have been put in place to encourage the purchase of hybrid cars, which has helped to increase their popularity.
+Hybrid Electric Vehicles (HEVs) can significantly reduce greenhouse gas emissions by up to 30% compared to conventional gasoline-powered vehicles. Additionally, HEVs are much more efficient in terms of fuel economy and can save drivers hundreds of dollars in fuel costs over the life of the vehicle.
 
 ## Progress Made
 
@@ -43,3 +40,7 @@ The best path forward for the continued development and implementation of Hybrid
 4. Promoting the use of hybrid cars - this can be done through marketing and education campaigns
 
 Some companies and organizations that have been at the forefront of this solution include Toyota, Honda, and Nissan. These companies have been investing in research and development of hybrid cars for many years and have been able to bring the cost of these cars down significantly.
+
+---
+
+Photo by <a href="https://unsplash.com/@aussiep?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Park</a> on <a href="https://unsplash.com/photos/RjytgsSjpck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

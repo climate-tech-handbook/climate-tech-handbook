@@ -1,7 +1,7 @@
 # Forest Protection
 
-![Cover Image](https://images.unsplash.com/photo-1521584261872-c3c0963c8443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxGb3Jlc3QlMjBQcm90ZWN0aW9ufGVufDB8fHx8MTY4MzY1ODgzOQ&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/ko/@kylejglenn)
+![Cover Image](img/forest-protection.jpg)
+_Image Credit: [Euractiv](https://www.euractiv.com/section/energy-environment/opinion/seven-steps-to-curb-deforestation-and-enhance-forest-protection-looking-beyond-eu-only-solutions/)_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

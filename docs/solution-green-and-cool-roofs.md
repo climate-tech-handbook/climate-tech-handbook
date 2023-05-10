@@ -1,7 +1,6 @@
 # Green and Cool Roofs
 
-![Cover Image](https://images.unsplash.com/photo-1525351549016-1ddd272c8315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxHcmVlbiUyMGFuZCUyMENvb2wlMjBSb29mc3xlbnwwfHx8fDE2ODM2NTg5NTI&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@chatelp)
+![Cover Image](img/green-roofing.png)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

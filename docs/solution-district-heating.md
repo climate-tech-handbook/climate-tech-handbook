@@ -1,7 +1,6 @@
 # District Heating
 
-![Cover Image](https://images.unsplash.com/photo-1539186607619-df476afe6ff1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxEaXN0cmljdCUyMEhlYXRpbmd8ZW58MHx8fHwxNjgzNjU4NDc0&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/ko/@martinadams)
+![Cover Image](img/district-heating.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -65,3 +64,7 @@ The IEA has published a number of reports on district heating, including "Distri
 The DHCA is a trade association that represents the district heating and cooling industry in the United States. The DHCA is actively involved in promoting the use of district heating and cooling systems and advocating for policies that support their development and implementation.
 
 The CCIA is a coalition of businesses and trade associations that are committed to taking action on climate change. The CCIA works with businesses to identify and implement solutions that will help reduce greenhouse gas emissions. One of the solutions that the CCIA is promoting is district heating.
+
+---
+
+Image credt: [Dan Foss](https://www.danfoss.com/en-us/markets/district-energy/dhs/district-heating/#tab-overview)

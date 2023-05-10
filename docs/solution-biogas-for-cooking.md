@@ -1,7 +1,8 @@
 # Biogas for Cooking
 
-![Cover Image](https://images.unsplash.com/photo-1466637574441-749b8f19452f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxCaW9nYXMlMjBmb3IlMjBDb29raW5nfGVufDB8fHx8MTY4MzY1Nzk1Mg&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@kate5oh3)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ORsAEiT5bdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+_Demo from the [Biogas Handbook](https://turnwasteintoenergy.com/product/biogas-handbook-step-by-step-guide/)_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

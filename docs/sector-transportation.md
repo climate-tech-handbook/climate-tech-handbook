@@ -8,6 +8,12 @@ Tags:
 
 # :material-plane-car: Transportation
 
+<div class="grid cards" markdown>
+
+-   :material-check-bold:{ .lg .middle } __61.7–88.4__ Gigatons saved from [carbon budget](glossary/#carbon-budget)
+
+</div>
+
 ## Solutions in this Sector
 
 * [High-Speed Rail](../solution-high-speed-rail)
@@ -24,9 +30,6 @@ Tags:
 * [Efficient Trucks](../solution-efficient-trucks)
 * [Public Transit](../solution-public-transit)
 
-## Sector Overview
-
-Transportation is what most people think of when solutions to climate change come to mind.
 
 * * *
 

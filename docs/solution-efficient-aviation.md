@@ -1,7 +1,7 @@
 # Efficient Aviation
 
-![Cover Image](https://images.unsplash.com/photo-1534621107955-b06bbc17b043?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxFZmZpY2llbnQlMjBBdmlhdGlvbnxlbnwwfHx8fDE2ODM2NTg1NjM&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@mrcalvert)
+![Cover Image](img/electric-aircraft.jpg)
+_Image Credit: [Financial Times](https://www.ft.com/content/a9dc81d2-725e-11e9-bf5c-6eeb837566c5)_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

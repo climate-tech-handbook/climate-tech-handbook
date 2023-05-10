@@ -1,7 +1,8 @@
 # Conservation Agriculture
 
-![Cover Image](https://images.unsplash.com/photo-1515150144380-bca9f1650ed9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxDb25zZXJ2YXRpb24lMjBBZ3JpY3VsdHVyZXxlbnwwfHx8fDE2ODM2NTgzNjg&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/de/@markusspiske)
+![Cover Image](img/conservation-agriculture.jpg)
+
+_Examples of Conservation Agriculture include: no tillage, crop residue retention as mulch, and crop rotations. Work with your local [Conservation District](https://www.nacdnet.org/) for assistance._
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

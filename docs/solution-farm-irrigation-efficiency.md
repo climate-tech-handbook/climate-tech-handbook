@@ -1,7 +1,7 @@
 # Farm Irrigation Efficiency
 
-![Cover Image](https://images.unsplash.com/photo-1484557985045-edf25e08da73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxGYXJtJTIwSXJyaWdhdGlvbiUyMEVmZmljaWVuY3l8ZW58MHx8fHwxNjgzNjU4ODEz&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@samdc)
+![Cover Image](/img/farm-irrigation-efficiency.png)
+_An Aquaspy tube-style sensor - [farmprogress.com](https://www.farmprogress.com/corn/regional-research-needed-for-irrigation-efficiency)_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

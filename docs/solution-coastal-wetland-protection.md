@@ -1,16 +1,17 @@
 # Coastal Wetland Protection
 
-![Cover Image](https://images.unsplash.com/photo-1497190430210-ef621bd9955b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxDb2FzdGFsJTIwV2V0bGFuZCUyMFByb3RlY3Rpb258ZW58MHx8fHwxNjgzNjU4MjI3&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@heftiba)
+![Cover Image](img/living-shorelines.png)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
+
+!!! tip "[Delaware Living Shorelines Committee](https://www.delawarelivingshorelines.org/) is a great resource"
 
 ## Overview
 
 In recent years, there has been increasing interest in using coastal wetlands to protect against climate change. Wetlands are effective at sequestering carbon, and they can also help to reduce wave energy and flooding. A number of different technologies have been developed to help protect coastal wetlands, including:
 
-- Living shorelines: Living shorelines are designed to mimic natural shoreline systems. They typically use a combination of plants, oyster shells, and other materials to stabilize the shoreline and reduce erosion.
+- [Living shorelines](https://www.delawarelivingshorelines.org/): Living shorelines are designed to mimic natural shoreline systems. They typically use a combination of plants, oyster shells, and other materials to stabilize the shoreline and reduce erosion.
 
 - Green infrastructure: Green infrastructure is a term for using plants and trees to help manage stormwater and reduce flooding. Green infrastructure can be used in conjunction with living shorelines to further protect coastal areas.
 

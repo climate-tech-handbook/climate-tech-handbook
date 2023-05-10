@@ -1,10 +1,11 @@
 # Building Retrofitting
 
-![Cover Image](https://images.unsplash.com/photo-1589328230871-8f2a5bcceb63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMFJldHJvZml0dGluZ3xlbnwwfHx8fDE2ODM2NTgxMDc&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@canon_guy84)
+![Cover Image](img/building-retrofitting.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
+
+_Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-to-retrofit/)_
 
 ## Overview
 

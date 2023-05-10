@@ -1,10 +1,11 @@
 # Clean Cooking
 
-![Cover Image](https://images.unsplash.com/photo-1575467678930-c7acd65d6470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxDbGVhbiUyMENvb2tpbmd8ZW58MHx8fHwxNjgzNjU4MTg5&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@cdc)
+![Cover Image](img/clean-cooking.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
+
+!!! info "the public debate about gas stoves has [received a lot of attention](https://www.npr.org/2023/01/13/1149135773/what-you-need-to-know-about-gas-stoves-and-health-risks) lately"
 
 ## Overview
 
@@ -83,3 +84,7 @@ The best way forward for continued development of clean cooking technology is to
 Some companies and organizations that have been at the forefront of developing clean cooking technology include the Clean Cookstoves Alliance, the Global Alliance for Clean Cookstoves, and the World Health Organization. These organizations have been working to promote the adoption of clean cooking technologies around the world and have made progress in raising awareness of the issue and helping to develop new, more efficient cookstoves.
 
 In order for clean cooking technology to be adopted on a large scale, it is important to continue to raise awareness of the issue and the benefits of using cleaner burning cookstoves and fuels. Additionally, it is important to provide access to these technologies to as many people as possible. This can be done by working with governments and other organizations to provide subsidies or other financial assistance to help people purchase cleaner burning cookstoves and fuels.
+
+---
+
+Photo by <a href="https://unsplash.com/@zendure?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Zendure Power Station</a> on <a href="https://unsplash.com/photos/NKsbdVNdBV8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

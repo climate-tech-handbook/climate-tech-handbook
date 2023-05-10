@@ -1,7 +1,8 @@
 # Composting
 
-![Cover Image](https://images.unsplash.com/photo-1621460248137-1656be874a8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxDb21wb3N0aW5nfGVufDB8fHx8MTY4MzY1ODI5Nw&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/fr/@jupp)
+![Cover Image](img/commercial-composting.jpg)
+
+_Aerating a compost pile at a commercial compost facility_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

@@ -1,7 +1,6 @@
 # High-Performance Glass
 
-![Cover Image](https://images.unsplash.com/photo-1494797262163-102fae527c62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxIaWdoLVBlcmZvcm1hbmNlJTIwR2xhc3N8ZW58MHx8fHwxNjgzNjU5MDYy&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@omgitsyeshi)
+![Cover Image](img/high-performance-glass.png)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

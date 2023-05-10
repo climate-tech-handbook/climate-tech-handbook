@@ -1,7 +1,7 @@
 # Improved Aquaculture
 
-![Cover Image](https://images.unsplash.com/photo-1649347173827-b817bbf0034e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxJbXByb3ZlZCUyMEFxdWFjdWx0dXJlfGVufDB8fHx8MTY4MzY1OTE2Nw&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@cr_eab)
+![Cover Image](img/aquaculture.jpg)
+_Image credit: [foodtank.com](https://foodtank.com/news/2021/07/new-report-shows-sustainability-in-global-aquaculture/)_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -10,11 +10,7 @@ Image Credit: [Unsplash](https://unsplash.com/@cr_eab)
 
 Aquaculture is the farming of fish, shellfish, and other aquatic animals. It is a rapidly growing industry that provides a significant source of food for people around the world. Aquaculture also has the potential to help reverse climate change by reducing greenhouse gas emissions.
 
-Improved aquaculture practices can help reduce greenhouse gas emissions in a number of ways. For example, using more efficient feed formulas can reduce the amount of fishmeal and fish oil needed to produce a given amount of fish. This reduces the pressure on wild fish stocks and reduces the emissions associated with fishmeal and fish oil production.
-
- aquaculture can also help sequester carbon in the ocean. Seaweed, which is a type of algae, is a particularly effective carbon sink. When seaweed grows, it takes in carbon dioxide from the water and converts it into biomass. This process of sequestering carbon can help offset emissions from other activities.
-
-A number of companies and organizations are at the forefront of developing improved aquaculture practices. The World Wildlife Fund (WWF) is working to promote more sustainable aquaculture practices through its Aquaculture Stewardship Council (ASC). The ASC is a certification program that promotes standards for more environmentally friendly aquaculture.
+Over the past two decades, the global aquaculture industry has increased its focus on sustainability, according to a [recent review](https://www.nature.com/articles/s41586-021-03308-6#Sec3) published in Nature. Aquaculture production can help feed the world’s growing population by providing an important source of protein. And as overfishing of oceans continues to increase, the world must find alternate sources of seafood to meet demand.
 
 The Aquaculture Innovation Challenge is a competition sponsored by the WWF and the Gordon and Betty Moore Foundation. The challenge provides funding for innovative projects that improve the sustainability of aquaculture.
 

@@ -2,3 +2,4 @@ INHERIT: mkdocs.yml
 plugins:
   - search
   - typeset
+  - glightbox

@@ -1,7 +1,8 @@
 # Geothermal Power
 
-![Cover Image](https://images.unsplash.com/photo-1466611653911-95081537e5b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxHZW90aGVybWFsJTIwUG93ZXJ8ZW58MHx8fHwxNjgzNjU4ODc3&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@karsten_wuerth)
+![Cover Image](img/geothermal-power.jpg)
+
+_Krafla, a geothermal power station in Iceland_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

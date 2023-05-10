@@ -1,7 +1,6 @@
 # Efficient Trucks
 
-![Cover Image](https://images.unsplash.com/photo-1575997945931-3c57bce69943?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxFZmZpY2llbnQlMjBUcnVja3N8ZW58MHx8fHwxNjgzNjU4NjE4&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@museumsvictoria)
+![Cover Image](img/fuel-efficient-trucks.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -50,3 +49,8 @@ The best path forward for the continued development and implementation of Effici
 4. Establishing standards for the technology to ensure its effectiveness.
 
 Organizations that have been at the forefront of this solution include the Environmental Protection Agency (EPA), the Department of Energy (DOE), and the National Renewable Energy Laboratory (NREL). Progress made in this area includes the development of more fuel-efficient truck engines, the use of alternative fuels such as natural gas, and the use of aerodynamic designs to reduce drag and improve fuel efficiency.
+
+---
+
+Photo by <a href="https://unsplash.com/@daniel_fikri_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Fikri</a> on <a href="https://unsplash.com/photos/4DdUAl4eORE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  

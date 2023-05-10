@@ -1,7 +1,8 @@
 # High-Speed Rail
 
-![Cover Image](https://images.unsplash.com/photo-1660221635866-42b879b1c09b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxIaWdoLVNwZWVkJTIwUmFpbHxlbnwwfHx8fDE2ODM2NTkwOTY&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@peek_a_boo_who)
+![Cover Image](img/high-speed-rail.jpg)
+
+_Image from the California High-Speed Rail Authority_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -14,21 +15,19 @@ There has been significant progress made in developing high-speed rail to revers
 
 High-Speed Rail is a rapidly growing industry with great potential to help reverse climate change. New technologies are being developed all the time to make high-speed rail more efficient and reduce greenhouse gas emissions. Some of these breakthrough technologies include:
 
--High-speed maglev trains: These trains use magnets to levitate off the tracks, reducing friction and making them much more efficient than traditional trains.
+- High-speed maglev trains: These trains use magnets to levitate off the tracks, reducing friction and making them much more efficient than traditional trains.
 
--Hyperloop: A new transportation system that uses a low-pressure tube to send passengers and cargo through a network of tubes at high speeds.
+- Hyperloop: A new transportation system that uses a low-pressure tube to send passengers and cargo through a network of tubes at high speeds.
 
--Energy-efficient locomotives: New locomotives are being developed that are much more energy-efficient than traditional diesel locomotives.
+- Energy-efficient locomotives: New locomotives are being developed that are much more energy-efficient than traditional diesel locomotives.
 
 Some companies and organizations that are at the forefront of developing high-speed rail solutions include:
 
--Hyperloop Transportation Technologies
+- Hyperloop Transportation Technologies
 
--Virgin Hyperloop One
+- Virgin Hyperloop One
 
--The Boring Company
-
-- SpaceX
+- The Boring Company
 
 ## Lessons Learned
 

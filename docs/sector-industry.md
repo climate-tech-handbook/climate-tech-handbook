@@ -8,8 +8,11 @@ icon: material/factory
 
 ## Sector Overview
 
-_insert description and emissions pie chart_
+<div class="grid cards" markdown>
 
+-   :material-check-bold:{ .lg .middle } 143.4–166 Gigatons saved from [carbon budget](glossary/#carbon-budget)
+
+</div>
 
 ## Solutions in this Sector
 

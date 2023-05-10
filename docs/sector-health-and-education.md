@@ -6,18 +6,15 @@ icon: material/heart-plus
 
 # :material-heart-plus: Health and Education
 
-## Sector Overview
+<div class="grid cards" markdown>
 
-_insert description and emissions pie chart_
+-   :material-check-bold:{ .lg .middle } 68.9 Gigatons saved from [carbon budget](glossary/#carbon-budget)
 
+</div>
 
 ## Solutions in this Sector
 
 - [Family Planning and Education](../solution-family-planning-and-education)
-
- -
- -
- -
 
 ---
 

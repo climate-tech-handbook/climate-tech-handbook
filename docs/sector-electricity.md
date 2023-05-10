@@ -6,9 +6,11 @@ icon: material/lightning-bolt
 
 # :material-lightning-bolt:  Electricity
 
-## Sector Overview
+<div class="grid cards" markdown>
 
-_insert description and emissions pie chart_
+-   :material-check-bold:{ .lg .middle } 196.8–420.6 Gigatons saved from [carbon budget](glossary/#carbon-budget)
+
+</div>
 
 
 ## Solutions in this Sector

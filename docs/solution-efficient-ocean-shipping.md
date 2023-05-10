@@ -1,7 +1,7 @@
 # Efficient Ocean Shipping
 
-![Cover Image](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxFZmZpY2llbnQlMjBPY2VhbiUyMFNoaXBwaW5nfGVufDB8fHx8MTY4MzY1ODU5Mg&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/pt-br/@oulashin)
+![Cover Image](img/efficient-ocean-shipping.png)
+_Image Credit: [Marine Insight](https://www.marineinsight.com/maritime-law/energy-efficiency-design-index/)_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

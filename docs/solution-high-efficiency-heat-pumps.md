@@ -1,7 +1,6 @@
 # High-Efficiency Heat Pumps
 
-![Cover Image](https://images.unsplash.com/photo-1539186607619-df476afe6ff1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxIaWdoLUVmZmljaWVuY3klMjBIZWF0JTIwUHVtcHN8ZW58MHx8fHwxNjgzNjU5MDI2&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/ko/@martinadams)
+![Cover Image](img/high-efficiency-heat-pumps.png)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

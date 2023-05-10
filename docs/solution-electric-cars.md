@@ -1,7 +1,6 @@
 # Electric Cars
 
-![Cover Image](https://images.unsplash.com/photo-1615829386703-e2bb66a7cb7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxFbGVjdHJpYyUyMENhcnN8ZW58MHx8fHwxNjgzNjU4NzAy&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@preciousm)
+![Cover Image](img/electric-car.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -51,3 +50,7 @@ Some of the companies and organizations that have been at the forefront of the d
 The best path forward for the continued development and implementation of electric cars to effectively mitigate the effects of climate change is to continue to invest in research and development to improve the technology and make it more affordable. Governments and private companies need to continue to provide incentives for people to buy electric cars and install charging infrastructure. Lastly, education and awareness campaigns need to be created to increase public support for electric cars.
 
 Some companies and organizations that have been at the forefront of this solution are Tesla, Nissan, and the Environment Defense Fund. Tesla has been working to develop and improve electric car technology for many years. Nissan has been a leader in mass-producing and marketing electric cars. The Environment Defense Fund has been working to increase public awareness of the benefits of electric cars and to promote their adoption.
+
+---
+
+Photo by <a href="https://unsplash.com/@chuttersnap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CHUTTERSNAP</a> on <a href="https://unsplash.com/photos/xfaYAsMV1p8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

@@ -1,7 +1,6 @@
 # Dynamic Glass
 
-![Cover Image](https://images.unsplash.com/photo-1646654858478-1353b164555b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxEeW5hbWljJTIwR2xhc3N8ZW58MHx8fHwxNjgzNjU4NTE1&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@chrislinnett)
+![Cover Image](img/dynamic-glass.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -69,3 +68,7 @@ Organizations and companies that have been at the forefront of developing and im
 7. Saint-Gobain (http://www.saint-gobain.com/)
 
 8. Pilkington (http://www.pilkington.com/)
+
+---
+
+Image credit: [Sunintuitive Glass](https://suntuitiveglass.com/what-is-dynamic-glass/)

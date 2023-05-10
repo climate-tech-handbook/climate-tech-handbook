@@ -1,7 +1,7 @@
 # Grid Flexibility
 
-![Cover Image](https://images.unsplash.com/photo-1516208398649-d5d401ba8c49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxHcmlkJTIwRmxleGliaWxpdHl8ZW58MHx8fHwxNjgzNjU4OTg0&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/it/@gmb)
+![Cover Image](img/grid-flexibility.jpg)
+_Image from the [Alliance for an Energy Efficient Economy](https://aeee.in/why-indian-grid-operators-need-to-acknowledge-demand-flexibility-for-optimal-grid-operation/) in India_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
