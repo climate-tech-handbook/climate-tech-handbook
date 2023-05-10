@@ -24,13 +24,14 @@ This callout would go at the top of a Solutions page title.
 <br>
 <br>
 
+GitHub test
+
+
 ## Newsfeed embed
 
  <!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Loading" data-fw-param="160567/"></script> <!-- end feedwind code --> 
 
 ## Content snippetss
-
-Thousands of organizations working on this solution are listed on [Climatebase](https://climatebase.org/organizations)
 
 !!! Warning "Heavy work in progress"
 
