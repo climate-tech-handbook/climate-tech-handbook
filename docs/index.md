@@ -5,6 +5,8 @@ hide:
 
 # Welcome
 
+Stackedit test
+
 This is the Climate Tech Handbook
 
 Your [community](/contribute) source of [truth](../contribute/#quality-journalism) for climate tech [solutions](solutions).
@@ -17,5 +19,5 @@ Your [community](/contribute) source of [truth](../contribute/#quality-journalis
 
 <!-- !!! example "Become a member" [heart donate] -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzI1MjM1MV19
+eyJoaXN0b3J5IjpbMjEzNDM2NzU3OV19
 -->
