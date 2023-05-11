@@ -10,7 +10,7 @@ icon: material/food-apple
 
 <div class="grid cards" markdown>
 
--   :material-check-bold:{ .lg .middle } 226.5–312 Gigatons saved from [carbon budget](glossary/#carbon-budget)
+-   :material-check-bold:{ .lg .middle } 226.5–312 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
 
 </div>
 

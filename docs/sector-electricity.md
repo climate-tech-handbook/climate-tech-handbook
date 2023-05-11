@@ -8,7 +8,7 @@ icon: material/lightning-bolt
 
 <div class="grid cards" markdown>
 
--   :material-check-bold:{ .lg .middle } 196.8–420.6 Gigatons saved from [carbon budget](glossary/#carbon-budget)
+-   :material-check-bold:{ .lg .middle } 196.8–420.6 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
 
 </div>
 

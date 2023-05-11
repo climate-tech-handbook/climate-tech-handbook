@@ -8,7 +8,7 @@ icon: material/heart-plus
 
 <div class="grid cards" markdown>
 
--   :material-check-bold:{ .lg .middle } 68.9 Gigatons saved from [carbon budget](glossary/#carbon-budget)
+-   :material-check-bold:{ .lg .middle } 68.9 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
 
 </div>
 

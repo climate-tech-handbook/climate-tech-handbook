@@ -10,7 +10,7 @@ Tags:
 
 <div class="grid cards" markdown>
 
--   :material-check-bold:{ .lg .middle } __61.7–88.4__ Gigatons saved from [carbon budget](glossary/#carbon-budget)
+-   :material-check-bold:{ .lg .middle } __61.7–88.4__ Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
 
 </div>
 

@@ -8,7 +8,7 @@ icon: material/chart-bubble
 
 <div class="grid cards" markdown>
 
--   :material-check-bold:{ .lg .middle } 1.4–3 Gigatons saved from [carbon budget](glossary/#carbon-budget)
+-   :material-check-bold:{ .lg .middle } 1.4–3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
 
 </div>
 
