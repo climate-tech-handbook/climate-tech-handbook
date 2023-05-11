@@ -9,43 +9,38 @@ tags:
 
 # Solutions Overview
 
-![organic-farming](../img/organic-farming.jpg) 
+![organic-farming](../img/organic-farming_resize.jpg) 
 
-!!! Tip "Our Immediate Goal"
-	Track the progress of all 93 solutions with **lessons learned**, **biggest challenges**, and **best path forward**.
+## Pick a Sector
 
----
-## Sectors
+[:material-lightning-bolt: Electricity](../sector-electricity){ .md-button .md-button--primary }
 
-:material-lightning-bolt: [Electricity](../sector-electricity)
+[:material-food-apple: Food, Agriculture, and Land Use](../
+sector-food-agriculture-and-land-use){ .md-button .md-button--primary }
 
-:material-food-apple: [Food, Agriculture, and Land Use](../
-sector-food-agriculture-and-land-use)
+[:material-factory: Industry](../sector-industry){ .md-button .md-button--primary }
 
-:material-factory: [Industry](../sector-industry)
+[:material-plane-car: Transportation](../sector-transportation){ .md-button .md-button--primary }
 
-:material-plane-car: [Transportation](../sector-transportation)
+[:fontawesome-solid-city: Buildings](../sector-buildings){ .md-button .md-button--primary }
 
-:fontawesome-solid-city: [Buildings](../sector-buildings)
+[:material-grass: Land Sinks](../sector-land-sinks){ .md-button .md-button--primary }
 
-:material-grass: [Land Sinks](../sector-land-sinks)
+[:fontawesome-solid-water: Coastal and Ocean Sinks](../sector-coastal-and-ocean-sinks){ .md-button .md-button--primary }
 
-:fontawesome-solid-water: [Coastal and Ocean Sinks](../sector-coastal-and-ocean-sinks)
+[:material-chart-bubble: Engineered Sinks](../sector-engineered-sinks){ .md-button .md-button--primary }
 
-:material-chart-bubble: [Engineered Sinks](../sector-engineered-sinks)
+[:material-heart-plus: Health and Education](../sector-health-and-education){ .md-button .md-button--primary }
 
-:material-heart-plus: [Health and Education](../sector-health-and-education)
+[:material-thermometer-chevron-up: Climate Adaptation](../sector-climate-adaptation){ .md-button .md-button--primary }
 
-:material-thermometer-chevron-up: [Climate Adaptation](../sector-climate-adaptation)
+[:fontawesome-solid-user-graduate: Research and Education](../sector-research-and-education){ .md-button .md-button--primary }
 
-:fontawesome-solid-user-graduate: [Research and Education](../sector-research-and-education)
+[:fontawesome-solid-pencil: Media and Journalism](../sector-media-and-journalism){ .md-button .md-button--primary }
 
-:fontawesome-solid-pencil: [Media and Journalism](../sector-media-and-journalism)
+[:fontawesome-solid-hand: Advocacy or Policy](../sector-advocacy-or-policy){ .md-button .md-button--primary }
 
-:fontawesome-solid-hand: [Advocacy or Policy](../sector-advocacy-or-policy)
-
-:material-shape-outline: [Other](../sector-other)
-
+[:material-shape-outline: Other](../sector-other){ .md-button .md-button--primary }
 
 
 <!--

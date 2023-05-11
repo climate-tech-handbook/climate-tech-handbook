@@ -14,6 +14,10 @@ The amount of carbon dioxide we can emit before we reach a critical tipping poin
 
 Carbon accounting - Class 1, Class 2, Class 3 - based on operations vs supply chain etc.
 
+#### Deep Tech
+
+Technologies that are based on hard science and more complex than software as a service. Not necessarily digital.
+
 #### Force Multiplier
 
 #### Positive Feedback Loop
