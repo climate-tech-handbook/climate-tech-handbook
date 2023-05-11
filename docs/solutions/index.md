@@ -4,7 +4,6 @@ description:
 hide:
   - navigation
 icon:
-tags: 
 ---
 
 # Solutions Overview

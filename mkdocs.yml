@@ -29,10 +29,9 @@ extra_css:
 
 ## NOTE: plugins need to be passed over to mkdocs.insiders.yml due to paid Insiders version of Material for MKDocs
 
-# plugins:
-#  - typeset
-#  - search
-#  - tags
+plugins:
+  - tags
+  - social
 
 markdown_extensions:
   # Python Markdown
