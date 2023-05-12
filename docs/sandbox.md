@@ -1,8 +1,11 @@
 ---
 visibility: hidden
+published: true
 ---
 
 # Sandbox
+
+Test editing from prose.io
 
 ## Carbon Budget callout test
 
