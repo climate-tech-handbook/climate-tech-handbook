@@ -3,5 +3,6 @@ plugins:
   - typeset
   - tags
   - search
+  - optimize
 
 # - glightbox
