@@ -1,7 +1,8 @@
 # Improved Manure Management
 
-![Cover Image](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxJbXByb3ZlZCUyME1hbnVyZSUyME1hbmFnZW1lbnR8ZW58MHx8fHwxNjgzNjU5Mjcy&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@homajob)
+![Cover Image](img/manure-management.jpg)
+
+_Learn about manure management from the [University of Minnesota Extension](https://extension.umn.edu/livestock-operations/manure-management)_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

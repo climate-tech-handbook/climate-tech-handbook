@@ -1,14 +1,19 @@
 # Improved Fisheries
 
-![Cover Image](https://images.unsplash.com/photo-1561470329-5111538c8efb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxJbXByb3ZlZCUyMEZpc2hlcmllc3xlbnwwfHx8fDE2ODM2NTkyMzc&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@noaa)
+![Cover Image](img/improved-fisheries.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
 
 ## Overview
 
-Progress has been made in developing Improved Fisheries to reverse climate change through the development of new technologies that allow for more efficient fishing practices. These technologies include GPS-based systems that allow for more precise targeting of fish stocks, as well as sonar-based systems that can identify fish schools. These technologies have contributed to the reduction of greenhouse gas emissions by reducing the amount of fuel used by fishing vessels, as well as by reducing the amount of fish that are caught and subsequently discarded. Companies and organizations that have been at the forefront of this solution include the World Wildlife Fund, the Environmental Defense Fund, and the Pew Charitable Trusts.
+Overfishing poses a critical threat to marine ecosystems and exacerbates the climate crisis.
+
+- The depletion of fish stocks disrupts the delicate balance of oceanic ecosystems.
+
+- Overfishing disrupts the natural carbon cycle by impairing the ocean's ability to sequester carbon dioxide effectively. 
+
+- This creates a [positive feedback loop](../glossary#positive-feedback-loop) that accelerates global warming.
 
 ## Progress Made
 

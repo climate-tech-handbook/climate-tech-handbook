@@ -31,8 +31,8 @@ extra_css:
 
 plugins:
   - tags
-  - social
   - search
+  - social
 
 markdown_extensions:
   # Python Markdown

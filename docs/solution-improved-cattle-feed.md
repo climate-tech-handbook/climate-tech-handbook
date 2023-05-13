@@ -1,7 +1,8 @@
 # Improved Cattle Feed
 
-![Cover Image](https://images.unsplash.com/photo-1590479017723-ff6ab7dda838?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxJbXByb3ZlZCUyMENhdHRsZSUyMEZlZWR8ZW58MHx8fHwxNjgzNjU5MjA4&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@ellerysterling)
+![Cover Image](img/improved-cattle-feed.png)
+
+_Frank Mitloehner, UC Davis professor and air quality specialist, is researching feed alternatives, such as seaweed, that reduce methane from cow burps._ ([UC Davis](https://www.ucdavis.edu/food/news/making-cattle-more-sustainable))
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -13,8 +14,6 @@ Some progress has been made in developing Improved Cattle Feed to reverse climat
 - Anaerobic digestion: This technology breaks down organic matter in the absence of oxygen, producing methane gas that can be used as a renewable energy source. This reduces the need for fossil fuels, and the methane gas produced can also be used to power vehicles or generate electricity.
 
 - Synthetic biology: This technology is being used to develop new strains of bacteria that can convert plant waste into biofuel. This reduces the need for cattle feed that is made from corn or soybeans, which are grown using fossil fuels.
-
-- Carbon sequestration: This technology captures carbon dioxide from the atmosphere and stores it in the ground. This reduces the amount of greenhouse gas emissions that are released into the atmosphere.
 
 Some companies and organizations that have been at the forefront of developing these technologies include:
 

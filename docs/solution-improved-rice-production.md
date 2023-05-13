@@ -1,7 +1,8 @@
 # Improved Rice Production
 
-![Cover Image](https://images.unsplash.com/photo-1564834744159-ff0ea41ba4b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxJbXByb3ZlZCUyMFJpY2UlMjBQcm9kdWN0aW9ufGVufDB8fHx8MTY4MzY1OTMyMw&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/es/@milkbox)
+![Cover Image](img/improved-rice-production.jpg)
+
+_Rice production in Eastern Uruguay_ 
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -67,3 +68,7 @@ There are a number of challenges that remain in the development and implementati
 The best path forward for the continued development and implementation of Improved Rice Production to effectively mitigate the effects of climate change is to continue to invest in research and development to improve the technology and make it more affordable. In addition, it is important to continue to educate farmers about the benefits of using Improved Rice Production and to provide incentives for them to adopt the technology. Some companies and organizations that have been at the forefront of this solution include the International Rice Research Institute (IRRI), the Bill and Melinda Gates Foundation, and the Chinese Academy of Agricultural Sciences (CAAS).
 
 IRRI has been working on developing Improved Rice Production technology for over 50 years and has made significant progress in improving yield and reducing water use. The Gates Foundation has also been a major supporter of IRRI's work, providing $20 million in funding to help scale up production of water-efficient rice varieties. CAAS has also been working on developing improved rice production technology and has released a number of new varieties that are more tolerant to drought and floods.
+
+---
+
+_Image credit: © 2012CIAT/NeilPalmer via [Flickr](https://www.flickr.com/photos/ciat/6809968788)_

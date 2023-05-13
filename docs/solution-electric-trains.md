@@ -1,7 +1,8 @@
 # Electric Trains
 
-![Cover Image](https://images.unsplash.com/photo-1615652437548-dea5540d223f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxFbGVjdHJpYyUyMFRyYWluc3xlbnwwfHx8fDE2ODM2NTg3NDY&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@orangemilk)
+![Cover Image](img/electric-train.jpg)
+
+_Siemens battery-electric train ([Green Car Reports](https://www.greencarreports.com/news/1127629_battery-powered-electric-trains-will-soon-bring-cleaner-air-especially-in-europe))_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
