@@ -1,7 +1,8 @@
 # Offshore Wind Turbines
 
-![Cover Image](https://images.unsplash.com/photo-1517485738530-6aa3377ed3dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxPZmZzaG9yZSUyMFdpbmQlMjBUdXJiaW5lc3xlbnwwfHx8fDE2ODM3NTI3MjJ8MA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@mikejerskine)
+![Cover Image](img/offshore-wind-turbines.jpg)
+
+_Image comparing offshore wind turbine foundations, [windpowerengineering.org](https://www.windpowerengineering.com/comparing-offshore-wind-turbine-foundations/)_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
