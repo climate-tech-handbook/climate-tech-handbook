@@ -13,7 +13,7 @@ tags:
 
 **Coming up!**
 
-## **Seattle, WA - June 9, 2023 @ 10am**
+## **Seattle, WA - Sat June 9, 2023 @ 10am**
 
 ![Coffee photo from Bellingham crawl](/img/belligham-climate-tech-coffee-crawl.jpg)
 _Photo from the recent crawl in Bellingham, WA_
