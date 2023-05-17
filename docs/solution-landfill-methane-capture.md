@@ -1,7 +1,8 @@
 # Landfill Methane Capture
 
-![Cover Image](https://images.unsplash.com/photo-1493733691000-194fcbebfd8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxMYW5kZmlsbCUyME1ldGhhbmUlMjBDYXB0dXJlfGVufDB8fHx8MTY4MzY1OTQzMw&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@jamesbold)
+![Cover Image](/img/landfill-methane-capture.gif)
+
+_Methane capture process ([EPA](https://archive.epa.gov/climatechange/kids/solutions/technologies/methane.html))_
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
