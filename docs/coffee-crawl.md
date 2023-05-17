@@ -9,11 +9,13 @@ tags:
   -
 ---
 
-# Climate Tech Coffee Crawl
+# Climate Tech Coffee Crawl - June 2023
 
-**Coming up!**
+**Date announcement coming up.**
 
-## **Seattle, WA - Sat June 9, 2023 @ 10am**
+[Register](#register) early, and get on the list
+
+## **Seattle, WA**
 
 ![Coffee photo from Bellingham crawl](/img/belligham-climate-tech-coffee-crawl.jpg)
 _Photo from the recent crawl in Bellingham, WA_
@@ -50,6 +52,10 @@ _[Map here](https://www.google.com/maps/dir/Ada's+Technical+Books+and+Cafe,+425+
 
 
 ## Register
+
+Date will be announced soon.
+
+Will be a Saturday or Sunday in June, likely 2nd half.
 
 <form name="coffee-crawl" method="POST" netlify-honeypot="bot-field" data-netlify="true">
   <div hidden aria-hidden="true">

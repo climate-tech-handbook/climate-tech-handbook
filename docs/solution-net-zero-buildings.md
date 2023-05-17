@@ -1,7 +1,6 @@
 # Net Zero Buildings
 
-![Cover Image](https://images.unsplash.com/photo-1467892748361-67bb7c20d06e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxOZXQlMjBaZXJvJTIwQnVpbGRpbmdzfGVufDB8fHx8MTY4Mzc1MjYyNHww&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@danielcgold)
+![Cover Image](img/net-zero-buildings.jpg)
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -91,3 +90,7 @@ The best path forward for the continued development and implementation of Net Ze
 4. Working with the building industry to promote the adoption of net zero building standards.
 
 Some companies and organizations that have been at the forefront of this solution include the International Living Future Institute, the U.S. Department of Energy, and the New Buildings Institute.
+
+---
+
+Image from "Tips for Constructing Net-Zero Energy Buildings" on [constructionjobs.com](https://constructionjobs.com/jobs/content/Tips-for-Constructing-Net-Zero-Energy-Buildings-2020-12-16)
