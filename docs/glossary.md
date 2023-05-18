@@ -72,6 +72,10 @@ The process by which the pH of the ocean decreases due to the absorption of carb
 
 Ground that remains frozen for at least two consecutive years. Permafrost is found mainly in the Arctic and contains large amounts of carbon in the form of dead plant material that has been frozen for thousands of years. As the planet warms, permafrost is starting to thaw, releasing carbon dioxide and methane into the atmosphere.
 
+#### Power Purchase Agreement (PPA)
+
+Also called an electricity power agreement, is a long-term contract between an electricity generator and a customer, usually a utility, government or company.[1][2] PPAs may last anywhere between 5 and 20 years, during which time the power purchaser buys energy at a pre-negotiated price. Such agreements play a key role in the financing of independently owned (i.e. not owned by a utility) electricity generators, especially producers of renewable energy like solar farms or wind farms. 
+
 #### Regenerative Agriculture
 
 An approach to farming that prioritizes the health of the soil and ecosystem, rather than simply maximizing yields. Regenerative agriculture aims to restore and improve soil health, sequester carbon in the soil, and promote biodiversity.
