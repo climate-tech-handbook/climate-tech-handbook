@@ -32,7 +32,7 @@ extra_css:
 plugins:
   - tags
   - search
-  - social
+  # - social
 markdown_extensions:
   # Python Markdown
   - abbr
@@ -75,20 +75,20 @@ nav:
   - "Home": index.md
   - "Solutions":
       - solutions/index.md
-      - Electricity: sector-electricity.md
-      - Food, Agriculture, and Land Use: sector-food-agriculture-and-land-use.md
-      - Industry: sector-industry.md
-      - Transportation: sector-transportation.md
-      - Buildings: sector-buildings.md
-      - Land Sinks: sector-land-sinks.md
-      - Coastal and Ocean Sinks: sector-coastal-and-ocean-sinks.md
-      - Engineered Sinks: sector-engineered-sinks.md
-      - Health and Education: sector-health-and-education.md
-      - Climate Adaptation: sector-climate-adaptation.md
-      - Research and Education: sector-research-and-education.md
-      - Media and Journalism: sector-media-and-journalism.md
-      - Advocacy or Policy: sector-advocacy-or-policy.md
-      - Other: sector-other.md
+      - Electricity: sectors/sector-electricity.md
+      - Food, Agriculture, and Land Use: sectors/sector-food-agriculture-and-land-use.md
+      - Industry: sectors/sector-industry.md
+      - Transportation: sectors/sector-transportation.md
+      - Buildings: sectors/sector-buildings.md
+      - Land Sinks: sectors/sector-land-sinks.md
+      - Coastal and Ocean Sinks: sectors/sector-coastal-and-ocean-sinks.md
+      - Engineered Sinks: sectors/sector-engineered-sinks.md
+      - Health and Education: sectors/sector-health-and-education.md
+      - Climate Adaptation: sectors/sector-climate-adaptation.md
+      - Research and Education: sectors/sector-research-and-education.md
+      - Media and Journalism: sectors/sector-media-and-journalism.md
+      - Advocacy or Policy: sectors/sector-advocacy-or-policy.md
+      - Other: sectors/sector-other.md
 
   - "Resources":
       - resources/index.md
