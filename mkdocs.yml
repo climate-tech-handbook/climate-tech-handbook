@@ -26,12 +26,17 @@ repo_url: https://github.com/climate-tech-handbook/climate-tech-handbook
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/button.css
+
+extra_javascript:
+  - js/button.js
 
 ## NOTE: plugins need to be passed over to mkdocs.insiders.yml due to paid Insiders version of Material for MKDocs
 
 plugins:
   - tags
   - search
+  - include-markdown
   # - social
 markdown_extensions:
   # Python Markdown
@@ -73,22 +78,23 @@ markdown_extensions:
 
 nav:
   - "Home": index.md
+
   - "Solutions":
       - solutions/index.md
-      - Electricity: sectors/sector-electricity.md
-      - Food, Agriculture, and Land Use: sectors/sector-food-agriculture-and-land-use.md
-      - Industry: sectors/sector-industry.md
-      - Transportation: sectors/sector-transportation.md
-      - Buildings: sectors/sector-buildings.md
-      - Land Sinks: sectors/sector-land-sinks.md
-      - Coastal and Ocean Sinks: sectors/sector-coastal-and-ocean-sinks.md
-      - Engineered Sinks: sectors/sector-engineered-sinks.md
-      - Health and Education: sectors/sector-health-and-education.md
-      - Climate Adaptation: sectors/sector-climate-adaptation.md
-      - Research and Education: sectors/sector-research-and-education.md
-      - Media and Journalism: sectors/sector-media-and-journalism.md
-      - Advocacy or Policy: sectors/sector-advocacy-or-policy.md
-      - Other: sectors/sector-other.md
+      - Electricity: /solutions/sectors/sector-electricity.md
+      - Food, Agriculture, and Land Use: /solutions/sectors/sector-food-agriculture-and-land-use.md
+      - Industry: solutions/sectors/sector-industry.md
+      - Transportation: solutions/sectors/sector-transportation.md
+      - Buildings: solutions/sectors/sector-buildings.md
+      - Land Sinks: solutions/sectors/sector-land-sinks.md
+      - Coastal and Ocean Sinks: solutions/sectors/sector-coastal-and-ocean-sinks.md
+      - Engineered Sinks: solutions/sectors/sector-engineered-sinks.md
+      - Health and Education: solutions/sectors/sector-health-and-education.md
+      - Climate Adaptation: solutions/sectors/sector-climate-adaptation.md
+      - Research and Education: solutions/sectors/sector-research-and-education.md
+      - Media and Journalism: solutions/sectors/sector-media-and-journalism.md
+      - Advocacy or Policy: solutions/sectors/sector-advocacy-or-policy.md
+      - Other: solutions/sectors/sector-other.md
 
   - "Resources":
       - resources/index.md
@@ -100,3 +106,6 @@ nav:
       - About the Handbook: about/index.md
       #     - Frequently Asked Questions: faq.md
       - Contribute: contribute.md
+
+  - "Cheat Sheet":
+      - cheatsheet.md

@@ -12,28 +12,28 @@ icon:
 
 ## Pick a Sector
 
-[:material-lightning-bolt: Electricity](../sector-electricity){ .md-button .md-button--primary }
+[:material-lightning-bolt: Electricity](sectors/sector-electricity){ .md-button .md-button--primary }
 
-[:material-food-apple: Food, Agriculture, and Land Use](../
+[:material-food-apple: Food, Agriculture, and Land Use](sectors/
 sector-food-agriculture-and-land-use){ .md-button .md-button--primary }
 
-[:material-factory: Industry](../sector-industry){ .md-button .md-button--primary }
+[:material-factory: Industry](sectors/sector-industry){ .md-button .md-button--primary }
 
-[:material-plane-car: Transportation](../sector-transportation){ .md-button .md-button--primary }
+[:material-plane-car: Transportation](sectors/sector-transportation){ .md-button .md-button--primary }
 
-[:fontawesome-solid-city: Buildings](../sector-buildings){ .md-button .md-button--primary }
+[:fontawesome-solid-city: Buildings](sectors/sector-buildings){ .md-button .md-button--primary }
 
-[:material-grass: Land Sinks](../sector-land-sinks){ .md-button .md-button--primary }
+[:material-grass: Land Sinks](sectors/sector-land-sinks){ .md-button .md-button--primary }
 
-[:fontawesome-solid-water: Coastal and Ocean Sinks](../sector-coastal-and-ocean-sinks){ .md-button .md-button--primary }
+[:fontawesome-solid-water: Coastal and Ocean Sinks](sectors/sector-coastal-and-ocean-sinks){ .md-button .md-button--primary }
 
-[:material-chart-bubble: Engineered Sinks](../sector-engineered-sinks){ .md-button .md-button--primary }
+[:material-chart-bubble: Engineered Sinks](sectors/sector-engineered-sinks){ .md-button .md-button--primary }
 
-[:material-heart-plus: Health and Education](../sector-health-and-education){ .md-button .md-button--primary }
+[:material-heart-plus: Health and Education](sectors/sector-health-and-education){ .md-button .md-button--primary }
 
-[:material-thermometer-chevron-up: Climate Adaptation](../sector-climate-adaptation){ .md-button .md-button--primary }
+[:material-thermometer-chevron-up: Climate Adaptation](sectors/sector-climate-adaptation){ .md-button .md-button--primary }
 
-[:fontawesome-solid-user-graduate: Research and Education](../sector-research-and-education){ .md-button .md-button--primary }
+[:fontawesome-solid-user-graduate: Research and Education](sectors/sector-research-and-education){ .md-button .md-button--primary }
 
 [:fontawesome-solid-pencil: Media and Journalism](../sector-media-and-journalism){ .md-button .md-button--primary }
 

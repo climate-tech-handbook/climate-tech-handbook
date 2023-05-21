@@ -12,10 +12,3 @@ Your [community](/contribute) source of [truth](../contribute/#quality-journalis
 !!! tip "Explore [Solutions](solutions)"
 
 !!! example "Browse the [Resource Library](resources)"
-
-<!-- !!! example "Our top priorities" -->
-
-<!-- !!! example "Become a member" [heart donate] -->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzI1MjM1MSwyMTM0MzY3NTc5XX0=
--->

@@ -23,3 +23,15 @@
 -->
 
 {% extends "base.html" %}
+
+{% block extrahead %}
+{{ super() }}
+<!-- Your custom CSS -->
+<link rel="stylesheet" href="docs/stylesheets/button.css">
+{% endblock %}
+
+{% block extrascripts %}
+{{ super() }}
+<!-- Your custom JavaScript -->
+<script src="docs/js/buttons.js"></script>
+{% endblock %}

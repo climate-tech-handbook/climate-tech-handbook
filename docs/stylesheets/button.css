@@ -1,0 +1,11 @@
+.my-button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  .my-button.clicked {
+    background-color: green;
+  }
+  
