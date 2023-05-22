@@ -32,3 +32,11 @@ body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+#carbon-countdown {
+  width: 90vw;
+  background-color: white;
+  padding-top: 1rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}

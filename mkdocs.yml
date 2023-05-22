@@ -26,10 +26,10 @@ repo_url: https://github.com/climate-tech-handbook/climate-tech-handbook
 
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/button.css
+  - stylesheets/custom.css
 
 extra_javascript:
-  - js/button.js
+  - js/custom.js
 
 ## NOTE: plugins need to be passed over to mkdocs.insiders.yml due to paid Insiders version of Material for MKDocs
 

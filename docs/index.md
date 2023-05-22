@@ -2,20 +2,17 @@
 hide:
   - navigation
 ---
-
 # Welcome
 
-We're on a mission to build the most accessible and accurate climate tech resource on the planet.
+!!! abstract "Our Mission"
+    We're on a mission to build the most accessible and accurate climate tech resource on the planet.
 
 [👉 JOIN THE MOVEMENT](../solutions){ .md-button .md-button--primary }
-
 ---
 
-<iframe src='https://interactive.guim.co.uk/embed/aus/2017/carbon-embed' frameborder='0' scrolling='no' width='100%' height='500px'></iframe>
+<!-- <div id="carbon-countdown">
+<iframe src='https://interactive.guim.co.uk/embed/aus/2017/carbon-embed' frameborder='0' scrolling='yes' width='100%' height='500px' style="background: transparent"></iframe>
+</div> -->
 
-<!-- !!! example "Our top priorities" -->
-
-<!-- !!! example "Become a member" [heart donate] -->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzI1MjM1MSwyMTM0MzY3NTc5XX0=
--->
+<script src="https://climateclock.world/widget-v2.js" async></script>
+<climate-clock />

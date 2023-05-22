@@ -44,11 +44,11 @@ sector-food-agriculture-and-land-use){ .md-button .md-button--primary }
 
 [:fontawesome-solid-user-graduate: Research and Education](sectors/sector-research-and-education){ .md-button .md-button--primary }
 
-[:fontawesome-solid-pencil: Media and Journalism](../sector-media-and-journalism){ .md-button .md-button--primary }
+[:fontawesome-solid-pencil: Media and Journalism](sectors/sector-media-and-journalism){ .md-button .md-button--primary }
 
-[:fontawesome-solid-hand: Advocacy or Policy](../sector-advocacy-or-policy){ .md-button .md-button--primary }
+[:fontawesome-solid-hand: Advocacy or Policy](sectors/sector-advocacy-or-policy){ .md-button .md-button--primary }
 
-[:material-shape-outline: Other](../sector-other){ .md-button .md-button--primary }
+[:material-shape-outline: Other](sectors/sector-other){ .md-button .md-button--primary }
 
 
 <!--
