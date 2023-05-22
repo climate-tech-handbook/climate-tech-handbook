@@ -107,5 +107,11 @@ nav:
       #     - Frequently Asked Questions: faq.md
       - Contribute: contribute.md
 
+<<<<<<< HEAD
   - "Cheat Sheet":
       - cheatsheet.md
+=======
+  # Waiting to launch blog until we sort our insider account issues
+  # - Blog:
+  #     - blog/index.md
+>>>>>>> upstream/main
