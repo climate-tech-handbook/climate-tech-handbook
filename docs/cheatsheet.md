@@ -4,7 +4,6 @@ date: 2012-12-12
 author: John Doe
 summary: This is a brief summary of the page
 # template: custom.html
-
 ---
 
 Admonitions are special sections that can be added to your Markdown documents. They are often used to highlight notes, tips, warnings, and other important pieces of information.
