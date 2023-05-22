@@ -1,6 +1,8 @@
 ---
 hide:
   - navigation
+description: We're on a mission to build the most accessible and accurate climate tech resource on the planet.
+
 ---
 
 # Welcome
