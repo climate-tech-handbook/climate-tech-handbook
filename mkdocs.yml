@@ -100,3 +100,7 @@ nav:
       - About the Handbook: about/index.md
       #     - Frequently Asked Questions: faq.md
       - Contribute: contribute.md
+
+  # Waiting to launch blog until we sort our insider account issues
+  # - Blog:
+  #     - blog/index.md
