@@ -1,16 +1,16 @@
 ---
 date: 2023-01-31
 tags:
-  - Hello
-  - World
+  - launch
+  - software
 authors:
-    - squidfunk
+    - alexmayberry
 ---
 
-# Hello world!
+# Hello (Climate Tech Blogging) world!
 
-Is this thing on?
+We're excited to announce the launch of the Climate Tech Handbook Blog!
 
 <!-- more -->
 
-Annnnnd here's the rest of the post
+Stay tuned, we've got lots of great climate news and insights coming your way!
