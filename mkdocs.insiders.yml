@@ -4,5 +4,14 @@ plugins:
   - tags
   - search
   - optimize
+  
+  # Waiting to launch blog until we sort our insider account issues
+  # - blog:
+  #   blog_toc: true
+  #   post_url_format: "{slug}"
+  #   post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+  #     kwds:
+  #       case: lower
+  #   archive: false
 
 # - glightbox
