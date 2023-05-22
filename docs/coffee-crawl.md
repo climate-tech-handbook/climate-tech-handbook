@@ -9,20 +9,16 @@ tags:
   -
 ---
 
-# Climate Tech Coffee Crawl - June 2023
+# Climate Tech Coffee Crawl
 
-**Date announcement coming up.**
+## **Seattle, WA** - June 24, 2023
 
-[Register](#register) early, and get on the list
-
-## **Seattle, WA**
-
-![Coffee photo from Bellingham crawl](/img/belligham-climate-tech-coffee-crawl.jpg)
-_Photo from the recent crawl in Bellingham, WA_
+_Coming up!_
 
 [:material-coffee: Register here](#register){ .md-button .md-button--primary }
 
-[:material-map: Map Link](https://goo.gl/maps/uNgLbcHA38XQ38iv6){:target="_blank" .md-button }
+![Coffee photo from Bellingham crawl](/img/belligham-climate-tech-coffee-crawl.jpg)
+_Photo from the recent crawl in Bellingham, WA_
 
 ## What is this?
 
@@ -34,7 +30,7 @@ Jokes are also allowed.
 
 ## 🏁 Route
 
-_[Map here](https://www.google.com/maps/dir/Ada's+Technical+Books+and+Cafe,+425+15th+Ave+E,+Seattle,+WA+98112/Fuel+Coffee,+19th+Avenue+East,+Seattle,+WA/Macrina+Bakery+%26+Cafe,+19th+Avenue+East,+Seattle,+WA/Volunteer+Park+Cafe+%26+Pantry,+1501+17th+Ave+E,+Seattle,+WA+98112/@47.627582,-122.3150626,16z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x5490152efda744b9:0xab8510e7a942511a!2m2!1d-122.312839!2d47.6226895!1m5!1m1!1s0x549014d580504b5d:0x79d73ee7a01b89a4!2m2!1d-122.3069444!2d47.6247222!1m5!1m1!1s0x5490158dd990b353:0x1717f061b6837dc5!2m2!1d-122.3069826!2d47.6265598!1m5!1m1!1s0x549015dd838b612d:0x30827be27626f211!2m2!1d-122.3100379!2d47.6324459!3e2){:target="_blank"}_
+[:material-map: Map Link](https://goo.gl/maps/uNgLbcHA38XQ38iv6){:target="_blank" .md-button }
 
 <div class="google-map">
      <iframe src="https://www.google.com/maps/embed?pb=!1m44!1m12!1m3!1d5377.8499922788!2d-122.31604775251286!3d47.62758921544634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m29!3e2!4m5!1s0x5490152efda744b9%3A0xab8510e7a942511a!2sAda&#39;s%20Technical%20Books%20and%20Cafe%2C%20425%2015th%20Ave%20E%2C%20Seattle%2C%20WA%2098112!3m2!1d47.6226895!2d-122.312839!4m5!1s0x549014d580504b5d%3A0x79d73ee7a01b89a4!2sFuel%20Coffee%2C%2019th%20Avenue%20East%2C%20Seattle%2C%20WA!3m2!1d47.6247222!2d-122.30694439999999!4m5!1s0x5490158dd990b353%3A0x1717f061b6837dc5!2sMacrina%20Bakery%20%26%20Cafe%2C%2019th%20Avenue%20East%2C%20Seattle%2C%20WA!3m2!1d47.626559799999995!2d-122.3069826!4m5!1s0x549015dd838b612d%3A0x30827be27626f211!2sVolunteer%20Park%20Cafe%20%26%20Pantry%2C%201501%2017th%20Ave%20E%2C%20Seattle%2C%20WA%2098112!3m2!1d47.6324459!2d-122.3100379!4m3!3m2!1d47.6312145!2d-122.3148514!5e0!3m2!1sen!2sus!4v1684357027661!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -52,10 +48,6 @@ _[Map here](https://www.google.com/maps/dir/Ada's+Technical+Books+and+Cafe,+425+
 
 
 ## Register
-
-Date will be announced soon.
-
-Will be a Saturday or Sunday in June, likely 2nd half.
 
 <form name="coffee-crawl" method="POST" netlify-honeypot="bot-field" data-netlify="true">
   <div hidden aria-hidden="true">

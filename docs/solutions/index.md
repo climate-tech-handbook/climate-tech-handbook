@@ -10,7 +10,16 @@ icon:
 
 ![organic-farming](../img/organic-farming_resize.jpg) 
 
-## Pick a Sector
+While it may feel like the last 20+ years have been a complete waste, **we have made progress.**
+
+We have really good science that tells us exactly what needs to happen to win this critical decade.
+
+!!! tip "There are the 93 solutions by Project Drawdown, categorized into 14 sectors."
+	[Choose a sector below](#choose-a-sector) and learn how to [land a job](../career-guide) with the best possible organizations making the most impact.
+
+
+
+## Choose a Sector
 
 [:material-lightning-bolt: Electricity](sectors/sector-electricity){ .md-button .md-button--primary }
 
@@ -66,11 +75,6 @@ sector-food-agriculture-and-land-use){ .md-button .md-button--primary }
 
 -->
 ---
-
-[Project Drawdown](../glossary/#project-drawdown) has the best science available to meet the IPCC goal of reducing catastrophic warming beyond 1.5C.
-
-There are **93** Solutions categorized by **14 Sectors**. [^drawdown-sectors] [^climate-base-sectors]
-
 ??? Abstract "Project Drawdown Solutions Table"
 
     ## Table of Solutions
