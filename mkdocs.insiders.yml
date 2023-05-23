@@ -1,9 +1,11 @@
+# build confi
 INHERIT: mkdocs.yml
 plugins:
   - typeset
   - tags
   - search
   - optimize
+  - social
   
   # Waiting to launch blog until we sort our insider account issues
   # - blog:
