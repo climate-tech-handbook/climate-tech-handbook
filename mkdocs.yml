@@ -107,8 +107,8 @@ nav:
       #     - Frequently Asked Questions: faq.md
       - Contribute: contribute.md
 
-  - "Cheat Sheet":
-      - cheatsheet.md
+  # - "Cheat Sheet":
+  #     - cheatsheet.md
   # Waiting to launch blog until we sort our insider account issues
   # - Blog:
   #     - blog/index.md
