@@ -1,9 +1,14 @@
+# build confi
 INHERIT: mkdocs.yml
 plugins:
   - typeset
   - tags
   - search
-  - optimize
+  - optimize:
+      optimize_png: false
+      # cache: false
+      # cache_dir: .cache/plugins/optimize
+  - social
   
   # Waiting to launch blog until we sort our insider account issues
   # - blog:
