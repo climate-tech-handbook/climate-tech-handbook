@@ -15,6 +15,7 @@ icon: material/lightning-bolt
 
 ## Solutions in this Sector
 
+
 - [Utility-Scale Energy Storage](../solution-utility-scale-energy-storage)
 
 - [Distributed Energy Storage](../solution-distributed-energy-storage)
@@ -78,6 +79,7 @@ icon: material/lightning-bolt
 - [Utility-Scale Solar Photovoltaics](../solution-utility-scale-solar-photovoltaics)
 
 - [Onshore Wind Turbines](../solution-onshore-wind-turbines)
+
 
  -
  -

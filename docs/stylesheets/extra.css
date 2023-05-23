@@ -25,7 +25,7 @@
   content: none;
 }
 
-body {
+/* body {
   background: url('../img/compressed_cth_bkg.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -39,4 +39,29 @@ body {
   padding-top: 1rem;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
+} */
+
+/* .md-nav__list {
+  background-color: rgb(42, 97, 44, 0.5);
+  backdrop-filter: blur(10px);
 }
+
+.md-sidebar__scrollwrap {
+  background-color: rgb(42, 97, 44, 0.5);
+  backdrop-filter: blur(10px);
+} */
+
+/* article.md-content__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: stretch;
+  flex-wrap: wrap;
+}
+
+article.md-content__inner > ul {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25rem;
+}  */
