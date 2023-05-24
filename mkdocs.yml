@@ -26,10 +26,10 @@ repo_url: https://github.com/climate-tech-handbook/climate-tech-handbook
 
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/custom.css
+  - stylesheets/tocDrawer.css
 
 extra_javascript:
-  - js/custom.js
+  - js/tocDrawer.js
 
 ## NOTE: plugins need to be passed over to mkdocs.insiders.yml due to paid Insiders version of Material for MKDocs
 
@@ -79,8 +79,8 @@ markdown_extensions:
 nav:
   - "Home": index.md
 
-  - "Sectors":
-      - sectors/index.md
+  - "Solutions":
+      - solutions/index.md
       - Electricity: sector-electricity.md
       - Food, Agriculture, and Land Use: sector-food-agriculture-and-land-use.md
       - Industry: sector-industry.md

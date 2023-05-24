@@ -1,12 +1,12 @@
 ---
-title: Sectors Overview
+title: Solutions Overview
 description:
 hide:
   - navigation
 icon:
 ---
 
-# Sectors Overview
+# Solutions Overview
 
 ![organic-farming](../img/organic-farming_resize.jpg) 
 
