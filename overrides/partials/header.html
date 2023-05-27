@@ -145,31 +145,11 @@
       {% include "partials/search.html" %}
     {% endif %}
 
-    <!-- Hamburger menu -->
-<label class="md-header__button md-icon" for="__toc">
-  {% include ".icons/material/dots-vertical" ~ ".svg" %}
-</label>
+    <!-- Toc menu button -->
+    {% include "partials/toc-drawer-button.html" %}
 
-<!-- Right-side drawer -->
-<div class="md-drawer" id="__toc">
-  <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" id="__toc">
-    <div class="md-sidebar__scrollwrap">
-      <div class="md-sidebar__inner">
-        <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-          <label class="md-nav__title" for="__toc">
-            <span class="md-nav__icon md-icon"></span>
-            Table of contents
-          </label>
-          <ul class="md-nav__list" data-md-component="toc">
-            {{ page.toc }}
-          </ul>
-        </nav>
-      </div>
-    </div>
-  </div>  
-</div>
-
-
+    <!-- Right-side drawer -->
+    {% include "partials/toc-drawer.html" %}
 
     <!-- Repository information -->
     {% if config.repo_url %}

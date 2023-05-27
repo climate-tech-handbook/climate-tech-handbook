@@ -1,41 +1,55 @@
-@media (max-width: 959px) {
-    /* Hide the table of contents */
-    .md-nav__list {
-      display: none;
-    }
-    
-    /* Show the hamburger menu */
-    .md-header__button[for="__toc"] {
-      display: block;
-    }
-}
-
-@media (min-width: 960px) {
-    /* Hide the hamburger menu on larger screens */
-    .md-header__button[for="__toc"] {
-      display: none;
-    }
-    
-    /* Show the table of contents */
-    .md-nav__list {
-      display: block;
-    }
-}
-
+/* The drawer starts off hidden, and slides in from the right when open */
 .md-drawer {
-    position: fixed;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    width: 300px;
-    overflow-y: auto;
-    background-color: white;
-    transform: translateX(100%); /* starts off the screen to the right */
-    transition: transform 0.3s ease-in-out;
-    z-index: 9999; /* ensure the drawer appears above other content */
+  position: fixed;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 300px;
+  overflow-y: auto;
+  background-color: white;
+  transform: translateX(100%);
+  transition: transform 0.3s ease-in-out;
 }
 
 .md-drawer--open {
-    transform: translateX(0);
+  transform: translateX(0);
 }
 
+/* The TOC button starts off hidden, and is shown on smaller screens */
+.md-header__button[for="__toc"] {
+  display: none;
+}
+
+@media (max-width: 959px) {
+  /* Show the TOC button */
+  .md-header__button[for="__toc"] {
+    display: block;
+  }
+
+  /* Show the TOC in the drawer */
+  .md-drawer .md-nav__list {
+    display: block;
+  }
+
+  /* Hide the TOC on the page */
+  .md-nav__list {
+    display: none;
+  }
+}
+
+@media (min-width: 960px) {
+  /* Hide the TOC button */
+  .md-header__button[for="__toc"] {
+    display: none;
+  }
+
+  /* Hide the TOC in the drawer */
+  .md-drawer .md-nav__list {
+    display: none;
+  }
+
+  /* Show the TOC on the page */
+  .md-nav__list {
+    display: block;
+  }
+}
