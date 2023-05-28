@@ -20,10 +20,18 @@
 #toc-header {
   padding-left: 0.3rem;
   background-color: #4cae4f;
+  height: 2.4rem;
+  color: white;
+  display: flex;
+  /* text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black; */
 }
 
 #toc-header > a {
   margin-top: 0;
+}
+
+#toc-drawer {
+  box-shadow: -5px 0px 10px rgba(0, 0, 0, 0.2);
 }
 
 .md-drawer--open {
