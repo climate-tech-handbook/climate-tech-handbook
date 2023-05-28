@@ -13,6 +13,18 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     })
 
+    // THIS IS A TEMPORARY WORKAROUND. THE <EARTH> image uses href="." so no popstate occurs
+    document.querySelectorAll('a[href="/"]').forEach(function(link) {
+        link.addEventListener('click', function(e) {
+            e.preventDefault(); // prevent the default navigation
     
+            location.href = this.href; // navigate to the link's href
     
+            // ensure navigation to homepage is completed before refresh
+            window.addEventListener('popstate', function onPopState() {
+                window.removeEventListener('popstate', onPopState); // remove this event listener
+                location.reload(); // reload the page
+            });
+        });
+    });
 });
