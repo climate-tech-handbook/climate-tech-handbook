@@ -1,7 +1,6 @@
 ---
 title: Afresh
-tags:
-  - test
+tags: []
 ---
 # Afresh
 
