@@ -27,6 +27,7 @@ We're on a mission to build the most **accessible** and **accurate** climate tec
   <div id="global-temp-container"><span id="globaltemp" class="bold grad"></span></div>
   <h2 id="time-to-two">Time left to 1.5ºC</h2>
   <div id="timecountdown"></div>
+  <p>8 Years, 10 Months</p>
   <h2 id="tonnes">Tonnes of CO<sub>2</sub> Emitted</h2>      
   <div id="carbontonnes"></div>
 </div>
