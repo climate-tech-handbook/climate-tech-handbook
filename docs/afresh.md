@@ -1,5 +1,7 @@
 ---
 title: Afresh
+tags:
+  - test
 ---
 # Afresh
 
