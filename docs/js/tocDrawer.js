@@ -1,9 +1,9 @@
 // Wait until the DOM is fully loaded
 document.addEventListener('DOMContentLoaded', function() {
+
     // Get references to the TOC button and the TOC drawer
-    var tocButton = document.querySelector('.md-header__button[for="__toc"]');
-    var toc = document.querySelector('#__toc');
-    
+    const tocButton = document.querySelector('.md-header__button[for="__toc"]');
+    const toc = document.querySelector('#__toc');
     // When the TOC button is clicked...
     tocButton.addEventListener('click', function() {
         // If the TOC drawer is currently open...
