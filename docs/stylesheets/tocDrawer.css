@@ -4,11 +4,26 @@
   right: 0;
   top: 0;
   bottom: 0;
-  width: 300px;
+  width: auto;
   overflow-y: auto;
   background-color: white;
   transform: translateX(100%);
   transition: transform 0.3s ease-in-out;
+  list-style-type: none;
+  z-index: 9998;
+}
+
+#md-nav__right__title {
+  padding: 0;
+}
+
+#toc-header {
+  padding-left: 0.3rem;
+  background-color: #4cae4f;
+}
+
+#toc-header > a {
+  margin-top: 0;
 }
 
 .md-drawer--open {
@@ -40,5 +55,9 @@
 
   .md-nav--secondary {
     display: block;
+  }
+
+  #toc-button {
+    display: none;
   }
 }
