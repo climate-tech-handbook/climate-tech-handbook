@@ -15,7 +15,7 @@ collections:
   extension: md
   identifier_field: slug
   create: true # Allow users to create new documents in this collection
-  slug: "{{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
   fields: # The fields for each document, usually in front matter
     - { name: title, label: Title, widget: string }
     - { name: body, label: Body, widget: markdown }
