@@ -18,6 +18,8 @@ Please [start a Discussion thread](https://github.com/orgs/climate-tech-handbook
 - Business advisors for financial sustainability
 - People who love making cool things with data
 
+When making a branch, the format is `[issue number]-[username]-[description]`, for example: `14-howard123-flask`
+
 ## Installation instructions
 
 This project is built with [Material for MKDocs](https://squidfunk.github.io/mkdocs-material) - an advanced theme for the [MKDocs](https://www.mkdocs.org/) static site generator.
