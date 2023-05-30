@@ -6,6 +6,4 @@ tags: []
 
 - - -
 
-Test from HackMD and decapCMS
-
-## Feed
+Test from HackMDFeed
