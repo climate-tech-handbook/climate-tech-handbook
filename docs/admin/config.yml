@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   branch: main # Branch to update (optional; defaults to master)
   repo: climate-tech-handbook/climate-tech-handbook
 
