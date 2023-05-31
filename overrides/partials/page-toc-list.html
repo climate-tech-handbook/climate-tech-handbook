@@ -1,9 +1,10 @@
 {% for toc_item in page.toc %}
 <div id="toc-header">
-  <a href="{{ toc_item.url }}" class="md-nav__link">
-    {{ toc_item.title }}
-  </a>
+  Table of Contents
 </div>
+<a href="{{ toc_item.url }}" class="md-nav__link" style="padding-left: 0.3rem">
+  {{ toc_item.title }}
+</a>
   <li class="md-nav__item">
     {% if toc_item.children %}
       <nav class="md-nav" aria-label="{{ toc_item.title }}">
