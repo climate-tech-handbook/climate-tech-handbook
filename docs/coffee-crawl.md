@@ -1,6 +1,6 @@
 ---
 title: Climate Tech Coffee Crawl
-description:
+description: It's as simple and fun as it sounds. We drink coffee and roam the neighborhood together to talk about our favorite climate tech projects and topics. There will also be jokes and games 🎯
 authors:
   - 
 date: 
