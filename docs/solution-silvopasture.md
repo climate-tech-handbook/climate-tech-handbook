@@ -1,4 +1,6 @@
-# Silvopasture
+---
+title: Silvopasture
+---
 
 ![Cover Image]()
 Image Credit: [Unsplash]()

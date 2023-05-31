@@ -1,4 +1,6 @@
-# Geothermal Power
+---
+title: Geothermal Power
+---
 
 ![Cover Image](img/geothermal-power.jpg)
 

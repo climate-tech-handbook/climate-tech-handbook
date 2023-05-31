@@ -1,4 +1,6 @@
-# Improved Manure Management
+---
+title: Improved Manure Management
+---
 
 ![Cover Image](img/manure-management.jpg)
 

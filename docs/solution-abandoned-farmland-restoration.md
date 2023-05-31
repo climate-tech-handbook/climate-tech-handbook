@@ -1,4 +1,6 @@
-# Abandoned Farmland Restoration
+---
+title: Abandoned Farmland Restoration
+---
 
 ![Abandoned farm](img/abandoned-farm.jpg)
 

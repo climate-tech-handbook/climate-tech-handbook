@@ -1,4 +1,6 @@
-# Managed Grazing
+---
+title: Managed Grazing
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1652615683902-eb4d9e012705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxNYW5hZ2VkJTIwR3JhemluZ3xlbnwwfHx8fDE2ODM2NTk1ODA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/it/@springwellion)

@@ -1,4 +1,6 @@
-# Indigenous Peoples’ Forest Tenure
+---
+title: Indigenous Peoples’ Forest Tenure
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxJbmRpZ2Vub3VzJTIwUGVvcGxlcyVFMiU4MCU5OSUyMEZvcmVzdCUyMFRlbnVyZXxlbnwwfHx8fDE2ODM2NTkzNjE&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/ko/@sebastian_unrau)

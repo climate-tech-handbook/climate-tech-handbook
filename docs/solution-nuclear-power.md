@@ -1,4 +1,6 @@
-# Nuclear Power
+---
+title: Nuclear Power
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1591200834528-4050ce99fe78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxOdWNsZWFyJTIwUG93ZXJ8ZW58MHx8fHwxNjgzNzUyNjQ5fDA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@nhippert)

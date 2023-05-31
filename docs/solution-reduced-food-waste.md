@@ -1,4 +1,6 @@
-# Reduced Food Waste
+---
+title: Reduced Food Waste
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1430163393927-3dab9af7ea38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWR1Y2VkJTIwRm9vZCUyMFdhc3RlfGVufDB8fHx8MTY4Mzc1MzM4NXww&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/pt-br/@juanantia)

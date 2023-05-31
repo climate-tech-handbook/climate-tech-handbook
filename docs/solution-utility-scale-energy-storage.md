@@ -1,4 +1,6 @@
-# Utility-Scale Energy Storage
+---
+title: Utility-Scale Energy Storage
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1515191107209-c28698631303?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxVdGlsaXR5LVNjYWxlJTIwRW5lcmd5JTIwU3RvcmFnZXxlbnwwfHx8fDE2ODM3NTM4NDZ8MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@mbrunacr)

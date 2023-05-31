@@ -1,4 +1,6 @@
-# Efficient Aviation
+---
+title: Efficient Aviation
+---
 
 ![Cover Image](img/electric-aircraft.jpg)
 _Image Credit: [Financial Times](https://www.ft.com/content/a9dc81d2-725e-11e9-bf5c-6eeb837566c5)_

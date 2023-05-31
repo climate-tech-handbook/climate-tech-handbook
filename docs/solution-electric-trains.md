@@ -1,4 +1,6 @@
-# Electric Trains
+---
+title: Electric Trains
+---
 
 ![Cover Image](img/electric-train.jpg)
 

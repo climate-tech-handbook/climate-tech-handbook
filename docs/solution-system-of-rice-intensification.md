@@ -1,4 +1,6 @@
-# System of Rice Intensification
+---
+title: System of Rice Intensification
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1564834744159-ff0ea41ba4b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxTeXN0ZW0lMjBvZiUyMFJpY2UlMjBJbnRlbnNpZmljYXRpb258ZW58MHx8fHwxNjgzNzUzNjczfDA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/es/@milkbox)
