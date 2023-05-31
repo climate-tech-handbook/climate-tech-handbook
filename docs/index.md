@@ -15,3 +15,6 @@ We're on a mission to build the most **accessible** and **accurate** climate tec
 
 <script src="https://climateclock.world/widget-v2.js" async></script>
 <climate-clock />
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDg3NDM0NjIzXX0=
+-->
