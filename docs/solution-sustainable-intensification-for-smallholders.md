@@ -1,4 +1,6 @@
-# Sustainable Intensification for Smallholders
+---
+title: Sustainable Intensification for Smallholders
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxTdXN0YWluYWJsZSUyMEludGVuc2lmaWNhdGlvbiUyMGZvciUyMFNtYWxsaG9sZGVyc3xlbnwwfHx8fDE2ODM3NTM2NDN8MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@thehumbleco)

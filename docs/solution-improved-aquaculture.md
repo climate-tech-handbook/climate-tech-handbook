@@ -1,4 +1,6 @@
-# Improved Aquaculture
+---
+title: Improved Aquaculture
+---
 
 ![Cover Image](img/aquaculture.jpg)
 _Image credit: [foodtank.com](https://foodtank.com/news/2021/07/new-report-shows-sustainability-in-global-aquaculture/)_

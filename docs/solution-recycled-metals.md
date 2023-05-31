@@ -1,4 +1,6 @@
-# Recycled Metals
+---
+title: Recycled Metals
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1625662276901-4a7ec44fbeed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWN5Y2xlZCUyME1ldGFsc3xlbnwwfHx8fDE2ODM3NTMyNzJ8MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@v2osk)

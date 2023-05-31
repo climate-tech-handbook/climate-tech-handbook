@@ -1,4 +1,6 @@
-# Ocean Power
+---
+title: Ocean Power
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1514239414268-288c089ba243?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxPY2VhbiUyMFBvd2VyfGVufDB8fHx8MTY4Mzc1MjcwMnww&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@epicantus)

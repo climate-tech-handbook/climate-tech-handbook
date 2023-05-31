@@ -1,4 +1,6 @@
-# Reduced Plastics
+---
+title: Reduced Plastics
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1618277043375-b1f003b0d5a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWR1Y2VkJTIwUGxhc3RpY3N8ZW58MHx8fHwxNjgzNzUzNDA0fDA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@brian_yuri)

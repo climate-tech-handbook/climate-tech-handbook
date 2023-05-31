@@ -1,4 +1,6 @@
-# Methane Digesters
+---
+title: Methane Digesters
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1573731541652-faf8035adb47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxNZXRoYW5lJTIwRGlnZXN0ZXJzfGVufDB8fHx8MTY4Mzc1MjQ3N3ww&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@meguminachev)

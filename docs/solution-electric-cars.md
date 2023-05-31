@@ -1,4 +1,6 @@
-# Electric Cars
+---
+title: Electric Cars
+---
 
 ![Cover Image](img/electric-car.jpg)
 

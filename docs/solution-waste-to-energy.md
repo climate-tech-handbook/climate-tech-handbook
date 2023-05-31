@@ -1,4 +1,6 @@
-# Waste to Energy
+---
+title: Waste to Energy
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1517925035435-7976539b920d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxXYXN0ZSUyMHRvJTIwRW5lcmd5fGVufDB8fHx8MTY4Mzc1MzkzNXww&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/fr/@fredography)

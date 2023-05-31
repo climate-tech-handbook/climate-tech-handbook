@@ -1,4 +1,6 @@
-# Recycled Plastics
+---
+title: Recycled Plastics
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1558640476-437a2b9438a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWN5Y2xlZCUyMFBsYXN0aWNzfGVufDB8fHx8MTY4Mzc1MzMyN3ww&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@brian_yuri)

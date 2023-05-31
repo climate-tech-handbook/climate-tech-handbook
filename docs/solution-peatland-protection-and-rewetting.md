@@ -1,4 +1,6 @@
-# Peatland Protection and Rewetting
+---
+title: Peatland Protection and Rewetting
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1551265358-a5f7aa4a226c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxQZWF0bGFuZCUyMFByb3RlY3Rpb24lMjBhbmQlMjBSZXdldHRpbmd8ZW58MHx8fHwxNjgzNzUyNzgxfDA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@pawelmc)

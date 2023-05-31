@@ -1,4 +1,6 @@
-# Tree Intercropping
+---
+title: Tree Intercropping
+---
 
 ![Cover Image](https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxUcmVlJTIwSW50ZXJjcm9wcGluZ3xlbnwwfHx8fDE2ODM3NTM3NjR8MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@emben)

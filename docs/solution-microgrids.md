@@ -1,4 +1,6 @@
-# Microgrids
+---
+title: Microgrids
+---
 
 ![Cover Image]()
 Image Credit: [Unsplash]()

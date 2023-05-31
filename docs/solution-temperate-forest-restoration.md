@@ -1,4 +1,6 @@
-# Temperate Forest Restoration
+---
+title: Temperate Forest Restoration
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1503435980610-a51f3ddfee50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxUZW1wZXJhdGUlMjBGb3Jlc3QlMjBSZXN0b3JhdGlvbnxlbnwwfHx8fDE2ODM3NTM3NDF8MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@filipz)
