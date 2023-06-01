@@ -3,8 +3,7 @@ title: Indigenous Peoples’ Forest Tenure
 ---
 ![](/img/indigenous-peoples’-forest-tenure.jpg)
 
-
-Image Credit: [Unsplash](https://unsplash.com/ko/@sebastian_unrau)
+*Benefits of securing land tenure for indigenous people* **([Rights and Resouces](https://rightsandresources.org/learnmore/))**
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
