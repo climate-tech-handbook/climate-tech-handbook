@@ -1,4 +1,6 @@
-# District Heating
+---
+title: District Heating
+---
 
 ![Cover Image](img/district-heating.jpg)
 

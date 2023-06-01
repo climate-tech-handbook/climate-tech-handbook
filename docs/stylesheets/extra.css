@@ -13,6 +13,21 @@
     font-size: 16px !important;
 }
 
+/* Color scheme inverse of Primary Button */
+.md-button--secondary {
+  background-color: var(--md-accent-fg-color) !important;
+  border-color: var(--md-accent-fg-color) !important;
+  color: var(--md-accent-bg-color) !important;
+}
+
+.md-button--secondary:hover {
+  background-color: var(--md-primary-fg-color) !important;
+  border-color: var(--md-primary-fg-color) !important;
+  color: var(--md-primary-bg-color) !important
+}
+
+
+
 /* Footer */
 
 .md-footer {

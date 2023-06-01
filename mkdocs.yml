@@ -1,7 +1,7 @@
 site_name: Climate Tech Handbook
 site_url: https://www.climatetechhandbook.com
-site_description: Your community source of truth for climate tech solutions.
-use_directory_urls: true
+site_description: We're on a mission to build the most accessible and accurate climate tech resource on the planet.
+use_directory_urls: True
 theme:
   name: material
   custom_dir: overrides
@@ -36,8 +36,11 @@ extra_javascript:
 plugins:
   - tags
   - search
+<<<<<<< HEAD
   - include-markdown
   # - social
+=======
+>>>>>>> upstream/main
 markdown_extensions:
   # Python Markdown
   - abbr

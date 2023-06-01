@@ -1,4 +1,6 @@
-# High-Efficiency Heat Pumps
+---
+title: High-Efficiency Heat Pumps
+---
 
 ![Cover Image](img/high-efficiency-heat-pumps.png)
 

@@ -1,4 +1,6 @@
-# Green and Cool Roofs
+---
+title: Green and Cool Roofs
+---
 
 ![Cover Image](img/green-roofing.png)
 

@@ -1,4 +1,6 @@
-# Perennial Staple Crops
+---
+title: Perennial Staple Crops
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1498408040764-ab6eb772a145?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxQZXJlbm5pYWwlMjBTdGFwbGUlMjBDcm9wc3xlbnwwfHx8fDE2ODM3NTMxOTh8MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@glenncarstenspeters)

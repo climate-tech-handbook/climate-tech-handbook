@@ -5,7 +5,7 @@ plugins:
   - tags
   - search
   - optimize
-  - social
+  # - social
   
   # Waiting to launch blog until we sort our insider account issues
   # - blog:

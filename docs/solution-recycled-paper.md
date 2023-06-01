@@ -1,4 +1,6 @@
-# Recycled Paper
+---
+title: Recycled Paper
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1637325258040-d2f09636ecf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWN5Y2xlZCUyMFBhcGVyfGVufDB8fHx8MTY4Mzc1MzMwMHww&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@joaovtrduarte)

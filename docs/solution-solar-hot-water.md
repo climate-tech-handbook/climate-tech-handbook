@@ -1,4 +1,6 @@
-# Solar Hot Water
+---
+title: Solar Hot Water
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1531770905334-3776f5b54831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxTb2xhciUyMEhvdCUyMFdhdGVyfGVufDB8fHx8MTY4Mzc1MzYxN3ww&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@danjrusso)

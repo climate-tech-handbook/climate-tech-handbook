@@ -1,7 +1,7 @@
 ---
 hide:
   - navigation
-description: We're on a mission to build the most accessible and accurate climate tech resource on the planet.
+description: We're on a mission to build the most **accessible** and **accurate** climate tech resource on the planet.
 
 ---
 # Welcome
@@ -15,3 +15,6 @@ We're on a mission to build the most **accessible** and **accurate** climate tec
 <climate-clock />
 
 <!-- !!! example "Our top priorities" -->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDg3NDM0NjIzXX0=
+-->

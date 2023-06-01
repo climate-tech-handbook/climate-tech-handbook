@@ -1,4 +1,6 @@
-# Forest Protection
+---
+title: Forest Protection
+---
 
 ![Cover Image](img/forest-protection.jpg)
 _Image Credit: [Euractiv](https://www.euractiv.com/section/energy-environment/opinion/seven-steps-to-curb-deforestation-and-enhance-forest-protection-looking-beyond-eu-only-solutions/)_

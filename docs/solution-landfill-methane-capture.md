@@ -1,4 +1,6 @@
-# Landfill Methane Capture
+---
+title: Landfill Methane Capture
+---
 
 ![Cover Image](/img/landfill-methane-capture.gif)
 

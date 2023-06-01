@@ -1,4 +1,6 @@
-# Nutrient Management
+---
+title: Nutrient Management
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxOdXRyaWVudCUyME1hbmFnZW1lbnR8ZW58MHx8fHwxNjgzNzUyNjcxfDA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@homajob)

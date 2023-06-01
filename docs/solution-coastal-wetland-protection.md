@@ -1,4 +1,6 @@
-# Coastal Wetland Protection
+---
+title: Coastal Wetland Protection
+---
 
 ![Cover Image](img/living-shorelines.png)
 

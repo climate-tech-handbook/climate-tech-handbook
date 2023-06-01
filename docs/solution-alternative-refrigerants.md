@@ -1,4 +1,6 @@
-# Alternative Refrigerants
+---
+title: Alternative Refrigerants
+---
 
 ![Cover Image](img/co2-refrigeration.jpg)
 

@@ -1,4 +1,6 @@
-# High-Performance Glass
+---
+title: High-Performance Glass
+---
 
 ![Cover Image](img/high-performance-glass.png)
 

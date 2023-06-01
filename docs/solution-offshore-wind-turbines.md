@@ -1,4 +1,6 @@
-# Offshore Wind Turbines
+---
+title: Offshore Wind Turbines
+---
 
 ![Cover Image](img/offshore-wind-turbines.jpg)
 

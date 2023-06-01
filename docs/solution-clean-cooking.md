@@ -1,4 +1,6 @@
-# Clean Cooking
+---
+title: Clean Cooking
+---
 
 ![Cover Image](img/clean-cooking.jpg)
 

@@ -1,4 +1,6 @@
-# Bamboo Production
+---
+title: Bamboo Production
+---
 
 ![Cover Image](img/bamboo-farm.jpg)
 

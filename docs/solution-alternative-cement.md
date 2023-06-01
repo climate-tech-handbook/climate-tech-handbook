@@ -1,4 +1,6 @@
-# Alternative Cement
+---
+title: Alternative Cement
+---
 
 ![Cement Factory](img/cement-factory.jpg)
 

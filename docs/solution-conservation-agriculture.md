@@ -1,4 +1,6 @@
-# Conservation Agriculture
+---
+title: Conservation Agriculture
+---
 
 ![Cover Image](img/conservation-agriculture.jpg)
 

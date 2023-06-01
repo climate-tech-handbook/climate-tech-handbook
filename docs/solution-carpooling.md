@@ -1,4 +1,6 @@
-# Carpooling
+---
+title: Carpooling
+---
 
 ![Cover Image](img/carpooling.png)
 

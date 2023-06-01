@@ -1,4 +1,6 @@
-# Walkable Cities
+---
+title: Walkable Cities
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1567955567073-fac7b0709975?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxXYWxrYWJsZSUyMENpdGllc3xlbnwwfHx8fDE2ODM3NTM5MDZ8MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/de/@seanbenesh)
