@@ -13,7 +13,7 @@ tags:
 
 ## **Seattle, WA** - Sat June 24, 2023
 
-_Coming up!_
+**10am - 10pm** (check the [route](#route) and start when you'd like)
 
 <a href="https://lu.ma/event/evt-BENw8vIeiZrMSiJ" class="md-button md-button--primary" data-luma-action="checkout" data-luma-event-id="evt-BENw8vIeiZrMSiJ">
 ☕️ Register Here
@@ -43,8 +43,6 @@ There will also be jokes and games 🎯
 **You must register in order to be invited to the Slack group with overflow instructions.**
 
 ## 🏁 Route
-
-(You start your quest at any time from 10am - 10pm)
 
 [:material-map: Map Link](https://goo.gl/maps/jQ9nNTyNjBVRJwDf8){:target="_blank" .md-button }
 
