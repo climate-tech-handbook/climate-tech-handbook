@@ -1,7 +1,7 @@
 ---
 title: Indigenous Peoples’ Forest Tenure
 ---
-![](/img/indigenous-peoples’-forest-tenure.jpg)
+![image](/img/indigenous-peoples-forest-tenure.jpg)
 
 *Benefits of securing land tenure for indigenous people* **([Rights and Resouces](https://rightsandresources.org/learnmore/))**
 
