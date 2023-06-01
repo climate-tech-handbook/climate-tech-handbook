@@ -44,6 +44,8 @@ There will also be jokes and games 🎯
 
 ## 🏁 Route
 
+(You start your quest at any time from 10am - 10pm)
+
 [:material-map: Map Link](https://goo.gl/maps/jQ9nNTyNjBVRJwDf8){:target="_blank" .md-button }
 
 <div class="google-map">
