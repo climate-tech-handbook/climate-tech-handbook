@@ -1,3 +1,6 @@
+---
+title: Career Guide
+---
 # Career Guide
 
 !!! Question "How do I get a job without experience?"
