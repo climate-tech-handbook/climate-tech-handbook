@@ -13,7 +13,7 @@ tags:
 
 ## **Seattle, WA** - Sat June 24, 2023
 
-_Coming up!_
+**10am - 10pm** (check the [route](#route) and start when you'd like)
 
 <a href="https://lu.ma/event/evt-BENw8vIeiZrMSiJ" class="md-button md-button--primary" data-luma-action="checkout" data-luma-event-id="evt-BENw8vIeiZrMSiJ">
 ☕️ Register Here
