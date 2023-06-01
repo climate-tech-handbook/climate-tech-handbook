@@ -1,8 +1,9 @@
 ---
 title: Indigenous Peoples’ Forest Tenure
 ---
+![](/img/indigenous-peoples’-forest-tenure.jpg)
 
-![Cover Image](https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxJbmRpZ2Vub3VzJTIwUGVvcGxlcyVFMiU4MCU5OSUyMEZvcmVzdCUyMFRlbnVyZXxlbnwwfHx8fDE2ODM2NTkzNjE&ixlib=rb-4.0.3&q=80&w=1080)
+
 Image Credit: [Unsplash](https://unsplash.com/ko/@sebastian_unrau)
 
 !!! info "[Help us](../../contribute) track this Solution"
@@ -23,11 +24,8 @@ Organizations such as the Forest Carbon Partnership Facility and the World Bank 
 Some key lessons that have been learned in the development and implementation of Indigenous Peoples’ forest Tenure to reverse climate change are:
 
 1. It is important to ensure that Indigenous Peoples have a strong voice in the decision-making process around forest Tenure. This includes ensuring that they have a seat at the table in negotiations, and that their rights and interests are taken into account.
-
 2. It is also important to build capacity within Indigenous communities to enable them to manage their forests effectively. This includes providing training and support in areas such as forest management planning, monitoring and evaluation.
-
 3. It is essential to secure long-term financing for Indigenous Peoples’ forest Tenure initiatives. This includes exploring innovative financing mechanisms such as carbon offsetting, and ensuring that there is sufficient funding available to cover the costs of forest management and conservation.
-
 4. It is important to raise awareness of the importance of Indigenous Peoples’ forest Tenure initiatives, both within Indigenous communities and wider society. This includes developing communication and education materials, and working with the media to share positive stories about the benefits of these initiatives.
 
 Some companies and organizations that have been at the forefront of this solution include the World Bank, the United Nations Development Programme, and the Indigenous Peoples’ Global Partnership for Change.
