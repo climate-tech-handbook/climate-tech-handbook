@@ -1,4 +1,6 @@
-# Seaweed Farming
+---
+title: Seaweed Farming
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1650802760228-38d7bcd10c28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxTZWF3ZWVkJTIwRmFybWluZ3xlbnwwfHx8fDE2ODM3NTM0OTd8MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@eldocr)

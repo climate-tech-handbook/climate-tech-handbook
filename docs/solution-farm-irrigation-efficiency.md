@@ -1,4 +1,6 @@
-# Farm Irrigation Efficiency
+---
+title: Farm Irrigation Efficiency
+---
 
 ![Cover Image](/img/farm-irrigation-efficiency.png)
 _An Aquaspy tube-style sensor - [farmprogress.com](https://www.farmprogress.com/corn/regional-research-needed-for-irrigation-efficiency)_

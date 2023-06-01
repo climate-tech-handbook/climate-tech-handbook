@@ -1,4 +1,6 @@
-# Smart Thermostats
+---
+title: Smart Thermostats
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1545259741-2ea3ebf61fa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxTbWFydCUyMFRoZXJtb3N0YXRzfGVufDB8fHx8MTY4Mzc1MzU4Nnww&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@danlefeb)

@@ -1,4 +1,6 @@
-# Composting
+---
+title: Composting
+---
 
 ![Cover Image](img/commercial-composting.jpg)
 

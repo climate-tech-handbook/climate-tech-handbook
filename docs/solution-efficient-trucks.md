@@ -1,4 +1,6 @@
-# Efficient Trucks
+---
+title: Efficient Trucks
+---
 
 ![Cover Image](img/fuel-efficient-trucks.jpg)
 

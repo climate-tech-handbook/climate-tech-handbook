@@ -1,4 +1,6 @@
-# Multistrata Agroforestry
+---
+title: Multistrata Agroforestry
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1670932387120-9a11119d6db7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxNdWx0aXN0cmF0YSUyMEFncm9mb3Jlc3RyeXxlbnwwfHx8fDE2ODM3NTI1ODh8MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@projetocafegatomourisco)

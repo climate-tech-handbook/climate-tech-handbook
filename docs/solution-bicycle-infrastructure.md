@@ -1,4 +1,6 @@
-# Bicycle Infrastructure
+---
+title: Bicycle Infrastructure
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1567745576352-e404ee640705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxCaWN5Y2xlJTIwSW5mcmFzdHJ1Y3R1cmV8ZW58MHx8fHwxNjgzNjU3ODk1&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@seanbenesh)

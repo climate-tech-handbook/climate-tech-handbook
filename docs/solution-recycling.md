@@ -1,4 +1,6 @@
-# Recycling
+---
+title: Recycling
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWN5Y2xpbmd8ZW58MHx8fHwxNjgzNzUzMzU0fDA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/es/@pawel_czerwinski)

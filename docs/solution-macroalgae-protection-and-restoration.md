@@ -1,4 +1,6 @@
-# Macroalgae Protection and Restoration
+---
+title: Macroalgae Protection and Restoration
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1551265358-a5f7aa4a226c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxNYWNyb2FsZ2FlJTIwUHJvdGVjdGlvbiUyMGFuZCUyMFJlc3RvcmF0aW9ufGVufDB8fHx8MTY4MzY1OTU0NA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@pawelmc)

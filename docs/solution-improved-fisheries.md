@@ -1,4 +1,6 @@
-# Improved Fisheries
+---
+title: Improved Fisheries
+---
 
 ![Cover Image](img/improved-fisheries.jpg)
 

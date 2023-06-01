@@ -1,4 +1,6 @@
-# Regenerative Annual Cropping
+---
+title: Regenerative Annual Cropping
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1645104948579-8d14f8668c70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWdlbmVyYXRpdmUlMjBBbm51YWwlMjBDcm9wcGluZ3xlbnwwfHx8fDE2ODM3NTM0NTF8MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@fwren)

@@ -1,4 +1,6 @@
-# Small Hydropower
+---
+title: Small Hydropower
+---
 
 ![Cover Image](https://images.unsplash.com/photo-1614350292382-c448d0110dfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxTbWFsbCUyMEh5ZHJvcG93ZXJ8ZW58MHx8fHwxNjgzNzUzNTUzfDA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@gabiontheroad)
