@@ -1,5 +1,5 @@
 ---
-Title: Media and Journalism
+title: Media and Journalism
 Description: 
 icon: fontawesome/solid/pencil
 ---

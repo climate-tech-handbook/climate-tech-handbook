@@ -1,5 +1,5 @@
 ---
-Title: Electricity
+title: Electricity
 Description: 
 icon: material/lightning-bolt
 ---
