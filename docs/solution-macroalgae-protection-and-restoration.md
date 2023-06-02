@@ -1,7 +1,7 @@
 ---
 title: Macroalgae Protection and Restoration
 ---
-![](/img/macroalgae-protection-and-restoration.jpg)
+![Ocean-based climate solutions involve protecting/restoring blue carbon sinks, expanding seaweed farming, all implementable within Marine Protected Areas (MPAs).](/img/macroalgae-protection-and-restoration.jpg)
 
 *Expanding macroalgae to respond to climate change ([The Proceedings of the National Academy of Sciences ](https://www.pnas.org/doi/10.1073/pnas.2121705119))*
 
