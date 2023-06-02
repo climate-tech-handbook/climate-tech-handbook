@@ -1,3 +1,21 @@
+
+<!-- Attempt at storing the data in localstorage: this may still work with some tinkering-->
+<!-- {% for page in nav.pages %}
+    <div id="{{ page.url|replace('/', '-') }}-toc" style="display: none;">
+        {{ page.toc }}
+    </div>
+{% endfor %}
+
+{% for page in nav.pages %}
+<script>
+    (function() {
+        let toc = document.getElementById("{{ page.url|replace('/', '-') }}-toc").innerText;
+        let cleanedToc = toc.replace(/\s+/g, ' ').trim();
+        localStorage.setItem("{{ page.url }}-toc", cleanedToc);
+    })();
+</script>
+{% endfor %} -->
+
 <div id="toc-header">
   Table of Contents
 </div>
