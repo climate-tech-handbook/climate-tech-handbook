@@ -14,6 +14,7 @@ Please [start a Discussion thread](https://github.com/orgs/climate-tech-handbook
 
 - Content writers
 - Data analysts
+- Designers
 - Financial contribuors
 - Business advisors for financial sustainability
 - People who love making cool things with data
