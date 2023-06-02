@@ -1,10 +1,9 @@
 ---
 title: Offshore Wind Turbines
 ---
+![Cover Image](/img/offshore-wind-turbines.jpg)
 
-![Cover Image](img/offshore-wind-turbines.jpg)
-
-_Image comparing offshore wind turbine foundations, [windpowerengineering.org](https://www.windpowerengineering.com/comparing-offshore-wind-turbine-foundations/)_
+*Offshore Wind Turbines ([Environment America](https://environmentamerica.org/center/resources/offshore-wind-for-america-3/))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -21,13 +20,10 @@ The development of Offshore Wind Turbines has progressed rapidly in recent years
 
 Some of the key lessons that have been learned in the development and implementation of Offshore Wind Turbines to reverse climate change are:
 
-1) The technology is still in its early stages of development and has not yet been perfected. There have been several failures associated with the technology, including the collapse of the world's first commercial offshore wind farm in Denmark in 1991 and the failure of the blades on the first prototype of the British Wind Energy Association's offshore wind turbine in 1994.
-
-2) The cost of offshore wind energy is still relatively high, making it difficult to compete with other forms of energy such as fossil fuels.
-
-3) There are significant challenges associated with the construction and maintenance of offshore wind turbines, including the need for specialized vessels and equipment, and the risk of severe weather conditions.
-
-4) There is a need for further research and development in order to improve the efficiency of offshore wind turbines and reduce their cost.
+1. The technology is still in its early stages of development and has not yet been perfected. There have been several failures associated with the technology, including the collapse of the world's first commercial offshore wind farm in Denmark in 1991 and the failure of the blades on the first prototype of the British Wind Energy Association's offshore wind turbine in 1994.
+2. The cost of offshore wind energy is still relatively high, making it difficult to compete with other forms of energy such as fossil fuels.
+3. There are significant challenges associated with the construction and maintenance of offshore wind turbines, including the need for specialized vessels and equipment, and the risk of severe weather conditions.
+4. There is a need for further research and development in order to improve the efficiency of offshore wind turbines and reduce their cost.
 
 Several companies and organizations have been at the forefront of the development of offshore wind turbines, including the Danish company Vestas, the British company Dong Energy, and the American company General Electric. There has been significant progress made in the development of offshore wind turbines in recent years, with the installation of the world's first commercial offshore wind farm in Denmark in 1991, and the construction of the world's largest offshore wind farm in the United Kingdom in 2010.
 
