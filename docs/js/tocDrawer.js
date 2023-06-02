@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
             tocDrawer.classList.remove('md-drawer--open');
         }
     })
+});
 
     // THIS IS A TEMPORARY WORKAROUND. THE <EARTH> image uses href="." so no popstate occurs
     // Add some of the other links use "./"
@@ -29,4 +30,3 @@ document.addEventListener('DOMContentLoaded', function() {
     //         });
     //     });
     // });
-});

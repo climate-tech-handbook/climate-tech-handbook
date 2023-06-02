@@ -36,11 +36,6 @@ extra_javascript:
 plugins:
   - tags
   - search
-<<<<<<< HEAD
-  - include-markdown
-  # - social
-=======
->>>>>>> upstream/main
 markdown_extensions:
   # Python Markdown
   - abbr

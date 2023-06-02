@@ -30,6 +30,10 @@
   margin-top: 0;
 }
 
+.md-nav__link {
+  padding-right: 0.8rem;
+}
+
 #toc-drawer {
   box-shadow: -5px 0px 10px rgba(0, 0, 0, 0.2);
 }

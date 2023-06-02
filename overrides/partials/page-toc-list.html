@@ -1,7 +1,7 @@
-{% for toc_item in page.toc %}
 <div id="toc-header">
   Table of Contents
 </div>
+{% for toc_item in page.toc %}
 <a href="{{ toc_item.url }}" class="md-nav__link" style="padding-left: 0.3rem">
   {{ toc_item.title }}
 </a>
