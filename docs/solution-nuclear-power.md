@@ -1,9 +1,9 @@
 ---
 title: Nuclear Power
 ---
+![ A nuclear power plant is similar to a large coal-fired power plant, with pumps, valves, steam generators, turbines, electric generators, condensers, and associated equipment.](/img/nuclear-power.webp)
 
-![Cover Image](https://images.unsplash.com/photo-1591200834528-4050ce99fe78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxOdWNsZWFyJTIwUG93ZXJ8ZW58MHx8fHwxNjgzNzUyNjQ5fDA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@nhippert)
+*Nuclear power plant diagram ([Britannica](https://www.britannica.com/technology/nuclear-power))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -27,32 +27,27 @@ Some of the companies and organizations that have been at the forefront of devel
 ## Lessons Learned
 
 1. Successes: 
--Nuclear power plants emit no greenhouse gases during operation. In fact, the average nuclear power plant prevents the release of more than 2 million metric tons of carbon dioxide each year – which is equivalent to taking 400,000 cars off the road. 
--Nuclear power is carbon-free, and it produces more electricity than any other source of emission-free energy. 
--Nuclear energy provides about 11 percent of the world’s electricity today, and it prevents the release of more than 700 million metric tons of carbon dioxide each year. 
--If we want to meet our climate goals and prevent the most catastrophic effects of climate change, we need to rapidly expand nuclear power.
-
+   -Nuclear power plants emit no greenhouse gases during operation. In fact, the average nuclear power plant prevents the release of more than 2 million metric tons of carbon dioxide each year – which is equivalent to taking 400,000 cars off the road. 
+   -Nuclear power is carbon-free, and it produces more electricity than any other source of emission-free energy. 
+   -Nuclear energy provides about 11 percent of the world’s electricity today, and it prevents the release of more than 700 million metric tons of carbon dioxide each year. 
+   -If we want to meet our climate goals and prevent the most catastrophic effects of climate change, we need to rapidly expand nuclear power.
 2. Failures: 
--The high cost of building nuclear power plants has been a major barrier to their expansion. 
--Nuclear power plants are also very expensive to maintain and decommission. 
--Nuclear accidents, like the one that occurred at the Fukushima Daiichi power plant in Japan in 2011, can cause widespread environmental damage and contamination. 
--Nuclear waste is also a major problem. It is extremely radioactive and can stay dangerous for thousands of years. There is currently no safe way to store it long-term.
-
+   -The high cost of building nuclear power plants has been a major barrier to their expansion. 
+   -Nuclear power plants are also very expensive to maintain and decommission. 
+   -Nuclear accidents, like the one that occurred at the Fukushima Daiichi power plant in Japan in 2011, can cause widespread environmental damage and contamination. 
+   -Nuclear waste is also a major problem. It is extremely radioactive and can stay dangerous for thousands of years. There is currently no safe way to store it long-term.
 3. Lessons Learned: 
--Nuclear power is a low-carbon energy source that can help us meet our climate goals. 
--Nuclear power plants are expensive to build and maintain, and nuclear accidents can cause environmental damage. 
--Nuclear waste is a major problem that needs to be addressed.
+   -Nuclear power is a low-carbon energy source that can help us meet our climate goals. 
+   -Nuclear power plants are expensive to build and maintain, and nuclear accidents can cause environmental damage. 
+   -Nuclear waste is a major problem that needs to be addressed.
 
 ## Challenges Ahead
 
 The challenges that remain in the development and implementation of Nuclear Power to reverse climate change are as follows:
 
 1. Cost: Nuclear power is still relatively expensive when compared to other forms of energy such as natural gas, coal, and renewables.
-
 2. Safety: There is always the potential for accidents and nuclear meltdowns, which could have devastating consequences.
-
 3. Waste: Nuclear waste is highly radioactive and must be carefully managed and disposed of.
-
 4. Proliferation: Nuclear technology can be used for both peaceful and military purposes. There is a risk that nuclear weapons could spread if more countries develop nuclear power.
 
 Despite these challenges, nuclear power remains a promising solution for climate change. Nuclear power is carbon-free and could provide a significant amount of energy without contributing to climate change. If nuclear power is to be widely adopted, the cost must come down and the safety concerns must be addressed.
