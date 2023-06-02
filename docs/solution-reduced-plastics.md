@@ -1,9 +1,9 @@
 ---
 title: Reduced Plastics
 ---
+![Ways to reduce plastic waste such as bringing your own reusable shopping bags](/img/reduced-plastics.webp)
 
-![Cover Image](https://images.unsplash.com/photo-1618277043375-b1f003b0d5a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWR1Y2VkJTIwUGxhc3RpY3N8ZW58MHx8fHwxNjgzNzUzNDA0fDA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@brian_yuri)
+*Simple Ways to Reduce Plastic Waste ([Treehugger](https://www.treehugger.com/easy-ways-reduce-your-plastic-waste-today-4858814))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -27,11 +27,8 @@ A number of companies and organizations have been at the forefront of developing
 Some key lessons that have been learned in the development and implementation of Reduced Plastics to reverse climate change are as follows:
 
 1. Recycling plastic is not enough – we need to reduce our reliance on plastic altogether.
-
 2. There are a variety of ways to reduce our plastic footprint, including reducing our use of single-use plastics, recycling plastic waste, and investing in alternatives to plastic.
-
 3. Companies and organizations play a pivotal role in reducing our plastic footprint – they can help by reducing their own reliance on plastic, investing in recycling infrastructure, and supporting public education campaigns on the issue.
-
 4. Progress is being made – a number of companies have already committed to reducing their reliance on plastic, and various governments have implemented policies to reduce plastic waste.
 
 ## Challenges Ahead
