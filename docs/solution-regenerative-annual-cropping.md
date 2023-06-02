@@ -3,7 +3,7 @@ title: Regenerative Annual Cropping
 ---
 ![Regenerative agriculture enhances ecosystem function, maximizing water absorption, photosynthesis, and carbon sequestration.](/img/regenerative-annual-cropping.jpg)
 
-**Benefits of Regeneration ([Means&Matters ](https://meansandmatters.bankofthewest.com/article/financial-perspectives/industries/how-regenerative-agriculture-tackles-climate-change-from-the-ground-up/))**
+*Benefits of Regeneration ([Means&Matters ](https://meansandmatters.bankofthewest.com/article/financial-perspectives/industries/how-regenerative-agriculture-tackles-climate-change-from-the-ground-up/))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
