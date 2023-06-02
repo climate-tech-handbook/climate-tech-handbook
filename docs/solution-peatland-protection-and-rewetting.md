@@ -1,9 +1,9 @@
 ---
 title: Peatland Protection and Rewetting
 ---
+![](/img/peatland-protection-and-rewetting.png)
 
-![Cover Image](https://images.unsplash.com/photo-1551265358-a5f7aa4a226c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxQZWF0bGFuZCUyMFByb3RlY3Rpb24lMjBhbmQlMjBSZXdldHRpbmd8ZW58MHx8fHwxNjgzNzUyNzgxfDA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@pawelmc)
+*European peatlands gradually drained ([Sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/B9780128191668001274?via%3Dihub))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -28,19 +28,19 @@ Peatland protection and rewetting is a process of restoring and conserving wetla
 
 Some of the technologies that have been developed to help with this process include:
 
--Peatland mapping: This helps to identify areas of peatland that need to be protected or restored.
+\-Peatland mapping: This helps to identify areas of peatland that need to be protected or restored.
 
--Drainage control: This helps to prevent or reduce the amount of water that drains from wetlands, which helps to keep the carbon in the ground.
+\-Drainage control: This helps to prevent or reduce the amount of water that drains from wetlands, which helps to keep the carbon in the ground.
 
--Restoration: This involves re-establishing plants and other vegetation in degraded or drained wetlands. This helps to store more carbon and also provides habitat for wildlife.
+\-Restoration: This involves re-establishing plants and other vegetation in degraded or drained wetlands. This helps to store more carbon and also provides habitat for wildlife.
 
 Some of the companies and organizations that have been working on this solution include:
 
--The Nature Conservancy
+\-The Nature Conservancy
 
--The Wetlands International
+\-The Wetlands International
 
--The Global Peatland Initiative
+\-The Global Peatland Initiative
 
 ## Lessons Learned
 
@@ -69,13 +69,9 @@ Some companies and organizations that have been at the forefront of peatland pro
 Peatland protection and rewetting is a process by which dried out or degraded peatlands are restored to a more natural state by rewetting them with water. This can be done through a variety of methods, including irrigation, hydration, and rewetting with rainwater. Peatland protection and rewetting has a number of benefits, including reducing greenhouse gas emissions, restoring habitat, and improving water quality. In order to effectively mitigate the effects of climate change, peatland protection and rewetting needs to be adopted on a large scale. To ensure that this technology is effective, a number of steps need to be taken, including:
 
 1. Increasing awareness of the importance of peatland protection and rewetting.
-
 2. Conducting more research to improve our understanding of how to effectively protect and rewet peatlands.
-
 3. Working with governments and other organizations to develop policies and regulations that encourage peatland protection and rewetting.
-
 4. Providing financial incentives to landowners and others who protect and rewet peatlands.
-
 5. Monitoring and evaluating the effectiveness of peatland protection and rewetting efforts.
 
 Organizations that have been at the forefront of peatland protection and rewetting include the International Union for Conservation of Nature (IUCN), the United Nations Environment Programme (UNEP), and Wetlands International.
