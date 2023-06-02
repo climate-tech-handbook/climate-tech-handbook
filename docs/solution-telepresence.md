@@ -1,9 +1,9 @@
 ---
 title: Telepresence
 ---
+![CO2 emissions per Lyon-Paris round trip: telepresence robots 0kg, combustion car 179.80kg, electric car 18.44kg, train 2.82kg, airplane 142kg.](/img/telepresence.png)
 
-![Cover Image]()
-Image Credit: [Unsplash]()
+*Telepresence's carbon footprint ([Awabot](https://awabot.com/en/telepresence-robot-carbon-footprint/))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -13,11 +13,8 @@ Image Credit: [Unsplash]()
 The development of Telepresence has been crucial in reversing climate change. Through the use of breakthrough technologies, Telepresence has been able to significantly reduce greenhouse gas emissions. These technologies include:
 
 1. Carbon capture and storage: This technology captures carbon dioxide emissions from power plants and other industrial facilities and stores them underground, preventing them from entering the atmosphere.
-
 2. Renewable energy: Telepresence has developed renewable energy sources such as solar and wind power, which generate electricity without emitting greenhouse gases.
-
 3. Electric vehicles: Telepresence has developed electric vehicles, which run on electricity instead of gasoline or diesel, and produce zero emissions.
-
 4. Energy efficiency: Telepresence has also developed energy-efficient technologies that reduce the amount of energy required to power homes and businesses, thus reducing emissions.
 
 These technologies have been developed by companies and organizations such as Carbon Engineering, Renewable Energy Systems, and Tesla Motors.
@@ -27,17 +24,13 @@ These technologies have been developed by companies and organizations such as Ca
 Some of the breakthrough technologies that have been developed to reduce greenhouse gas emissions through telepresence include:
 
 1. Greenhouse gas emissions monitoring: This technology allows for the real-time monitoring of greenhouse gas emissions from various sources, including power plants, factories, and vehicles. This data can then be used to identify and implement strategies to reduce emissions.
-
 2. Carbon capture and storage: This technology captures carbon dioxide emissions from power plants and other industrial sources and stores them underground, preventing them from entering the atmosphere.
-
 3. Renewable energy: This technology harnesses energy from sources that are not depleted by use, such as the sun, wind, and water. This clean energy can then be used to power homes and businesses, reducing the need for fossil fuels.
 
 Some of the companies and organizations at the forefront of developing and implementing these technologies include:
 
 1. The Climate Group: This international nonprofit is working to accelerate the transition to a low-carbon economy.
-
 2. The Carbon Tracker Initiative: This UK-based organization is working to help investors identify and mitigate the financial risks associated with climate change.
-
 3. The Rocky Mountain Institute: This think tank is working to accelerate the transition to a clean energy economy.
 
 ## Lessons Learned
@@ -69,31 +62,19 @@ Finally, there is a need for more awareness of Telepresence and its potential to
 There is no one-size-fits-all answer to this question, as the best path forward for the continued development and implementation of Telepresence will vary depending on the specific needs and circumstances of each individual community or country. However, some general steps that need to be taken to ensure that Telepresence is adopted on a large scale and is effective include:
 
 1. Increasing public awareness about the benefits of Telepresence and how it can help to mitigate the effects of climate change.
-
 2. Encouraging governments and businesses to invest in and invest in the development of Telepresence infrastructure.
-
 3. Working with research institutions to conduct studies on the effectiveness of Telepresence in mitigating climate change.
-
 4. Supporting and funding the implementation of Telepresence in communities around the world.
 
 Some companies and organizations that have been at the forefront of developing and implementing Telepresence include:
 
 1. Cisco
-
 2. Microsoft
-
 3. Google
-
 4. IBM
-
 5. HP
-
 6. Deloitte
-
 7. McKinsey & Company
-
 8. KPMG
-
 9. EY
-
 10. PwC
