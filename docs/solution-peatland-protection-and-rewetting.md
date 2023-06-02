@@ -1,7 +1,7 @@
 ---
 title: Peatland Protection and Rewetting
 ---
-![](/img/peatland-protection-and-rewetting.png)
+![Drained peatlands emit substantial amounts of carbon dioxide and have lost their important habitat function as well as their role as nutrient sinks and water storages.](/img/peatland-protection-and-rewetting.png)
 
 *European peatlands gradually drained ([Sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/B9780128191668001274?via%3Dihub))*
 
