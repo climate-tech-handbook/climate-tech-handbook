@@ -1,9 +1,9 @@
 ---
 title: Small Hydropower
 ---
+![In a basic Micro Hydro Power Plant (MHPP), water is extracted directly from its natural course, driven downhill via a penstock, and led into a powerhouse for power generation.](/img/small-hydropower.png)
 
-![Cover Image](https://images.unsplash.com/photo-1614350292382-c448d0110dfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxTbWFsbCUyMEh5ZHJvcG93ZXJ8ZW58MHx8fHwxNjgzNzUzNTUzfDA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@gabiontheroad)
+*Scheme of a typical Micro-Hydro Power Plants ([MDPI Open Access Journals](https://www.mdpi.com/1996-1073/12/5/878))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -23,11 +23,8 @@ Progress has been made in developing Small Hydropower to reverse climate change 
 Some of the key lessons that have been learned in the development and implementation of Small Hydropower to reverse climate change are as follows:
 
 1. Small hydropower can be an important source of renewable energy, contributing to the fight against climate change.
-
 2. Small hydropower can be cost-effective, with levelized costs of electricity (LCOE) often competitive with other renewable energy technologies.
-
 3. Small hydropower can provide grid stability and flexibility, helping to integrating larger shares of renewable energy onto the grid.
-
 4. Small hydropower development can sometimes be controversial, with concerns about impacts on the environment, local communities, and indigenous peoples. Careful planning and engagement with all stakeholders is essential to ensuring successful projects.
 
 Some companies and organizations that have been at the forefront of small hydropower development include the International hydropower Association (IHA), the Small Hydropower Association (SHPA), and various national and regional hydropower associations.
@@ -47,11 +44,8 @@ Despite the potential benefits of small hydropower, it is important to consider 
 The best path forward for the continued development and implementation of Small Hydropower to effectively mitigate the effects of climate change is to continue to develop the technology and make it more accessible to people. Steps that need to be taken to ensure that this technology is adopted on a large scale and is effective include: 
 
 1. Increasing awareness of small hydropower and its potential benefits.
-
 2. Making small hydropower more affordable and accessible.
-
 3. Improving the efficiency of small hydropower systems.
-
 4. Supporting research and development of small hydropower technologies.
 
 Some companies and organizations that have been at the forefront of developing and promoting small hydropower include the International Renewable Energy Agency (IRENA), the United Nations Development Programme (UNDP), and the World Bank.
