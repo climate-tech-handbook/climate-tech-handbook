@@ -1,5 +1,5 @@
 ---
-Title: Coastal and Ocean Sinks
+title: Coastal and Ocean Sinks
 Description: 
 icon: fontawesome/solid/water
 ---

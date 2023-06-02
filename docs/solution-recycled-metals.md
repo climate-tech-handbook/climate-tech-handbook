@@ -1,7 +1,9 @@
-# Recycled Metals
+---
+title: Recycled Metals
+---
+![](/img/recycled-metals.jpg)
 
-![Cover Image](https://images.unsplash.com/photo-1625662276901-4a7ec44fbeed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWN5Y2xlZCUyME1ldGFsc3xlbnwwfHx8fDE2ODM3NTMyNzJ8MA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@v2osk)
+*Recycled Metals ([Zore's Recycling](https://www.zoresrecycling.com/blog/3-categories-of-metal-that-can-be-recycled/))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -20,18 +22,18 @@ There are a number of other companies and organizations that are working on this
 
 The progress that has been made in developing Recycled Metals to reverse climate change is significant. Some of the breakthrough technologies that have been developed include:
 
-- The development of efficient recycling processes that can recycle metals with minimal loss of material.
-- The development of new alloys and composites that make use of recycled metals.
-- The development of new manufacturing processes that use recycled metals instead of virgin materials.
+* The development of efficient recycling processes that can recycle metals with minimal loss of material.
+* The development of new alloys and composites that make use of recycled metals.
+* The development of new manufacturing processes that use recycled metals instead of virgin materials.
 
 These technologies have contributed to the reduction of greenhouse gas emissions by reducing the need to mine and process virgin materials. Additionally, they have closed the loop on metal production, making it more sustainable.
 
 Some companies and organizations that have been at the forefront of this solution include:
 
-- Greencopper
-- Recycling Technologies
-- TerraCycle
-- Ecometals Technologies
+* Greencopper
+* Recycling Technologies
+* TerraCycle
+* Ecometals Technologies
 
 ## Lessons Learned
 
@@ -50,11 +52,8 @@ In order to make progress in this area, it is important to learn from lessons th
 There is no single answer to the question of the best path forward for the continued development and implementation of recycled metals to effectively mitigate the effects of climate change. However, a few key steps that need to be taken to ensure that this technology is adopted on a large scale and is effective include:
 
 1. Increasing public awareness of the benefits of recycling metals.
-
 2. Encouraging businesses and industries to recycle metals.
-
 3. Improving infrastructure for recycling metals.
-
 4. Conducting research to develop more efficient and effective methods of recycling metals.
 
 Some companies and organizations that have been at the forefront of promoting recycled metals include the American Iron and Steel Institute, the Aluminum Association, and the Institute of Scrap Recycling Industries.

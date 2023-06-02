@@ -1,7 +1,9 @@
-# Recycled Plastics
+---
+title: Recycled Plastics
+---
+![The process of plastic recycling: collection, sorting, baling, shredding and cleaning, melting and extrusion, pelletizing.](/img/recycled-plastics.png)
 
-![Cover Image](https://images.unsplash.com/photo-1558640476-437a2b9438a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWN5Y2xlZCUyMFBsYXN0aWNzfGVufDB8fHx8MTY4Mzc1MzMyN3ww&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@brian_yuri)
+*Plastic Recycling Process ([Suez](https://www.suez.co.uk/en-gb/our-offering/communities-and-individuals/education-tools-and-resources/what-happens-to-waste/recycling/plastic))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -35,19 +37,14 @@ Overall, the key lesson that has been learned is that recycled plastics can be a
 The major challenges that remain in the development and implementation of Recycled Plastics to reverse climate change are:
 
 1. Recycled plastics still have a lower quality than virgin plastics, which means they can only be used in certain applications.
-
 2. The process of recycling plastics is energy intensive, which makes it expensive.
-
 3. There is a lack of infrastructure for recycling plastics, which makes it difficult to scale up.
-
 4. There is a lack of awareness about the benefits of recycling plastics, which makes it difficult to convince people to change their behavior.
 
 Some companies and organizations that have been at the forefront of this solution are:
 
 1. The Recycling Partnership: This organization helps communities set up and improve their recycling infrastructure.
-
 2. TerraCycle: This company makes products from recycled materials, including plastics.
-
 3. Loop Industries: This company has developed a process to recycle plastics into new, virgin-quality materials.
 
 ## Best Path Forward

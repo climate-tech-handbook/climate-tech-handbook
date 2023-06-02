@@ -1,5 +1,5 @@
 ---
-Title: Land Sinks
+title: Land Sinks
 Description: 
 icon: material/grass
 ---
@@ -14,6 +14,13 @@ icon: material/grass
 
 </div>
 
+Land sinks are a type of carbon sequestration that refers to the capture and storage of carbon dioxide in the soil. 
+
+Examples:
+
+- Planting trees
+- No-till agriculture
+- Restoring wetlands
 
 ## Solutions in this Sector
 

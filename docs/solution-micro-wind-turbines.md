@@ -1,7 +1,9 @@
-# Micro Wind Turbines
+---
+title: Micro Wind Turbines
+---
+![Four micro-wind turbines on the roof of Hoff Hall](/img/micro-wind-turbines.jpg)
 
-![Cover Image](https://images.unsplash.com/photo-1519744434498-a0de604df9db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxNaWNybyUyMFdpbmQlMjBUdXJiaW5lc3xlbnwwfHx8fDE2ODM3NTI1MzZ8MA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@jr16_photography)
+*Micro-wind turbines on the roof ([Castleton University](https://www.castleton.edu/news-media/article/castleton-is-first-to-add-micro-wind-turbine-technology/))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -11,25 +13,17 @@ Image Credit: [Unsplash](https://unsplash.com/@jr16_photography)
 The progress that has been made in developing Micro Wind Turbines to reverse climate change is significant. In the past decade, there have been many breakthrough technologies that have been developed that have contributed to the reduction of greenhouse gas emissions. Some of these breakthrough technologies include:
 
 1. Vertical axis wind turbines: These turbines are more efficient than traditional horizontal axis wind turbines and can be placed in a wider range of locations.
-
 2. Small-scale wind turbines: These turbines are designed for use in small spaces, such as on rooftops.
-
 3. Distributed wind turbines: These turbines are spread out over a larger area, making them less intrusive and more efficient.
-
 4. Wind farms: These are large-scale wind farms that generate a significant amount of electricity.
-
 5. Offshore wind farms: These are wind farms that are built in offshore locations, such as in the ocean.
 
 There are many companies and organizations that have been at the forefront of developing and implementing these technologies. Some of these companies and organizations include:
 
 1. Vestas: This is a Danish wind turbine manufacturer that is the largest in the world.
-
 2. GE: This is an American multinational conglomerate that is one of the largest manufacturers of wind turbines in the world.
-
 3. Siemens: This is a German multinational conglomerate that is one of the largest manufacturers of wind turbines in the world.
-
 4. Iberdrola: This is a Spanish electric utility company that is the largest producer of wind energy in the world.
-
 5. EDF: This is a French electric utility company that is the second largest producer of wind energy in the world.
 
 ## Progress Made
@@ -41,9 +35,7 @@ The development of micro wind turbines has progressed rapidly in recent years in
 Some of the key lessons that have been learned in the development and implementation of Micro Wind Turbines to reverse climate change are as follows: 
 
 1. The need for a robust and efficient technology: In order to be effective, micro wind turbines need to be able to generate enough power to make a significant difference. They also need to be able to withstand harsh weather conditions and be durable enough to last for many years.
-
 2. The importance of a good location: Micro wind turbines need to be installed in locations where there is a strong and consistent wind resource. Without a good location, the turbines will not be able to generate enough power to be effective.
-
 3. The need for supportive policies: In order for micro wind turbines to be successful, there need to be supportive policies in place. This includes policies that provide financial incentives for installing the turbines, as well as policies that mandate the use of renewable energy.
 
 Some of the companies and organizations that have been at the forefront of this solution include the National Renewable Energy Laboratory (NREL) and the Department of Energy (DOE). Progress has been made in this area, but there is still more work to be done.
@@ -84,10 +76,7 @@ Governments can create regulations, such as building codes, that require the use
 
 There are many companies and organizations that have been working on the development and deployment of MWTs. A few examples include:
 
-- GE Renewable Energy: GE is a major manufacturer of MWTs.
-
-- Vestas: Vestas is the world's largest manufacturer of wind turbines.
-
-- Siemens: Siemens is another major manufacturer of MWTs.
-
-- American Wind Energy Association (AWEA): The AWEA is a trade association that represents the wind energy industry.
+* GE Renewable Energy: GE is a major manufacturer of MWTs.
+* Vestas: Vestas is the world's largest manufacturer of wind turbines.
+* Siemens: Siemens is another major manufacturer of MWTs.
+* American Wind Energy Association (AWEA): The AWEA is a trade association that represents the wind energy industry.

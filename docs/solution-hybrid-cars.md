@@ -1,4 +1,6 @@
-# Hybrid Cars
+---
+title: Hybrid Cars
+---
 
 ![Cover Image](img/hyrid-car.jpg)
 

@@ -1,7 +1,9 @@
-# Microgrids
+---
+title: Microgrids
+---
+![A microgrid comprises three basic components: an energy generator, a storage unit, and a controller to manage energy flow and usage.](/img/microgrids.jpg)
 
-![Cover Image]()
-Image Credit: [Unsplash]()
+*Microgrid schematic ([Energy Producing Retail Realty](https://www.eprsquared.com/the-solar-industrys-new-power-player-2/))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -25,13 +27,9 @@ There are a number of other companies and organizations that are working on ener
 Some key lessons that have been learned in the development and implementation of Microgrids to reverse climate change are as follows:
 
 1. Microgrids can provide a reliable and resilient power supply, which is critical for mitigating the impacts of climate change.
-
 2. Microgrids can help to reduce greenhouse gas emissions by providing clean and renewable energy.
-
 3. Microgrids can be customized to meet the specific needs of a community, which makes them more effective and efficient.
-
 4. Microgrids require careful planning and coordination in order to be successful, and their implementation can be challenging.
-
 5. There are a number of organizations and companies that are leading the way in developing and implementing microgrids, and they can provide valuable lessons and resources.
 
 ## Challenges Ahead

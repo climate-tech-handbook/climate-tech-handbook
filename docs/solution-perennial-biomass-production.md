@@ -1,7 +1,9 @@
-# Perennial Biomass Production
+---
+title: Perennial Biomass Production
+---
+![This picture compares annual and perennial plants as well as highlight the ability of perennial plants to sequester or hold carbon and decrease runoff and erosion.](/img/perennial-biomass-production.webp)
 
-![Cover Image](https://images.unsplash.com/photo-1579702493516-a66f78d8d1dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxQZXJlbm5pYWwlMjBCaW9tYXNzJTIwUHJvZHVjdGlvbnxlbnwwfHx8fDE2ODM3NTMxNzJ8MA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/fr/@austriannationallibrary)
+*Annuals vs. Perennials ([Medium)](https://medium.com/@emilycritelli/perennial-biomass-production-reshaping-climate-by-reshaping-bio-energy-a-renewable-resource-eb668ca9a7ca)*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -25,13 +27,9 @@ Despite these challenges, there have been some successes associated with the dev
 ## Challenges Ahead
 
 1. One of the main challenges that remain in the development and implementation of Perennial Biomass Production is the lack of available land to scale up the technology. According to the Food and Agriculture Organization of the United Nations, the total global land area suitable for cultivation is 12 billion hectares, but only 4 billion hectares are currently being used for crops and pasture (1). This leaves 8 billion hectares of potential land that could be used to grow crops for biomass production; however, a large portion of this land is either unsuitable for cultivation or is already being used for other purposes, such as urban development or conservation. In order to meet the demand for biomass feedstocks, it will be necessary to find ways to increase the amount of land available for cultivation.
-
 2. Another challenge that needs to be addressed is the issue of water availability. Perennial crops require more water than annual crops, and in many parts of the world, water resources are already under strain. According to the World Water Council, by 2025, it is estimated that 1.8 billion people will live in countries or regions with absolute water scarcity, and 2/3 of the world’s population could be living under water-stressed conditions (2). Finding ways to increase water efficiency in biomass production will be critical to scaling up the technology.
-
 3. There are also challenges associated with the costs of biomass production. Perennial crops require more initial investment than annual crops, and they also have higher maintenance costs. In addition, the infrastructure required to collect and transport biomass feedstocks can be costly. According to the International Renewable Energy Agency, the levelized cost of energy from biomass is currently between $0.05 and $0.20 per kilowatt-hour, which is higher than the cost of energy from some other renewable sources, such as wind and solar (3). Finding ways to reduce the costs of biomass production will be essential to making the technology more commercially viable.
-
 4. Despite the challenges that remain, there has been significant progress made in the development and implementation of Perennial Biomass Production. A number of companies and organizations have been at the forefront of this technology, including GreenPower International, DuPont, and the U.S. Department of Energy. GreenPower International is a leading developer of biomass power plants, with more than 30 plants in operation or under construction around the world (4). DuPont is a major producer of cellulosic ethanol, and the company’s facility in Iowa is the largest cellulosic ethanol plant in the world (5). The U.S. Department of Energy has been supporting research and development of biomass technologies for many years, and the department’s Bioenergy Technologies Office has invested more than $1.3 billion in biomass R&D since 2009 (6).
-
 5. These companies and organizations have made significant progress in developing and implementing Perennial Biomass Production, but there is still more work to be done. Scaling up the technology to meet the demand for biomass feedstocks will require continued investment in research and development, and the construction of more biomass power plants and cellulosic ethanol facilities. In addition, finding ways to reduce the costs of biomass production and increase the amount of land available for cultivation will be critical to making the technology more widely adopted.
 
 (1) http://www.fao.org/3/a-i4793e.pdf

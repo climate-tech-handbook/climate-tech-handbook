@@ -1,4 +1,6 @@
-# Dynamic Glass
+---
+title: Dynamic Glass
+---
 
 ![Cover Image](img/dynamic-glass.jpg)
 

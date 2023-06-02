@@ -1,4 +1,6 @@
-# Improved Cattle Feed
+---
+title: Improved Cattle Feed
+---
 
 ![Cover Image](img/improved-cattle-feed.png)
 

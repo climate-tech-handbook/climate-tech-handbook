@@ -1,6 +1,6 @@
 site_name: Climate Tech Handbook
 site_url: https://www.climatetechhandbook.com
-site_description: Your community source of truth for climate tech solutions.
+site_description: We're on a mission to build the most accessible and accurate climate tech resource on the planet.
 use_directory_urls: True
 theme:
   name: material
@@ -73,7 +73,7 @@ markdown_extensions:
 nav:
   - "Home": index.md
   - "Solutions":
-      - solutions/index.md
+      - Choose a sector: solutions/index.md
       - Electricity: sector-electricity.md
       - Food, Agriculture, and Land Use: sector-food-agriculture-and-land-use.md
       - Industry: sector-industry.md

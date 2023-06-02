@@ -1,3 +1,6 @@
+---
+title: Glossary
+---
 # Glossary
 
 !!! Warning "Heavy work in progress"

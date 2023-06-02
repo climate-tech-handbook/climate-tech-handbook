@@ -1,7 +1,9 @@
-# Utility-Scale Solar Photovoltaics
+---
+title: Utility-Scale Solar Photovoltaics
+---
+![NREL Illustration of Typical Ground-Mounted Utility-Scale Solar PV Installation](/img/utility-scale-solar-photovoltaics.jpg)
 
-![Cover Image](https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxVdGlsaXR5LVNjYWxlJTIwU29sYXIlMjBQaG90b3ZvbHRhaWNzfGVufDB8fHx8MTY4Mzc1Mzg3OXww&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@rgaleriacom)
+*NREL Illustration of Typical Ground-Mounted Utility-Scale Solar PV Installation ([Northwest Power and Conservation Council](https://www.nwcouncil.org/2021powerplan_utility-scale-solar-pv_generating-resource-reference-plants/))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

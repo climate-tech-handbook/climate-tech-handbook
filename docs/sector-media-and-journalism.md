@@ -1,21 +1,16 @@
 ---
-Title: Media and Journalism
+title: Media and Journalism
 Description: 
 icon: fontawesome/solid/pencil
 ---
 
 # :fontawesome-solid-pencil: Media and Journalism
 
-## Sector Overview
+A strong fearless media will allow us to:
 
-_insert description and emissions pie chart_
+* Communicate the urgency of the climate crisis
 
-
-## Solutions in this Sector
-
- -
- -
- -
+* Hold large powerful institutions accountable for telling the truth and acting with integrity.
 
 ---
 

@@ -1,4 +1,6 @@
-# Improved Rice Production
+---
+title: Improved Rice Production
+---
 
 ![Cover Image](img/improved-rice-production.jpg)
 

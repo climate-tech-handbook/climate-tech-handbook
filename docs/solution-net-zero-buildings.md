@@ -1,4 +1,6 @@
-# Net Zero Buildings
+---
+title: Net Zero Buildings
+---
 
 ![Cover Image](img/net-zero-buildings.jpg)
 

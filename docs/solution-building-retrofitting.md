@@ -1,4 +1,6 @@
-# Building Retrofitting
+---
+title: Building Retrofitting
+---
 
 ![Cover Image](img/building-retrofitting.jpg)
 

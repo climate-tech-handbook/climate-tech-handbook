@@ -1,7 +1,9 @@
-# Utility-Scale Energy Storage
+---
+title: Utility-Scale Energy Storage
+---
+![](/img/utility-scale-energy-storage.jpg)
 
-![Cover Image](https://images.unsplash.com/photo-1515191107209-c28698631303?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxVdGlsaXR5LVNjYWxlJTIwRW5lcmd5JTIwU3RvcmFnZXxlbnwwfHx8fDE2ODM3NTM4NDZ8MA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@mbrunacr)
+*Solar PV and Wind energy Storage ([NREL](https://www.nrel.gov/news/program/2021/grid-scale-storage-us-storage-capacity-could-grow-five-fold-by-2050.html))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -11,17 +13,13 @@ Image Credit: [Unsplash](https://unsplash.com/@mbrunacr)
 The development of Utility-Scale Energy Storage has made great strides in reversing climate change. Some of the breakthrough technologies that have been developed include:
 
 1. Battery Storage: This technology allows for the storing of energy in batteries, which can then be used to power homes and businesses when needed. This has helped to reduce the reliance on fossil fuels and has helped to reduce greenhouse gas emissions.
-
 2. Solar PV Storage: Solar PV Storage technology allows for the storing of energy from solar panels in order to provide power when the sun is not shining. This has helped to reduce the reliance on fossil fuels and has helped to reduce greenhouse gas emissions.
-
 3. Wind Energy Storage: Wind Energy Storage technology allows for the storing of energy from wind turbines in order to provide power when the wind is not blowing. This has helped to reduce the reliance on fossil fuels and has helped to reduce greenhouse gas emissions.
 
 Some of the companies and organizations that have been at the forefront of developing Utility-Scale Energy Storage solutions include:
 
 1. Tesla: Tesla is a company that manufactures batteries and has developed a home battery system called the Powerwall. This system allows homeowners to store energy from solar panels and use it to power their homes when needed.
-
 2. SunPower: SunPower is a company that manufactures solar panels and has developed a solar PV storage system called the SunPower Storage System. This system allows homeowners to store energy from solar panels and use it to power their homes when needed.
-
 3. Green Mountain Power: Green Mountain Power is a utility company that has developed a wind energy storage system called the Green Mountain Power Wind Storage System. This system allows the utility company to store energy from wind turbines and use it to power homes and businesses when needed.
 
 ## Progress Made
@@ -29,9 +27,7 @@ Some of the companies and organizations that have been at the forefront of devel
 The development of utility-scale energy storage has made great progress in reversing climate change. Some of the breakthrough technologies that have been developed include:
 
 1. Lithium-ion batteries: These batteries have a high energy density, which makes them ideal for utility-scale energy storage. They are also relatively cheaper than other types of batteries.
-
 2. Flow batteries: Flow batteries have a longer life span than lithium-ion batteries and can be easily scaled up to utility-scale.
-
 3. Supercapacitors: Supercapacitors can store a large amount of energy and can be quickly discharged, making them ideal for applications such as load leveling and grid stabilization.
 
 Some of the companies and organizations that have been at the forefront of developing utility-scale energy storage solutions include Tesla, LG, and Samsung.

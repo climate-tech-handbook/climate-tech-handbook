@@ -1,4 +1,6 @@
-# Biomass Power
+---
+title: Biomass Power
+---
 
 ![Cover Image](img/biomass-power-plant.jpg)
 

@@ -1,7 +1,9 @@
-# Methane Digesters
+---
+title: Methane Digesters
+---
+![Manure is heated in tanks, collecting gas and extracting liquid fertilizer. The remaining solids become odorless, bacteria-free compost and cow bedding.](/img/methane-digesters.jpg)
 
-![Cover Image](https://images.unsplash.com/photo-1573731541652-faf8035adb47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxNZXRoYW5lJTIwRGlnZXN0ZXJzfGVufDB8fHx8MTY4Mzc1MjQ3N3ww&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@meguminachev)
+*Methane digester working process ([Farm Credit](https://www.findfarmcredit.com/landscapes-articles/methane-digesters-101))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -32,25 +34,18 @@ Despite the challenges, there has been a lot of progress made in the development
 
 The challenges that remain in the development and implementation of methane digesters to reverse climate change are:
 
-1) The cost of methane digesters is still relatively high, making them unaffordable for many people and businesses.
-
-2) There is a lack of awareness of methane digesters and how they can help fight climate change.
-
-3) There is a need for more research and development to improve the technology and make it more efficient.
-
-4) There is a need for more government support to encourage the adoption of methane digesters.
+1. The cost of methane digesters is still relatively high, making them unaffordable for many people and businesses.
+2. There is a lack of awareness of methane digesters and how they can help fight climate change.
+3. There is a need for more research and development to improve the technology and make it more efficient.
+4. There is a need for more government support to encourage the adoption of methane digesters.
 
 Some companies and organizations that have been at the forefront of this solution are:
 
-1) Climate Change Solutions
-
-2) Carbon footprint
-
-3) Environmental Defense Fund
-
-4) Natural Resources Defense Council
-
-5) Sierra Club
+1. Climate Change Solutions
+2. Carbon footprint
+3. Environmental Defense Fund
+4. Natural Resources Defense Council
+5. Sierra Club
 
 ## Best Path Forward
 

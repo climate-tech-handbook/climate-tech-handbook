@@ -1,7 +1,9 @@
-# System of Rice Intensification
+---
+title: System of Rice Intensification
+---
+![Integrated System of Rice Intensification blended SRI water management with diversified farming (polyculture). A 350m2 plot comprised rice fields, a small pond for irrigation and fish, and bunds for horticultural crops.](/img/system-of-rice-intensification.jpg)
 
-![Cover Image](https://images.unsplash.com/photo-1564834744159-ff0ea41ba4b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxTeXN0ZW0lMjBvZiUyMFJpY2UlMjBJbnRlbnNpZmljYXRpb258ZW58MHx8fHwxNjgzNzUzNjczfDA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/es/@milkbox)
+*Lay-out design of Integrated System of Rice Intensification ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S037837741530055X#fig0005))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -33,11 +35,8 @@ Several companies and organizations are at the forefront of promoting SRI, inclu
 The progress that has been made in developing System of Rice Intensification to reverse climate change is significant. New technologies have been developed that have contributed to the reduction of greenhouse gas emissions. These technologies include:
 
 1. Improved irrigation systems that use less water and are more efficient.
-
 2. Improved seeds that are more resistant to pests and diseases.
-
 3. Improved fertilizer application methods that reduce wastage and leaching.
-
 4. Improved crop management practices that optimize growth and yield.
 
 Organizations such as the International Rice Research Institute (IRRI) and the World Bank have been at the forefront of promoting and supporting the adoption of SRI practices. In recent years, many companies and farmers have started to adopt SRI practices, and the results have been very positive. SRI has been shown to increase yield, reduce water use, and improve soil health. These benefits have all contributed to the reduction of greenhouse gas emissions.
@@ -47,15 +46,10 @@ Organizations such as the International Rice Research Institute (IRRI) and the W
 Some key lessons that have been learned in the development and implementation of System of Rice Intensification to reverse climate change are as follows:
 
 1. It is important to carry out research and development activities to improve the productivity and efficiency of the technology.
-
 2. It is necessary to engage stakeholders in the process of developing and implementing the technology.
-
 3. There should be a clear and consistent policy framework to guide the development and implementation of the technology.
-
 4. The technology should be made accessible to small-scale farmers.
-
 5. The technology should be affordable for small-scale farmers.
-
 6. The technology should be easy to use and understand.
 
 ## Challenges Ahead
@@ -63,13 +57,9 @@ Some key lessons that have been learned in the development and implementation of
 The challenges that remain in the development and implementation of the System of Rice Intensification (SRI) to reverse climate change are:
 
 1. Lack of awareness: There is still lack of awareness about SRI among farmers, extension workers and policy-makers. There is a need to create more awareness about the potential of SRI in reversing climate change.
-
 2. Lack of technical knowledge and skills: Many farmers and extension workers do not have the technical knowledge and skills required for implementing SRI. There is a need to provide more training and support to these groups.
-
 3. Lack of financial resources: Many farmers do not have the financial resources required for adopting SRI. There is a need to provide more financial support to farmers for adopting SRI.
-
 4. Lack of infrastructure: There is still lack of infrastructure for supporting SRI adoption, such as irrigation facilities, storage facilities and processing facilities. There is a need to improve infrastructure for supporting SRI adoption.
-
 5. Socio-cultural barriers: There are still some socio-cultural barriers that prevent farmers from adopting SRI, such as beliefs and customs. There is a need to create more awareness about the potential of SRI in reversing climate change and to address these socio-cultural barriers.
 
 ## Best Path Forward
@@ -77,9 +67,7 @@ The challenges that remain in the development and implementation of the System o
 The best path forward for the continued development and implementation of System of Rice Intensification to effectively mitigate the effects of climate change is to ensure that it is adopted on a large scale and is effective. Steps that need to be taken to ensure this include:
 
 1. Increasing awareness of System of Rice Intensification and its benefits among rice farmers and other stakeholders.
-
 2. Conducting more research to further develop and refine the technology.
-
 3. Supporting and promoting the adoption of System of Rice Intensification by providing training, extension services, and financial incentives.
 
 Some of the companies and organizations that have been at the forefront of this solution include the International Rice Research Institute (IRRI), the System of Rice Intensification Network (SRI-Rice), and the Center for Sustainability and the Global Environment (SAGE).

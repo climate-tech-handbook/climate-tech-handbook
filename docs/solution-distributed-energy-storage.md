@@ -1,4 +1,6 @@
-# Distributed Energy Storage
+---
+title: Distributed Energy Storage
+---
 
 ![Distributed Energy Storage diagram](img/distributed-energy-storage.jpg)
 

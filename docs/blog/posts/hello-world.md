@@ -4,7 +4,7 @@ tags:
   - launch
   - software
 authors:
-    - alexmayberry
+  - alexmayberry
 ---
 
 # Hello (Climate Tech Blogging) world!

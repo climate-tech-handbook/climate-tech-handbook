@@ -1,4 +1,6 @@
-# High-Speed Rail
+---
+title: High-Speed Rail
+---
 
 ![Cover Image](img/high-speed-rail.jpg)
 

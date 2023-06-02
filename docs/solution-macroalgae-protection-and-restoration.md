@@ -1,7 +1,9 @@
-# Macroalgae Protection and Restoration
+---
+title: Macroalgae Protection and Restoration
+---
+![Ocean-based climate solutions involve protecting/restoring blue carbon sinks, expanding seaweed farming, all implementable within Marine Protected Areas (MPAs).](/img/macroalgae-protection-and-restoration.jpg)
 
-![Cover Image](https://images.unsplash.com/photo-1551265358-a5f7aa4a226c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxNYWNyb2FsZ2FlJTIwUHJvdGVjdGlvbiUyMGFuZCUyMFJlc3RvcmF0aW9ufGVufDB8fHx8MTY4MzY1OTU0NA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@pawelmc)
+*Expanding macroalgae to respond to climate change ([The Proceedings of the National Academy of Sciences ](https://www.pnas.org/doi/10.1073/pnas.2121705119))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -28,13 +30,13 @@ There are many companies and organizations that have been at the forefront of de
 
 Some of the key lessons that have been learned in the development and implementation of Macroalgae Protection and Restoration to reverse climate change include the importance of:
 
--Focusing on high-impact areas: macroalgae restoration efforts should be focused on areas where they will have the greatest impact in terms of mitigating climate change.
+\-Focusing on high-impact areas: macroalgae restoration efforts should be focused on areas where they will have the greatest impact in terms of mitigating climate change.
 
--Engaging local communities: in order for macroalgae restoration to be successful, it is essential to engage local communities and get their buy-in.
+\-Engaging local communities: in order for macroalgae restoration to be successful, it is essential to engage local communities and get their buy-in.
 
--Creating incentives: there need to be financial and other incentives in place to encourage people to participate in macroalgae restoration efforts.
+\-Creating incentives: there need to be financial and other incentives in place to encourage people to participate in macroalgae restoration efforts.
 
--Monitoring and evaluation: it is important to monitor and evaluate the progress of macroalgae restoration efforts in order to make sure that they are effective and to make necessary adjustments.
+\-Monitoring and evaluation: it is important to monitor and evaluate the progress of macroalgae restoration efforts in order to make sure that they are effective and to make necessary adjustments.
 
 ## Challenges Ahead
 
@@ -47,17 +49,12 @@ Organizations such as the Global Seaweed Industry Association (GSIA) are working
 The best path forward for the continued development and implementation of Macroalgae Protection and Restoration to effectively mitigate the effects of climate change is to further research and develop this technology so that it can be adopted on a large scale. There are a number of steps that need to be taken in order to ensure that this technology is effective, including:
 
 1. Increasing investment in research and development - In order to make Macroalgae Protection and Restoration technology more widely available, it is important to increase investment in research and development. This will help to improve the technology and make it more affordable.
-
 2. Working with governments and policy makers - It is important to work with governments and policy makers in order to promote the adoption of Macroalgae Protection and Restoration technology. This includes raising awareness of the benefits of this technology and working to create incentives for its use.
-
 3. Partnerships with industry - In order to make Macroalgae Protection and Restoration technology more widely available, it is important to partner with industry. This includes working with companies that are already using this technology and those that could potentially benefit from its use.
 
 Some companies and organizations that have been at the forefront of this solution include:
 
 1. Algae Biomass Organization - The Algae Biomass Organization is a non-profit trade association that promotes the use of algae for biofuels and other products.
-
 2. AlgaeFuelSystems - AlgaeFuelSystems is a company that produces algae-based biofuels.
-
 3. Sapphire Energy - Sapphire Energy is a company that produces algae-based biofuels.
-
 4. Solazyme - Solazyme is a company that produces algae-based biofuels.
