@@ -1,9 +1,9 @@
 ---
 title: Tree Plantations (on Degraded Land)
 ---
+![](/img/tree-plantations-on-degraded-land-.jpg)
 
-![Cover Image](https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxUcmVlJTIwUGxhbnRhdGlvbnMlMjAlMjhvbiUyMERlZ3JhZGVkJTIwTGFuZCUyOXxlbnwwfHx8fDE2ODM3NTM3ODN8MA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@emben)
+*Benefits of tree-based restoration ([Nature](https://www.nature.org/content/dam/tnc/nature/en/documents/Business_of_Planting_Trees_Report.pdf))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -26,11 +26,11 @@ Several companies and organizations have been at the forefront of developing tre
 
 Some key lessons that have been learned in the development and implementation of tree plantations (on degraded land) to reverse climate change are as follows: 
 
--It is important to ensure that the trees planted are of a species that is native to the area. This will help to ensure that the trees are able to thrive in the local environment and will not require a lot of additional resources (such as water) to survive.
+\-It is important to ensure that the trees planted are of a species that is native to the area. This will help to ensure that the trees are able to thrive in the local environment and will not require a lot of additional resources (such as water) to survive.
 
--It is also important to ensure that the trees are planted in an area that has been properly prepared. This means clearing the area of any debris and other obstacles that could impede the growth of the trees.
+\-It is also important to ensure that the trees are planted in an area that has been properly prepared. This means clearing the area of any debris and other obstacles that could impede the growth of the trees.
 
--It is crucial to monitor the progress of the trees after they have been planted. This will help to ensure that they are growing properly and are not being affected by any pests or diseases.
+\-It is crucial to monitor the progress of the trees after they have been planted. This will help to ensure that they are growing properly and are not being affected by any pests or diseases.
 
 Some companies and organizations that have been at the forefront of this solution include the World Agroforestry Centre and the Food and Agriculture Organization of the United Nations.
 
