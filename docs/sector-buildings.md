@@ -1,5 +1,5 @@
 ---
-Title: Buildings
+title: Buildings
 Description: 
 icon: fontawesome/solid/city
 ---
