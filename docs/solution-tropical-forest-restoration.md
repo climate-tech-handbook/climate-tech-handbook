@@ -1,9 +1,11 @@
 ---
 title: Tropical Forest Restoration
 ---
+![The graphic displays the recovery of soil, ecosystem functioning, forest structure, and tree biodiversity as tropical forests regrow on former agricultural lands.](/img/tropical-forest-restoration.avif)
 
-![Cover Image](https://images.unsplash.com/photo-1680458842085-889430eeeb61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxUcm9waWNhbCUyMEZvcmVzdCUyMFJlc3RvcmF0aW9ufGVufDB8fHx8MTY4Mzc1MzgwNXww&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@aleexcif)
+*Changes in soil, ecosystem functioning, forest structure and tree biodiversity as tropical rainforests restoration ([The Conversation](https://theconversation.com/tropical-forests-can-recover-surprisingly-quickly-on-deforested-lands-and-letting-them-regrow-naturally-is-an-effective-and-low-cost-way-to-slow-climate-change-173302))*
+
+<!--EndFragment-->
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -49,11 +51,8 @@ These obstacles need to be overcome to scale up and widely adopt this technology
 There is no one-size-fits-all answer to this question, as the best path forward for the continued development and implementation of tropical forest restoration will vary depending on the specific circumstances and needs of the location in question. However, some general steps that need to be taken to ensure that this technology is adopted on a large scale and is effective include:
 
 1. Increasing public awareness of the potential benefits of tropical forest restoration.
-
 2. Providing financial incentives to landowners and communities to encourage them to restore degraded forests.
-
 3. Establishing robust monitoring and evaluation programs to track the progress of forest restoration efforts and assess their impacts.
-
 4. Supporting research and development efforts to improve forest restoration techniques.
 
 Some companies and organizations that have been at the forefront of tropical forest restoration efforts include the World Wildlife Fund, the Nature Conservancy, and the Wildlife Conservation Society.
