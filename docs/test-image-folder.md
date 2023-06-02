@@ -6,4 +6,4 @@ authors: []
 
 Does it upload properly?
 
-![](/img/images.jpg)
+![]()
