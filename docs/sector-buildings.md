@@ -31,9 +31,6 @@ icon: fontawesome/solid/city
 * [Clean Cooking](../solution-clean-cooking)
 * [Alternative Refrigerants](../solution-alternative-refrigerants)
 * [Refrigerant Management](../solution-refrigerant-management)
-*
-*
-*
 
 - - -
 
