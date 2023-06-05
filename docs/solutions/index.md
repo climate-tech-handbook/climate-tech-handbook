@@ -12,7 +12,7 @@ icon:
 
 ![Project Drawdown emission visualization](../img/drawdown-solutions-chart.png) 
 
-<figcaption>A visualization of the Drawdown Solutions below.</figcaption>
+<figcaption>A visualization of the Drawdown Solutions framework.</figcaption>
 </figure>
 
 _[Full size image here.](../img/drawdown-solutions-chart.png){:target="_blank" }_
@@ -22,9 +22,6 @@ It's easy to feel like the last 23+ years have been a complete waste.
 **That's not entirely true. We have made progress.**
 
 We can win this critical decade.
-
-!!! tip "There are the 93 solutions by Project Drawdown, categorized into 14 sectors."
-	[Choose a sector below](#choose-a-sector) and learn how to [land a job](../career-guide) with the best possible organizations making the most impact.
 
 
 ## Choose a Sector
