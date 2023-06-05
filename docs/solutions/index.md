@@ -8,17 +8,23 @@ icon:
 
 # Yes we know exactly how to solve the climate crisis
 
-![Project Drawdown emission visualization](../img/drawdown-emission-visualization.png) 
+<figure markdown>
+
+![Project Drawdown emission visualization](../img/drawdown-solutions-chart.png) 
+
+<figcaption>A visualization of the Drawdown Solutions below.</figcaption>
+</figure>
+
+[Full size image here.](../img/drawdown-solutions-chart.png)
 
 It's easy to feel like the last 23+ years have been a complete waste.
 
 **That's not entirely true. We have made progress.**
 
-We have really good science that tells us exactly what needs to happen to win this critical decade.
+We can win this critical decade.
 
 !!! tip "There are the 93 solutions by Project Drawdown, categorized into 14 sectors."
 	[Choose a sector below](#choose-a-sector) and learn how to [land a job](../career-guide) with the best possible organizations making the most impact.
-
 
 
 ## Choose a Sector

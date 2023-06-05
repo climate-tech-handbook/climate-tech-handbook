@@ -73,7 +73,7 @@ markdown_extensions:
 nav:
   - "Home": index.md
   - "Solutions":
-      - Choose a sector: solutions/index.md
+      - Listed by sector: solutions/index.md
       - Electricity: sector-electricity.md
       - Food, Agriculture, and Land Use: sector-food-agriculture-and-land-use.md
       - Industry: sector-industry.md
