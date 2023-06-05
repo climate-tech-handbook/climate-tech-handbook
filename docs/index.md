@@ -19,6 +19,12 @@ We're on a mission to build the most **accessible** and **accurate** climate tec
 
 ---
 
+<<<<<<< HEAD
+=======
+<!-- <script src="https://climateclock.world/widget-v2.js" async></script>
+<climate-clock /> -->
+
+>>>>>>> 77f0206768ab088f865cce587d5181223a637d27
 <div id="clock">
   <h2 id="global-temp">Global warming to date ºC</h2>
   <div id="global-temp-container"><span id="globaltemp" class="bold grad"></span></div>
