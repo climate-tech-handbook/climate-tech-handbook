@@ -15,7 +15,7 @@ icon:
 <figcaption>A visualization of the Drawdown Solutions below.</figcaption>
 </figure>
 
-[Full size image here.](../img/drawdown-solutions-chart.png)
+_[Full size image here.](../img/drawdown-solutions-chart.png){:target="_blank" }_
 
 It's easy to feel like the last 23+ years have been a complete waste.
 
