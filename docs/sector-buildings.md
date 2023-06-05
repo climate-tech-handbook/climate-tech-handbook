@@ -7,8 +7,6 @@ icon: fontawesome/solid/city
 
 ## Sector Overview
 
-Test CMS draft mode.
-
 <div class="grid cards" markdown>
 
 * :material-check-bold:{ .lg .middle } 72–144.3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
