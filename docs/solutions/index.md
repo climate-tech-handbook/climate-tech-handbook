@@ -1,16 +1,18 @@
 ---
-title: Solutions Overview
+title: Climate Solutions
 description:
 hide:
   - navigation
 icon:
 ---
 
-# Solutions Overview
+# Yes we know exactly how to solve the climate crisis
 
-![organic-farming](../img/organic-farming_resize.jpg) 
+![Project Drawdown emission visualization](../img/drawdown-emission-visualization.png) 
 
-While it may feel like the last 20+ years have been a complete waste, **we have made progress.**
+It's easy to feel like the last 23+ years have been a complete waste.
+
+**That's not entirely true. We have made progress.**
 
 We have really good science that tells us exactly what needs to happen to win this critical decade.
 
