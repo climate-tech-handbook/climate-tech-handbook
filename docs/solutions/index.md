@@ -17,6 +17,10 @@ icon:
 
 _[Full size image here.](../img/drawdown-solutions-chart.png){:target="_blank" }_
 
+[Project Drawdown Solutions Explorer](../solutions-explorer)
+
+---
+
 It's easy to feel like the last 23+ years have been a complete waste.
 
 **That's not entirely true. We have made progress.**
@@ -179,6 +183,7 @@ sector-food-agriculture-and-land-use){ .md-button .md-button--primary }
      Microgrids                                   | Electricity                                               
      Distributed Energy Storage                   | Electricity                                               
      Utility-Scale Energy Storage                 | Electricity                                               
+
 
 ---
 
