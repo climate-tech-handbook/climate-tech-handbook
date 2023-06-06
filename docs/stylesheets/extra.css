@@ -39,3 +39,12 @@
 .md-header__topic:hover .md-ellipsis::before {
   content: none;
 }
+
+/* body {
+  background: url('../img/compressed_cth_bkg.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+

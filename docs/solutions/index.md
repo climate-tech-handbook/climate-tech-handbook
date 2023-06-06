@@ -35,8 +35,8 @@ We can win this critical decade.
 
 [:material-lightning-bolt: Electricity](../sector-electricity){ .md-button .md-button--primary }
 
-[:material-food-apple: Food, Agriculture, and Land Use](../
-sector-food-agriculture-and-land-use){ .md-button .md-button--primary }
+[:material-food-apple: Food, Agriculture, and Land Use](
+../sector-food-agriculture-and-land-use){ .md-button .md-button--primary }
 
 [:material-factory: Industry](../sector-industry){ .md-button .md-button--primary }
 

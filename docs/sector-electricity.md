@@ -15,6 +15,7 @@ icon: material/lightning-bolt
 
 ## Solutions in this Sector
 
+
 - [Utility-Scale Energy Storage](../solution-utility-scale-energy-storage)
 
 - [Distributed Energy Storage](../solution-distributed-energy-storage)
@@ -79,12 +80,13 @@ icon: material/lightning-bolt
 
 - [Onshore Wind Turbines](../solution-onshore-wind-turbines)
 
+
  -
  -
  -
 
 ---
 
-!!! info "[Help us](../../contribute) track this Sector"
+!!! info "[Help us](../contribute) track this Sector"
 
 Thousands of organizations working in this sector are listed on [Climatebase](https://climatebase.org/organizations)

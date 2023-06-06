@@ -1,0 +1,37 @@
+
+<!-- Attempt at storing the data in localstorage: this may still work with some tinkering-->
+<!-- {% for page in nav.pages %}
+    <div id="{{ page.url|replace('/', '-') }}-toc" style="display: none;">
+        {{ page.toc }}
+    </div>
+{% endfor %}
+
+{% for page in nav.pages %}
+<script>
+    (function() {
+        let toc = document.getElementById("{{ page.url|replace('/', '-') }}-toc").innerText;
+        let cleanedToc = toc.replace(/\s+/g, ' ').trim();
+        localStorage.setItem("{{ page.url }}-toc", cleanedToc);
+    })();
+</script>
+{% endfor %} -->
+
+<div id="toc-header">
+  Table of Contents
+</div>
+{% for toc_item in page.toc %}
+<a href="{{ toc_item.url }}" class="md-nav__link" style="padding-left: 0.6rem">
+  {{ toc_item.title }}
+</a>
+  <li class="md-nav__item">
+    {% if toc_item.children %}
+      <nav class="md-nav" aria-label="{{ toc_item.title }}">
+        <ul class="md-nav__list">
+          {% for toc_item in toc_item.children %}
+            {% include "partials/toc-item.html" %}
+          {% endfor %}
+        </ul>
+      </nav>
+    {% endif %}
+  </li>
+{% endfor %}
