@@ -4,16 +4,20 @@
         google.charts.load('current', {'packages':['treemap']});
         google.charts.setOnLoadCallback(drawChart);
         function drawChart() {
+            var rootName = 'All'
             var data = google.visualization.arrayToDataTable([
             ['Solution',  'Parent',   'Gt CO2-eq Reduction (2020-2050)',  'Max Gt CO2-eq Reduction (2020-2050)'],
 
             // Areas of Action
-            ['All',    null,   0,  0],
+            [rootName,    null,   0,  0],
+            /*
             ['Reduce Sources',    'All',   0,  0],
             ['Support Sinks', 'All',   0,  0],
             ['Improve Society',   'All',   0,  0],
+            */
 
             // Sectors
+            /*
             ['Electricity', 'Reduce Sources', 308.7,  420.6],
             ['Food, Agriculture, and Land Use',    'Reduce Sources',  269.25, 312],
             ['Industry',    'Reduce Sources',  154.7, 166],
@@ -23,6 +27,16 @@
             ['Coastal and Ocean Sinks',    'Support Sinks',  8.15, 10],
             ['Engineered Sinks',    'Support Sinks',  2.2, 3],
             ['Health and Education',    'Improve Society',  68.9, 68.9],
+            */
+            ['Electricity', rootName, 308.7,  420.6],
+            ['Food, Agriculture, and Land Use',    rootName,  269.25, 312],
+            ['Industry',    rootName,  154.7, 166],
+            ['Transportation',    rootName,  75.05, 88.4],
+            ['Buildings',    rootName,  108.15, 144.3],
+            ['Land Sinks',    rootName,  320.45, 392.7],
+            ['Coastal and Ocean Sinks',    rootName,  8.15, 10],
+            ['Engineered Sinks',    rootName,  2.2, 3],
+            ['Health and Education',    rootName,  68.9, 68.9],
 
             // Solutions
             ['Onshore Wind Turbines', 'Electricity', 46.95, 46.95],
