@@ -185,10 +185,6 @@ sector-food-agriculture-and-land-use){ .md-button .md-button--primary }
 
 ---
 
-[Project Drawdown Solutions Explorer](./explorer)
-
----
-
 ## Footnotes
 
 [^drawdown-sectors]: Project Drawdown's [9 sectors listed here](https://drawdown.org/sectors).
