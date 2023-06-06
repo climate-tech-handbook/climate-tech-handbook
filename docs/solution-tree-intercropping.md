@@ -1,9 +1,9 @@
 ---
 title: Tree Intercropping
 ---
+![Wheat-Pea intercropping increased water use efficiency ](/img/tree-intercropping.jpg)
 
-![Cover Image](https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxUcmVlJTIwSW50ZXJjcm9wcGluZ3xlbnwwfHx8fDE2ODM3NTM3NjR8MA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@emben)
+*Intercropping Systems of Wheat ([MDPI Open Access Journals](https://www.mdpi.com/2073-4395/11/2/283))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -29,9 +29,7 @@ A number of companies and organizations have been at the forefront of developing
 Some of the key lessons that have been learned in the development and implementation of Tree Intercropping to reverse climate change include the importance of:
 
 1. Proper species selection - it is important to select tree species that are well-suited to the local climate and soil conditions in order to maximise the carbon sequestration potential of the trees.
-
 2. Adequate spacing between trees - trees need to be spaced properly in order to optimise growth and carbon sequestration.
-
 3. Regular monitoring and maintenance - tree intercrops need to be regularly monitored and maintained in order to ensure their continued efficacy.
 
 These lessons have been learned through a combination of scientific research and practical experience. Several companies and organizations have been at the forefront of tree intercropping research and implementation, including the World Agroforestry Centre (ICRAF) and the International Union of Forest Research Organizations (IUFRO).

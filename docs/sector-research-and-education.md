@@ -1,5 +1,5 @@
 ---
-Title: Research and Education
+title: Research and Education
 Description: 
 icon: fontawesome/solid/user-graduate
 ---

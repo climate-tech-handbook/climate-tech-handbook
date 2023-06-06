@@ -1,5 +1,5 @@
 ---
-Title: Other
+title: Other
 Description: 
 icon: material/shape-outline
 ---

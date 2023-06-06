@@ -1,9 +1,9 @@
 ---
 title: LED Lighting
 ---
+![](/img/led-lighting.jpg)
 
-![Cover Image](https://images.unsplash.com/photo-1589530006797-d67347f18caa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxMRUQlMjBMaWdodGluZ3xlbnwwfHx8fDE2ODM2NTk0Njc&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/es/@inkyhills)
+*Environmental protection of LED lighting ([Solar Electric Power Company](https://www.sepco-solarlighting.com/blog/the-advantages-of-led-lights-for-the-environment))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -59,7 +59,6 @@ Progress is being made in the development and implementation of LED lighting to 
 The best path forward for the continued development and implementation of LED lighting to effectively mitigate the effects of climate change is to continue to research and develop the technology so that it is more efficient and can be adopted on a large scale. Some steps that need to be taken to ensure that this technology is adopted on a large scale and is effective are:
 
 1. Improve the efficiency of LED lighting
-
 2. Make LED lighting more affordable
 3. Increase public awareness of the benefits of LED lighting
 4. Encourage businesses and governments to switch to LED lighting

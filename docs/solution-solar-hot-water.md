@@ -1,9 +1,9 @@
 ---
 title: Solar Hot Water
 ---
+![](/img/solar-hot-water.webp)
 
-![Cover Image](https://images.unsplash.com/photo-1531770905334-3776f5b54831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxTb2xhciUyMEhvdCUyMFdhdGVyfGVufDB8fHx8MTY4Mzc1MzYxN3ww&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@danjrusso)
+*Schematic of solar hot water system ([This Old House](https://www.thisoldhouse.com/green-home/21014968/solar-hot-water))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -23,13 +23,9 @@ Solar hot water technology has progressed significantly in recent years, with ma
 Some of the key lessons that have been learned in the development and implementation of Solar Hot Water to reverse climate change are as follows: 
 
 1. It is important to have a clear and concise plan when implementing solar hot water systems. This plan should include detailed instructions on how to install and maintain the system, as well as what to do in case of problems.
-
 2. Solar hot water systems can be expensive to install and maintain. It is important to budget for these costs upfront, and to make sure that the benefits of the system outweigh the costs.
-
 3. Solar hot water systems require regular maintenance in order to function properly. It is important to have a plan in place for how to keep the system clean and in good working order.
-
 4. Solar hot water systems can be unreliable in certain climates. It is important to research the climate in which the system will be installed and to make sure that it is suitable for that climate.
-
 5. Solar hot water systems can have a positive impact on the environment. They can help to reduce energy consumption and greenhouse gas emissions.
 
 ## Challenges Ahead

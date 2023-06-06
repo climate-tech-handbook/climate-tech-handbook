@@ -1,9 +1,9 @@
 ---
 title: Reduced Food Waste
 ---
+![](/img/reduced-food-waste.png)
 
-![Cover Image](https://images.unsplash.com/photo-1430163393927-3dab9af7ea38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWR1Y2VkJTIwRm9vZCUyMFdhc3RlfGVufDB8fHx8MTY4Mzc1MzM4NXww&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/pt-br/@juanantia)
+*Reducing Food Waste ([BooneHealth](https://boone.health/2022/10/19/reducing-food-waste/))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -18,11 +18,11 @@ Another example of a reduced food waste solution is the development of “ugly f
 
 Some of the companies and organizations that have been at the forefront of developing reduced food waste solutions include:
 
--Ugly Fruit and Veg Campaign: This campaign was launched in the UK in 2013 with the goal of reducing food waste by encouraging people to purchase “ugly” fruits and vegetables.
+\-Ugly Fruit and Veg Campaign: This campaign was launched in the UK in 2013 with the goal of reducing food waste by encouraging people to purchase “ugly” fruits and vegetables.
 
--Waste NotWant Not: This organization works to reduce food waste in the United States through education and advocacy.
+\-Waste NotWant Not: This organization works to reduce food waste in the United States through education and advocacy.
 
--Feeding America: This organization is the largest hunger-relief charity in the United States and works to reduce food waste by distributing surplus food to food banks and pantries.
+\-Feeding America: This organization is the largest hunger-relief charity in the United States and works to reduce food waste by distributing surplus food to food banks and pantries.
 
 ## Progress Made
 
@@ -48,7 +48,7 @@ Finally, it is important to donate food to those in need. There are many organiz
 
 There are many companies and organizations that are working to reduce food waste. Some of these include:
 
--The Food and Agriculture Organization of the United Nations
+\-The Food and Agriculture Organization of the United Nations
 -Waste Not Compost
 -Feeding America
 -The Natural Resources Defense Council
@@ -64,9 +64,7 @@ The major challenge that remains in the development and implementation of Reduce
 The best path forward for the continued development and implementation of Reduced Food Waste to effectively mitigate the effects of climate change is to continue to develop and implement policies and programs that incentivize food waste reduction and to increase public awareness of the issue. Some specific steps that need to be taken to ensure that this technology is adopted on a large scale and is effective include:
 
 1. Increasing public awareness of the issue of food waste and its impact on the environment.
-
 2. Incentivizing food waste reduction through policies and programs such as tax breaks or subsidies for businesses and individuals who reduce their food waste.
-
 3. Developing and implementing technology and infrastructure to facilitate the reduction of food waste, such as food waste composting facilities.
 
 Some companies and organizations that have been at the forefront of food waste reduction include:
