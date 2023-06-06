@@ -33,7 +33,7 @@ Not "positive" as in good. Positive as in rapid acceleration through a feedback 
 
 #### Project Drawdown
 
-A collaboration of the best scientific researchers who devised a list of 93 climate solutions. According to founder Paul Hawken, these Drawdown solutions are the most viable and effective means available today to mitigate the impacts of climate change. Project Drawdown is a non-profit organization.  [projectdrawdown.org](https://projectdrawdown.org)
+A collaboration of the best scientific researchers who devised a list of 93 climate solutions. According to founder Paul Hawken, these Drawdown solutions are the most viable and effective means available today to mitigate the impacts of climate change. Project Drawdown is a non-profit organization.  [Drawdown.org](https://drawdown.org)
 
 #### Albedo
 

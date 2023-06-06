@@ -61,11 +61,11 @@ For example:
 
 - Nutritionist - help people with more vegetarian, organic, and locally sourced diets.
 - Therapist - help with climate anxiety, depression, and hopelessness.
-- Engineer - if you already work in manufacturing, architecture, etc., you can suggest better materials using the 93 Drawdown [Solutions](solutions)
+- Engineer - if you already work in manufacturing, architecture, etc., you can suggest better materials using the 93 Drawdown [Solutions](../solutions)
 
 ## Footnotes
 
 [^woc]: [Work on Climate](https://workonclimate.org)
-[^mcj]: [MCJ Collective](https://myclimatejourney.org)
+[^mcj]: [MCJ Collective](https://mcjcollective.com)
 [^ctl]: [Climate Tech List](https://climatetechlist.com)
 [^djs]: [Dream Job System](https://cultivatedculture.com/djs-podcast/)

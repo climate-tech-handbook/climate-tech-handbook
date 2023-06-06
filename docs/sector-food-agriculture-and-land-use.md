@@ -40,7 +40,7 @@ icon: material/food-apple
 
 - [Forest Protection](../solution-forest-protection)
 
-- [Indigenous Peoples' Forest Tenure](../solution-indigenous-peoples�-forest-tenure)
+- [Indigenous Peoples' Forest Tenure](../solution-indigenous-peoples-forest-tenure)
 
 - [Improved Rice Production](../solution-improved-rice-production)
 

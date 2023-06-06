@@ -56,7 +56,7 @@ Examples:
 
 - [Temperate Forest Restoration](../solution-temperate-forest-restoration)
 
-- [Tree Plantations (on Degraded Land)](../solution-tree-plantations-(on-degraded-land))
+- [Tree Plantations (on Degraded Land)](../solution-tree-plantations-on-degraded-land)
 
 - [Peatland Protection and Rewetting](../solution-peatland-protection-and-rewetting)
 
