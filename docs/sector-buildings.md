@@ -10,7 +10,7 @@ icon: fontawesome/solid/city
 
 <div class="grid cards" markdown>
 
--   :material-check-bold:{ .lg .middle } 72–144.3 Gigatons will be saved from our [carbon budget](../../glossary/#carbon-budget)
+-   :material-check-bold:{ .lg .middle } 72–144.3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
 
 </div>
 

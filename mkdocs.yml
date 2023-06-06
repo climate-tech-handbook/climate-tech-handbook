@@ -26,10 +26,6 @@ repo_url: https://github.com/climate-tech-handbook/climate-tech-handbook
 
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/tocDrawer.css
-
-extra_javascript:
-  - js/tocDrawer.js
 
 ## NOTE: plugins need to be passed over to mkdocs.insiders.yml due to paid Insiders version of Material for MKDocs
 
@@ -76,7 +72,6 @@ markdown_extensions:
 
 nav:
   - "Home": index.md
-
   - "Solutions":
       - Listed by sector: solutions/index.md
       - Electricity: sector-electricity.md
@@ -105,8 +100,6 @@ nav:
       #     - Frequently Asked Questions: faq.md
       - Contribute: contribute.md
 
-  # - "Cheat Sheet":
-  #     - cheatsheet.md
   # Waiting to launch blog until we sort our insider account issues
   # - Blog:
   #     - blog/index.md
