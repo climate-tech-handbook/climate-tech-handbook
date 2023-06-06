@@ -210,7 +210,7 @@ The size of each box represents Project Drawdown's estimated potential emissions
                 let drilledData = data.getValue(drilledDataRow, 0)
 
                 let type = 'solution'
-                if(sectorNames.indexOf(drilledData) > 0){
+                if(sectorNames.indexOf(drilledData) > -1){
                     type = 'sector'
                 }
                 
