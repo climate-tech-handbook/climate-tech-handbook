@@ -1,5 +1,5 @@
 ---
-Title: Climate Adaptation
+title: Climate Adaptation
 Description: 
 icon: material/thermometer-chevron-up
 ---

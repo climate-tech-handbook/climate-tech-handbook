@@ -1,5 +1,5 @@
 ---
-Title: Land Sinks
+title: Land Sinks
 Description: 
 icon: material/grass
 ---

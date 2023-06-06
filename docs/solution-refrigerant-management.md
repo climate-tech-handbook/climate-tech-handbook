@@ -1,9 +1,9 @@
 ---
 title: Refrigerant Management
 ---
+![Institutions and governments can slow climate change by regulating and reducing halocarbon refrigerant use.](/img/refrigerant-management.png)
 
-![Cover Image](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxSZWZyaWdlcmFudCUyME1hbmFnZW1lbnR8ZW58MHx8fHwxNjgzNzUzNDI3fDA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@homajob)
+*Regulating and reducing halocarbon refrigerant use to slow climate change ([MIT Science Policy Review](https://sciencepolicyreview.org/2020/08/institutions-and-governments-can-slow-climate-change-by-regulating-and-reducing-halocarbon-refrigerant-use/))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -44,11 +44,8 @@ These lessons learned can be applied to other areas in order to improve the effi
 The best path forward for the continued development and implementation of Refrigerant Management to effectively mitigate the effects of climate change is to ensure that this technology is adopted on a large scale and is effective. Steps that need to be taken to ensure this include:
 
 1. Increasing awareness of the benefits of Refrigerant Management through education and outreach efforts.
-
 2. Encouraging governments and businesses to adopt Refrigerant Management policies and practices.
-
 3. Supporting research and development of Refrigerant Management technologies.
-
 4. Investing in infrastructure to support the implementation of Refrigerant Management.
 
 Some companies and organizations that have been at the forefront of this solution include the Environmental Protection Agency (EPA), the Alliance for Climate Protection, and the Climate Group.

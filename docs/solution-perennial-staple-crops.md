@@ -1,9 +1,9 @@
 ---
 title: Perennial Staple Crops
 ---
+![Annual crops, reliant on machinery for tilling and sowing, increase soil erosion and CO2 emissions by exposing soil aggregates. Perennial crops, needing one-time tilling, last several seasons, storing carbon and contributing more significantly to soil carbon sequestration.](/img/perennial-staple-crops.jpg)
 
-![Cover Image](https://images.unsplash.com/photo-1498408040764-ab6eb772a145?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxQZXJlbm5pYWwlMjBTdGFwbGUlMjBDcm9wc3xlbnwwfHx8fDE2ODM3NTMxOTh8MA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/@glenncarstenspeters)
+*A perennial grain crop would offer a sustainable alternative to present day annual crops ([Frontiers](https://www.frontiersin.org/articles/10.3389/fpls.2022.898769/full))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -19,23 +19,16 @@ Organizations such as the Land Institute and the Rodale Institute have been at t
 In the last decade, there has been significant progress in developing perennial staple crops to reverse climate change. Some of the breakthrough technologies that have been developed include:
 
 1. Genetically modified crops that are more resistant to drought and pests. These crops require less water and pesticides, which reduces greenhouse gas emissions.
-
 2. New irrigation systems that use less water.
-
 3. Crop rotation systems that reduce the need for tilling, which releases greenhouse gases.
-
 4. Cover crops that help reduce soil erosion and improve soil health.
 
 Some of the companies and organizations that have been at the forefront of this solution include:
 
 1. Monsanto
-
 2. Syngenta
-
 3. DuPont
-
 4. The Nature Conservancy
-
 5. World Wildlife Fund
 
 ## Lessons Learned
@@ -49,11 +42,8 @@ Perennial staple crops have shown promise as a potential tool for climate change
 ## Challenges Ahead
 
 1. One of the challenges that remains in the development and implementation of Perennial Staple Crops to reverse climate change is the lack of knowledge and awareness about the technology among farmers and the general public. There is a need to educate and train farmers on how to grow and care for these crops, as well as to raise awareness about the benefits of this technology.
-
 2. Another challenge is the lack of suitable land for growing these crops. Perennial staple crops require large tracts of land, and many farmers do not have the necessary land area available. In addition, the land that is available may not have the ideal climate or soils for these crops.
-
 3. Another obstacle to scaling up and widely adopting this technology is the cost of developing and implementing it. Perennial staple crops require special equipment and inputs, and the costs of these can be prohibitive for many farmers.
-
 4. Finally, another challenge that remains is the lack of political will to support and promote this technology. In many countries, there is a lack of government policies and programs that would encourage farmers to grow these crops. Without government support, it will be difficult to scale up and widely adopt this technology.
 
 Despite these challenges, there has been some progress made in the development and implementation of perennial staple crops. Several companies and organizations have been working to develop this technology and promote its adoption. These include the Land Institute, the Perennial Agriculture Consortium, and the Rodale Institute. In addition, a number of research studies have been conducted on the potential of this technology to reverse climate change.

@@ -1,9 +1,9 @@
 ---
 title: Public Transit
 ---
+![](/img/public-transit.webp)
 
-![Cover Image](https://images.unsplash.com/photo-1477966947045-3d612755af64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxQdWJsaWMlMjBUcmFuc2l0fGVufDB8fHx8MTY4Mzc1MzI0OHww&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/es/@delajed)
+*Public Transit ([Calmatters](https://calmatters.org/commentary/2022/07/restoring-a-sense-of-safety-could-boost-public-transit-ridership/))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page

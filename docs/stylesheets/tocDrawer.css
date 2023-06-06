@@ -4,6 +4,7 @@
   top: 0;
   bottom: 0;
   width: auto;
+  max-width: 75vw;
   overflow-y: auto;
   background-color: white;
   transform: translateX(100%);
@@ -17,7 +18,7 @@
 }
 
 #toc-header {
-  padding-left: 0.3rem;
+  padding-left: 0.6rem;
   background-color: #4cae4f;
   height: 2.4rem;
   color: white;
@@ -31,7 +32,9 @@
 }
 
 .md-nav__link {
-  padding-right: 0.8rem;
+  padding-right: 0.6rem;
+  /* padding-left: 0.6rem !important; */
+  /* see the page-toc-partial to prevent use of !important */
 }
 
 #toc-drawer {

@@ -1,5 +1,5 @@
 ---
-Title: Industry
+title: Industry
 Description: 
 icon: material/factory
 ---

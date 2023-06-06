@@ -1,22 +1,34 @@
 ---
-title: Solutions Overview
+title: Climate Solutions
 description:
 hide:
   - navigation
 icon:
 ---
 
-# Solutions Overview
+# Yes we know exactly how to solve the climate crisis
 
-![organic-farming](../img/organic-farming_resize.jpg) 
+<figure markdown>
 
-While it may feel like the last 20+ years have been a complete waste, **we have made progress.**
+![Project Drawdown emission visualization](../img/drawdown-solutions-chart.png) 
 
-We have really good science that tells us exactly what needs to happen to win this critical decade.
+<figcaption>A visualization of the Drawdown Solutions below.</figcaption>
+</figure>
+
+_[Full size image here.](../img/drawdown-solutions-chart.png){:target="_blank" }_
+
+[Project Drawdown Solutions Explorer](../solutions-explorer)
+
+---
+
+It's easy to feel like the last 23+ years have been a complete waste.
+
+**That's not entirely true. We have made progress.**
+
+We can win this critical decade.
 
 !!! tip "There are the 93 solutions by Project Drawdown, categorized into 14 sectors."
 	[Choose a sector below](#choose-a-sector) and learn how to [land a job](../career-guide) with the best possible organizations making the most impact.
-
 
 
 ## Choose a Sector
@@ -174,6 +186,7 @@ We have really good science that tells us exactly what needs to happen to win th
      Microgrids                                   | Electricity                                               
      Distributed Energy Storage                   | Electricity                                               
      Utility-Scale Energy Storage                 | Electricity                                               
+
 
 ---
 

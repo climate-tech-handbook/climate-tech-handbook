@@ -1,9 +1,9 @@
 ---
 title: Walkable Cities
 ---
+![](/img/walkable-cities.webp)
 
-![Cover Image](https://images.unsplash.com/photo-1567955567073-fac7b0709975?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDYzODh8MHwxfHNlYXJjaHwxfHxXYWxrYWJsZSUyMENpdGllc3xlbnwwfHx8fDE2ODM3NTM5MDZ8MA&ixlib=rb-4.0.3&q=80&w=1080)
-Image Credit: [Unsplash](https://unsplash.com/de/@seanbenesh)
+*15 minutes of walkable city ([Yes Magazine](https://www.yesmagazine.org/economy/2021/05/05/15-minute-city-walk))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -66,13 +66,9 @@ Some companies and organizations that have been at the forefront of developing a
 Walkable Cities have been shown to be an effective way to reduce the effects of climate change. In order to ensure that this technology is adopted on a large scale and is effective, the following steps need to be taken:
 
 1. Continue to develop and implement policies that encourage walking and discourage driving.
-
 2. Increase funding for research and development of Walkable Cities technology.
-
 3. Increase public awareness of the benefits of Walkable Cities.
-
 4. Encourage private sector investment in Walkable Cities technology.
-
 5. Establish partnerships with other cities and organizations that are committed to mitigating the effects of climate change.
 
 Some of the companies and organizations that have been at the forefront of this solution include the International Council for Local Environmental Initiatives (ICLEI), the Climate Group, and the World Resources Institute (WRI).

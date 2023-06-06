@@ -1,9 +1,9 @@
 ---
 title: Silvopasture
 ---
+![An example layout of a silvopasture system showing alley width, row spacing, and tree sets for establishing a silvopasture system in the existing pasture](/img/silvopasture.jpg)
 
-![Cover Image]()
-Image Credit: [Unsplash]()
+*An example layout of a silvopasture system ([Silvopasture Systems](https://woodlandstewards.osu.edu/sites/woodlands/files/imce/Silvopasture%20-%20Roger%20Williams.pdf))*
 
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
@@ -47,9 +47,7 @@ One of the major challenges that remain in the development and implementation of
 There is no one-size-fits-all answer to this question, as the best path forward for the continued development and implementation of Silvopasture to effectively mitigate the effects of climate change will vary depending on the specific context and location. However, some general tips that may be helpful include:
 
 1. Establishing demonstration sites to show farmers and ranchers the potential benefits of Silvopasture.
-
 2. Providing financial incentives (e.g. through government programs) to encourage farmers and ranchers to adopt Silvopasture.
-
 3. Conducting research to further improve Silvopasture techniques and make them more widely applicable.
 
 Some companies and organizations that have been at the forefront of developing and promoting Silvopasture include the Savory Institute, the Rodale Institute, and the American Carbon Registry.
