@@ -1,3 +1,9 @@
+---
+title: Solutions Explorer
+---
+
+The size of each box represents Project Drawdown's estimated potential emissions reduction for the sector or solution. Double click a sector/solution to go to its page.
+
 <div  style="width: 100%; height: 666px;">
 
     <style>
