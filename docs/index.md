@@ -2,7 +2,7 @@
 hide:
   - navigation
   - toc
-description: We are here to help you answer the most important question in the world. Am I actually making a difference?
+description: We are here to help you answer the most important question in the world. How am I going to make a difference?
 
 ---
 
@@ -15,7 +15,7 @@ description: We are here to help you answer the most important question in the w
 
 ## We are here to help you answer the most important question in the world:
 
-# Am I actually making a difference?
+# How am I going to make a difference?
 
 [👉 FIND OUT](../solutions){ .md-button .md-button--primary }
 
