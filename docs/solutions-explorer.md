@@ -2,7 +2,7 @@
 title: Solutions Explorer
 ---
 
-The size of each box represents Project Drawdown's estimated potential emissions reduction for the sector or solution. Double click a sector/solution to go to its page.
+The size of each box represents Project Drawdown's estimated potential emissions reduction (2020-2050) for the sector or solution.
 
 <div  style="width: 100%; height: 666px;">
 
@@ -28,6 +28,10 @@ The size of each box represents Project Drawdown's estimated potential emissions
 
         .explorer-tooltip > p {
             padding: 0 0.5em;
+        }
+
+        .explorer-tooltip .tooltip-instructions {
+            font-style: italic;
         }
     </style>
 
@@ -163,12 +167,29 @@ The size of each box represents Project Drawdown's estimated potential emissions
 
             let explorer = new google.visualization.TreeMap(document.getElementById('explorer_treemap_chart'));
 
+            function getTypeFromName(name) {
+                if(sectorNames.indexOf(name) > -1){
+                    return 'sector'
+                }
+
+                return 'solution'
+            }
+
             function showTooltip(row, size, value) {
+                let name = data.getValue(row, 0)
+                let instructions = `<p class='tooltip-instructions'>Double click to go to the ${name} page.</p>`
+                if(name === 'All'){
+                    instructions = ``
+                } else if(getTypeFromName(name) === 'sector'){
+                    instructions = `<p class='tooltip-instructions'>Double click to zoom in on the ${name} sector. (Right click to zoom out.)</p>`
+                }
+
                 return `<div class="explorer-tooltip">
-                            <h4>${data.getValue(row, 0)}</h4>
+                            <h4>${name}</h4>
                             <p>
                                 ${size.toFixed(1)} Gt CO<sub>2</sub>-eq reduction
                             <p>
+                            ${instructions}
                         </div>`;
             }
 
@@ -188,32 +209,24 @@ The size of each box represents Project Drawdown's estimated potential emissions
                         highlight: ['click'],
                         unhighlight: ['mouseout'],
                         rollup: ['contextmenu'],
-                        drilldown: ['dblclick' /*, 'altKey'*/]
+                        drilldown: ['dblclick']
                     }
             });
-
-
-            /*
-            function highlightHandler(e) {
-                let highlightedDataRow = e.row
-                let highlightedData = data.getValue(highlightedDataRow, 0)
-
-                let solutionUrl = `/solution-${selectedData.toLowerCase().replaceAll(' ', '-')}`
-                // TODO render URL somewhere...
-            }
-
-            google.visualization.events.addListener(explorer, 'highlight', highlightHandler);
-            */
 
             function drilldownHandler(e) {
                 let drilledDataRow = e.row
                 let drilledData = data.getValue(drilledDataRow, 0)
 
-                let type = 'solution'
-                if(sectorNames.indexOf(drilledData) > -1){
-                    type = 'sector'
+                if(drilledData === rootName){
+                    return // Nothing to do
                 }
-                
+
+                let type = getTypeFromName(drilledData)
+
+                if(type === 'sector'){
+                    return // View sector drilldown instead of going to solution page
+                }
+
                 let solutionUrl = `/${type}-${drilledData.toLowerCase().replaceAll(' ', '-').replaceAll(',','')}`
                 location.href = solutionUrl
             }
