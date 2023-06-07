@@ -8,24 +8,24 @@ icon:
 
 # Yes we know exactly how to solve the climate crisis
 
+The last 23+ years are not a complete waste.
+
+**We have all the science and tech needed to win this critical decade.**
+
 <figure markdown>
 
 ![Project Drawdown emission visualization](../img/drawdown-solutions-chart.png) 
 
 <figcaption>A visualization of the Drawdown Solutions framework.</figcaption>
+
+_[Full size image](../img/drawdown-solutions-chart.png){:target="_blank" }_ | _[Interactive Explorer](../solutions-explorer)_
 </figure>
-
-_[Full size image here.](../img/drawdown-solutions-chart.png){:target="_blank" }_
-
-[Project Drawdown Solutions Explorer](../solutions-explorer)
 
 ---
 
-It's easy to feel like the last 23+ years have been a complete waste.
+Climate solutions are organized by sector.
 
-**That's not entirely true. We have made progress.**
-
-We can win this critical decade.
+Together, we are tracking all progress made toward net zero pollution.
 
 
 ## Choose a Sector
