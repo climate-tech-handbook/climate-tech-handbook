@@ -57,7 +57,7 @@ We are made possible by our [Advisory Board](#advisory-board) and [Contributors]
  - Peggy Holman - Co-author of The Change Handbook, Founder of Journalism that Matters
  - Mike Fancher - veteran journalist and retired Editor at Large for The Seattle Times
  - Brian Allen - Appropriate Technology Group
-~
+
 ---
 
 Photo by <a href="https://unsplash.com/@nrdoherty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicholas Doherty</a> on <a href="https://unsplash.com/photos/pONBhDyOFoM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
