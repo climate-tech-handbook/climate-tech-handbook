@@ -22,11 +22,7 @@ The Climate Tech Handbook is here to serve:
 
 1. [Job seekers](../career-guide) in Climate Tech
 
-2. Startup founders and leaders
-
-3. Investors
-
-4. Academic researchers
+2. Startup funders, founders, and leaders
 
 
 We value:
@@ -58,9 +54,9 @@ We are made possible by our [Advisory Board](#advisory-board) and [Contributors]
 
 ## Advisory Board
 
- - [name]
- - [name]
- - [name]
+ - Peggy Holman - Co-author of The Change Handbook, Founder of Journalism that Matters
+ - Mike Fancher - veteran journalist and retired Editor at Large for The Seattle Times
+ - Brian Allen - Appropriate Technology Group
 
 ---
 
