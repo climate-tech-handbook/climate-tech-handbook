@@ -37,7 +37,7 @@ Set up your environment variable `python3 -m venv env`
 
 Activate your environment variable `source env/bin/activate`
 
-Run `pip install --upgrade mkdocs-material`
+Install the required packages using `pip install -r requirements.txt`
 
 Spin up the site by running `mkdocs serve`
 
