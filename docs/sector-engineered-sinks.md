@@ -11,7 +11,7 @@ icon: material/chart-bubble
 
 </div>
 
-![](/img/biochar-production.jpg)
+![Biochar use cases for climate change mitigation](/img/biochar-production.jpg)
 
 By reducing water usage and promoting eco-friendly behaviors, engineered sinks can help conserve resources and reduce the carbon footprint associated with water consumption.
 
