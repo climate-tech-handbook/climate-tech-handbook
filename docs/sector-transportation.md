@@ -2,17 +2,26 @@
 title: Transportation
 icon: material/plane-car
 Tags:
-- Sector
-- Transportation
+  - Sector
+  - Transportation
 ---
-
 # :material-plane-car: Transportation
 
 <div class="grid cards" markdown>
 
--   :material-check-bold:{ .lg .middle } __61.7–88.4__ Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+* :material-check-bold:{ .lg .middle } **61.7–88.4** Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
 
 </div>
+
+![](/img/transportation.jpeg)
+
+Transportation emits CO2 from fossil fuels in vehicles. Infrastructure like roads and airports adds to land-use change and habitat loss, worsening environmental challenges.
+
+Examples:
+
+* Shifting to Low-Carbon Fuels
+* Improving fuel efficiency
+* Promoting public transportation
 
 ## Solutions in this Sector
 
@@ -30,8 +39,7 @@ Tags:
 * [Efficient Trucks](../solution-efficient-trucks)
 * [Public Transit](../solution-public-transit)
 
-
-* * *
+- - -
 
 !!! info "[Help us](../../contribute) track this Sector"
 
