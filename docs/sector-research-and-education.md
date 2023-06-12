@@ -13,9 +13,9 @@ By combining research and education, society can benefit from a solid scientific
 
 ## Solutions in this Sector
 
-* Climate Education Programs in Schools
-* Sustainability and Environmental Studies Programs
-* Climate Change Fellowships and Grants
+* Climate education programs in schools
+* Sustainability and environmental studies programs
+* Climate change fellowships and grants
 
 - - -
 
