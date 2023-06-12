@@ -15,12 +15,14 @@ icon: material/chart-bubble
 
 By reducing water usage and promoting eco-friendly behaviors, engineered sinks can help conserve resources and reduce the carbon footprint associated with water consumption.
 
+Examples:
+
+* Water Conservation
+* Greywater and Rainwater Recycling
+
 ## Solutions in this Sector
 
 * [Biochar Production](../solution-biochar-production)
-* Water Conservation
-* Greywater and Rainwater Recycling
-*
 
 - - -
 
