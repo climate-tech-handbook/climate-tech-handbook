@@ -11,11 +11,15 @@ icon: material/thermometer-chevron-up
 
 Climate adaptation is the process of adjusting and responding to the impacts of climate change. It involves taking proactive measures to reduce vulnerability, build resilience, and adapt to changing climate conditions in order to minimize the negative effects on human and natural systems.
 
-## Solutions in this Sector
+Examples:
 
 * Coastal Protection
 * Water Management
 * Ecosystem Restoration
+
+## Solutions in this Sector
+
+*
 
 - - -
 
