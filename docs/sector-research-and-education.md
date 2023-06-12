@@ -19,9 +19,7 @@ Examples:
 
 ## Solutions in this Sector
 
-* Climate education programs in schools
-* Sustainability and environmental studies programs
-* Climate change fellowships and grants
+*
 
 - - -
 
