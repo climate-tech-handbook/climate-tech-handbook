@@ -13,9 +13,9 @@ Climate adaptation is the process of adjusting and responding to the impacts of 
 
 Examples:
 
-* Coastal Protection
-* Water Management
-* Ecosystem Restoration
+* Coastal protection
+* Water management
+* Ecosystem restoration
 
 ## Solutions in this Sector
 
