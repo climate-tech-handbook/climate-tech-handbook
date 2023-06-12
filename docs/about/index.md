@@ -37,9 +37,9 @@ We value:
 
 ## Team
 
-The Handbook is a project started by [Jacob Caggiano](https://jacobcaggiano.com).
+The Handbook was started by [Jacob Caggiano](https://jacobcaggiano.com).
 
-We are made possible by our [Advisory Board](#advisory-board) and [Contributors](../contribute)
+We are made possible by our [Advisory Board](#advisory-board) and community of [Contributors](../contribute)
 
 
 ## Inspiration
