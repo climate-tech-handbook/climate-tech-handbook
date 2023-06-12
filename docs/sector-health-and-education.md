@@ -23,8 +23,6 @@ Examples:
 ## Solutions in this Sector
 
 * [Family Planning and Education](../solution-family-planning-and-education)
-* Reduce, reuse, repair & recycle
-* Low-carbon lifestyle
 
 - - -
 
