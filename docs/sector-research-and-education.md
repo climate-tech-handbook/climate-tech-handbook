@@ -11,11 +11,15 @@ icon: fontawesome/solid/user-graduate
 
 By combining research and education, society can benefit from a solid scientific foundation, informed decision-making, and empowered individuals who actively contribute to climate change mitigation, adaptation, and sustainability efforts.
 
-## Solutions in this Sector
+Examples:
 
 * Climate education programs in schools
 * Sustainability and environmental studies programs
 * Climate change fellowships and grants
+
+## Solutions in this Sector
+
+*
 
 - - -
 
