@@ -18,14 +18,11 @@ By reducing water usage and promoting eco-friendly behaviors, engineered sinks c
 Examples:
 
 * Water Conservation
-*
+* Greywater and Rainwater Recycling
 
 ## Solutions in this Sector
 
 * [Biochar Production](../solution-biochar-production)
-* Water Conservation
-* Greywater and Rainwater Recycling
-*
 
 - - -
 
