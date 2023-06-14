@@ -8,7 +8,7 @@ To build the world's most accessible and accurate resource for anyone using tech
 
 ## Contribute:
 
-Please [start a Discussion thread](https://github.com/orgs/climate-tech-handbook/discussions/new/choose) or [join us on Slack](https://chat.climatetechhandbook.com) and we can talk about the best ways you can help out.
+Please [join us on Slack](https://chat.climatetechhandbook.com) and we can talk about the best ways you can help out.
 
 **We need:**
 
