@@ -64,3 +64,12 @@ The environmental impacts of drilling are also a concern. Geothermal power plant
 The best path forward for the continued development and implementation of geothermal power to effectively mitigate the effects of climate change is to continue to invest in research and development to improve the technology and make it more affordable. Additionally, policies and incentives should be put in place to encourage the adoption of geothermal power on a large scale. Some companies and organizations that have been at the forefront of this solution include the International Geothermal Association, the Geothermal Energy Association, and Ormat Technologies.
 
 Some progress that has been made in this area includes the development of new geothermal power plants in countries like Iceland, the Philippines, and the United States. Additionally, the cost of geothermal power has been decreasing, making it more affordable for more people and businesses.
+
+## Direct-Use Heat
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1SwcgV7Ht4k3Dwz2HiRfhXoTxru5dGyE&ehbc=2E312F" width="640" height="480"></iframe>
+
+Facilities with units serviceable by direct-use geothermal heat based on data from [EPA Greenhouse Gas Reporting Program (GHGRP)](https://www.epa.gov/ghgreporting), [EIA MECS](https://www.eia.gov/consumption/manufacturing/), and estimated subsurface temperature gradients.
+Markers are colored by estimated breakeven price (USD/MMBTU).
+
+Contact [softwareengineerprogrammer on GitHub](https://github.com/softwareengineerprogrammer) for further information.
