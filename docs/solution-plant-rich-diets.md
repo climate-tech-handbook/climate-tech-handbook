@@ -14,8 +14,9 @@ Animal agriculture makes up nearly [15% of human-caused global greenhouse-gas em
 
 ## Progress Made
 
-- We now have popular meat alternatives on the market such as: Impossible Foods and Beyond Meat 
-- Government regulators have now given the green light for lab grown meat. Two companies approved are [Upside Foods](https://www.prnewswire.com/news-releases/history-made-upside-foods-is-approved-to-sell-cultivated-meat-in-the-us-following-completion-of-final-usda-regulatory-step-301857015.html) and [Eat Just](https://www.businesswire.com/news/home/20230621583158/en/GOOD-Meat-Gets-Full-Approval-in-the-U.S.-for-Cultivated-Meat)
+- We now have popular meat alternatives on the market such as: Impossible Foods and Beyond Meat.
+- Government regulators have now given the green light for lab grown meat. Two companies approved are [Upside Foods](https://www.prnewswire.com/news-releases/history-made-upside-foods-is-approved-to-sell-cultivated-meat-in-the-us-following-completion-of-final-usda-regulatory-step-301857015.html) and [Eat Just](https://www.businesswire.com/news/home/20230621583158/en/GOOD-Meat-Gets-Full-Approval-in-the-U.S.-for-Cultivated-Meat).
+- The [Plant Based Foods Association](https://www.plantbasedfoods.org/) has 300 member companies for futher research.
  
 
 ## Lessons Learned
@@ -26,7 +27,6 @@ Some of the key lessons that have been learned in the development and implementa
 2. There is a need for more research and development in the area in order to improve plant-based diets and make them more accessible to people.
 3. There is a need for more government support in the form of policies and regulations that encourage plant-based diets.
 
-Some of the companies and organizations that have been at the forefront of this solution are Impossible Foods, Beyond Meat, and the Plant Based Foods Association.
 
 ## Challenges Ahead
 
