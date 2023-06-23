@@ -8,8 +8,6 @@ title: Plant-Rich Diets
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YNgco4ihw14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Overview
 
 There has been significant progress in developing Plant-Rich Diets to reverse climate change. Some of the breakthrough technologies that have been developed include plant-based meat and dairy products, plant-based fertilizers, and plant-based plastics. These technologies have contributed to the reduction of greenhouse gas emissions by replacing animal-based products with plant-based alternatives. Some of the companies and organizations that have been at the forefront of this solution include Impossible Foods, Beyond Meat, and the Plant Based Foods Association.
