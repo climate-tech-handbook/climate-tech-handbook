@@ -8,7 +8,7 @@ icon:
 
 # Yes we know exactly how to solve the climate crisis
 
-The last 23+ years are not a complete waste.
+The last 40+ years are not a complete waste.
 
 **We have all the science and tech needed to win this critical decade.**
 
