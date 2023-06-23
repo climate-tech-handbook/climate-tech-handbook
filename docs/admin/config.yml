@@ -2,6 +2,7 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
   repo: climate-tech-handbook/climate-tech-handbook
+  open_authoring: true
 
 # These lines should *not* be indented
 publish_mode: editorial_workflow

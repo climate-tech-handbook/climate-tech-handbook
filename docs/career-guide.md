@@ -25,6 +25,9 @@ An overview from Seth Collins, Director of Learning at Terra.do
 
 * Work on Climate [^woc]
 * MCJ Collective [^mcj]
+* Find a local event or organize one.
+  - Meetups are being organized at [climatetechcities.com](https://www.climatetechcities.com/)
+  - An example event format - a [coffee crawl](../coffe-crawl).
 * _more to list_
 
 ## Industry Research
