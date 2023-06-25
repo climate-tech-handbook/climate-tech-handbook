@@ -60,6 +60,10 @@ The complex interactions between different components of the Earth system that c
 
 The movement of people from one place to another due to the impacts of climate change, such as rising sea levels, drought, or extreme weather events. Climate migration is becoming increasingly common as the impacts of climate change worsen.
 
+#### Demand Response
+
+A tactic where an electric utility dynamically tries to balance energy demand to match the supply to avoid wasting energy, as is done through traditional storage and distribution methods. One way to do this is to pay people to not use energy at certain times.
+
 #### Greenwashing
 
 The practice of making misleading or exaggerated claims about the environmental benefits of a product, service, or company. Greenwashing can make it difficult for consumers to make informed choices about their purchases and can undermine genuine efforts to address climate change.
