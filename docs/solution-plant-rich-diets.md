@@ -6,18 +6,19 @@ title: Plant-Rich Diets
 *Plant-Rich Diets ([ESRAG](https://esragdev.com/project/plant-rich-diets/))*
 
 !!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+    Work in progress...
 
 ## Overview
 
-Animal agriculture makes up nearly [15% of human-caused global greenhouse-gas emissions](https://www.fao.org/news/story/en/item/197623/icode/). A growing number of companies are working to bring alternatives to market that have the potential to cut emissions.
+AThe concept of a plant-rich diet is familiar to most of us today. However, first of all, there is one thing that we need to be reassured about: a plant-rich diet is not equal to a vegan diet, where your food sources and nutrition come solely from plants. A plant-rich diet, instead, is a diet that is plant-based and includes a variety of vegetables, grains, nuts, fruits, as well as meat and fish. Both approaches greatly reduce an individual's carbon footprint by emitting less methane and preventing deforestation.
 
-## Progress Made
+For those who have adapted to a "regular" diet, switching to a vegan diet can seem intimidating. However, a plant-rich diet can help slowly transform your dietary profile into a healthier, less inflammatory, and lower cholesterol one. In modern science, numerous solutions and technologies have been developed to assist people in making these transitions and consuming less red meat. The relationship between climate change and eating habits is actually correlated in many ways, and it contributes to the elimination of the greenhouse gas effect. That's why we introduce you to many food design technologies. Tech companies are making plant-based options taste better and smell nice. Some examples of these advancements include [extrudable fat technology](https://www.forbes.com/sites/johncumbers/2021/05/13/how-new-technology-is-making-plant-based-foods-taste-and-look-better/?sh=313d3d50585e), reintroducing new food resources, and creating [climate-first supply chain](https://www.forbes.com/sites/shaynaharris/2023/01/19/food-technologies-to-curb-climate-change/?sh=55722cd734d3) technologies.
 
-- We now have popular meat alternatives on the market such as: Impossible Foods and Beyond Meat.
-- Government regulators have now given the green light for lab grown meat. Two companies approved are [Upside Foods](https://www.prnewswire.com/news-releases/history-made-upside-foods-is-approved-to-sell-cultivated-meat-in-the-us-following-completion-of-final-usda-regulatory-step-301857015.html) and [Eat Just](https://www.businesswire.com/news/home/20230621583158/en/GOOD-Meat-Gets-Full-Approval-in-the-U.S.-for-Cultivated-Meat).
-- The [Plant Based Foods Association](https://www.plantbasedfoods.org/) has 300 member companies for futher research.
- 
+Progress Made
+
+* We now have popular meat alternatives on the market such as: Impossible Foods and Beyond Meat.
+* Government regulators have now given the green light for lab grown meat. Two companies approved are [Upside Foods](https://www.prnewswire.com/news-releases/history-made-upside-foods-is-approved-to-sell-cultivated-meat-in-the-us-following-completion-of-final-usda-regulatory-step-301857015.html) and [Eat Just](https://www.businesswire.com/news/home/20230621583158/en/GOOD-Meat-Gets-Full-Approval-in-the-U.S.-for-Cultivated-Meat).
+* The [Plant Based Foods Association](https://www.plantbasedfoods.org/) has 300 member companies for futher research.
 
 ## Lessons Learned
 
@@ -26,7 +27,6 @@ Some of the key lessons that have been learned in the development and implementa
 1. There is a need for more awareness and education on the topic in order to engage more people in plant-based diets.
 2. There is a need for more research and development in the area in order to improve plant-based diets and make them more accessible to people.
 3. There is a need for more government support in the form of policies and regulations that encourage plant-based diets.
-
 
 ## Challenges Ahead
 
