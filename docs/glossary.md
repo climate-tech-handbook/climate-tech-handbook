@@ -11,7 +11,7 @@ title: Glossary
 
 #### Carbon Budget
 
-The amount of carbon dioxide we can emit before we reach a critical tipping point and cause extensive damage and loss of life. _More exact numbers to come_
+The amount of carbon dioxide we can emit before we reach a critical tipping point. To have a medium chance of limiting warming to 1.5°C, the world has to stay under 770 gigatonnes of carbon dioxide (GtCO2). To have a likely chance (67 percent), the remaining budget drops to 570 GtCO2. Numbers are tracked by the [Global Carbon Project](https://www.globalcarbonproject.org).
 
 #### Carbon Class
 
@@ -26,10 +26,11 @@ Technologies that are based on hard science and more complex than software as a 
 #### Positive Feedback Loop
 
 Not "positive" as in good. Positive as in rapid acceleration through a feedback loop. Examples:
-1) The more ice that melts, the faster the remaining ice will melt.
-2) The more permafrost we lose, the more methane is released, warming the planet faster
-3) The more ice that melts, the less surface area there is to reflect the sun
-4) The more coral reefs die and biodiversity loss occurs in the ocean (overfishing etc.), the less carbon absorption the ocean can provide
+
+1. The more ice that melts, the faster the remaining ice will melt.
+2. The more permafrost we lose, the more methane is released, warming the planet faster
+3. The more ice that melts, the less surface area there is to reflect the sun
+4. The more coral reefs die and biodiversity loss occurs in the ocean (overfishing etc.), the less carbon absorption the ocean can provide
 
 #### Project Drawdown
 
@@ -59,6 +60,10 @@ The complex interactions between different components of the Earth system that c
 
 The movement of people from one place to another due to the impacts of climate change, such as rising sea levels, drought, or extreme weather events. Climate migration is becoming increasingly common as the impacts of climate change worsen.
 
+#### Demand Response
+
+A tactic where an electric utility dynamically tries to balance energy demand to match the supply to avoid wasting energy, as is done through traditional storage and distribution methods. One way to do this is to pay people to not use energy at certain times.
+
 #### Greenwashing
 
 The practice of making misleading or exaggerated claims about the environmental benefits of a product, service, or company. Greenwashing can make it difficult for consumers to make informed choices about their purchases and can undermine genuine efforts to address climate change.
@@ -77,7 +82,7 @@ Ground that remains frozen for at least two consecutive years. Permafrost is fou
 
 #### Power Purchase Agreement (PPA)
 
-Also called an electricity power agreement, is a long-term contract between an electricity generator and a customer, usually a utility, government or company.[1][2] PPAs may last anywhere between 5 and 20 years, during which time the power purchaser buys energy at a pre-negotiated price. Such agreements play a key role in the financing of independently owned (i.e. not owned by a utility) electricity generators, especially producers of renewable energy like solar farms or wind farms. 
+Also called an electricity power agreement, is a long-term contract between an electricity generator and a customer, usually a utility, government or company.\[1] PPAs may last anywhere between 5 and 20 years, during which time the power purchaser buys energy at a pre-negotiated price. Such agreements play a key role in the financing of independently owned (i.e. not owned by a utility) electricity generators, especially producers of renewable energy like solar farms or wind farms. 
 
 #### Regenerative Agriculture
 
@@ -90,4 +95,3 @@ A set of proposed geoengineering techniques that aim to cool the planet by refle
 #### Tipping Point
 
 A critical threshold in the Earth system, beyond which a small change can lead to a large and potentially irreversible change. For example, the melting of the Greenland ice sheet could pass a tipping point where it would continue to melt even if global warming were stopped.
-

@@ -8,15 +8,16 @@ title: Plant-Rich Diets
 !!! info "[Help us](../../contribute) track this Solution"
     This a sample ChatGPT page
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YNgco4ihw14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Overview
 
-There has been significant progress in developing Plant-Rich Diets to reverse climate change. Some of the breakthrough technologies that have been developed include plant-based meat and dairy products, plant-based fertilizers, and plant-based plastics. These technologies have contributed to the reduction of greenhouse gas emissions by replacing animal-based products with plant-based alternatives. Some of the companies and organizations that have been at the forefront of this solution include Impossible Foods, Beyond Meat, and the Plant Based Foods Association.
+Animal agriculture makes up nearly [15% of human-caused global greenhouse-gas emissions](https://www.fao.org/news/story/en/item/197623/icode/). A growing number of companies are working to bring alternatives to market that have the potential to cut emissions.
 
 ## Progress Made
 
-There has been significant progress in developing Plant-Rich Diets to reverse climate change. Breakthrough technologies that have been developed include plant-based meat and dairy products, as well as agricultural practices that promote carbon sequestration. These technologies have contributed to the reduction of greenhouse gas emissions by providing alternatives to animal-based products and by sequestering carbon in the soil. Companies and organizations that have been at the forefront of this solution include Impossible Foods, Beyond Meat, and the Rodale Institute.
+- We now have popular meat alternatives on the market such as: Impossible Foods and Beyond Meat.
+- Government regulators have now given the green light for lab grown meat. Two companies approved are [Upside Foods](https://www.prnewswire.com/news-releases/history-made-upside-foods-is-approved-to-sell-cultivated-meat-in-the-us-following-completion-of-final-usda-regulatory-step-301857015.html) and [Eat Just](https://www.businesswire.com/news/home/20230621583158/en/GOOD-Meat-Gets-Full-Approval-in-the-U.S.-for-Cultivated-Meat).
+- The [Plant Based Foods Association](https://www.plantbasedfoods.org/) has 300 member companies for futher research.
+ 
 
 ## Lessons Learned
 
@@ -26,7 +27,6 @@ Some of the key lessons that have been learned in the development and implementa
 2. There is a need for more research and development in the area in order to improve plant-based diets and make them more accessible to people.
 3. There is a need for more government support in the form of policies and regulations that encourage plant-based diets.
 
-Some of the companies and organizations that have been at the forefront of this solution are Impossible Foods, Beyond Meat, and the Plant Based Foods Association.
 
 ## Challenges Ahead
 
