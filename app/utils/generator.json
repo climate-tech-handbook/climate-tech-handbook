@@ -1,0 +1,80 @@
+[
+    {
+        "generator_id": 1,
+        "generator_data": {
+            "yml_files": [
+                "data/prompts/prompts.yml"
+            ],
+            "csv_files": [
+                "data/csv/file_info.csv"
+            ],
+            "template_mds": "data/templates/template.md",
+            "output_dir": "output"
+        }
+    },
+    {
+        "generator_id": 2,
+        "generator_data": {
+            "yml_files": [
+                "data/prompts/prompts2.yml"
+            ],
+            "csv_files": [
+                "data/csv/file_info2.csv"
+            ],
+            "template_mds": "data/templates/template2.md",
+            "output_dir": "ouput"
+        }
+    },
+    {
+        "generator_id": 3,
+        "generator_data": {
+            "yml_files": [
+                "data/prompts/prompts2.yml"
+            ],
+            "csv_files": [
+                "data/csv/file_info2.csv"
+            ],
+            "template_mds": "data/templates/template2.md",
+            "output_dir": "ouput"
+        }
+    },
+    {
+        "generator_id": 4,
+        "generator_data": {
+            "yml_files": [
+                "data/prompts/prompts2.yml"
+            ],
+            "csv_files": [
+                "data/csv/file_info2.csv"
+            ],
+            "template_mds": "data/templates/template2.md",
+            "output_dir": "ouput"
+        }
+    },
+    {
+        "generator_id": 5,
+        "generator_data": {
+            "yml_files": [
+                "data/prompts/prompts2.yml"
+            ],
+            "csv_files": [
+                "data/csv/file_info2.csv"
+            ],
+            "template_mds": "data/templates/template2.md",
+            "output_dir": "ouput"
+        }
+    },
+    {
+        "generator_id": 6,
+        "generator_data": {
+            "yml_files": [
+                "data/prompts/prompts2.yml"
+            ],
+            "csv_files": [
+                "data/csv/file_info2.csv"
+            ],
+            "template_mds": "data/templates/template2.md",
+            "output_dir": "ouput"
+        }
+    }
+]

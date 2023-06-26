@@ -1,0 +1,19 @@
+Overview:
+  prompt: |
+    Give an overview of {Topic}'s role in reducing the negative impacts of climate change.
+
+Progress Made:
+  prompt: |
+    Describe the progress that has been made in developing {Topic} to reverse climate change. Include examples of breakthrough technologies that have been developed and explain how these technologies have contributed to the reduction of greenhouse gas emissions.
+
+Lessons Learned:
+  prompt: |
+    What are some of the key lessons that have been learned in the development and implementation of {Topic} to mitigate the effects of climate change? Discuss both successes and failures associated with the technology and its use.
+
+Challenges Ahead:
+  prompt: |
+    What are the major challenges that remain in the development and implementation of {Topic} to reverse climate change? What obstacles need to be overcome to scale up and widely adopt this technology?
+
+Best Path Forward:
+  prompt: |
+    What is the best path forward for the continued development and implementation of {Topic} to effectively mitigate the effects of climate change? What steps need to be taken to ensure that this technology is adopted on a large scale and is effective?
