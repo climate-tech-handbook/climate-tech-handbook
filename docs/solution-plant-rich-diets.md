@@ -18,7 +18,7 @@ For those who have adapted to a "regular" diet, switching to a vegan diet can se
 
 Food systems contribute [21-37%](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9024616/) of global GHG emissions. Transforming the food and agricultural sectors is crucial. Despite modest efficiency improvements, cattle products account for 52% of agricultural emissions. Reducing red meat consumption is key for meeting emission targets and offers health benefits. Shifting to plant-based diets could cut GHG emissions by 49%.
 
-In the recent years, plant-based meat alternative brands like Beyond Meat truly satisfy our craving for meat, even though they are made up of soy, lentils, or beans. The company's market value is now worth roughly 830 million dollars, and as the popularity of plant-based meat substitutes continues to grow, thosedisruptors are backed up with capital. Even traditional meat companies like Cargill have joined this game and aim to claim their significant share of the market. So, what is the science behind plant-based meat?
+In recent years, plant-based meat alternative brands like Beyond Meat truly satisfy our craving for meat, even though they are made up of soy, lentils, or beans. The company's market value is now worth roughly 830 million dollars, and as the popularity of plant-based meat substitutes continues to grow, those disruptors are backed up with capital. Even traditional meat companies like Cargill have joined this game and aim to claim a significant share of the market. So, what is the science behind plant-based meat?
 
 Here are the [latest technology](https://gfi.org/science/the-science-of-plant-based-meat/) developments:
 
