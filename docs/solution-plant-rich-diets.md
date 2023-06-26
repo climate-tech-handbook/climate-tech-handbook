@@ -16,9 +16,16 @@ For those who have adapted to a "regular" diet, switching to a vegan diet can se
 
 Progress Made
 
-* We now have popular meat alternatives on the market such as: Impossible Foods and Beyond Meat.
-* Government regulators have now given the green light for lab grown meat. Two companies approved are [Upside Foods](https://www.prnewswire.com/news-releases/history-made-upside-foods-is-approved-to-sell-cultivated-meat-in-the-us-following-completion-of-final-usda-regulatory-step-301857015.html) and [Eat Just](https://www.businesswire.com/news/home/20230621583158/en/GOOD-Meat-Gets-Full-Approval-in-the-U.S.-for-Cultivated-Meat).
-* The [Plant Based Foods Association](https://www.plantbasedfoods.org/) has 300 member companies for futher research.
+Food systems contribute [21-37%](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9024616/) of global GHG emissions. Transforming the food and agricultural sectors is crucial. Despite modest efficiency improvements, cattle products account for 52% of agricultural emissions. Reducing red meat consumption is key for meeting emission targets and offers health benefits. Shifting to plant-based diets could cut GHG emissions by 49%.
+
+In the recent years, plant-based meat alternative brands like Beyond Meat truly satisfy our craving for meat, even though they are made up of soy, lentils, or beans. The company's market value is now worth roughly 830 million dollars, and as the popularity of plant-based meat substitutes continues to grow, thosedisruptors are backed up with capital. Even traditional meat companies like Cargill have joined this game and aim to claim their significant share of the market. So, what is the science behind plant-based meat?
+
+Here are the [latest technology](https://gfi.org/science/the-science-of-plant-based-meat/) developments:
+
+* Crop development
+* Ingredient optimization
+* End-product formulation and manufacturing
+* Recreate products have a [low background flavor](https://gfi.org/blog/2023-outlook-the-state-of-the-plant-based-meat-category/)
 
 ## Lessons Learned
 
