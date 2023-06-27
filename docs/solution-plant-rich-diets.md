@@ -8,6 +8,8 @@ title: Plant-Rich Diets
 !!! info "[Help us](../../contribute) track this Solution"
     Work in progress...
 
+
+
 ## Overview
 
 The concept of a plant-rich diet is familiar to most of us today. However, there is one thing that we need to be reassured of: a plant-rich diet is not equal to a vegan diet, where your food sources and nutrition come solely from plants. A plant-rich diet, instead, is a diet that is plant-based and includes a variety of vegetables, grains, nuts, fruits, as well as meat and fish. Both approaches greatly reduce an individual's carbon footprint by emitting less methane and preventing deforestation.
@@ -16,7 +18,7 @@ For those who have adapted to a "regular" diet, switching to a vegan diet can se
 
 ## Progress Made
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/72HecM0wCrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XdkskowAHkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Food systems contribute [21-37%](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9024616/) of global GHG emissions. Transforming the food and agricultural sectors is crucial. Despite modest efficiency improvements, cattle products account for 52% of agricultural emissions. Reducing red meat consumption is key to meeting emission targets and offers health benefits. Shifting to plant-based diets could cut GHG emissions by 49%.
 
@@ -24,7 +26,7 @@ In recent years, plant-based meat alternative brands like Beyond Meat and Imposs
 
 Here are the [latest technology](https://gfi.org/science/the-science-of-plant-based-meat/) developments:
 
-* Crop development
+* [Cell-cultivated meat](https://abcnews.go.com/GMA/Food/fda-approves-1st-cell-cultivated-meat-upside-foods/story?id=100278334)
 * Ingredient optimization
 * End-product formulation and manufacturing
 * Recreate products have a [low background flavor](https://gfi.org/blog/2023-outlook-the-state-of-the-plant-based-meat-category/)
