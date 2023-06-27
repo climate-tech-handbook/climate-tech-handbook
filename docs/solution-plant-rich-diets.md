@@ -24,7 +24,7 @@ In recent years, plant-based meat alternative brands like Beyond Meat and Imposs
 
 Here are the [latest technology](https://gfi.org/science/the-science-of-plant-based-meat/) developments:
 
-* Crop development
+* [Cell-cultivated meat](https://abcnews.go.com/GMA/Food/fda-approves-1st-cell-cultivated-meat-upside-foods/story?id=100278334)
 * Ingredient optimization
 * End-product formulation and manufacturing
 * Recreate products have a [low background flavor](https://gfi.org/blog/2023-outlook-the-state-of-the-plant-based-meat-category/)
