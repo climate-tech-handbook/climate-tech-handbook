@@ -16,7 +16,7 @@ For those who have adapted to a "regular" diet, switching to a vegan diet can se
 
 ## Progress Made
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/72HecM0wCrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XdkskowAHkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Food systems contribute [21-37%](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9024616/) of global GHG emissions. Transforming the food and agricultural sectors is crucial. Despite modest efficiency improvements, cattle products account for 52% of agricultural emissions. Reducing red meat consumption is key to meeting emission targets and offers health benefits. Shifting to plant-based diets could cut GHG emissions by 49%.
 
