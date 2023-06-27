@@ -8,9 +8,7 @@ title: Plant-Rich Diets
 !!! info "[Help us](../../contribute) track this Solution"
     Work in progress...
 
-!!! tip
 
-* Lab grown meet is now a major driver
 
 ## Overview
 
