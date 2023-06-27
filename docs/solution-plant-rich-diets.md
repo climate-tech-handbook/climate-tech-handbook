@@ -8,6 +8,10 @@ title: Plant-Rich Diets
 !!! info "[Help us](../../contribute) track this Solution"
     Work in progress...
 
+!!! tip
+
+* Lab grown meet is now a major driver
+
 ## Overview
 
 The concept of a plant-rich diet is familiar to most of us today. However, there is one thing that we need to be reassured of: a plant-rich diet is not equal to a vegan diet, where your food sources and nutrition come solely from plants. A plant-rich diet, instead, is a diet that is plant-based and includes a variety of vegetables, grains, nuts, fruits, as well as meat and fish. Both approaches greatly reduce an individual's carbon footprint by emitting less methane and preventing deforestation.
