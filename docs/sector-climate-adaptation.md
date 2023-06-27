@@ -17,9 +17,7 @@ Examples:
 * Water management
 * Ecosystem restoration
 
-## Solutions in this Sector
 
-*
 
 - - -
 
