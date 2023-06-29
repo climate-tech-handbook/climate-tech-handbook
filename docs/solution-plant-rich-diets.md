@@ -51,6 +51,8 @@ Here is a list of 10 prominent players in the plant-based meat market:
 
 * Plant-based meat industry growth limited by population sensitivity to soy and gluten and high prices.
 * Incorrect perception of taste of plant-based beef products can hinder market expansion.
+* Plant-based meat is significantly more expensive than conventional meat on a per-pound basis, according to Nielsen data.
+* [Analysts](https://www.nytimes.com/2021/10/15/business/beyond-meat-impossible-emissions.html) find it challenging to assess the sustainability of plant-based foods due to limited transparency regarding emissions.
 
 ## Best Path Forward
 
