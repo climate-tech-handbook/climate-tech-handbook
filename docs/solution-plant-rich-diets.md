@@ -8,11 +8,9 @@ title: Plant-Rich Diets
 !!! info "[Help us](../../contribute) track this Solution"
     Work in progress...
 
-
-
 ## Overview
 
-The concept of a plant-rich diet is familiar to most of us today. However, there is one thing that we need to be reassured of: a plant-rich diet is not equal to a vegan diet, where your food sources and nutrition come solely from plants. A plant-rich diet, instead, is a diet that is plant-based and includes a variety of vegetables, grains, nuts, fruits, as well as meat and fish. Both approaches greatly reduce an individual's carbon footprint by emitting less methane and preventing deforestation.
+Adopting a plant-rich diet is the most impactful food-related change we can make, according to research by the US Department of Agriculture. By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. A study analyzing emissions from US cattle found that beef production contributes just 3.3% of the nation's overall climate footprint. Shifting towards plant-based diets offers the greatest potential for positive impact, surpassing increased yields, agricultural efficiency, and reduced food waste. Embracing plant-rich diets and reducing beef consumption can significantly mitigate environmental impact and address climate change.
 
 For those who have adapted to a "regular" diet, switching to a vegan diet can seem intimidating. However, a plant-rich diet can help slowly transform your dietary profile into a healthier, less inflammatory, and lower cholesterol one. In modern science, numerous solutions and technologies have been developed to assist people in making these transitions and consuming less red meat. The relationship between climate change and eating habits is actually correlated in many ways, and it contributes to the elimination of the greenhouse gas effect. That's why we introduce you to many food design technologies. Tech companies are making plant-based options taste better and smell nice. Some examples of these advancements include [extrudable fat technology](https://www.forbes.com/sites/johncumbers/2021/05/13/how-new-technology-is-making-plant-based-foods-taste-and-look-better/?sh=313d3d50585e), reintroducing new food resources, and creating [climate-first supply chain](https://www.forbes.com/sites/shaynaharris/2023/01/19/food-technologies-to-curb-climate-change/?sh=55722cd734d3) technologies.
 
