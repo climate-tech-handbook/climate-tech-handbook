@@ -1,5 +1,9 @@
 ---
 title: Alternative Cement
+authors:
+  - name: Muxi
+    description: Is great
+    avatar: example.com
 ---
 
 ![Cement Factory](img/cement-factory.jpg)
