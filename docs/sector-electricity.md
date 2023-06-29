@@ -21,6 +21,8 @@ Examples:
 * Electrification of industrial processes
 * Building electrification
 
+The last two examples are included in what is often referred to as the "electrify everything" movement.  The goal is to switch all domestic and industrial processes (cooktops, water heaters, furnaces, industrial heat, etc.) to use electricity, which subsequently allows major decarbonization efforts to be focused on electricty generation.
+
 ## Solutions in this Sector
 
 * [Utility-Scale Energy Storage](../solution-utility-scale-energy-storage)
