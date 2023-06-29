@@ -24,13 +24,28 @@ Here are the [latest technology](https://gfi.org/science/the-science-of-plant-ba
 * Plant- and fungi-based meat (PBM): Plant ingredients undergo sourcing, processing, and formulation stages to replace functional components in animal products through R&D.
 * Recreate products have a low background flavor: The goal is to maintain a low background flavor in products without overpowering the subtler tastes of conventional meat or seafood.
 
+## Key Players
+
+Here is a list of 10 prominent players in the plant-based meat market:
+
+1. Beyond Meat
+2. Impossible Foods Inc.
+3. Morningstar Farms
+4. Quorn Foods
+5. Lightlife Foods, Inc.
+6. Tofurky
+7. Amy's Kitchen, Inc.
+8. Dr. Praeger's Sensible Foods
+9. Trader Joe's
+10. Yves Veggie Cuisine (The Hain-Celestial Canada, ULC)
+
 ## Lessons Learned
 
-Some of the key lessons that have been learned in the development and implementation of Plant-Rich Diets to reverse climate change are as follows: 
-
-1. There is a need for more awareness and education on the topic in order to engage more people in plant-based diets.
-2. There is a need for more research and development in the area in order to improve plant-based diets and make them more accessible to people.
-3. There is a need for more government support in the form of policies and regulations that encourage plant-based diets.
+* Plant-based non-vegetarian alternatives market on the rise due to animal-borne infection risks, health concerns, and demand for good food commodities.
+* Growing public understanding and demand for plant-based alternatives driven by health benefits and appeal to flexitarians.
+* Increasing awareness of food system's climate impact influencing consumer purchasing decisions.
+* [50%](https://www.unilever.com/news/news-search/2023/five-trends-that-will-take-plantbased-eating-mainstream-in-2023/) of flexitarians interested in following food trends.
+* [42%](https://www.unilever.com/news/news-search/2023/five-trends-that-will-take-plantbased-eating-mainstream-in-2023/) of consumers worldwide expect plant-based foods to replace meat in the next decade.
 
 ## Challenges Ahead
 
