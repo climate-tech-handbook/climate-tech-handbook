@@ -1,6 +1,10 @@
 ---
 title: Climate Adaptation - New York City
 ---
+![](/img/climate-adaptation-new-york.jpg)
+
+*Climate Adaptation and Resilience ([New York Tech](https://www.nyit.edu/news/features/2022_energy_conference_climate_adaptation_and_resilience))*
+
 ## Overview
 
 New York, located along the Atlantic coast, has historically suffered from numerous hurricanes. Additionally, the city faces climate risks such as sea-level rise, floods, and heatwaves. In New York's 2007 plans, attention was drawn to the impact of climate change on the city. The New York plan revised in 2011 placed even more emphasis on urban resilience to climate change, addressing the changes that have already occurred. In October 2012, Hurricane Sandy hit New York, resulting in 43 deaths and significant damage to the city, prompting the release of the [New York Adaptation Plan](https://climate.cityofnewyork.us/initiatives/adaptnyc/) in 2013. This plan aimed to build a stronger and more resilient New York.
