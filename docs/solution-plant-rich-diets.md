@@ -49,13 +49,8 @@ Here is a list of 10 prominent players in the plant-based meat market:
 
 ## Challenges Ahead
 
-There are a number of challenges that remain in the development and implementation of Plant-Rich Diets to reverse climate change. One of the major challenges is the need to increase the production of plant-based foods. This can be done through a variety of methods, including increasing the amount of land devoted to growing crops, improving yields, and developing new plant-based foods.
-
-Another challenge is to change the way that people consume food. This includes changing dietary habits and food preferences, as well as increasing the availability of plant-based foods. Additionally, it is important to educate people about the benefits of plant-based diets and the dangers of climate change.
-
-Finally, there is a need to develop policies and regulations that support the adoption of plant-based diets. This includes creating incentives for farmers to grow crops, investing in research and development, and enacting laws and regulations that support the production and consumption of plant-based foods.
-
-A number of companies and organizations have been at the forefront of developing and promoting plant-based diets. These include PlantPure, The Good Food Institute, Impossible Foods, Beyond Meat, and Hampton Creek. Additionally, a number of celebrities, including James Cameron, Leonardo DiCaprio, and Ellen DeGeneres, have publicly promoted plant-based diets.
+* Plant-based meat industry growth limited by population sensitivity to soy and gluten and high prices.
+* Incorrect perception of taste of plant-based beef products can hinder market expansion.
 
 ## Best Path Forward
 
