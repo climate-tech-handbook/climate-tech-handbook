@@ -7,8 +7,6 @@ New York, located along the Atlantic coast, has historically suffered from numer
 
 ## Progress Made
 
-
-
 * New York has invested significantly in infrastructure upgrades, such as the $20 billion plan for flood defenses, improved power infrastructure, and reinforcing buildings and public housing against extreme weather events.
 * New York updated its building codes to withstand future climate risks better. The [updated codes](https://www.nyc.gov/site/buildings/codes/2022-construction-codes.page) encourage new buildings to incorporate climate resilience into their designs.
 * New York launched initiatives like the East Side Coastal Resiliency Project, aiming to strengthen the coastal areas of Manhattan against sea-level rise and storm surges.
@@ -16,14 +14,11 @@ New York, located along the Atlantic coast, has historically suffered from numer
 
 ## Lessons Learned
 
-
-
 * Climate adaptation is a complex issue that touches on various sectors of society. The New York Adaptation Plan showed that collaboration across sectors (public, private, non-profit, etc.) and disciplines is crucial for successful planning and implementation.
 * The adaptation plan demonstrated that community involvement is critical for success. Local communities should be involved in the planning and implementation process to ensure that the adaptation measures meet their needs.
 * The plan requires ongoing monitoring and evaluation of adaptation measures.
 
 ## Challenges Ahead
-
 
 * Secure sufficient and consistent funds for the plan's implementation and maintenance.
 * Adapt or replace old infrastructure not designed with climate change in mind.
@@ -31,7 +26,6 @@ New York, located along the Atlantic coast, has historically suffered from numer
 * Improve public understanding of climate change risks and the necessity of adaptation measures.
 
 ## Best Path Forward
-
 
 * Enhanced collaboration across public, private, and nonprofit sectors, along with academia
 * Make sure that social equity issues are taken into account in the development of adaptation strategies
