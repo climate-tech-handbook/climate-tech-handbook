@@ -10,24 +10,19 @@ title: Plant-Rich Diets
 
 ## Overview
 
-Adopting a plant-rich diet is the most impactful food-related change we can make, according to research by the US Department of Agriculture. By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. A study analyzing emissions from US cattle found that beef production contributes just 3.3% of the nation's overall climate footprint. Shifting towards plant-based diets offers the greatest potential for positive impact, surpassing increased yields, agricultural efficiency, and reduced food waste. Embracing plant-rich diets and reducing beef consumption can significantly mitigate environmental impact and address climate change.
-
-For those who have adapted to a "regular" diet, switching to a vegan diet can seem intimidating. However, a plant-rich diet can help slowly transform your dietary profile into a healthier, less inflammatory, and lower cholesterol one. In modern science, numerous solutions and technologies have been developed to assist people in making these transitions and consuming less red meat. The relationship between climate change and eating habits is actually correlated in many ways, and it contributes to the elimination of the greenhouse gas effect. That's why we introduce you to many food design technologies. Tech companies are making plant-based options taste better and smell nice. Some examples of these advancements include [extrudable fat technology](https://www.forbes.com/sites/johncumbers/2021/05/13/how-new-technology-is-making-plant-based-foods-taste-and-look-better/?sh=313d3d50585e), reintroducing new food resources, and creating [climate-first supply chain](https://www.forbes.com/sites/shaynaharris/2023/01/19/food-technologies-to-curb-climate-change/?sh=55722cd734d3) technologies.
+Adopting a plant-rich diet is the most impactful food-related change we can make, according to research by the US Department of Agriculture. By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. A study analyzing emissions from US cattle found that beef production contributes just [3.3%](https://www.theguardian.com/environment/2023/may/03/five-beef-industry-myths-busted) of the nation's overall climate footprint. Shifting towards plant-based diets offers the greatest potential for positive impact, surpassing increased yields, agricultural efficiency, and reduced food waste. Embracing plant-rich diets and reducing beef consumption can significantly mitigate environmental impact and address climate change.
 
 ## Progress Made
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XdkskowAHkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Food systems contribute [21-37%](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9024616/) of global GHG emissions. Transforming the food and agricultural sectors is crucial. Despite modest efficiency improvements, cattle products account for 52% of agricultural emissions. Reducing red meat consumption is key to meeting emission targets and offers health benefits. Shifting to plant-based diets could cut GHG emissions by 49%.
-
-In recent years, plant-based meat alternative brands like Beyond Meat and Impossible Foods truly satisfy our craving for meat, even though they are made up of soy, lentils, or beans. The company's market value is now worth roughly 830 million dollars, and as the popularity of plant-based meat substitutes continues to grow, those disruptors are backed up with capital. Even traditional meat companies like Cargill have joined this game and aim to claim a significant share of the market. So, what is the science behind plant-based meat?
+Food design technologies are revolutionizing plant-based options, enhancing taste and aroma. Advancements like extrudable fat technology, introducing new food resources, and climate-first supply chain technologies are transforming the way we eat. Embracing these innovations allows us to make sustainable choices for a healthier future.
 
 Here are the [latest technology](https://gfi.org/science/the-science-of-plant-based-meat/) developments:
 
-* [Cell-cultivated meat](https://abcnews.go.com/GMA/Food/fda-approves-1st-cell-cultivated-meat-upside-foods/story?id=100278334)
-* Ingredient optimization
-* End-product formulation and manufacturing
-* Recreate products have a [low background flavor](https://gfi.org/blog/2023-outlook-the-state-of-the-plant-based-meat-category/)
+* Lab-grown meat (CBM): Stem cells from animal biopsy are grown in bioreactors to form muscle, fat, and connective tissue for meat production.
+* Plant- and fungi-based meat (PBM): Plant ingredients undergo sourcing, processing, and formulation stages to replace functional components in animal products through R&D.
+* Recreate products have a low background flavor: The goal is to maintain a low background flavor in products without overpowering the subtler tastes of conventional meat or seafood.
 
 ## Lessons Learned
 
