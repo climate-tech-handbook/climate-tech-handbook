@@ -10,7 +10,7 @@ title: Plant-Rich Diets
 
 ## Overview
 
-Adopting a plant-rich diet is the most impactful food-related change we can make, according to research by the US Department of Agriculture. By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. A study analyzing emissions from US cattle found that beef production contributes [3.3%](https://www.theguardian.com/environment/2023/may/03/five-beef-industry-myths-busted) of the nation's overall climate footprint. Shifting towards plant-based diets offers the greatest potential for positive impact, surpassing increased yields, agricultural efficiency, and reduced food waste. Embracing plant-rich diets and reducing beef consumption can significantly mitigate environmental impact and address climate change.
+Adopting a plant-rich diet is the most impactful food-related change we can make, according to research by the US Department of Agriculture. By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. Beef is more [resource-intensive](https://www.wri.org/insights/6-pressing-questions-about-beef-and-climate-change-answered) than other meats, and animal-based foods require more resources than plant-based foods. Shifting towards plant-based diets offers the greatest potential for positive impact, surpassing increased yields, agricultural efficiency, and reduced food waste. Embracing plant-rich diets and reducing beef consumption can significantly mitigate environmental impact and address climate change.
 
 ## Progress Made
 
