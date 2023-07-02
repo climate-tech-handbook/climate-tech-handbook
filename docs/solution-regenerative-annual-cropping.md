@@ -26,6 +26,14 @@ Organizations that have been at the forefront of developing Regenerative Annual 
 * The Land Institute: The Land Institute is a research organization that is focused on developing sustainable agriculture systems. They have been working on developing Regenerative Annual Cropping systems for over 20 years.
 * The Soil Association: The Soil Association is a charity that promotes organic agriculture. They have been working on developing Regenerative Annual Cropping systems for over 10 years.
 
+!!! Info "Case Study - [Aigen](https://aigen.io)"
+
+\    
+
+![Aigen robot](/img/aigen-robotics.png "Aigen robot")
+
+\    Aigen creates autonomous agricultural robots to reduce pesticide use through tasks such as weeding. They are solar powered, and do not rely on fossil fuels like other farm equipment.
+
 ## Lessons Learned
 
 1. Regenerative annual cropping has the potential to significantly reduce atmospheric carbon levels.
@@ -49,21 +57,9 @@ The major challenge that remains in the development and implementation of Regene
 3. The need for more infrastructure to support regenerative agriculture, such as storage facilities, processing facilities, and transportation networks.
 4. The need for policy changes at the local, state, and federal level to incentivize regenerative agriculture.
 
-Some companies and organizations that have been at the forefront of this solution include:
-
-1. The Rodale Institute
-2. The Natural Resources Defense Council
-3. The Climate Group
-4. The World Wildlife Fund
-5. The Food and Agriculture Organization of the United Nations
-
 ## Best Path Forward
-
-The best path forward for the continued development and implementation of Regenerative Annual Cropping to effectively mitigate the effects of climate change is to ensure that this technology is adopted on a large scale and is effective. Steps that need to be taken to ensure this include:
 
 1. Increasing public awareness of the benefits of regenerative annual cropping.
 2. Encouraging farmers to adopt regenerative annual cropping practices.
 3. Supporting research and development of regenerative annual cropping technologies.
 4. Providing financial incentives for farmers to adopt regenerative annual cropping practices.
-
-Some companies and organizations that have been at the forefront of this solution include The Rodale Institute, The Climate Corporation, and Carbon Sequestration Initiative.
