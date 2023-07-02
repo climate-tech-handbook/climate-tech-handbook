@@ -10,29 +10,28 @@ title: Regenerative Annual Cropping
 
 ## Overview
 
-In the past decade, significant progress has been made in developing regenerative annual cropping systems to reverse climate change. Breakthrough technologies such as no-till farming, cover crops, and precision agriculture have been developed and have contributed to the reduction of greenhouse gas emissions. Companies and organizations such as The Climate Corporation, Farmers Edge, and Indigo Ag have been at the forefront of this solution.
+In the past decade, significant progress has been made in developing regenerative annual cropping systems to reverse climate change. Breakthrough technologies such as no-till farming, cover crops, and precision agriculture have been developed and have contributed to the reduction of greenhouse gas emissions.
 
 ## Progress Made
 
-There has been significant progress made in developing Regenerative Annual Cropping to reverse climate change. Breakthrough technologies that have been developed include:
+Breakthrough technologies that have been developed include:
 
-* no-till farming: This technology allows farmers to plant crops without disturbing the soil. This reduces greenhouse gas emissions by reducing the amount of carbon that is released into the atmosphere.
-* cover crops: Cover crops are planted between cash crops to improve soil health and reduce erosion. They also help to sequester carbon in the soil, which reduces greenhouse gas emissions.
-* precision agriculture: This technology uses sensors and GPS to optimize crop production. This reduces greenhouse gas emissions by reducing the amount of fuel and chemicals that are used in agriculture.
+* **no-till farming**: This technology allows farmers to plant crops without disturbing the soil. This reduces greenhouse gas emissions by reducing the amount of carbon that is released into the atmosphere.
+* **cover crops**: Cover crops are planted between cash crops to improve soil health and reduce erosion. They also help to sequester carbon in the soil, which reduces greenhouse gas emissions.
+* **precision agriculture**: This technology uses sensors and GPS to optimize crop production. This reduces greenhouse gas emissions by reducing the amount of fuel and chemicals that are used in agriculture.
 
 Organizations that have been at the forefront of developing Regenerative Annual Cropping include:
 
-* The Rodale Institute: The Rodale Institute is a research and education organization that is dedicated to organic agriculture. They have been working on developing Regenerative Annual Cropping systems for over 30 years.
-* The Land Institute: The Land Institute is a research organization that is focused on developing sustainable agriculture systems. They have been working on developing Regenerative Annual Cropping systems for over 20 years.
-* The Soil Association: The Soil Association is a charity that promotes organic agriculture. They have been working on developing Regenerative Annual Cropping systems for over 10 years.
+* **The Rodale Institute**: The Rodale Institute is a research and education organization that is dedicated to organic agriculture. They have been working on developing Regenerative Annual Cropping systems for over 30 years.
+* **The Land Institute**: The Land Institute is a research organization that is focused on developing sustainable agriculture systems. They have been working on developing Regenerative Annual Cropping systems for over 20 years.
+* **The Soil Association**: The Soil Association is a charity that promotes organic agriculture. They have been working on developing Regenerative Annual Cropping systems for over 10 years.
 
-!!! Info "Case Study - [Aigen](https://aigen.io)"
+#### Technologies
 
-\    
+!!! Info "Case Study - [Aigen](https://aigen.io)"    
+    [Aigen](https://aigen.io) creates autonomous agricultural robots to reduce pesticide use through tasks such as weeding. They are solar powered, and do not rely on fossil fuels like other farm equipment. ([CNBC article](https://www.cnbc.com/2023/06/30/ex-tesla-engineer-builds-aigen-robots-to-get-weeds-without-pesticides.html) to learn more)
 
 ![Aigen robot](/img/aigen-robotics.png "Aigen robot")
-
-\    [Aigen](https://aigen.io) creates autonomous agricultural robots to reduce pesticide use through tasks such as weeding. They are solar powered, and do not rely on fossil fuels like other farm equipment. ([CNBC article](https://www.cnbc.com/2023/06/30/ex-tesla-engineer-builds-aigen-robots-to-get-weeds-without-pesticides.html) to learn more)
 
 ## Lessons Learned
 
@@ -40,13 +39,6 @@ Organizations that have been at the forefront of developing Regenerative Annual 
 2. The technology is still in its early stages of development and there have been some failures associated with its implementation.
 3. One of the key lessons learned is that it is important to work with experienced farmers and organizations that have a deep understanding of the technology and its potential.
 4. Another key lesson is that regenerative annual cropping is not a silver bullet and must be part of a comprehensive strategy that includes other carbon reduction measures.
-
-Some of the companies and organizations that have been working on regenerative annual cropping include:
-
-1. The Rodale Institute
-2. The Carbon Underground
-3. The Climate Foundation
-4. The Nature Conservancy
 
 ## Challenges Ahead
 
