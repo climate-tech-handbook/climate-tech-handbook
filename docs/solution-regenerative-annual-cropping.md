@@ -32,7 +32,7 @@ Organizations that have been at the forefront of developing Regenerative Annual 
 
 ![Aigen robot](/img/aigen-robotics.png "Aigen robot")
 
-\    Aigen creates autonomous agricultural robots to reduce pesticide use through tasks such as weeding. They are solar powered, and do not rely on fossil fuels like other farm equipment.
+\    [Aigen](https://aigen.io) creates autonomous agricultural robots to reduce pesticide use through tasks such as weeding. They are solar powered, and do not rely on fossil fuels like other farm equipment. ([CNBC article](https://www.cnbc.com/2023/06/30/ex-tesla-engineer-builds-aigen-robots-to-get-weeds-without-pesticides.html) to learn more)
 
 ## Lessons Learned
 
