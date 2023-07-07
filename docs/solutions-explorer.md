@@ -2,7 +2,13 @@
 title: Solutions Explorer
 ---
 
-The size of each box represents Project Drawdown's estimated potential emissions reduction (2020-2050) for the sector or solution.
+The size of each box represents Project Drawdown's estimated emissions reduction (2020-2050) for the sector or solution.
+
+* **Hover** (on Desktop) or hold you finger (on mobile) to see the full name and gigaton reduction estimate
+* **Double click** to read about the [Solution](../solutions) in further detail
+
+!!! info "Note: there are 93 total Drawdown solutions"
+    However, many are proportionally smaller than the top 10 and do not fit here
 
 <div  style="width: 100%; height: 666px;">
 
