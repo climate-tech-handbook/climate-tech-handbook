@@ -23,6 +23,8 @@ Technologies that are based on hard science and more complex than software as a 
 
 #### Force Multiplier
 
+The concept that the climate crisis multiplies all other problems in the world outside of global heating. For example, biodiversity loss will increase, water shortages and global conflict will increase, immigration and refuge challenges will increase, etc.
+
 #### Positive Feedback Loop
 
 Not "positive" as in good. Positive as in rapid acceleration through a feedback loop. Examples:
