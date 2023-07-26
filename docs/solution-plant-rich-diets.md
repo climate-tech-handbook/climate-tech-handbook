@@ -5,12 +5,24 @@ title: Plant-Rich Diets
 
 *Plant-Rich Diets ([ESRAG](https://esragdev.com/project/plant-rich-diets/))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    Work in progress...
+!!! note "[Help us](../../contribute) track this Solution - [learn how to contribute](../contribute)"
+
+!!! success "🏅Ranked in the top 5 most effective climate solutions on the planet."
+     With the potential to reduce **78.33 Gigatons** from our 1050.91 Gigaton Drawdown Goal, supporting meat alternatives are the 2nd highest out of 93 total [Project Drawdown Solutions](../solutions-explorer).
+
+!!! tip "If you want a tech job supporting meat alternatives"
+    * Search job descriptions filtered by this solution directly from [ClimateBase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Plant-Rich+Diets&p=0&remote=false)
+    * Keep an eye on emerging brands for "[cultured meat](#progress-made)" - real meat grown in a lab.
+    * Companies like Upside Foods and Good Meat have just received government approval to begin in the US. Cultured meat is currently [only available in Signapore](https://www.bbc.com/news/business-65784505).  Other companies [listed here](https://www.labiotech.eu/best-biotech/cultured-meat-companies/).
+
+<!--!!! info "We are tracking closely - join our mailing ist"-->
+
 
 ## Overview
 
-Adopting a plant-rich diet is the most impactful food-related change we can make, according to research by the US Department of Agriculture. By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. Beef is more [resource-intensive](https://www.wri.org/insights/6-pressing-questions-about-beef-and-climate-change-answered) than other meats, and animal-based foods require more resources than plant-based foods. Shifting towards plant-based diets offers the greatest potential for positive impact, surpassing increased yields, agricultural efficiency, and reduced food waste. Embracing plant-rich diets and reducing beef consumption can significantly mitigate environmental impact and address climate change.
+- By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. Additionally, industrial livestock reduction prevents destruction of biodiverse habitat that are ideal [land sinks](../sector-land-sinks).
+- Beef is more [resource-intensive](https://www.wri.org/insights/6-pressing-questions-about-beef-and-climate-change-answered) than other meats, and animal-based foods require more resources than plant-based foods.
+- Shifting towards plant-based diets offers the greatest potential for positive impact, surpassing increased yields, agricultural efficiency, and reduced food waste.
 
 ## Progress Made
 
