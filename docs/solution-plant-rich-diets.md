@@ -15,14 +15,17 @@ title: Plant-Rich Diets
     * Keep an eye on emerging brands for "[cultured meat](#progress-made)" - real meat grown in a lab.
     * Companies like Upside Foods and Good Meat have just received government approval to begin in the US. Cultured meat is currently [only available in Signapore](https://www.bbc.com/news/business-65784505).  Other companies [listed here](https://www.labiotech.eu/best-biotech/cultured-meat-companies/).
 
-<!--!!! info "We are tracking closely - join our mailing ist"-->
-
+<!--!!! info "We are tracking closely - join our mailing list"-->
 
 ## Overview
 
 - By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. Additionally, industrial livestock reduction prevents destruction of biodiverse habitat that are ideal [land sinks](../sector-land-sinks).
 - Beef is more [resource-intensive](https://www.wri.org/insights/6-pressing-questions-about-beef-and-climate-change-answered) than other meats, and animal-based foods require more resources than plant-based foods.
 - Shifting towards plant-based diets offers the greatest potential for positive impact, surpassing increased yields, agricultural efficiency, and reduced food waste.
+
+Adopting a plant-rich diet is the most impactful food-related change we can make, according to research by the US Department of Agriculture. By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. Beef is more [resource-intensive](https://www.wri.org/insights/6-pressing-questions-about-beef-and-climate-change-answered) than other meats, and animal-based foods require more resources than plant-based foods. 
+
+Shifting towards plant-based diets offers the greatest potential for positive impact, surpassing increased yields, agricultural efficiency, and [reduced food waste](../reduced-food-waste). Embracing plant-rich diets and reducing beef consumption can significantly mitigate environmental impact and address climate change.
 
 ## Progress Made
 
@@ -32,9 +35,9 @@ Food design technologies are revolutionizing plant-based options, enhancing tast
 
 Here are the [latest technology](https://gfi.org/science/the-science-of-plant-based-meat/) developments:
 
-* Lab-grown meat (CBM): Stem cells from animal biopsy are grown in bioreactors to form muscle, fat, and connective tissue for meat production.
-* Plant- and fungi-based meat (PBM): Plant ingredients undergo sourcing, processing, and formulation stages to replace functional components in animal products through R&D.
-* Recreate products have a low background flavor: The goal is to maintain a low background flavor in products without overpowering the subtler tastes of conventional meat or seafood.
+* **Lab-grown meat (CBM)**: Stem cells from animal biopsy are grown in bioreactors to form muscle, fat, and connective tissue for meat production.
+* **Plant- and fungi-based meat (PBM)**: Plant ingredients undergo sourcing, processing, and formulation stages to replace functional components in animal products through R&D.
+* **"Recreate products" are on the rise**: The goal is to maintain a low background flavor in products without overpowering the subtler tastes of conventional meat or seafood.
 
 ## Key Players
 
@@ -51,13 +54,16 @@ Here is a list of 10 prominent players in the plant-based meat market:
 9. Trader Joe's
 10. Yves Veggie Cuisine (The Hain-Celestial Canada, ULC)
 
+!!! tip "Diet tip: **Try Mung Beans**"
+    Mung beans are protein-rich, comprising approximately 24% protein by weight.
+
 ## Lessons Learned
 
-* Plant-based non-vegetarian alternatives market on the rise due to animal-borne infection risks, health concerns, and demand for good food commodities.
-* Growing public understanding and demand for plant-based alternatives driven by health benefits and appeal to flexitarians.
-* Increasing awareness of food system's climate impact influencing consumer purchasing decisions.
-* [50%](https://www.unilever.com/news/news-search/2023/five-trends-that-will-take-plantbased-eating-mainstream-in-2023/) of flexitarians interested in following food trends.
-* [42%](https://www.unilever.com/news/news-search/2023/five-trends-that-will-take-plantbased-eating-mainstream-in-2023/) of consumers worldwide expect plant-based foods to replace meat in the next decade.
+* **The plant-based non-vegetarian alternatives market is on the rise** due to animal-borne infection risks, health concerns, and demand for good food commodities.
+* **Growing public understanding and demand** for plant-based alternatives driven by health benefits and appeal to flexitarians.
+* **Increasing awareness of food system's climate impact** influencing consumer purchasing decisions.
+* **[50%](https://www.unilever.com/news/news-search/2023/five-trends-that-will-take-plantbased-eating-mainstream-in-2023/) of flexitarians** interested in following food trends.
+* **[42%](https://www.unilever.com/news/news-search/2023/five-trends-that-will-take-plantbased-eating-mainstream-in-2023/) of consumers** worldwide expect plant-based foods to replace meat in the next decade.
 
 ## Challenges Ahead
 
