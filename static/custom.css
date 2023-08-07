@@ -131,18 +131,18 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   }
 }
 
-/* .navbar__logo {
-  display: none;
-}
-
-@media (max-width: 425px) {
-  .navbar__logo {
-    display: block;
-    width: 100px;
-  }
-
-  .navbar__title {
+@media screen and (max-width: 425px) {
+  .theme-doc-footer-edit-meta-row {
     display: none;
   }
-} */
+
+  .pagination-nav__link {
+    background-color: rgb(153, 190, 172);
+    color: white;
+  }
+
+  .pagination-nav__link:hover {
+    border: 1px solid rgb(0, 79, 33);
+  }
+}
 
