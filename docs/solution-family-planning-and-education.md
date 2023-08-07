@@ -1,12 +1,17 @@
 ---
 title: Family Planning and Education
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](https://images.unsplash.com/photo-1609220136736-443140cffec6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxGYW1pbHklMjBQbGFubmluZyUyMGFuZCUyMEVkdWNhdGlvbnxlbnwwfHx8fDE2ODM2NTg3ODA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@nate_dumlao)
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

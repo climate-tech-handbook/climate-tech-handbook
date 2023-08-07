@@ -1,12 +1,17 @@
 ---
 title: Distributed Solar Photovoltaics
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 ![Cover Image](https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxEaXN0cmlidXRlZCUyMFNvbGFyJTIwUGhvdG92b2x0YWljc3xlbnwwfHx8fDE2ODM2NTg0MzY&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@rgaleriacom)
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

@@ -1,10 +1,16 @@
 ---
 title: Carpooling
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Cover Image](img/carpooling.png)
+![Cover Image](../static/img/carpooling.png)
 
-!!! info "[Help us](../../contribute) track this Solution"
+:::info [Help us track this Solution](contribute)
+
+[Click here to contribute content and feedback](contribute)
+:::
+
 
 ## Overview
 
@@ -16,4 +22,4 @@ Creating HOV traffic lanes to incentivize carpooling is another strategy.
 
 What other current or future technologies do you see helping?
 
-[Let us know](../contribute)
+[Let us know](/contribute)

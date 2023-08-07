@@ -1,13 +1,18 @@
 ---
 title: Biomass Power
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Cover Image](img/biomass-power-plant.jpg)
+![Cover Image](../static/img/biomass-power-plant.jpg)
 
 _SICET, Biomass power plant in Ospitale di Cadore, Italy._
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

@@ -1,21 +1,15 @@
 ---
 title: Hard Questions
-description: null
-authors:
-  - name: Jacob Caggiano
-    description: Hello
-    avatar: Hello
-date: null
-tags:
-  - ""
+displayed_sidebar: docSidebar
 ---
-!!! Warning "Heavy work in progress"
+:::caution Heavy work in progress
 
   *[Join us](../contribute) to help fill out this content*
+:::
 
 # Hard Questions
 
-## What is the role of [nature based solutions](../nature-based-solutions)?
+## What is the role of [nature based solutions](/nature-based-solutions)?
 
 The common belief is that tech won't save us fast enough.
 

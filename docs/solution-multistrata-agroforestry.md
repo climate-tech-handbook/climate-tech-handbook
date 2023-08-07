@@ -1,15 +1,20 @@
 ---
 title: Multistrata Agroforestry
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 # Multistrata Agroforestry
 
-![The Falcata plants are randomly distributed on the residual and erosional slope units in the agroforestry. The multilayer trees sequentially consist of Falcata–Petai–Teak–Rambutan and Coffee plants.](/img/multistrata-agroforestry.webp)
+![The Falcata plants are randomly distributed on the residual and erosional slope units in the agroforestry. The multilayer trees sequentially consist of Falcata–Petai–Teak–Rambutan and Coffee plants.](/../static/img/multistrata-agroforestry.webp)
 
 *The actual plant layout in the agroforestry land use ([MDPI Open Access Journals](https://www.mdpi.com/2073-445X/9/9/327#fig_body_display_land-09-00327-f005))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

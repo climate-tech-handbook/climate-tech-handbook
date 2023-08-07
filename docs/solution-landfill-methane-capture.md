@@ -1,13 +1,18 @@
 ---
 title: Landfill Methane Capture
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Cover Image](/img/landfill-methane-capture.gif)
+![Cover Image](/../static/img/landfill-methane-capture.gif)
 
 _Methane capture process ([EPA](https://archive.epa.gov/climatechange/kids/solutions/technologies/methane.html))_
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

@@ -1,13 +1,18 @@
 ---
 title: High-Speed Rail
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Cover Image](img/high-speed-rail.jpg)
+![Cover Image](../static/img/high-speed-rail.jpg)
 
 _Image from the California High-Speed Rail Authority_
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

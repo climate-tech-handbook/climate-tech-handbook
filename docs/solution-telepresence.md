@@ -1,12 +1,17 @@
 ---
 title: Telepresence
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![CO2 emissions per Lyon-Paris round trip: telepresence robots 0kg, combustion car 179.80kg, electric car 18.44kg, train 2.82kg, airplane 142kg.](/img/telepresence.png)
+![CO2 emissions per Lyon-Paris round trip: telepresence robots 0kg, combustion car 179.80kg, electric car 18.44kg, train 2.82kg, airplane 142kg.](/../static/img/telepresence.png)
 
 *Telepresence's carbon footprint ([Awabot](https://awabot.com/en/telepresence-robot-carbon-footprint/))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

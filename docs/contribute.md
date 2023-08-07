@@ -4,9 +4,9 @@ This is your resource!
 
 We can make it better together.
 
-![Climate tech handbook team](/img/climate-tech-handbook-team-zoom.png)
+![Climate tech handbook team](../static/img/climate-tech-handbook-team-zoom.png)
 
-Please join us on [Slack](https://www.chat.climatetechhandbook.com) and [GitHub](https://github.com/climate-tech-handbook) to:
+Please [join us on GitHub](https://github.com/climate-tech-handbook) to:
 
 * Contribute content
 * Financially support the project
@@ -56,12 +56,10 @@ It is important be skeptical while displaying a respectful attitude when critiqu
 
 If you are the one whose ideas are being critiqued, understand that the person critiquing is just trying to help.
 
-<br> 
 #### Productive debate
 
 Criticize ideas not people.
 
-<br>
 #### Community health
 
 Some online communities are remarkably successful, while others are toxic.

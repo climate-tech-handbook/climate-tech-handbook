@@ -1,12 +1,17 @@
 ---
 title: Tree Intercropping
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![Wheat-Pea intercropping increased water use efficiency ](/img/tree-intercropping.jpg)
+![Wheat-Pea intercropping increased water use efficiency ](/../static/img/tree-intercropping.jpg)
 
 *Intercropping Systems of Wheat ([MDPI Open Access Journals](https://www.mdpi.com/2073-4395/11/2/283))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

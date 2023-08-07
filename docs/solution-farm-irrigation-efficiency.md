@@ -1,12 +1,17 @@
 ---
 title: Farm Irrigation Efficiency
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Cover Image](/img/farm-irrigation-efficiency.png)
+![Cover Image](/../static/img/farm-irrigation-efficiency.png)
 _An Aquaspy tube-style sensor - [farmprogress.com](https://www.farmprogress.com/corn/regional-research-needed-for-irrigation-efficiency)_
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

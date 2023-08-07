@@ -1,12 +1,17 @@
 ---
 title: Recycled Plastics
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![The process of plastic recycling: collection, sorting, baling, shredding and cleaning, melting and extrusion, pelletizing.](/img/recycled-plastics.png)
+![The process of plastic recycling: collection, sorting, baling, shredding and cleaning, melting and extrusion, pelletizing.](/../static/img/recycled-plastics.png)
 
 *Plastic Recycling Process ([Suez](https://www.suez.co.uk/en-gb/our-offering/communities-and-individuals/education-tools-and-resources/what-happens-to-waste/recycling/plastic))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

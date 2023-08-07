@@ -1,17 +1,24 @@
 ---
 title: Biochar Production
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Cover Image](img/biochar-kiln.jpg)
+![Cover Image](../static/img/biochar-kiln.jpg)
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://www.vnews.com/Biochar-Demonstration-Offers-Alternative-to-Burn-Piles-46911424))
 
 ## Overview
 
-Significant progress has been made in developing Biochar Production to reverse climate change. Technologies such as efficient biochar production methods, carbon capture and storage, and emission-reducing agricultural practices have played a key role. Organizations like the Biochar Industry Consortium, International Biochar Initiative, Carbon Sequestration Leadership Forum, and Climate Change Mitigation Initiative have been at the forefront of this solution.
+Biochar retains most of the carbon produced by decomposing biomass.
+
+Significant progress has been made toward efficient biochar production methods, carbon capture and storage, and emission-reducing agricultural practices. Organizations like the Biochar Industry Consortium, International Biochar Initiative, Carbon Sequestration Leadership Forum, and Climate Change Mitigation Initiative have been at the forefront of this solution.
 
 ## Progress Made
 

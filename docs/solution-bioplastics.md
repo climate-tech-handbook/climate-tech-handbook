@@ -1,13 +1,18 @@
 ---
 title: Bioplastics
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Packaging peanuts made from bioplastics (thermoplastic starch) ](img/bioplastic-packing-peanuts.jpg)
+![Packaging peanuts made from bioplastics (thermoplastic starch) ](../static/img/bioplastic-packing-peanuts.jpg)
 
 _Packing peanuts made from bioplastics (thermoplastic starch) ([Wikipedia](https://commons.wikimedia.org/wiki/File:St%C3%A4rke-Packstoff_P%C3%B6mpel_CG.jpg))_
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

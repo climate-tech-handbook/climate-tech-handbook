@@ -1,12 +1,17 @@
 ---
 title: Waste to Energy
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![Waste is mixed, combusted, and repeatedly turned for thorough burning. Fly ash and acidic gases are neutralized, metals extracted for recycling, and remaining ash used in construction. Steam powers a generator, with cooling steam reused or diverted for heating. Finally, activated carbon and ammonia injections remove heavy metals and neutralize nitrogen oxides, while high temperatures destroy dioxins and furans.](/img/waste-to-energy.jpg)
+![Waste is mixed, combusted, and repeatedly turned for thorough burning. Fly ash and acidic gases are neutralized, metals extracted for recycling, and remaining ash used in construction. Steam powers a generator, with cooling steam reused or diverted for heating. Finally, activated carbon and ammonia injections remove heavy metals and neutralize nitrogen oxides, while high temperatures destroy dioxins and furans.](/../static/img/waste-to-energy.jpg)
 
 *Waste-to-Energy ( [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/waste-energy-controversial-power-generation-incineration))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

@@ -1,0 +1,54 @@
+.clock {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 90vw;
+  text-align: center;
+  align-self: center;
+  background: #eeeeee;
+  box-shadow: 12px 12px 28px rgba(38, 40, 42, 0.15);
+  border-radius: 20px;
+  padding: 2rem 0;
+  position: absolute;
+  top: -6rem;
+  text-align-last: center;
+}
+
+/* @media screen and (max-width: 966px) {
+  .clock {
+    text-align: center;
+  }
+
+  .clockHeader {
+  }
+} */
+
+.countdown {
+  /* gap: 1rem; */
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+  display: none;
+}
+
+/* Not currently using the temp and c02 scripts */
+
+/* .gTemp {
+  display: flex;
+  flex-direction: column;
+} */
+
+/* .ceeOhTwo {
+  display: flex;
+  flex-direction: column;
+} */
+
+.clockHeader {
+  color: var(--ifm-color-secondary);
+  text-align: center;
+}
+
+.clockText {
+  color: black;
+}

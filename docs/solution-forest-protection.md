@@ -1,12 +1,17 @@
 ---
 title: Forest Protection
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Cover Image](img/forest-protection.jpg)
+![Cover Image](../static/img/forest-protection.jpg)
 _Image Credit: [Euractiv](https://www.euractiv.com/section/energy-environment/opinion/seven-steps-to-curb-deforestation-and-enhance-forest-protection-looking-beyond-eu-only-solutions/)_
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

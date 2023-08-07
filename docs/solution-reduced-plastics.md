@@ -1,12 +1,17 @@
 ---
 title: Reduced Plastics
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![Ways to reduce plastic waste such as bringing your own reusable shopping bags](/img/reduced-plastics.webp)
+![Ways to reduce plastic waste such as bringing your own reusable shopping bags](/../static/img/reduced-plastics.webp)
 
 *Simple Ways to Reduce Plastic Waste ([Treehugger](https://www.treehugger.com/easy-ways-reduce-your-plastic-waste-today-4858814))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

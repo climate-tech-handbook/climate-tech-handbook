@@ -1,0 +1,65 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  gap: 5vmin;
+  align-self: center;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.cardText {
+  display: block;
+}
+
+.cardDescription {
+  padding-bottom: 26px;
+  font-size: 1.25rem;
+}
+
+.cardImg {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.buttonMain { /* overwrites default button styling */
+  background-color: var(--ifm-color-secondary) !important;
+  color: white !important;
+  font-size: 1.25rem !important;
+  font-weight: bold;
+  height: 60px !important;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  min-width: fit-content;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.buttonMain:hover {
+  transition: ease-in-out 0.25s;
+  color: var(--ifm-color-secondary) !important;
+  background: white !important;
+  border: 2px solid var(--ifm-color-secondary) !important;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 966px) {
+  .buttonMain {
+    width: 66%;
+  }
+
+  .cardContainer {
+    flex-direction: row;
+  }
+  /* Applies to the second .cardContainer div inside the main section */
+  /* This selector is more specific, so it overrides the .cardContainer one */
+  main .cardContainer:nth-child(2) { 
+    flex-direction: row-reverse;
+  }
+  .cardImg{
+    width: 42%;
+    height: 100%;
+  }
+}

@@ -1,41 +1,57 @@
 ---
 title: Coastal and Ocean Sinks
-Description: null
-icon: fontawesome/solid/water
+displayed_sidebar: docSidebar
+hide_table_of_contents: true
 ---
-# :fontawesome-solid-water:  Coastal and Ocean Sinks
+import ImageCard from '../src/components/ImageCard/ImageCard';
+
 
 ## Sector Overview
 
-<div class="grid cards" markdown>
+:::tip 6.3-10 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
-* :material-check-bold:{ .lg .middle } 6.3-10 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-
-</div>
-
-![](/img/coastal-and-ocean-sinks.png)
+![](/../static/img/coastal-and-ocean-sinks.png)
 
 Coastal and ocean sinks can absorb and sequester large amounts of carbon dioxide from the atmosphere, also known as "blue carbon".
 
-Examples:
-
-* Mangrove forests protection
-* Salt marshes
-* Blue carbon projects
-
 ## Solutions in this Sector
 
-* [Coastal Wetland Restoration](../solution-coastal-wetland-restoration)
-* [Improved Fisheries](../solution-improved-fisheries)
-* [Coastal Wetland Protection](../solution-coastal-wetland-protection)
-* [Seaweed Farming](../solution-seaweed-farming)
-* [Macroalgae Protection and Restoration](../solution-macroalgae-protection-and-restoration)
-*
-*
-*
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
 
-- - -
+<ImageCard
+  title="Coastal Wetland Protection"
+  description="Preserving and safeguarding coastal wetlands to mitigate climate change impacts and maintain ecosystem services."
+  imageUrl="img/living-shorelines.png"
+  linkUrl="../solution-coastal-wetland-protection"
+/>
 
-!!! info "[Help us](../../contribute) track this Sector"
+<ImageCard
+  title="Coastal Wetland Restoration"
+  description="Restoring and rehabilitating coastal wetlands to enhance their carbon sequestration potential and biodiversity."
+  imageUrl="img/coastal-wetland-restoration.jpg"
+  linkUrl="../solution-coastal-wetland-restoration"
+/>
 
-Thousands of organizations working in this sector are listed on [Climatebase](https://climatebase.org/organizations)
+<ImageCard
+  title="Improved Fisheries"
+  description="Implementing sustainable fishing practices to ensure the recovery and resilience of marine ecosystems."
+  imageUrl="img/improved-fisheries.jpg"
+  linkUrl="../solution-improved-fisheries"
+/>
+
+<ImageCard
+  title="Macroalgae Protection and Restoration"
+  description="For example seaweed and kelp"
+  imageUrl="img/macroalgae-protection-and-restoration.jpg"
+  linkUrl="../solution-macroalgae-protection-and-restoration"
+/>
+
+<ImageCard
+  title="Seaweed Farming"
+  description="Cultivating seaweed as a sustainable bioresource for carbon capture and various applications."
+  imageUrl="img/seaweed-farming.jpg"
+  linkUrl="../solution-seaweed-farming"
+/>
+
+</div>

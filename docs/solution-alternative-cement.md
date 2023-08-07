@@ -1,15 +1,16 @@
 ---
 title: Alternative Cement
-authors:
-  - name: Muxi
-    description: Is great
-    avatar: example.com
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Cement Factory](img/cement-factory.jpg)
+![Cement Factory](../static/img/cement-factory.jpg)
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 
@@ -82,6 +83,7 @@ The best path forward for the continued development and implementation of Altern
 Some companies and organizations that have been at the forefront of this solution include the CarbonCure Technologies, the International Energy Agency, and the World Bank.
 
 ---
+displayedSidebar: docSidebar
 
 Photo by <a href="https://unsplash.com/@worldsbetweenlines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Hendry</a> on <a href="https://unsplash.com/photos/6xeDIZgoPaw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   

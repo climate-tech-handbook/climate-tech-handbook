@@ -1,12 +1,17 @@
 ---
 title: Offshore Wind Turbines
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![Cover Image](/img/offshore-wind-turbines.jpg)
+![Cover Image](/../static/img/offshore-wind-turbines.jpg)
 
 *Offshore Wind Turbines ([Environment America](https://environmentamerica.org/center/resources/offshore-wind-for-america-3/))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

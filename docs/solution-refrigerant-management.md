@@ -1,12 +1,17 @@
 ---
 title: Refrigerant Management
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![Institutions and governments can slow climate change by regulating and reducing halocarbon refrigerant use.](/img/refrigerant-management.png)
+![Institutions and governments can slow climate change by regulating and reducing halocarbon refrigerant use.](/../static/img/refrigerant-management.png)
 
 *Regulating and reducing halocarbon refrigerant use to slow climate change ([MIT Science Policy Review](https://sciencepolicyreview.org/2020/08/institutions-and-governments-can-slow-climate-change-by-regulating-and-reducing-halocarbon-refrigerant-use/))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

@@ -1,0 +1,148 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&family=Oswald&family=Roboto:wght@100;300;400;500&display=swap');
+ 
+ :root {
+  --ifm-color-primary: #255E3C;
+  --ifm-color-primary-dark: darken(#255E3C, 10%);
+  --ifm-color-primary-darker: darken(#255E3C, 20%);
+  --ifm-color-primary-darkest: darken(#255E3C, 30%);
+  --ifm-color-primary-light: lighten(#255E3C, 10%);
+  --ifm-color-primary-lighter: lighten(#255E3C, 20%);
+  --ifm-color-primary-lightest: lighten(#255E3C, 30%);
+  --ifm-code-font-size: 95%;
+
+  --ifm-color-secondary: #be4721;
+  --ifm-color-secondary-dark: darken(#be4721, 10%);
+  --ifm-color-secondary-darker: darken(#be4721, 20%);
+  --ifm-color-secondary-darkest: darken(#be4721, 30%);
+  --ifm-color-secondary-light: lighten(#be4721, 10%);
+  --ifm-color-secondary-lighter: lighten(#be4721, 20%);
+  --ifm-color-secondary-lightest: lighten(#be4721, 30%);
+}
+
+p {
+  font-size: 18px;
+}
+
+a {
+  color: #33985C;
+}
+
+a:hover {
+  color: #33985C;
+}
+
+html, body { /*prevent mobile scrolling horizontally*/
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #EEEEEE;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme="dark"] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Set opacity of the navbar */
+.navbar {
+  background-color: rgba(176, 203, 221, 1); /* B0CBDD with opacity */
+  height: 70px;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+}
+
+.navbar__item {
+  color: var(--ifm-color-primary);
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.navbar__brand {
+  color: var(--ifm-color-primary);
+}
+
+.navbar__brand:hover {
+  /* transform: scale(1.05); */
+  transition: ease-in 0.1s;
+  color: black;
+}
+
+.navbar__toggle{
+  color: var(--ifm-color-primary);
+}
+
+.footer {
+  background-color: var(--ifm-color-primary);
+  color: white;
+}
+
+.footer__link-item {
+  color: white;
+}
+
+.contribute-button {
+  border-radius: 10px;
+  background-color: var(--ifm-color-secondary);
+  color: white;
+  height: 40px;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  border: 2px solid var(--ifm-color-secondary);
+}
+
+.contribute-button:hover {
+  border-radius: 10px;
+  background-color: white;
+  color: var(--ifm-color-secondary);
+  text-decoration: none !important;
+  border: 2px solid var(--ifm-color-secondary);
+}
+
+.navbar__link:hover {
+  transition: ease-in-out 0.25s;
+  text-decoration: underline;
+  /* border: 2px solid var(--ifm-color-secondary); */
+}
+
+.footer__link-item:hover {
+  color: white;
+}
+
+@media (max-width: 425px) {
+  .search-bar {
+    width: 83px;
+  }
+}
+
+/* .navbar__logo {
+  display: none;
+}
+
+@media (max-width: 425px) {
+  .navbar__logo {
+    display: block;
+    width: 100px;
+  }
+
+  .navbar__title {
+    display: none;
+  }
+} */
+

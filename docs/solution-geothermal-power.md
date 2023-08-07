@@ -1,13 +1,18 @@
 ---
 title: Geothermal Power
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Cover Image](img/geothermal-power.jpg)
+![Cover Image](../static/img/geothermal-power.jpg)
 
 _Krafla, a geothermal power station in Iceland_
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

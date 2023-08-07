@@ -1,0 +1,61 @@
+.solutionsContainer {
+  width: 90%;
+  margin: 3rem auto;
+  display: grid;
+  grid-template-columns: minmax(13rem, 20%) minmax(45rem, 80%);
+  gap: 2rem;
+}
+
+.leftSide {
+  min-width: 13rem;
+}
+
+.rightSide {
+  min-width: 45rem;
+}
+
+.rightSide img {
+  max-width: 100%; /* Ensure the image fits within its container */
+  height: auto; /* Maintain the aspect ratio of the image */
+}
+
+/* .headerBackground {
+  background-color: white;
+} */
+
+.headerStatement {
+  font-size: 2.5rem;
+  font-weight:400;
+  letter-spacing: .1rem; /* adjusts the kerning */
+  max-width: 100%;
+  line-height: 150%;
+  color: black;
+}
+
+@media screen and (max-width: 1024px) {
+  .solutionsContainer {
+    width: 100%;
+    margin: 3rem auto;
+    display: grid;
+    grid-template-columns: 90%;
+    gap: 2rem;
+
+  }
+
+  .leftSide {
+    width: 95%;
+    min-width: 14rem;
+    margin: auto;
+  }
+
+  .rightSide {
+    min-width: 100%;
+    margin: auto;
+  }
+  .rightSide img {
+  max-width: 100%; /* Ensure the image fits within its container */
+  height: auto; /* Maintain the aspect ratio of the image */
+}
+}
+
+  

@@ -1,12 +1,17 @@
 ---
 title: Onshore Wind Turbines
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![Wind farms, either onshore or offshore, can include floating turbines in deep sea areas.](/img/onshore-wind-turbines.jpg)
+![Wind farms, either onshore or offshore, can include floating turbines in deep sea areas.](/../static/img/onshore-wind-turbines.jpg)
 
 *Types of wind farms ([Mare Wind](https://www.marewind.eu/news/wind-energy-basics/))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

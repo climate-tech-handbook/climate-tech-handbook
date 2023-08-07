@@ -1,12 +1,17 @@
 ---
 title: Silvopasture
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![An example layout of a silvopasture system showing alley width, row spacing, and tree sets for establishing a silvopasture system in the existing pasture](/img/silvopasture.jpg)
+![An example layout of a silvopasture system showing alley width, row spacing, and tree sets for establishing a silvopasture system in the existing pasture](/../static/img/silvopasture.jpg)
 
 *An example layout of a silvopasture system ([Silvopasture Systems](https://woodlandstewards.osu.edu/sites/woodlands/files/imce/Silvopasture%20-%20Roger%20Williams.pdf))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

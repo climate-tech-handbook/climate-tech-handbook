@@ -9,6 +9,7 @@ GitHub | CMS, Community | ✅ | Free
 Netlify | Hosting | ✅ | Free
 Baserow | Database | ✅ Free 🤔 Pro | Free
 Canva | Graphics, Social Media | ✅ Free, 🤔 Pro | Free
+Usability Hub | UX testing | 🤔 | Not sure
 Polis | Delibration | 🤔 | N/A
 ConsiderIt | Deliberation | 🤔 | N/A
 GIMP | Graphics | ✅ | Free

@@ -1,13 +1,18 @@
 ---
 title: Biogas for Cooking
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ORsAEiT5bdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 _Demo from the [Biogas Handbook](https://turnwasteintoenergy.com/product/biogas-handbook-step-by-step-guide/)_
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

@@ -1,13 +1,19 @@
 ---
 title: Clean Cooking
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Cover Image](img/clean-cooking.jpg)
+![Cover Image](../static/img/clean-cooking.jpg)
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
 
-!!! info "the public debate about gas stoves has [received a lot of attention](https://www.npr.org/2023/01/13/1149135773/what-you-need-to-know-about-gas-stoves-and-health-risks) lately"
+[Click here to contribute content and feedback](contribute)
+:::
+
+:::info "the public debate about gas stoves has [received a lot of attention](https://www.npr.org/2023/01/13/1149135773/what-you-need-to-know-about-gas-stoves-and-health-risks) lately"
+:::
 
 ## Overview
 

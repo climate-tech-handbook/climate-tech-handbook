@@ -1,31 +1,29 @@
 ---
 title: Engineered Sinks
-Description: null
-icon: material/chart-bubble
+displayed_sidebar: docSidebar
+hide_table_of_contents: true
 ---
-# :material-chart-bubble: Engineered Sinks
+import ImageCard from '../src/components/ImageCard/ImageCard';
 
-<div class="grid cards" markdown>
+## Sector Overview
 
-* :material-check-bold:{ .lg .middle } 1.4–3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::tip 1.4–3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::
 
+![Biochar use cases for climate change mitigation](/../static/img/biochar-production.jpg)
+
+There are plenty of startups working to engineer non-nature solutions to capture carbon.
+
+However, Project Drawdown has only assessed biochar, which is ready today and its feasible to scale. 
+
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+    <ImageCard
+    title="Biochar Production"
+    description="Biochar retains most of the carbon produced by decomposing biomass."
+    imageUrl="img/biochar-kiln.jpg"
+    linkUrl="../solution-biochar-production"
+    />
 </div>
-
-![Biochar use cases for climate change mitigation](/img/biochar-production.jpg)
-
-By reducing water usage and promoting eco-friendly behaviors, engineered sinks can help conserve resources and reduce the carbon footprint associated with water consumption.
-
-Examples:
-
-* Water Conservation
-* Greywater and Rainwater Recycling
-
-## Solutions in this Sector
-
-* [Biochar Production](../solution-biochar-production)
 
 - - -
 
-!!! info "[Help us](../../contribute) track this Sector"
-
-Thousands of organizations working in this sector are listed on [Climatebase](https://climatebase.org/organizations)
