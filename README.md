@@ -1,14 +1,23 @@
-# Disclaimer: This project is a work in progress!
+# The Climate Tech Handbook
 
----
+[![Climate Tech Handbook - logo - small - full color](https://user-images.githubusercontent.com/1459051/233495668-13a7bc63-28b2-444f-8827-765edb7bc0e8.png)](https://climatetechhandbook.com)
 
-# Climate Tech Handbook - Docusaurus build
+## Our Mission:
 
-This project is the Docusaurus build of the Climate Tech Handbook, a comprehensive resource that aims to provide valuable insights, knowledge, and tools to navigate the complex landscape of climate technology.
+To help job seekers transition to the climate tech field as quickly as possible.
 
-The Climate Tech Handbook serves as a central hub for information related to climate tech, covering various topics such as renewable energy, sustainable agriculture, carbon capture, climate finance, and more. It is designed to support researchers, entrepreneurs, policymakers, and individuals passionate about driving positive climate impact.
+## Contribute:
 
-The current test build can be accessed at [docusaurus.climatetechhandbook.com](https://docusaurus.climatetechhandbook.com) (Password: test).
+Please [join us on Slack](https://chat.climatetechhandbook.com) and we can talk about the best ways you can help out.
+
+**We need:**
+
+- Content writers
+- Data analysts
+- Designers
+- Financial contribuors
+- Business advisors for financial sustainability
+- People who love making cool things with data
 
 ## Table of Contents
 
@@ -39,7 +48,7 @@ git clone https://github.com/climate-tech-handbook/docusaurus-test.git
 2. Change to the directory:
 
 ```bash
-cd docusaurus-test
+cd climate-tech-handbook
 ```
 
 3. Install the dependencies:
@@ -79,14 +88,6 @@ This project is deployed with Netlify. For instructions on how to deploy this pr
 ## Contributing
 
 We welcome contributions to the Climate Tech Handbook. Please see our [Contributing Guide](./CONTRIBUTING.md) for more information.
-
-## Acknowledgements
-
-This project represents an ongoing effort to transition the Climate Tech Handbook from its original form, built with MKDocs, to a new build powered by Docusaurus 2. The initial version of the handbook can be found at [this repository](https://github.com/climate-tech-handbook).
-
-In the course of this transition, we are not only changing the static site generator but also integrating our backend, which was initially built as a separate Flask application in the [data-magic](https://github.com/climate-tech-handbook/data-magic) repository. Our goal is to streamline development and maintenance by consolidating these resources into a single, cohesive monorepo.
-
-We are grateful to all contributors who have participated in this project. Your time and expertise are greatly appreciated. We are always open to new contributors and look forward to the continued growth and improvement of the Climate Tech Handbook.
 
 ## Contact
 
