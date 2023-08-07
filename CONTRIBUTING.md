@@ -35,7 +35,7 @@ At this point, you're ready to make your changes! Feel free to ask for help; eve
 At this point, you should switch back to your main branch and make sure it's up to date with the latest Climate Tech Handbook main branch:
 
 ```bash
-git remote add upstream git@github.com:bigolboyyo/docusaurus-cth-wg.git
+git remote add upstream git@github.com:climate-tech-handbook/climate-tech-handbook.git
 git checkout main
 git pull upstream main
 ```
