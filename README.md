@@ -85,10 +85,6 @@ This project uses Decap CMS for content management. For instructions on how to u
 
 This project is deployed with Netlify. For instructions on how to deploy this project with Netlify, please refer to [Netlify documentation](https://docs.netlify.com/).
 
-## Contributing
-
-We welcome contributions to the Climate Tech Handbook. Please see our [Contributing Guide](./CONTRIBUTING.md) for more information.
-
 ## Contact
 
 For any queries, suggestions, or contributions, please reach out to us:
