@@ -42,7 +42,7 @@ Please [join us on Slack](https://chat.climatetechhandbook.com) and we can talk 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/climate-tech-handbook/docusaurus-test.git
+git clone https://github.com/climate-tech-handbook/climate-tech-handbook.git
 ```
 
 2. Change to the directory:
