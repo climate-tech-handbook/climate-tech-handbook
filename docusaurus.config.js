@@ -99,6 +99,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               label: "Contribute"
             },
           ],
+          hideOnScroll: true,
         },
         footer: {
           style: "dark",
