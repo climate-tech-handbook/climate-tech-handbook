@@ -5,7 +5,7 @@
   background-repeat: no-repeat;
   background-position: center;
   height: 80vh;
-  margin-top: -96px; /* puts the hero banner partially behind the navbar for opacity */
+  margin-top: -66px; /* puts the hero banner partially behind the navbar for opacity */
   font-family: "Roboto";
   font-style: normal;
   padding: 4rem 0;
@@ -84,6 +84,7 @@
 @media screen and (max-width: 966px) {
   .heroBanner {
     padding: 2rem 0;
+    margin-top: -66px;
   }
   .headerSubtitle {
     font-size: 10vmin;
@@ -94,7 +95,8 @@
     max-width: 100%;
   }
   .cthLink{
-    width: 66%;
+    width: 12.5rem;
+    margin-bottom: 1.5rem;
   }
 }
 
