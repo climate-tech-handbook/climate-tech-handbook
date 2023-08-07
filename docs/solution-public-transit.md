@@ -1,12 +1,17 @@
 ---
 title: Public Transit
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![](/img/public-transit.webp)
+![](/../static/img/public-transit.webp)
 
 *Public Transit ([Calmatters](https://calmatters.org/commentary/2022/07/restoring-a-sense-of-safety-could-boost-public-transit-ridership/))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

@@ -1,12 +1,17 @@
 ---
 title: Seafloor Protection
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![CO2 is collected, compressed, and stored on land, then pipelined or tankered to distant seafloor disposal sites.](/img/seafloor-protection.jpg)
+![CO2 is collected, compressed, and stored on land, then pipelined or tankered to distant seafloor disposal sites.](/../static/img/seafloor-protection.jpg)
 
 *Injecting CO2 into the Deep Ocean ([U.S. Naval Institute](https://www.usni.org/magazines/proceedings/2021/july/burial-sea-injecting-co2-deep-ocean))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

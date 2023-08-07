@@ -1,0 +1,100 @@
+.heroBanner {
+  /* background-image: url("~@site/static/img/design/hp-hero.png"); */
+  background-image: url("~@site/static/img/design/windmill-hero.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 80vh;
+  margin-top: -96px; /* puts the hero banner partially behind the navbar for opacity */
+  font-family: "Roboto";
+  font-style: normal;
+  padding: 4rem 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.overlay { /*Overlay color with 50% opacity */
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 80vh;
+  background-color: rgba(0, 0, 0, 0.4); 
+}
+
+.headerContainer {
+  display: flex;
+  flex-direction: column;
+  /* gap: 2rem; */
+  align-items: flex-start;
+}
+
+.headerBackground {
+  background-color: #3a843c;
+}
+
+.headerStatement {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  font-weight:400;
+  letter-spacing: .1rem; /* adjusts the kerning */
+  max-width: 60%;
+  line-height: 150%;
+  z-index: 10;
+}
+
+.headerSubtitle {
+  text-transform: uppercase;
+  font-size: 4rem;
+  font-weight: 500;
+  letter-spacing: .1rem; /* adjusts the kerning */
+  width: auto;
+  line-height: 130%;
+  max-width: 75%;
+  margin-bottom: 40px;
+  z-index: 10;
+}
+
+.cthLink {
+  background-color: #be4721;
+  border: 2px solid var(--ifm-color-secondary);
+  color: white !important;
+  border-radius: 10px;
+  font-size: 1.25rem;
+  font-weight: bold;
+  height: 60px;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  width: 30%;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 10;
+  border-radius: 10px;
+}
+
+.cthLink:hover {
+  transition: ease-in-out 0.25s;
+  color: var(--ifm-color-secondary) !important;
+  background: white;
+  border: 2px solid var(--ifm-color-secondary);
+  text-decoration: none;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem 0;
+  }
+  .headerSubtitle {
+    font-size: 10vmin;
+    max-width: 100%;
+  }
+  .headerStatement {
+    font-size: 6vmin;
+    max-width: 100%;
+  }
+  .cthLink{
+    width: 66%;
+  }
+}
+

@@ -1,12 +1,17 @@
 ---
 title: Improved Aquaculture
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![Cover Image](img/aquaculture.jpg)
+![Cover Image](../static/img/aquaculture.jpg)
 _Image credit: [foodtank.com](https://foodtank.com/news/2021/07/new-report-shows-sustainability-in-global-aquaculture/)_
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

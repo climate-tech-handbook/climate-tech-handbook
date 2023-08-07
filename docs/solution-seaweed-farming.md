@@ -1,14 +1,21 @@
 ---
 title: Seaweed Farming
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![](/img/seaweed-farming.jpg)
+![](/../static/img/seaweed-farming.jpg)
 
 *Seaweed farm near Kia Village ([Khaled bin Sultan Living Oceans Foundation](https://www.livingoceansfoundation.org/sustainable-seaweed-farming-part-1/))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::tip "[Phyconomy](https://phyconomy.net) is a great resource
+For tracking the seaweed farming industry
+:::
 
-!!! tip "[Phyconomy](https://phyconomy.net) is a great resource for tracking the seaweed farming industry"
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

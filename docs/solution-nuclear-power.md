@@ -1,12 +1,17 @@
 ---
 title: Nuclear Power
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![ A nuclear power plant is similar to a large coal-fired power plant, with pumps, valves, steam generators, turbines, electric generators, condensers, and associated equipment.](/img/nuclear-power.webp)
+![ A nuclear power plant is similar to a large coal-fired power plant, with pumps, valves, steam generators, turbines, electric generators, condensers, and associated equipment.](/../static/img/nuclear-power.webp)
 
 *Nuclear power plant diagram ([Britannica](https://www.britannica.com/technology/nuclear-power))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

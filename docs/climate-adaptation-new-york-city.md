@@ -1,7 +1,8 @@
 ---
 title: Climate Adaptation - New York City
+displayed_sidebar: docSidebar
 ---
-![](/img/climate-adaptation-new-york.jpg)
+![](../static/img/climate-adaptation-new-york.jpg)
 
 *Climate Adaptation and Resilience ([New York Tech](https://www.nyit.edu/news/features/2022_energy_conference_climate_adaptation_and_resilience))*
 

@@ -1,12 +1,17 @@
 ---
 title: Perennial Staple Crops
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
-![Annual crops, reliant on machinery for tilling and sowing, increase soil erosion and CO2 emissions by exposing soil aggregates. Perennial crops, needing one-time tilling, last several seasons, storing carbon and contributing more significantly to soil carbon sequestration.](/img/perennial-staple-crops.jpg)
+![Annual crops, reliant on machinery for tilling and sowing, increase soil erosion and CO2 emissions by exposing soil aggregates. Perennial crops, needing one-time tilling, last several seasons, storing carbon and contributing more significantly to soil carbon sequestration.](/../static/img/perennial-staple-crops.jpg)
 
 *A perennial grain crop would offer a sustainable alternative to present day annual crops ([Frontiers](https://www.frontiersin.org/articles/10.3389/fpls.2022.898769/full))*
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

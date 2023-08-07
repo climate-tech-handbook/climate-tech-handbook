@@ -1,21 +1,109 @@
 ---
 title: Career Guide
+displayed_sidebar: docSidebar
 ---
-# Career Guide
+import ImageCard from '../src/components/ImageCard/ImageCard';
 
-!!! Question "How do I get a job without experience?"
+You are committed to impactful climate work - congrats! 🎶
 
-    Tech pays well, but requires hard skills and experience to get noticed.
- 
-    This is challenging if you're young, or in the middle of a career change.
-    
-    **We can help!**
+![Organice farm soil](../static/img/organic-farming_resize.jpg)
+## There are four steps:
 
-    [:material-star: Join our free mentorship program :material-star:](https://www.democracylab.org/projects/1232){ .md-button .md-button--primary }
+1. Choose your [employer type](#choose-your-employer-type) and look at [job boards](#job-boards)
+2. Evaluate your [skills and experience](#evaluate-your-skills-and-experience)
+3. Build your [community and network](build-your-community-and-network)
+4. Pick your [climate solution](solutions) and [information diet](resources)
+
+## Choose your employer type
+:::note You have a choice
+1. Try to make your "regular job" more climate positive
+2. Leave your "regular job" and work for a dedicated climate organization
+<!--drawdown guide for climate at work-->
+:::
+_Note: most climate tech companies are early stage startups. <br/>
+We will continue to delve deeper into this dynamic. <br/>There are other options such as government jobs._
+
+## Job boards
+
+The two most popular:
+- [ClimateBase](https://climatebase.org)
+- [Climate Tech List](https://climatetechlist.com)
+- ...there are dozens and dozens more on [Nicole Kelner's spreadsheet](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0).
+
+## Evaluate your skills and experience
+
+:::note Tech skills and experience
+* Do you already have "regular tech" experience - and just need climate knowledge?
+* Or...do you need a better tech portfolio + climate knowledge?
+:::
+
+If you'd like a stronger portfolio for tech skills or climate knowledge:
+
+**👉 Join us on [Slack](sadf.com) & [GitHub](asdf.com) and help us build the Handbook 👈**
+
+## Build your community and network
+
+### Slack / Discord communities
+
+1. [The Climate Tech Handbook](https://chat.climatetechhandbook.com)
+2. [Work on Climate](https://workonclimate.org)
+3. [MCJ Collective](https://mcjcollective.com)
+4. [Women in Climate](https://www.womenandclimate.co/slack)
+5. [DER Task Force](https://www.dertaskforce.com/) (DER = [Distributed Energy Resources](glossary#distributed-energy-resources-der))
+6. [Tofu](https://tofu4climate.substack.com/) - for marketers, Tofu = Top of Funnel
+7. [Climate Designers](https://www.climatedesigners.org)
+
+_[More listed here](https://www.climatefinance.xyz/climate-slack-communities)_
+### Local Meetups
+
+<!-- <div style={{ display: 'flex', flexWrap: 'wrap'}}>
 
 
-## Start here:
+<ImageCard
+  title="Example Title"
+  description="Example description"
+  imageUrl="/img/electricity.png"
+  linkUrl="example.com"
+/>
 
+<ImageCard
+  title="Example Title"
+  description="Example description"
+  imageUrl="/img/electricity.png"
+  linkUrl="example.com"
+/>
+
+</div> -->
+
+- See if your city is listed in [climatetechcities.com](https://climatetechcities.com) 
+- **Host your own!** Here's a [short guide](https://www.notion.so/Organizing-a-Climate-Meetup-2c7005194d4b4c6f954231668432f7b3) from [Lowell Bander](https://www.linkedin.com/in/lowellbander/)
+## Pick your solution and information diet
+
+There are great ways to volunteer and plug in.
+
+**👉 [Ask us on Slack](https://chat.climatetechhandbook.com) if you need help. 👈**
+
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+
+<ImageCard
+  title="Climate Solutions"
+  description="An overview of all 12 sectors and 93 climate solutions. We'll help you find the right fit"
+  imageUrl="/img/aigen-robotics.png"
+  linkUrl="/solutions"
+/>
+
+<ImageCard
+  title="Information Diet"
+  description="Our growing Resource Library of news sites, podcasts, and other materials."
+  imageUrl="/img/healthy-lifestyle.jpg"
+  linkUrl="/resources"
+/>
+
+</div>
+
+<!--Slack foo-->
+
+<!--
 An overview from Seth Collins, Director of Learning at Terra.do
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UxXh3B9bm1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -28,6 +116,7 @@ An overview from Seth Collins, Director of Learning at Terra.do
 * Find a local event or organize one.
   - Meetups are being organized at [climatetechcities.com](https://www.climatetechcities.com/)
   - An example event format - a [coffee crawl](../coffee-crawl).
+  - Full event guide by Lowell on Notion
 * _more to list_
 
 ## Industry Research
@@ -72,3 +161,89 @@ For example:
 [^mcj]: [MCJ Collective](https://mcjcollective.com)
 [^ctl]: [Climate Tech List](https://climatetechlist.com)
 [^djs]: [Dream Job System](https://cultivatedculture.com/djs-podcast/)
+
+
+
+
+<!--
+# Snips
+
+## Getting a job in climate tech is even harder.
+
+
+
+### Handbook:
+![example handbooks]
+
+A quick handy guide to get you where you want to go
+
+--venn diagram ??
+
+Greentown labs definition, my definition.
+
+--3 levels, image cards
+
+--The new industrial revolution is here
+
+--Optimism
+
+--The challenging parts
+
+--marble video
+
+---
+
+How?
+
+Open source content, code, and a community of contributors ready to roll up our sleeves.
+
+We are here to help you show off the perfect climate tech portfolio, change the world, and get paid what you're worth.
+
+---
+
+## What Level are you?
+
+## Level 0
+* don't know what "climate tech is"
+* x
+* x
+
+## Level 1
+
+## Level 2
+
+---
+
+
+
+---
+
+# SNIPS
+
+## Get paid to save the world.
+
+That's the promise.
+
+But how?
+
+### This is the Handbook you've been looking for
+
+
+
+
+We are tracking --hundreds/thousands of resources
+
+--xx
+
+## Lost in a sea of information
+
+Having a tech salary is the american dream.
+
+There are companies out there making a difference that will pay you
+
+
+--green skill gap report
+
+--coders need baseline knowledge as well.
+
+-->

@@ -1,62 +1,120 @@
-# The Climate Tech Handbook
-
-[![Climate Tech Handbook - logo - small - full color](https://user-images.githubusercontent.com/1459051/233495668-13a7bc63-28b2-444f-8827-765edb7bc0e8.png)](https://climatetechhandbook.com)
-
-## Our Mission:
-
-To build the world's most accessible and accurate resource for anyone using technology to address our climate emergency.
-
-## Contribute:
-
-Please [join us on Slack](https://chat.climatetechhandbook.com) and we can talk about the best ways you can help out.
-
-**We need:**
-
-- Content writers
-- Data analysts
-- Designers
-- Financial contribuors
-- Business advisors for financial sustainability
-- People who love making cool things with data
-
-## Installation instructions
-
-This project is built with [Material for MKDocs](https://squidfunk.github.io/mkdocs-material) - an advanced theme for the [MKDocs](https://www.mkdocs.org/) static site generator.
-
-_If you are a beginner to git, GitHub, Python, Terminal commands, and these instructions are confusing or don't work, please [file an Issue](https://github.com/climate-tech-handbook/climate-tech-handbook/issues/new)_
+# Disclaimer: This project is a work in progress!
 
 ---
 
-Make sure you have Python and Pip installed by typing `python3 --version` and `pip --version` in your Terminal ("Command Prompt" for Windows Users).
+# Climate Tech Handbook - Docusaurus build
 
-If you don't have Python or Pip installed, use the [Mac](#mac-users) or [Windows](#windows-users) instructions below.
+This project is the Docusaurus build of the Climate Tech Handbook, a comprehensive resource that aims to provide valuable insights, knowledge, and tools to navigate the complex landscape of climate technology.
 
-Open your terminal and navigate to your project directory `cd /climate-tech-handbook`
+The Climate Tech Handbook serves as a central hub for information related to climate tech, covering various topics such as renewable energy, sustainable agriculture, carbon capture, climate finance, and more. It is designed to support researchers, entrepreneurs, policymakers, and individuals passionate about driving positive climate impact.
 
-Set up your environment variable `python3 -m venv env`
+The current test build can be accessed at [docusaurus.climatetechhandbook.com](https://docusaurus.climatetechhandbook.com) (Password: test).
 
-Activate your environment variable `source env/bin/activate`
+## Table of Contents
 
-Install the required packages using `pip install -r requirements.txt`
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+- [Local Development](#local-development)
+- [Build](#build)
+- [Content Management with Decap CMS](#content-management-with-decap-cms)
+- [Deployment with Netlify](#deployment-with-netlify)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+- [License](#license)
 
-Spin up the site by running `mkdocs serve`
+## Prerequisites
 
-[Fork this repository](https://github.com/climate-tech-handbook/climate-tech-handbook/fork), make some changes, then submit a Pull Request ([instructions on how to do this](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) if you are new to GitHub).
+- [Node.js](https://nodejs.org/en/download/) version >= 12.13.0 or above (which can be checked by running `node -v`). You can use `nvm` for managing multiple Node versions on a single machine installed
+- [npm](https://www.npmjs.com/get-npm) version >= 6.12.0 or above (which can be checked by running `npm -v`)
 
-[Join our Discussions](https://github.com/orgs/climate-tech-handbook/discussions) and let's talk about your desired changes.
+## Setup
 
-### Mac users
+1. Clone the repository:
 
-Install Homebrew if you don't already have it installed.
+```bash
+git clone https://github.com/climate-tech-handbook/docusaurus-test.git
+```
 
-Install Python 3 by running `brew install python3` in the terminal.
+2. Change to the directory:
 
-Then follow the remaining instructions above.
+```bash
+cd docusaurus-test
+```
 
-### Windows users
+3. Install the dependencies:
 
-Download and install Python from the [official website](https://www.python.org/downloads/windows/).
+```bash
+npm install
+```
 
-Make sure to check the "Add Python to PATH" option during the installation process.
+## Local Development
 
-Follow the instructions above.
+Start the development server:
+
+```bash
+npm start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+## Build
+
+To create a static build of the project:
+
+```bash
+npm run build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+## Content Management with Decap CMS
+
+This project uses Decap CMS for content management. For instructions on how to use Decap CMS with this project, please refer to [Decap CMS documentation](https://www.decapcms.com/docs).
+
+## Deployment with Netlify
+
+This project is deployed with Netlify. For instructions on how to deploy this project with Netlify, please refer to [Netlify documentation](https://docs.netlify.com/).
+
+## Contributing
+
+We welcome contributions to the Climate Tech Handbook. Please see our [Contributing Guide](./CONTRIBUTING.md) for more information.
+
+## Acknowledgements
+
+This project represents an ongoing effort to transition the Climate Tech Handbook from its original form, built with MKDocs, to a new build powered by Docusaurus 2. The initial version of the handbook can be found at [this repository](https://github.com/climate-tech-handbook).
+
+In the course of this transition, we are not only changing the static site generator but also integrating our backend, which was initially built as a separate Flask application in the [data-magic](https://github.com/climate-tech-handbook/data-magic) repository. Our goal is to streamline development and maintenance by consolidating these resources into a single, cohesive monorepo.
+
+We are grateful to all contributors who have participated in this project. Your time and expertise are greatly appreciated. We are always open to new contributors and look forward to the continued growth and improvement of the Climate Tech Handbook.
+
+## Contact
+
+For any queries, suggestions, or contributions, please reach out to us:
+
+- [LinkedIn](https://www.linkedin.com/company/climate-tech-handbook/)
+- [Climate Tech Handbook Slack](https://chat.climatetechhandbook.com)
+- [Climate Tech Handbook](https://www.climatetechhandbook.com/)
+
+## License
+
+This project is licensed under the terms of the MIT license.
+
+```License
+The MIT License (MIT)
+
+Copyright (c) <2023> Climate Tech Handbook
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```

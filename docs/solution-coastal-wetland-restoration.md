@@ -1,13 +1,18 @@
 ---
 title: Coastal Wetland Restoration
+displayed_sidebar: docSidebar
+pagination_prev: solutions
 ---
 
-![NOAA’s Largest Wetland Restoration Project Underway in Louisiana](img/coastal-wetland-restoration.jpg)
+![NOAA’s Largest Wetland Restoration Project Underway in Louisiana](../static/img/coastal-wetland-restoration.jpg)
 
 _Image of [NOAA’s Largest Wetland Restoration Project Underway in Louisiana](https://www.fisheries.noaa.gov/feature-story/noaas-largest-wetland-restoration-project-underway-louisiana)_
 
-!!! info "[Help us](../../contribute) track this Solution"
-    This a sample ChatGPT page
+:::info [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
 
 ## Overview
 

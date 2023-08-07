@@ -1,0 +1,38 @@
+.cardContainer {
+    width: 100%;
+    max-width: 19rem; 
+    height: 26rem;
+    min-height: 26rem;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
+    margin: 10px
+}
+
+.cardContainer:hover {
+    cursor: pointer;
+}
+
+.cardImg {
+    width: 100%;
+    height: auto; 
+    border-radius: 6px 6px 0 0;
+    max-height: 200px;
+}
+
+.content {
+    padding: 5px 10%;
+}
+
+.cardButton {
+    background-color: var(--ifm-color-secondary) !important;
+    color: white !important;
+    font-size: 1rem;
+    height: 25px;
+    width: 33.33%;
+    margin-left: 5px;
+    display: inline-flex;
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+    max-width: 30px;
+    border-radius: 50%;
+  }
