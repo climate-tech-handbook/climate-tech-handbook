@@ -19,10 +19,7 @@ It involves taking proactive measures to reduce vulnerability, build resilience,
 * Water management
 * Ecosystem restoration
 
-:::tip Featured Example - New York City
-:::
-
-<br/>
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
 
 <ImageCard
   title="New York City - Climate Adaptation"
@@ -30,3 +27,11 @@ It involves taking proactive measures to reduce vulnerability, build resilience,
   imageUrl="img/climate-adaptation-new-york.jpg"
   linkUrl="../climate-adaptation-new-york-city"
 />
+<ImageCard
+  title="Sea Level Rise"
+  description="Start working on solutions for communities to adapt quickly"
+  imageUrl="img/sea-level-rise.webp"
+  linkUrl="../climate-adaptation-new-york-city"
+/>
+
+</div>
