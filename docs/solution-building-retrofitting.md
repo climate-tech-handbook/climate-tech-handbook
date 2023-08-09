@@ -16,52 +16,45 @@ _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-
 
 ## Overview
 
-Building retrofitting is the process of making improvements to an existing building to make it more energy efficient and reduce its carbon footprint. This can be done through a variety of means, such as insulating the building, installing energy-efficient windows and doors, and upgrading the heating and cooling systems.
-
-The development of building retrofitting has made great strides in recent years, thanks to advances in technology. One such breakthrough is the development of energy-efficient windows and doors. These products are designed to reduce the amount of heat that is lost through traditional windows and doors, which can account for up to 30% of a building’s energy use.
-
-Another area where technology has made a big impact is in the area of insulation. Insulation is one of the most important factors in making a building energy efficient, and there have been great strides made in developing more efficient insulation materials. One example is aerogel, a lightweight and highly efficient material that can be used to insulate walls, ceilings, and floors.
-
-There are a number of companies and organizations that are at the forefront of developing building retrofitting solutions. One such company is Johnson Controls, which has developed a number of energy-efficiency products and services. Another leader in the field is the U.S. Green Building Council, which promotes the use of green building practices and provides certification for energy-efficient buildings.
+Building retrofitting involves enhancing existing buildings to be more energy-efficient and reduce their carbon impact, achieved through methods such as insulation, energy-efficient windows, and upgraded heating/cooling systems. Technological advances, such as energy-efficient windows and aerogel insulation, have driven progress in this field. Notable contributors include Johnson Controls and the U.S. Green Building Council.
 
 ## Progress Made
 
-In the past decade, there has been significant progress in developing Building Retrofitting technologies to reverse climate change. Breakthrough technologies such as thermal insulation, energy-efficient windows, and green roofs have been developed and have contributed to the reduction of greenhouse gas emissions. Companies and organizations such as the International Energy Agency, the US Department of Energy, and the UK's Carbon Trust have been at the forefront of this solution.
+- Thermal insulation, energy-efficient windows, and green roofs
+
+- Organizations like the International Energy Agency, the U.S. Department of Energy, and the UK's Carbon Trust have been pivotal.
 
 ## Lessons Learned
 
-Some key lessons that have been learned in the development and implementation of Building Retrofitting to reverse climate change are as follows: 
+Key insights from the development and implementation of Building Retrofitting to reverse climate change include:
 
-1. It is important to develop a comprehensive and coordinated plan for retrofitting buildings. This plan should be designed to achieve maximum energy efficiency and carbon reduction while minimizing costs. 
-2. It is necessary to engage all stakeholders in the planning and implementation process, including building owners, tenants, government officials, and utility providers. 
-3. A wide range of financing options should be explored to make retrofitting projects more affordable. These options include private investment, government incentives, and utility rebates. 
-4. The most successful retrofitting projects are those that take a holistic approach, addressing both the physical and operational aspects of buildings. 
-5. Retrofitting projects can have a significant impact on reducing greenhouse gas emissions, but they must be part of a broader effort to decarbonize the built environment.
+1. **Comprehensive Planning**: An all-encompassing plan is essential, aiming for optimal energy efficiency and carbon reduction while minimizing expenses.
+2. **Stakeholder Engagement**: Involving all parties, from building owners to government officials, is crucial during planning and execution.
+3. **Financing Variety**: Exploring diverse financing options, such as private investment, government incentives, and utility rebates, can make retrofitting more affordable.
+4. **Holistic Approach**: The most successful retrofitting projects address both physical and operational aspects of buildings.
+5. **Part of Broader Effort**: Retrofitting's impact in reducing emissions is significant but must align with broader decarbonization strategies.
 
-Organizations that have been at the forefront of this solution include the International Energy Agency (IEA), the International Partnership for Energy Efficiency Cooperation (IPEEC), and the United Nations Environment Programme (UNEP).
+Leading organizations in this arena include the International Energy Agency (IEA), International Partnership for Energy Efficiency Cooperation (IPEEC), and the United Nations Environment Programme (UNEP).
 
 ## Challenges Ahead
 
-One of the major challenges that remain in the development and implementation of Building Retrofitting to reverse climate change is the high cost of these projects. These projects can often cost hundreds of thousands of dollars, and sometimes even millions of dollars. This high cost often deters people from retrofitting their homes and businesses. Additionally, the lack of awareness of the benefits of retrofitting is another obstacle that needs to be overcome to scale up and widely adopt this technology. Many people are not aware of the potential energy savings and other benefits that can be gained from retrofitting their buildings. Finally, the lack of trained personnel and contractors who are qualified to perform these projects is another challenge that needs to be addressed. This lack of trained personnel often leads to sub-par workmanship and results.
+Major challenges remaining in Building Retrofitting for climate change reversal are:
 
-There are a number of companies and organizations that have been at the forefront of the Building Retrofitting movement. The United States Department of Energy has been a leader in this area, providing funding and resources for many of the projects that have been completed. Additionally, a number of private companies have also been active in this space, including Johnson Controls, Honeywell, and Siemens. These companies have been instrumental in developing the technology and systems that are needed to retrofit buildings.
+1. **High Costs**: The substantial expenses associated with retrofit projects often discourage adoption, especially for residential properties and smaller businesses.
+2. **Awareness Gap**: Lack of awareness about retrofitting's benefits hinders its widespread adoption.
+3. **Skilled Personnel**: A shortage of trained professionals qualified for retrofitting projects can lead to suboptimal results.
+
+Prominent contributors to the Building Retrofitting movement are the U.S. Department of Energy, Johnson Controls, Honeywell, and Siemens. These entities have been instrumental in advancing retrofit technology and systems.
 
 ## Best Path Forward
 
-There is no one-size-fits-all answer to this question, as the best path forward for the continued development and implementation of Building Retrofitting will vary depending on the specific context and needs of each individual community. However, some general best practices for effective Building Retrofitting include:
+While the optimal path forward for Building Retrofitting may vary based on community specifics, some general best practices include:
 
-1. Establishing clear goals and objectives for the retrofitting project, and ensuring that these are aligned with the community's overall climate change mitigation goals.
+1. **Clear Goals**: Set clear retrofitting goals aligned with climate change mitigation objectives.
+2. **Stakeholder Involvement**: Engage building owners, occupants, and local government in the planning and design phases.
+3. **Comprehensive Audit**: Conduct an energy audit to identify potential retrofit measures.
+4. **Appropriate Measures**: Select retrofit actions suitable for the building and climate, prioritizing energy savings and emission reductions.
+5. **Phased Implementation**: Gradually implement retrofit measures, starting with cost-effective options.
+6. **Evaluation and Sharing**: Continuously monitor results and share insights to aid other communities.
 
-2. Engaging relevant stakeholders in the planning and design process, including building owners, occupants, and the local government.
-
-3. Conducting a comprehensive energy audit of the building to identify potential retrofit measures.
-
-4. Selecting retrofit measures that are most appropriate for the specific building and climate, and that will provide the greatest energy savings and carbon emission reductions.
-
-5. Implementing the retrofit measures in a phased approach, starting with those that are most cost-effective and have the greatest potential impact.
-
-6. Monitoring and evaluating the results of the retrofit project to identify any areas for improvement.
-
-7. Sharing the lessons learned from the retrofit project with other communities to help them implement their own projects.
-
-Some organizations that have been at the forefront of Building Retrofitting include the International Council for Local Environmental Initiatives (ICLEI), the U.S. Environmental Protection Agency (EPA), and the Building Decarbonization Coalition. These organizations have developed resources and toolkits to help communities planning retrofit projects, and have also conducted research to identify best practices.
+Leading organizations in this endeavor include the International Council for Local Environmental Initiatives (ICLEI), the U.S. Environmental Protection Agency (EPA), and the Building Decarbonization Coalition, offering resources and research to guide successful retrofit projects.

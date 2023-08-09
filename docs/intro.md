@@ -15,7 +15,7 @@ _Climate Action Venn Diagram - by [Ayana Elizabeth Johnson](https://www.ayanaeli
 
 - **We only have about 5 years** - until we hit 1.5C average warming. <!--make url-->
 - **We are way off target** - we need to reduce greenhouse pollution by 50% before 2030, and 100% before 2050.
-- **People are suffering** - [5 million deaths per year](https://grist.org/climate/how-many-people-has-climate-change-killed-already/) and [billions of economic damage](https://www.climate.gov/news-features/blogs/beyond-data/2021-us-billion-dollar-weather-and-climate-disasters-historical) already.
+- **People are suffering** - [5 million deaths per year](https://www.sciencealert.com/abnormal-temperatures-could-already-account-for-5-million-deaths-a-year) and [billions of economic damage](https://www.climate.gov/news-features/blogs/beyond-data/2021-us-billion-dollar-weather-and-climate-disasters-historical) already.
 :::
 
 No wonder you feel **powerless and overwhelmed**.
