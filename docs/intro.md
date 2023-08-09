@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: Get started
 displayed_sidebar: docSidebar
 ---
 ## What are you doing in the next 5 years?

@@ -39,7 +39,7 @@ module.exports = {
     // },
     {
       type: 'doc',
-      label: '📓 Intro',
+      label: '📓 Get started',
       id: 'intro',
     },
     {
