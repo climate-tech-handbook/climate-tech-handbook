@@ -77,7 +77,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               type: "doc",
               docId: "intro",
               position: "right",
-              label: "Job Seekers",
+              label: "Get Started",
             },
             {
               type: "doc",
@@ -154,10 +154,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                 {
                   label: "Career Guide",
                   to: "/career-guide",
-                },
-                {
-                  label: "Technologies",
-                  to: "/technologies",
                 },
                 {
                   label: "Glossary",
