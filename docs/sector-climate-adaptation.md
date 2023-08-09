@@ -31,7 +31,7 @@ It involves taking proactive measures to reduce vulnerability, build resilience,
   title="Sea Level Rise"
   description="Start working on solutions for communities to adapt quickly"
   imageUrl="img/sea-level-rise.webp"
-  linkUrl="../climate-adaptation-new-york-city"
+  linkUrl="../sea-level-rise"
 />
 
 </div>
