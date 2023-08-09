@@ -25,7 +25,7 @@ pagination_prev: sector-climate-adaptation
     * [AECOM](https://aecom.com/) - a global firm providing design, consulting, construction, and management services, including work on resilient infrastructure and coastal protection.
     * [HR Wallingford](https://www.hrwallingford.com/) - independent research and consultancy in civil engineering and environmental hydraulics, including studies on coastal and ocean engineering.
     * [Deltares](https://www.deltares.nl/en/)- an independent institute for applied research in the field of water and subsurface, providing expertise on coastal risk management.
-    * [Michael Baker International](https://mbakerintl.com/en/) - Offers services in coastal and hydraulic engineering, with a focus on resilient infrastructure design. \
+    * [Michael Baker International](https://mbakerintl.com/en/) - Offers services in coastal and hydraulic engineering, with a focus on resilient infrastructure design.
 
 * Consider a government job with your local or regional planning department
 
