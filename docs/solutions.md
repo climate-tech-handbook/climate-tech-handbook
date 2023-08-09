@@ -14,7 +14,7 @@ We already have the science and technology needed to win this critical decade.
 But we need to move extremely fast.
 
 :::info What is Project Drawdown?
-The Handbook is based off of the [Project Drawdown](drawdown.org) solutions framework.
+The Handbook is based off of the [Project Drawdown](https://drawdown.org/solutions/table-of-solutions) solutions framework.
 
 Below is a list of all 93 Drawdown Solutions organized by sector.
 
