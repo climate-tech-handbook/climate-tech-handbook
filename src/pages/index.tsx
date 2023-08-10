@@ -58,7 +58,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="The number one resource for job seekers and investors alike to get involed in Climate Tech!"
+      description="Get you up to speed on climate tech as quickly as possible"
     >
       <HomepageHeader />
       <main className={clsx(styles.mainBody)}>
