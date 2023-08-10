@@ -1,6 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
-import {ThemeClassNames} from '@docusaurus/theme-common';
+import { ThemeClassNames } from '@docusaurus/theme-common';
 import { AiOutlineQuestionCircle } from 'react-icons/ai'
 import Translate from '@docusaurus/Translate';
 import styles from './styles.module.css';
@@ -56,7 +56,7 @@ function CautionIcon() {
 }
 function QuestionIcon() {
   return (
-    <AiOutlineQuestionCircle 
+    <AiOutlineQuestionCircle
       title="Question Icon"
       style=""
     />
@@ -121,7 +121,6 @@ const AdmonitionConfigs = {
   },
   question: {
     infimaClassName: 'question',
-    // iconComponent: need to get one of these
     iconComponent: QuestionIcon,
     label: (
       <Translate
@@ -167,7 +166,7 @@ function extractMDXAdmonitionTitle(children) {
   };
 }
 function processAdmonitionProps(props) {
-  const {mdxAdmonitionTitle, rest} = extractMDXAdmonitionTitle(props.children);
+  const { mdxAdmonitionTitle, rest } = extractMDXAdmonitionTitle(props.children);
   return {
     ...props,
     title: props.title ?? mdxAdmonitionTitle,
@@ -175,14 +174,15 @@ function processAdmonitionProps(props) {
   };
 }
 export default function Admonition(props) {
-  const {children, type, title, icon: iconProp} = processAdmonitionProps(props);
+  const { children, type, title, icon: iconProp } = processAdmonitionProps(props);
   const typeConfig = getAdmonitionConfig(type);
   const titleLabel = title ?? typeConfig.label;
-  //do the typescript thing on iconcomponent to figure out maybe thats how to change the component
-  const {iconComponent: IconComponent} = typeConfig;
+  const { iconComponent: IconComponent } = typeConfig;
   const icon = iconProp ?? <IconComponent />;
 
   const isQuestionAdmonition = type === 'question';
+  const isNoteAdmonition = type === 'note';
+
   const admonitionClassName = clsx(
     ThemeClassNames.common.admonition,
     ThemeClassNames.common.admonitionType(props.type),
@@ -191,6 +191,7 @@ export default function Admonition(props) {
     styles.admonition,
     {
       [styles.question]: isQuestionAdmonition,
+      [styles.note]: isNoteAdmonition,
     }
   );
   return (
