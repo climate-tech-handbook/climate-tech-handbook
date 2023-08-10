@@ -30,6 +30,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               "https://www.climatetechhandbook.com/admin/#/edit/",
             routeBasePath: "/",
             showLastUpdateTime: true,
+            admonitions: {
+              tag: ':::',
+              keywords: ['note', 'tip', 'info', 'caution', 'danger', 'question'],
+            }
           },
           blog: {
             showReadingTime: true,
