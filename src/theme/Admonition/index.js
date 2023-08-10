@@ -1,7 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import {ThemeClassNames} from '@docusaurus/theme-common';
-import { BsPatchQuestionFill } from 'react-icons/bs'
+import { AiOutlineQuestionCircle } from 'react-icons/ai'
 import Translate from '@docusaurus/Translate';
 import styles from './styles.module.css';
 function NoteIcon() {
@@ -56,7 +56,10 @@ function CautionIcon() {
 }
 function QuestionIcon() {
   return (
-    {BsPatchQuestionFill}
+    <AiOutlineQuestionCircle 
+      title="Question Icon"
+      style=""
+    />
   )
 }
 // eslint-disable-next-line @typescript-eslint/consistent-indexed-object-style
@@ -119,10 +122,10 @@ const AdmonitionConfigs = {
   question: {
     infimaClassName: 'question',
     // iconComponent: need to get one of these
-    iconComponent: CautionIcon,
+    iconComponent: QuestionIcon,
     label: (
       <Translate
-        id="theme.admonition.question"
+        // id="theme.admonition.question"
         description='The default label used for the Question admonition (:::question)'
       >
         question
