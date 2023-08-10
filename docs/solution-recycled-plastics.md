@@ -42,7 +42,7 @@ Sure, here's a summarized version of your article's key takeaways:
 3. Insufficient **recycling infrastructure** hinders scalability.
 4. Lack of **awareness** about recycling benefits impedes behavior change.
 
-Companies/Organizations Leading:
+## Companies/Organizations Leading:
 
 1. **The Recycling Partnership**: Aiding communities in building recycling infrastructure.
 2. **TerraCycle**: Producing products from recycled materials, including plastics.
