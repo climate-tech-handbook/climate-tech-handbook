@@ -15,6 +15,8 @@ This a sample ChatGPT page to get the ball rolling.
 :::info "the public debate about gas stoves has [received a lot of attention](https://www.npr.org/2023/01/13/1149135773/what-you-need-to-know-about-gas-stoves-and-health-risks) lately"
 :::
 
+test
+
 ## Overview
 
 In recent years, there has been significant progress made in developing clean cooking technologies to reverse climate change. One example of a breakthrough technology that has been developed is the use of solar cookers. Solar cookers use the power of the sun to cook food, and they are a clean and emissions-free way to cook. Solar cookers have been shown to be effective in reducing greenhouse gas emissions, and they are being used by more and more people around the world. Other clean cooking technologies that have been developed include the use of biomass cookstoves. Biomass cookstoves use renewable resources, such as wood, to cook food. They are also a clean and emissions-free way to cook, and they have been shown to be effective in reducing greenhouse gas emissions.
