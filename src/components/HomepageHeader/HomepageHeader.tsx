@@ -19,7 +19,7 @@ export default function HomepageHeader() {
           className={styles.cthLink}
           to="/intro"
         >
-          Show me
+          Get Started
         </Link>
         <div className={styles.overlay}></div>
         {/* <ClimateClock /> */}
