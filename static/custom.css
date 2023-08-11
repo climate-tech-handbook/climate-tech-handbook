@@ -87,6 +87,13 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   color: var(--ifm-color-primary);
 }
 
+/* Media query for mobile devices */
+@media (max-width: 768px) {
+  .navbar__title {
+    font-size: 12px; /* Font size for mobile devices */
+  }
+  
+}
 .footer {
   background-color: var(--ifm-color-primary);
   color: white;
