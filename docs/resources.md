@@ -4,7 +4,7 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-## Start here
+<!-- ## Start here
 
 ### Pick your climate solution
 
@@ -25,7 +25,7 @@ Our growing database of:
 - [Technologies](../technologies)
 - Skills
 - Job categories
-- Full [glossary](../glossary) of terms
+- Full [glossary](../glossary) of terms -->
 
 # Resource Database
 
@@ -38,7 +38,7 @@ Our growing database of:
   width="100%"
 ></iframe>
 
----
+<!-- ---
 
 <iframe
   loading="lazy"
@@ -47,4 +47,4 @@ Our growing database of:
   scrolling="Yes"
   height="1000px"
   width="100%"
-></iframe>
+></iframe> -->
