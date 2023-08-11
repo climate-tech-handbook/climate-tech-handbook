@@ -125,13 +125,9 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   color: white;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 425px) {
   .search-bar {
     width: 83px;
-  }
-  
-  #search_input_react {
-    font-size: 2.45vw;
   }
 }
 
@@ -148,10 +144,6 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   .pagination-nav__link:hover {
     border: 1px solid rgb(0, 79, 33);
   }
-
-  #search_input_react {
-    font-size: 3vw;
-  }
 }
 
 .theme-doc-toc-mobile {
@@ -160,4 +152,3 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: lightgrey !important;
   opacity: 1;
 }
-

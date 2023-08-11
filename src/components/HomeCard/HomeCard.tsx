@@ -26,7 +26,7 @@ const HomeCard: React.FC<CardProps> = ({
           to={linkUrl}
           className={styles.buttonMain}
         >
-          Find out
+          Get Started
         </Link>
       </div>
     </div>
