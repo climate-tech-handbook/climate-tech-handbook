@@ -12,7 +12,12 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ![](/../static/img/electricity.png)
 
-Electricity, once a significant greenhouse gas contributor, is now crucial to climate change solutions, as renewable sources replace carbon-intensive energy, driving sustainable economic transformations and emission reductions.
+Overhauling electricity is a critical step.
+
+In addition to scaling new technologies, there are unique challenges such as:
+
+ - The permitting process for new infrastructure
+ - Responding to peak demand
 
 ## Solutions in this Sector
 
