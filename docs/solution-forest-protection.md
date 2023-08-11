@@ -33,7 +33,6 @@ This a sample ChatGPT page to get the ball rolling.
 * Necessity for clear **economic incentives** for corporate participation.
 * **Science-based protection strategies** are essential.
 * The approach must be **adaptable** to changing climatic conditions.
-* Front runners in this area include the **World Wildlife Fund, Greenpeace, and the Rainforest Alliance**.
 
 ## Challenges Ahead
 
@@ -46,5 +45,3 @@ This a sample ChatGPT page to get the ball rolling.
 * Engage with governmental bodies to establish **incentives for private landowners** for forest protection.
 * **Research** to devise more potent and efficient forest protection methods.
 * Provide **support in terms of funding and technical expertise** for forest protection initiatives.
-* Champions in this sector include **the Nature Conservancy, the World Wildlife Fund, and the Forest Stewardship Council**.
-* The impact till now: forest protection has hindered the emission of approximately **1.5 billion metric tons of carbon dioxide** since 1990.
