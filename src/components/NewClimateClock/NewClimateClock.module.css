@@ -36,6 +36,7 @@
   .clock {
     max-width: 90vw;
     overflow: auto;
+    margin-top: 20px;
   }
 
   .clockMain {

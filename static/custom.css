@@ -152,3 +152,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: lightgrey !important;
   opacity: 1;
 }
+
+.markdown p img {
+  width: 85%;
+}
