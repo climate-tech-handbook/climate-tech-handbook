@@ -16,16 +16,6 @@ This a sample ChatGPT page to get the ball rolling.
 
 Dynamic Glass refers to advanced coatings applied to glass, enabling dynamic adjustments to sunlight and temperature for enhanced energy efficiency. These coatings offer potential benefits in reducing energy consumption for heating and cooling, as well as improving solar panel efficiency.
 
-I apologize for the confusion. Here's the corrected version with the "Progress Made" section properly formatted as bullet points:
-
-## Progress Made
-
-- Green roofs and cool roofs are two solutions that have been developed to help reverse climate change. Green roofs are vegetated roofs that help to insulate a building and reduce the amount of heat that is absorbed by the building. Cool roofs are roofs that reflect sunlight and heat away from the building, helping to keep the building cooler.
-
-- Some breakthrough technologies that have been developed for green roofs include modular green roofs and living roofs. Modular green roofs are pre-vegetated green roofs that can be easily installed on a building. Living roofs are green roofs that have a layer of soil and vegetation that is alive and growing.
-
-- Some companies and organizations that have been at the forefront of developing green roofs include Green Roofs for Healthy Cities, the Green Roof Infrastructure Services group, and the Living Roof Company.
-
 ## Lessons Learned
 
 Insights from Dynamic Glass development include:
@@ -54,5 +44,7 @@ Tailored approaches are essential for the development and application of Dynamic
 4. **Effective Marketing**: Communicating technology benefits through comprehensive strategies.
 
 Entities at the forefront of Dynamic Glass development include Sage Electrochromics, View, Heliotrope Technologies, GlasSmart, PPG Industries, Guardian Industries, Saint-Gobain, and Pilkington.
+
+![Image credit: Sunintuitive Glass](https://suntuitiveglass.com/what-is-dynamic-glass/)
 
 _Image credit: [Sunintuitive Glass](https://suntuitiveglass.com/what-is-dynamic-glass/)_

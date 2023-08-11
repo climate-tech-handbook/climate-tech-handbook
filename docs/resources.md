@@ -1,9 +1,20 @@
 ---
-title: Resource Library
+title: Resources
 displayed_sidebar: docSidebar
 ---
+import ImageCard from '../src/components/ImageCard/ImageCard';
 
-# Resource Library
+## Start here
+
+### Pick your climate solution
+
+  <ImageCard 
+        title="Electricity"
+        description="In order to electrify everything with zero emissions, we need to upgrade our entire infrastructure"
+        imageUrl="img/electricity.png"
+        linkUrl="/sector-electricity"
+    />
+
 
 Our growing database of:
 
