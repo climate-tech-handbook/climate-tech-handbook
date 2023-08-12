@@ -27,15 +27,15 @@ Organizations driving progress include the U.S. Environmental Protection Agency,
 
 ## Lessons Learned
 
-1. **Effectiveness Depends on Factors**: Landfill size, waste type, and climate influence effectiveness.
-2. **Varied Success**: Projects have both succeeded and fallen short in emissions reduction.
-3. **Ongoing Development**: Various entities work on landfill methane capture, making progress.
+* **Effectiveness Depends on Factors**: Landfill size, waste type, and climate influence effectiveness.
+* **Varied Success**: Projects have both succeeded and fallen short in emissions reduction.
+* **Ongoing Development**: Various entities work on landfill methane capture, making progress.
 
 ## Challenges Ahead
 
-1. **Lack of Infrastructure**: Limited large-scale commercial facilities and early-stage technology.
-2. **International Standards Missing**: No regulations for landfill gas capture.
-3. **Investment Needed**: Funding required for research and implementation.
+* **Lack of Infrastructure**: Limited large-scale commercial facilities and early-stage technology.
+* **International Standards Missing**: No regulations for landfill gas capture.
+* **Investment Needed**: Funding required for research and implementation.
 
 Entities leading the solution include the Environmental Protection Agency (EPA) and the Climate Change Mitigation and Adaptation Fund (CCMAF).
 
