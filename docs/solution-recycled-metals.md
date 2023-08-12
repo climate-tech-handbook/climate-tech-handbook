@@ -17,7 +17,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 ## Overview
 
-- **Recycled metals** combat climate change by reducing greenhouse gas emissions.
+
 - **Alcoa** recycles aluminum, reducing emissions by up to 95%.
 - **Recycled Metals Corporation** recycles steel and aluminum, cutting emissions by 70%.
 - Many companies and organizations contribute to developing this solution.
@@ -40,7 +40,7 @@ This a sample ChatGPT page to get the ball rolling.
 ## Challenges Ahead
 
 - Lack of **infrastructure** and energy-intensive processes hinder large-scale adoption.
-- **TerraCycle** pioneers recycling metals on a small scale, needs expansion.
+- **TerraCycle**, which pioneers recycling metals on a small scale, needs expansion.
 - Infrastructure must precede scaling to unleash technology's potential.
 
 ## Best Path Forward
