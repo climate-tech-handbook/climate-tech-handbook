@@ -146,12 +146,12 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   }
 }
 
-.theme-doc-toc-mobile {
+/*.theme-doc-toc-mobile {
   position: sticky;
   top: 0;
   background-color: lightgrey !important;
   opacity: 1;
-}
+}*/
 
 .markdown p img {
   width: 85%;
