@@ -87,6 +87,7 @@
   .headerSubtitle {
     font-size: 10vmin;
     max-width: 100%;
+    margin-bottom: 30px;
   }
   .headerStatement {
     font-size: 6vmin;
@@ -96,5 +97,9 @@
     width: 12.5rem;
     margin-bottom: 1.5rem;
   }
+}
+
+a.menu__link {
+  padding: 10px !important;
 }
 
