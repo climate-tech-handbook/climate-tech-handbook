@@ -14,8 +14,6 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
-Certainly, here's a concise summary of the provided content:
-
 ## Overview
 
 - **Composting** gains attention for curbing greenhouse gases by enhancing soil health and sequestering carbon dioxide.

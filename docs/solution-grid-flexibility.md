@@ -17,12 +17,6 @@ This a sample ChatGPT page to get the ball rolling.
 
 Grid flexibility refers to the capability of the electric grid to accommodate diverse energy sources and dynamically adapt to changing demand and supply conditions, enhancing efficiency and resilience.
 
-Breakthroughs in the development of grid-scale battery storage has facilitated the storage and utilization of excess renewable energy, thereby minimizing waste and propelling the growth of renewable energy sources. 
-
-Additional innovations include advanced algorithms for grid management and adaptable demand-side management techniques, fostering grid flexibility and reducing fossil fuel dependence.
-
-Pioneering entities in these advancements encompass Tesla, AES, and Green Charge Networks.
-
 ## Progress Made
 
 1. **Smart meters:** These devices gauge and regulate electricity usage in real-time, providing data to optimize the grid and curtail waste.

@@ -5,8 +5,6 @@ pagination_prev: solutions
 ---
 ![A microgrid comprises three basic components: an energy generator, a storage unit, and a controller to manage energy flow and usage.](/../static/img/microgrids.jpg)
 
-*Microgrid schematic ([Energy Producing Retail Realty](https://www.eprsquared.com/the-solar-industrys-new-power-player-2/))*
-
 :::info [Help us track this Solution](contribute)
 This a sample ChatGPT page to get the ball rolling.
 
@@ -24,10 +22,6 @@ Microgrids can incorporate various energy sources like solar panels, wind turbin
 
 These systems can disconnect from the main grid during disruptions and continue to supply power, making them particularly valuable for improving energy reliability and sustainability in specific areas.
 
-  - Breakthrough technologies like smart grid, distributed energy resources, and energy storage systems have led to progress in developing microgrids for climate change mitigation.
-  - These technologies enable more efficient energy use and cleaner, renewable sources, reducing greenhouse gas emissions.
-  - Organizations like Electric Power Research Institute, National Renewable Energy Laboratory, and Department of Energy are pioneering microgrid development.
-
 ## Progress Made:
   - Energy storage advancements, such as Tesla's Powerwall, enhance the dispatchability of renewable energy sources, improving their usability.
   - Samsung's new battery technology could double current lithium-ion battery capacity, expanding energy storage potential.
@@ -44,3 +38,6 @@ These systems can disconnect from the main grid during disruptions and continue 
 ## Best Path Forward: 
   - Continued technology improvement for efficiency and cost reduction is key, along with public education and government/utilities' encouragement for microgrid adoption.
   - National Renewable Energy Laboratory (NREL) and U.S. Department of Energy (DOE) are prominent contributors to microgrid solutions.
+
+
+  *Image: Microgrid schematic ([Energy Producing Retail Realty](https://www.eprsquared.com/the-solar-industrys-new-power-player-2/))*

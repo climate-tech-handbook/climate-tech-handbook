@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 (
   module.exports = {
     title: "The Climate Tech Handbook",
-    tagline: "Get paid to save planet earth",
+    tagline: "Find a career you love solving the climate crisis",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
     onBrokenLinks: "ignore",
@@ -51,7 +51,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
     customFields: {
       statement:
-        "We are here to show you how to",
+        "Learn how to",
     },
 
     themeConfig:
