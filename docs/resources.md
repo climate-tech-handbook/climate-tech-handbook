@@ -4,6 +4,8 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
+
+
 <!-- ## Start here
 
 ### Pick your climate solution
@@ -27,16 +29,28 @@ Our growing database of:
 - Job categories
 - Full [glossary](../glossary) of terms -->
 
-# Resource Database
+# Nicole Kelner's Google Sheet
 
-<iframe
+[Click here to view the Google Sheet](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0).
+
+[![Nicole Kelner's Google Sheet](../static/img/nicoles-spreadsheet.png)](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0)
+
+<!-- <iframe
+  loading="lazy"
+  src="https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0"
+  scrolling="No"
+  height="600px"
+  width="100%"
+></iframe>
+ -->
+<!-- <iframe
   loading="lazy"
   src="https://baserow.io/public/grid/F9iNqpzpbOSx1mAixwYzOaozLex-fjXn2JdUtTIc8TQ"
   name="iFrame Name"
   scrolling="No"
   height="500px"
   width="100%"
-></iframe>
+></iframe> -->
 
 <!-- ---
 
