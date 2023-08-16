@@ -95,12 +95,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               position: "right",
               label: "Resources",
             },
-            {
-              type: "doc",
-              docId: "about",
-              position: "right",
-              label: "About Us",
-            },
+            // {
+            //   type: "doc",
+            //   docId: "about",
+            //   position: "right",
+            //   label: "About Us",
+            // },
             {
               to: "/contribute",
               className: "contribute-button",
