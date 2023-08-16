@@ -14,6 +14,11 @@ This a sample ChatGPT page to get the ball rolling.
 
 _Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distributed-energy-resources)_
 
+:::tip Resources
+ - [Intercalation Station](https://intercalationstation.substack.com) -  a battery specific newsletter
+ - [InDERmediate](https://www.indermediate.com/) podcast -  move up your clean energy knowledge from beginner to intermediate level
+:::
+
 ## Overview
 
 Through the use of distributed energy storage, energy can be stored locally and used when needed, reducing the need for large, centralized power plants that emit greenhouse gases.

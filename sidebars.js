@@ -11,42 +11,41 @@
 
 module.exports = {
   docSidebar: [
+    {
+      type: 'category',
+      label: '📓 Get Started',
+      link: {
+        type: 'doc',
+        id: 'intro',
+      },
+      items: [
+        {
+          type: 'doc',
+          id: 'level-0',
+          label: 'Level 0',
+        },
+        {
+          type: 'doc',
+          id: 'level-1',
+          label: 'Level 1',
+        },
+        {
+          type: 'doc',
+          id: 'level-2',
+          label: 'Level 2',
+        },
+        {
+          type: 'doc',
+          label: '👩🏼‍🔬 Career Guide',
+          id: 'career-guide',
+        },
+      ],
+    },
     // {
-    //   type: 'category',
-    //   label: '🏁 Quick Start',
-    //   items: [
-    //     {
-    //       type: 'doc',
-    //       id: 'intro',
-    //       label: 'Intro',
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'level-0',
-    //       label: 'Level 0',
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'level-1',
-    //       label: 'Level 1',
-    //     },
-    //     {
-    //       type: 'doc',
-    //       id: 'level-2',
-    //       label: 'Level 2',
-    //     },
-    //   ],
+    //   type: 'doc',
+    //   label: '📓 Get started',
+    //   id: 'intro',
     // },
-    {
-      type: 'doc',
-      label: '📓 Get started',
-      id: 'intro',
-    },
-    {
-      type: 'doc',
-      label: '👩🏽‍🚀  Career Guide',
-      id: 'career-guide',
-    },
     {
       type: 'category',
       label: '✅ Climate Solutions',
@@ -122,16 +121,16 @@ module.exports = {
       label: '🌍 Resources',
       id: 'resources',
     },
-    {
-      type: 'link',
-      label: '🗞️ Blog',
-      href: '/blog',
-    },
-    {
-      type: 'doc',
-      label: '🔥 Contribute',
-      id: 'contribute',
-    },
+    // {
+    //   type: 'link',
+    //   label: '🗞️ Blog',
+    //   href: '/blog',
+    // },
+    // {
+    //   type: 'doc',
+    //   label: '🔥 Contribute',
+    //   id: 'contribute',
+    // },
   ],
 };
 

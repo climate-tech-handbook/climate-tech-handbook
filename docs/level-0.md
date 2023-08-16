@@ -3,16 +3,18 @@ title: 🕹️ Welcome to Level 0
 displayed_sidebar: docSidebar
 pagination_label: 🕹️ Level 0
 ---
+import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ![video game pic](../static/img/climate-tech-level-0-mario.jpg)
 
 ## ⛳️ Start here
 
-### Definition of LEVEL 0
+## Definition of LEVEL 0
 
-**You**:
+:::info Level 0
+**Stay here if you**:
 
-- Had no idea "climate tech" even existed and you have the opportunity to get paid to save planet earth
+- Know very little about what "climate tech" means
 
 - Are brand new to the [basic terms](#basic-terms-and-definitions)
 
@@ -22,15 +24,22 @@ pagination_label: 🕹️ Level 0
 	- The Handbook Slack Community
 	- Work on Climate
 	- MCJ Collective
-
-:::info Lesson Start
-
-If you already know the [definitions](#definition-of-level-1-and-level-2) of all 3 levels and are not struggling with [tech experience or specialized skill challenges](we-are-almost-ready-to-start-the-lesson-for-level-0-but-first)().
-
-**Skip below to start the lesson** 👇.
-
-Otherwise please read the Important Criteria.
 :::
+
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+    <ImageCard
+    title="Skip to Level 1"
+    description="Transforming discarded plastics into useful products, reducing plastic waste and its impact on the environment."
+    imageUrl="img/recycled-plastics.png"
+    linkUrl="../solution-recycled-plastics"
+    />
+    <ImageCard
+    title="Skip to Level 2"
+    description="Transforming discarded plastics into useful products, reducing plastic waste and its impact on the environment."
+    imageUrl="img/recycled-plastics.png"
+    linkUrl="../solution-recycled-plastics"
+    />
+</div>
 
 ## Important Criteria
 

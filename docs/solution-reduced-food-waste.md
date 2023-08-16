@@ -13,6 +13,10 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::tip
+ReFED source
+:::
+
 ## Overview
 
 * **Food waste & climate change**: Wasted food in the U.S. contributes to roughly 8% of greenhouse gas emissions.

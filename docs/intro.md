@@ -2,7 +2,11 @@
 title: Get started
 displayed_sidebar: docSidebar
 ---
-## What are you doing in the next 5 years?
+import ImageCard from '../src/components/ImageCard/ImageCard';
+
+## Introduction
+
+### What are you doing in the next 5 years?
 
 ![ikigai](../static/img/Climate+Action+Venn+diagram.jpg)
 
@@ -18,7 +22,7 @@ _Climate Action Venn Diagram - by [Ayana Elizabeth Johnson](https://www.ayanaeli
 - **People are suffering** - [5 million deaths per year](https://www.sciencealert.com/abnormal-temperatures-could-already-account-for-5-million-deaths-a-year) and [billions of economic damage](https://www.climate.gov/news-features/blogs/beyond-data/2021-us-billion-dollar-weather-and-climate-disasters-historical) already.
 :::
 
-No wonder you feel **powerless and overwhelmed**.
+It's easy to feel powerless and overwhelmed.
 
 _but guess what..._
 
@@ -37,12 +41,9 @@ _but guess what..._
 
 ![Golden Book](../static/img/golden-book.png)
 
-There is a path to **save planet earth and get paid what you're worth**
+There is a path to solving this crisis and landing a job you love.
 
-and we are **building it together**.
-### We are going to help you every step of the way.
-
-With 🌍📓 The Climate Tech Handbook you will:
+### With 🌍📓 The Climate Tech Handbook you will:
 
 1. Find the **[right solution](solutions)** to work on
 2. Find the **right organization** solving it
@@ -56,3 +57,18 @@ With 🌍📓 The Climate Tech Handbook you will:
 >    -Yogi Berra
 
 ## Welcome to your fork in the road
+
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+    <ImageCard
+    title="Start Level 0"
+    description="Transforming discarded plastics into useful products, reducing plastic waste and its impact on the environment."
+    imageUrl="img/recycled-plastics.png"
+    linkUrl="../solution-recycled-plastics"
+    />
+    <ImageCard
+    title="Skip to Level 1"
+    description="Transforming discarded plastics into useful products, reducing plastic waste and its impact on the environment."
+    imageUrl="img/recycled-plastics.png"
+    linkUrl="../solution-recycled-plastics"
+    />
+</div>
