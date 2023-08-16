@@ -26,10 +26,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         ({
           docs: {
             sidebarPath: require.resolve("./sidebars.js"),
-            editUrl:
-              "https://www.climatetechhandbook.com/admin/#/edit/",
+            // editUrl:
+            //   "https://www.climatetechhandbook.com/admin/#/edit/",
             routeBasePath: "/",
-            showLastUpdateTime: true,
+            showLastUpdateTime: false,
             admonitions: {
               tag: ':::',
               keywords: ['note', 'tip', 'info', 'caution', 'danger', 'question'],
@@ -82,6 +82,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               docId: "intro",
               position: "right",
               label: "Get Started",
+            },
+            {
+              type: "doc",
+              docId: "solutions",
+              position: "right",
+              label: "Climate Solutions",
             },
             {
               type: "doc",
