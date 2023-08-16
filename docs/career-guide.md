@@ -4,17 +4,20 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-You are committed to impactful climate work - congrats! 🎶
+You are committed to impactful climate work - congrats!
 
-![Organice farm soil](../static/img/organic-farming_resize.jpg)
-## There are four steps:
+<!-- ![Organice farm soil](../static/img/organic-farming_resize.jpg)
+## There are four steps: -->
+
+:::note We will show you how to:
 
 1. Choose your [employer type](#choose-your-employer-type) and look at [job boards](#job-boards)
 2. Evaluate your [skills and experience](#evaluate-your-skills-and-experience)
 3. Build your [community and network](build-your-community-and-network)
 4. Pick your [climate solution](solutions) and [information diet](resources)
+:::
 
-## Choose your employer type
+## First: Choose your employer type
 :::note You have a choice
 1. Try to make your "regular job" more climate positive
 2. Leave your "regular job" and work for a dedicated climate organization
