@@ -96,6 +96,31 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   color: white;
 }
 
+.doc-button {
+  background-color: #be4721;
+  border: 2px solid var(--ifm-color-secondary);
+  color: white !important;
+  border-radius: 10px;
+  font-size: 1.25rem;
+  font-weight: bold;
+  height: 60px;
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  width: 30%;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 10;
+  border-radius: 10px;
+}
+
+.doc-button:hover {
+  transition: ease-in-out 0.25s;
+  color: var(--ifm-color-secondary) !important;
+  background: white;
+  border: 2px solid var(--ifm-color-secondary);
+  text-decoration: none;
+}
+
 .contribute-button {
   border-radius: 10px;
   background-color: var(--ifm-color-secondary);
