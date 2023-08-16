@@ -1,20 +1,29 @@
 ---
 title: Advocacy or Policy
 displayed_sidebar: docSidebar
-hide_table_of_contents: true
+hide_table_of_contents: false
 ---
 
 ## Sector Overview
 
 ![](/../static/img/advocacy-and-policy.jpg)
 
-Advocacy acts as a catalyst for change, mobilizing individuals, communities, and decision-makers to take meaningful action against climate change. It empowers people to have a voice in shaping policies, promotes sustainable practices, and holds stakeholders accountable for climate-related actions.
+Technology alone will not be able to solve the climate crisis.
 
-## Solutions in this Sector
+We also need policies to support research, deployment, and public education for critical solutions.
 
-* Global divestment movement
-* The People's Climate March
-* Indigenous rights advocacy
 
-- - -
+## The Inflation Reduction Act
 
+The Inflation Reduction Act of 2022 is the largest investment in climate action in U.S. history, with [$369 billion](https://www.usatoday.com/story/money/2023/05/25/guide-to-the-inflation-reduction-act/70249464007/) in energy security and climate change resilience investments
+
+:::tip Resource
+Investment dollars and job creation numbers are being [tracked by Jack Conness here](https://www.jackconness.com/ira-chips-investments).
+:::
+
+[![IRA Map](../static/img/ira-tracking-map.png)](https://www.jackconness.com/ira-chips-investments)
+
+<!-- 
+## Government roles
+
+--like Seattle City Light fleet management -->
