@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Hisbe](https://hisbe.co.uk)
+- [Knoweatall](https://knoweatall.co/)
+- [Just](https://ju.st)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Reduced+Food+Waste)
+:::
+
 ## Overview
 
 * **Food waste & climate change**: Wasted food in the U.S. contributes to roughly 8% of greenhouse gas emissions.

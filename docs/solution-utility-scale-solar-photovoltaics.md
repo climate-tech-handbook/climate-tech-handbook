@@ -15,6 +15,14 @@ This a sample ChatGPT page to get the ball rolling.
 
 Certainly, here's the overview section with a definition of utility-scale PV:
 
+:::info Companies working in this solution 
+- [The Solar Labs](https://thesolarlabs.com)
+- [Hst Solar](https://hstsolar.com)
+- [Geronimo Energy](https://geronimoenergy.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Utility-Scale+Solar+Photovoltaics)
+:::
+
 ## Overview
 
 **Utility-Scale Solar Photovoltaics (PV)** refers to large-scale solar power generation that involves the installation of solar panels in significant quantities to produce electricity for utility grids. This approach stands as a crucial tool in the battle against climate change. By harnessing sunlight and converting it into electricity, utility-scale solar PV can generate substantial energy capacities that contribute to reducing greenhouse gas emissions.

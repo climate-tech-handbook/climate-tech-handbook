@@ -17,6 +17,14 @@ This a sample ChatGPT page to get the ball rolling.
 Learn more from [The Business Network for Offshore Wind](https://www.offshorewindus.org/), a 501(c)(3) nonprofit advocate.
 :::
 
+:::info Companies working in this solution 
+- [Boundary Layer](None)
+- [Nefino](https://nefino.de/)
+- [Siemens Gamesa](https://www.siemensgamesa.com/en-int)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Offshore+Wind+Turbines)
+:::
+
 ## Overview
 
 Innovations like floating turbines and subsea cabling have emerged. Companies such as Vestas, GE, and Siemens have spearheaded these advancements.

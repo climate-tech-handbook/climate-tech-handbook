@@ -12,6 +12,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Bollinger Motors](https://bollingermotors.com/)
+- [Convoy](https://convoy.com)
+- [Arcimoto](https://arcimoto.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Efficient+Trucks)
+:::
+
 ## Overview
 
 Breakthrough Technologies: Electric trucks, aerodynamic designs, fuel-efficient engines.

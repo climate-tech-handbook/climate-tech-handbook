@@ -13,6 +13,12 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Nautilus Labs](https://nautiluslabs.co)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Efficient+Ocean+Shipping)
+:::
+
 ## Overview
 
 - **Breakthrough Technologies**: Efficient ship engines, wind power for propulsion.

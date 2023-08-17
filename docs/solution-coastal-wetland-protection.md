@@ -15,6 +15,14 @@ This a sample ChatGPT page to get the ball rolling.
 :::tip [Delaware Living Shorelines Committee](https://www.delawarelivingshorelines.org/) is a great resource
 :::
 
+:::info Companies working in this solution 
+- [Cloud To Street](https://www.cloudtostreet.info/)
+- [Fathom](https://www.fathom.global/)
+- [The Great Bubble Barrier](https://thegreatbubblebarrier.com/en/)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Coastal+Wetland+Protection)
+:::
+
 ## Overview
 
 - **Coastal Wetland Protection**: Using wetlands for climate defense.

@@ -12,6 +12,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Zonehaven](https://zonehaven.com)
+- [Pachama](https://pachama.com)
+- [Droneseed](https://droneseed.co)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Forest+Protection)
+:::
+
 ## Overview
 
 * Significant advancements in **forest protection** to combat climate change.

@@ -14,6 +14,12 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Misfits Market](https://www.misfitsmarket.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Composting)
+:::
+
 ## Overview
 
 - **Composting** gains attention for curbing greenhouse gases by enhancing soil health and sequestering carbon dioxide.

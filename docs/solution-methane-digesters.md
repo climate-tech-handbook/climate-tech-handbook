@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Atomo Molecular Coffee](https://atomocoffee.com)
+- [Mootral](https://www.mootral.com/)
+- [Seab](https://seabenergy.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Methane+Digesters)
+:::
+
 ## Overview
 
 Methane digesters are vital tools in reversing climate change by efficiently converting organic waste into methane gas, which can be harnessed to generate electricity. This technology significantly reduces greenhouse gas emissions by capturing methane that would otherwise contribute to atmospheric warming. Leading the charge are organizations like the Environmental Protection Agency, the Department of Energy, and the National Renewable Energy Laboratory.

@@ -13,6 +13,12 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Bowery](https://boweryfarming.com/)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Improved+Rice+Production)
+:::
+
 ## Overview
 
 * The **Green Revolution** was a pivotal moment in history where agricultural advancements, such as fertilizers, pesticides, and irrigation methods, significantly boosted food production. Although beneficial for food security, these techniques led to environmental issues like soil degradation and water contamination.

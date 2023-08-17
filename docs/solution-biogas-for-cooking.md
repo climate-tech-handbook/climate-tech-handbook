@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Mango Materials](http://mangomaterials.com/)
+- [Carbo Culture](https://www.carboculture.com/)
+- [Eco-fuel Africa](None)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biogas+for+Cooking)
+:::
+
 ## Overview
 
 * **Biogas**: Produced from the breakdown of organic matter like food waste, manure, and sewage through anaerobic digestion.

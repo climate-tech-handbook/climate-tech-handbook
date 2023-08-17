@@ -12,6 +12,13 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Novacem](https://novacem.com)
+- [Watershed](https://watershedmaterials.com/)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Cement)
+:::
+
 ## Overview
 
 The progress that has been made in developing Alternative Cement to reverse climate change is significant. New technologies have been developed that have contributed to the reduction of greenhouse gas emissions. These technologies include:

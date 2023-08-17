@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Renew Power](https://renewpower.in)
+- [New Energy Nexus](https://www.newenergynexus.com)
+- [Club Capture](https://www.thecapture.club/)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Waste+to+Energy)
+:::
+
 ## Overview
 
 The progression in Waste to Energy (WtE) to counter climate change has been substantial. Innovations have led to efficient conversion of waste into energy, contributing to a reduction in greenhouse gas emissions. Leading this endeavor are entities like Waste to Energy Solutions, Inc. and the U.S. Environmental Protection Agency.

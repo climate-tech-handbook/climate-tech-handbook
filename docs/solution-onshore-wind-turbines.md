@@ -13,6 +13,12 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Uprise Energy](https://upriseenergy.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Onshore+Wind+Turbines)
+:::
+
 ## Overview
 
 Recent breakthroughs in larger rotors and innovative designs have increased efficiency while reducing costs, aiding emission reduction.

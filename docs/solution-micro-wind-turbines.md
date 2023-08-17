@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Kite Power Systems](https://kps.energy)
+- [Makani](https://makanipower.com/)
+- [New World Wind](https://newwind.fr)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Micro+Wind+Turbines)
+:::
+
 ## Overview
 
 Micro Wind Turbines (MWTs) are compact wind energy devices contributing significantly to sustainability efforts. Innovations like vertical axis turbines and small-scale options have emerged, utilized by leading entities such as Vestas, GE, and Siemens.

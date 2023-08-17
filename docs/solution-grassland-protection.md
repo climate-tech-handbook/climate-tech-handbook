@@ -12,6 +12,12 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Open Door Climate](None)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Grassland+Protection)
+:::
+
 ## Overview
 
 * In recent years, significant advancements in **grassland protection mechanisms** have emerged to combat climate change.

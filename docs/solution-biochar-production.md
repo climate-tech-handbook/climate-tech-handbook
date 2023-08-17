@@ -14,6 +14,14 @@ This a sample ChatGPT page to get the ball rolling.
 
 _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://www.vnews.com/Biochar-Demonstration-Offers-Alternative-to-Burn-Piles-46911424))
 
+:::info Companies working in this solution 
+- [Green Fuels](https://greenfuels.co.uk)
+- [Solar Foods](https://solarfoods.fi)
+- [Dyecoo](https://DyeCoo.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biochar+Production)
+:::
+
 ## Overview
 
 Biochar retains most of the carbon produced by decomposing biomass.

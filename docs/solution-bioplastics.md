@@ -16,6 +16,14 @@ This a sample ChatGPT page to get the ball rolling.
 
 
 
+:::info Companies working in this solution 
+- [Agua Inc](https://aguainc.com)
+- [Full Cycle Bioplastics](http://fullcyclebioplastics.com/)
+- [Visolis](http://www.visolisbio.com/)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Bioplastics)
+:::
+
 ## Overview
 
 - **Bioplastics** are made from renewable sources (corn, sugar cane) and replace fossil fuel-based plastics.

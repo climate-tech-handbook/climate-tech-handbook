@@ -12,6 +12,14 @@ pagination_prev: solutions
 :::
 
 
+:::info Companies working in this solution 
+- [Cleverciti](https://cleverciti.com)
+- [Max](https://max.ng)
+- [Canoo](https://canoo.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Carpooling)
+:::
+
 ## Overview
 **Climate Technology Solution**: Carpooling
 

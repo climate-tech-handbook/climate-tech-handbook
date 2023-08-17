@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Climate Draft](None)
+- [Emergence Industries](https://www.emergenceindustries.com/)
+- [Ampaire](https://ampaire.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Efficient+Aviation)
+:::
+
 ## Overview
 
 - **Efficient Aviation**: Focuses on technology to reverse climate change.

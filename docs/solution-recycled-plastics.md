@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Carbon Upcycling](https://carbonupcycling.com)
+- [Made Of Air](https://madeofair.com)
+- [Ecoware](None)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Recycled+Plastics)
+:::
+
 ## Overview
 
 - **Recycled plastics** combat climate change by reducing greenhouse gas emissions from plastic production.

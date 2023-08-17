@@ -14,6 +14,14 @@ This a sample ChatGPT page to get the ball rolling.
 :::info "the public debate about gas stoves has [received a lot of attention](https://www.npr.org/2023/01/13/1149135773/what-you-need-to-know-about-gas-stoves-and-health-risks) lately"
 :::
 
+:::info Companies working in this solution 
+- [Blueland](https://blueland.com)
+- [Terramera](https://terramera.com)
+- [Farm One](https://farm.one)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Clean+Cooking)
+:::
+
 ## Overview
 
 * Clean cooking technologies, such as solar cookers and biomass cookstoves, are pivotal in reducing greenhouse gas emissions. 

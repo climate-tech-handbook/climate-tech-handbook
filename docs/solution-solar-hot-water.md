@@ -15,6 +15,14 @@ This a sample ChatGPT page to get the ball rolling.
 
 Here's your text with markdown syntax:
 
+:::info Companies working in this solution 
+- [Desolenator](https://desolenator.com)
+- [Columbia Climate School - State Of The Planet](https://news.climate.columbia.edu/)
+- [Climeon](https://climeon.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Solar+Hot+Water)
+:::
+
 ## Overview
 
 Solar hot water systems have seen recent advancements in technology, making them more efficient and affordable. **Evacuated tube solar collectors**, such as SolarReserve and SolarCity, enhance solar radiation absorption, heating water for domestic use or generating electricity via solar thermal power.

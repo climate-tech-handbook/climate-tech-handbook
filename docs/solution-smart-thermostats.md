@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Breezi](https://breezi.io)
+- [Safi Analytics](https://safi.ai)
+- [Predictive Analytics World Climate](https://predictiveanalyticsworldclimate.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Smart+Thermostats)
+:::
+
 ## Overview
 
 Promising breakthrough technologies for Smart Thermostats include:

@@ -14,6 +14,14 @@ This a sample ChatGPT page to get the ball rolling.
 
 _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-to-retrofit/)_
 
+:::info Companies working in this solution 
+- [Unreasonable Group](https://unreasonablegroup.com/)
+- [Iberdrola](https://iberdrola.com)
+- [Katerra](https://katerra.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Building+Retrofitting)
+:::
+
 ## Overview
 
 Building retrofitting involves enhancing existing buildings to be more energy-efficient and reduce their carbon impact, achieved through methods such as insulation, energy-efficient windows, and upgraded heating/cooling systems. Technological advances, such as energy-efficient windows and aerogel insulation, have driven progress in this field.

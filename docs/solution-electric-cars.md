@@ -12,6 +12,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Software Motor Company](https://softwaremotor.com)
+- [Skip Scooters](None)
+- [Tesla](https://www.tesla.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Cars)
+:::
+
 ## Overview
 
 Electric cars are becoming increasingly popular as people look for ways to reduce their environmental impact. There are a number of different technologies that are being developed to make electric cars more efficient and reduce their emissions.

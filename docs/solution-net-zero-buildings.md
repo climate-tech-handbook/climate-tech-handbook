@@ -12,6 +12,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Zero Hour](http://thisiszerohour.org/)
+- [Alesca Life](https://alescalife.com)
+- [Soletair Power](https://soletairpower.fi)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Net+Zero+Buildings)
+:::
+
 ## Overview
 
 The development of Net Zero Buildings is a significant advancement in the fight against climate change, encompassing breakthrough technologies like solar panels, wind turbines, and geothermal systems that drastically reduce greenhouse gas emissions. Leading entities driving this progress include the International Living Future Institute, U.S. Green Building Council, and Architecture 2030.

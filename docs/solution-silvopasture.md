@@ -13,6 +13,13 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Pony](https://adoptapony.com)
+- [Depsys](https://depsys.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Silvopasture)
+:::
+
 ## Overview
 
 In the United States, the Environmental Protection Agency (EPA) defines Silvopasture as “a land management system that combines trees with forage and livestock production.” 

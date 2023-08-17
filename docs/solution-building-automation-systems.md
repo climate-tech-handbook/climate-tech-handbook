@@ -12,6 +12,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Human Horizons](https://human-horizons.com/en)
+- [Plant Prefab](https://www.plantprefab.com/)
+- [Fluxus Ventures](None)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Building+Automation+Systems)
+:::
+
 ## Overview
 
 Significant progress has been achieved in developing Building Automation Systems to combat climate change. Breakthrough technologies targeting building efficiency have emerged:

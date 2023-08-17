@@ -13,6 +13,13 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Olombria](https://www.flypollination.com/)
+- [Beeflow](http://www.beeflow.co/en/)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Regenerative+Annual+Cropping)
+:::
+
 ## Overview
 
 **Regenerative Annual Cropping & Climate Change**: In the last decade, regenerative annual cropping systems have shown promise in mitigating climate change.

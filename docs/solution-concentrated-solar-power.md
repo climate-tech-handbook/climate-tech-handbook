@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [We Care Solar](https://wecaresolar.org)
+- [Lumos](https://lumos-global.com)
+- [Omnidian](https://www.omnidian.com/)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Concentrated+Solar+Power)
+:::
+
 ## Overview
 
 - **Concentrated Solar Power (CSP):** Utilizes mirrors/lenses to focus sunlight, generating heat for electricity via turbines.

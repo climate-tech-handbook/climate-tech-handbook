@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Uplight](https://uplight.com/)
+- [Vital Vio](https://vitalvio.com)
+- [Glowee](https://glowee.fr)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=LED+Lighting)
+:::
+
 ## Overview
 
 LEDs, highly efficient compared to traditional incandescent bulbs and boasting longer lifespans, have substantially curbed greenhouse gas emissions. Leading companies such as Philips and GE have actively contributed to this cause, working to make LED lighting affordable and accessible.

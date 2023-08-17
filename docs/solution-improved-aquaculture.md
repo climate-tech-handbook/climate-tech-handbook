@@ -12,6 +12,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Love The Wild](https://lovethewild.com)
+- [Mimica](https://mimicalab.com)
+- [Catalina Sea Ranch](https://catalinasearanch.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Improved+Aquaculture)
+:::
+
 ## Overview
 
 * **Aquaculture**, the cultivation of fish, shellfish, and other aquatic life, has seen a surge in growth, providing a vital food source globally.

@@ -13,6 +13,12 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Formula E](https://youtu.be/F72l5sm_0Jg)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Macroalgae+Protection+and+Restoration)
+:::
+
 ## Overview
 
 - **Macroalgae Protection and Restoration**: Using fast-growing marine plants to store carbon and respond to climate change.

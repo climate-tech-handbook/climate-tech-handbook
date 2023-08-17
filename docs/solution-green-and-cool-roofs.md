@@ -12,6 +12,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Veerhouse Voda](https://veerhousevoda.com)
+- [The Green Era](https://www.linkedin.com/newsletters/the-green-era-6993367243786997760/)
+- [Climacell](https://www.climacell.co/)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Green+and+Cool+Roofs)
+:::
+
 ## Overview
 
 Green and cool roofs are innovative strategies to combat climate change by mitigating the urban heat island effect and reducing energy consumption. Green roofs are adorned with vegetation, while cool roofs are coated with reflective materials, helping to curb heat absorption and enhancing energy efficiency.

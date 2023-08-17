@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Acton](https://actonglobal.com)
+- [Cowboy](https://cowboy.com)
+- [Spin](https://spin.pm)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Bicycles)
+:::
+
 ## Overview
 
 Breakthrough Technologies: Electric motors, lithium-ion batteries, solar-powered chargers.

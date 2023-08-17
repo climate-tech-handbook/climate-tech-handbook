@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Dmc Biotechnologies](https://dmcbio.com)
+- [C4x Green Carbon](https://ccccx.net)
+- [Arvia Technology](https://arviatechnology.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Reduced+Plastics)
+:::
+
 ## Overview
 
 - **Reduced Plastics** gain momentum in combating climate change.

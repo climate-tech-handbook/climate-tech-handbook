@@ -11,6 +11,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [C16 Biosciences](https://www.c16bio.com/)
+- [Solugen](https://www.solugentech.com/)
+- [Sure Chill](https://surechill.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Refrigerants)
+:::
+
 ## Overview
 
 * **Alternative Refrigerants**: Significant progress in developing environmentally-friendly alternatives such as CO2 and ammonia (NH3).

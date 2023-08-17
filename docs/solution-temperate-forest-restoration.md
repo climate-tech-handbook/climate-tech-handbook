@@ -13,6 +13,13 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Smart Electric Power Alliance](None)
+- [Dendra Systems](https://dendra.io)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Temperate+Forest+Restoration)
+:::
+
 ## Overview
 
 There has been significant progress made in developing Temperate Forest Restoration to reverse climate change. Breakthrough technologies that have been developed include:

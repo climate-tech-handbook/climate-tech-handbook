@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Impossible Foods](https://impossiblefoods.com/recipes/)
+- [Perfect Day](https://www.perfectdayfoods.com/)
+- [Mission Barns](https://missionbarns.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Improved+Cattle+Feed)
+:::
+
 ## Overview
 
 * Improved Cattle Feed plays a pivotal role in the endeavor to mitigate climate change.

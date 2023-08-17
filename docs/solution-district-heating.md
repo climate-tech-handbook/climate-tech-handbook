@@ -12,6 +12,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Treau](https://treau.cool)
+- [Thermondo](https://thermondo.de)
+- [Phononic](https://phononic.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=District+Heating)
+:::
+
 ## Overview
 
 District heating is a system distributing heat from a central source to multiple buildings.

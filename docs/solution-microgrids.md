@@ -12,6 +12,14 @@ This a sample ChatGPT page to get the ball rolling.
 :::
 
 
+:::info Companies working in this solution 
+- [Angaza](https://angaza.com)
+- [Evolve Energy](https://www.evolvemyenergy.com/)
+- [Electrify](https://electrify.asia)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Microgrids)
+:::
+
 ## Overview:
 
 Microgrids are localized energy systems that generate, distribute, and store electricity in a confined geographical area.

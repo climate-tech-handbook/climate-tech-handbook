@@ -14,6 +14,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Equinor](https://equinor.com)
+- [Viriciti](https://viriciti.com)
+- [Kitty Hawk](https://kittyhawk.aero)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Trains)
+:::
+
 ## Overview
 
 Electric trains are becoming increasingly popular as a means of reducing greenhouse gas emissions. Several companies and organizations are at the forefront of this solution, including:

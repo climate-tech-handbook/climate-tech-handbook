@@ -13,6 +13,13 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Coord](https://www.coord.com/)
+- [Interface](https://interface.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Tree+Intercropping)
+:::
+
 ## Overview
 
 Tree intercropping is a type of agroforestry in which trees and crops are grown together in the same space. This practice can help to reverse climate change by reducing greenhouse gas emissions and improving soil health.

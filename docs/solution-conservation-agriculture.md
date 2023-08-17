@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Bellwether Coffee](https://www.bellwethercoffee.com/)
+- [Upstream Tech](https://upstream.tech/)
+- [Ellipsis Environmental](https://ellipsis-environmental.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Conservation+Agriculture)
+:::
+
 ## Overview
 
 * Significant progress in **Conservation Agriculture** for climate change reversal.

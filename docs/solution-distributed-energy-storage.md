@@ -14,6 +14,14 @@ This a sample ChatGPT page to get the ball rolling.
 
 _Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distributed-energy-resources)_
 
+:::info Companies working in this solution 
+- [Distributed Energy](None)
+- [Zola Electric](https://zolaelectric.com)
+- [Verv](https://verv.energy)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Energy+Storage)
+:::
+
 ## Overview
 
 Through the use of distributed energy storage, energy can be stored locally and used when needed, reducing the need for large, centralized power plants that emit greenhouse gases.

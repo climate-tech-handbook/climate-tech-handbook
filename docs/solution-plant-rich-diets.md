@@ -20,6 +20,14 @@ pagination_prev: solutions
 <!--!!! info "We are tracking closely - join our mailing ist"-->
 
 
+:::info Companies working in this solution 
+- [Emergy Food](https://emergyfoods.com/)
+- [The Jackfruit Co](https://thejackfruitcompany.com)
+- [Protix](https://protix.eu)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Plant-Rich+Diets)
+:::
+
 ## Overview
 
 - By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. Additionally, industrial livestock reduction prevents destruction of biodiverse habitat that are ideal [land sinks](../sector-land-sinks).

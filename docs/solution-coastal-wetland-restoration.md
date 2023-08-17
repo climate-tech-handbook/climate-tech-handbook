@@ -14,6 +14,12 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Bayou With Love](None)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Coastal+Wetland+Restoration)
+:::
+
 ## Overview
 
 - **Coastal Wetland Restoration**: Using wetlands against climate change.

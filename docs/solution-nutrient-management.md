@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Beta Hatch](http://betahatch.com)
+- [Pivot Bio](https://pivotbio.com)
+- [Wiserg](https://wiserg.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Nutrient+Management)
+:::
+
 ## Overview
 
 * **Significant progress** in nutrient management to combat climate change.

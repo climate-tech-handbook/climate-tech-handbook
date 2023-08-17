@@ -15,6 +15,14 @@ This a sample ChatGPT page to get the ball rolling.
 
 Sure, here's a concise summary in bullet points:
 
+:::info Companies working in this solution 
+- [Climate Bootcamp](None)
+- [The Reversing Climate Podcast](None)
+- [Warming Up To Climate Tech](https://warminguptoclimatetech.substack.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Insulation)
+:::
+
 ## Overview
 
 - **Aerogel Insulation:** Composed of up to 99.8% air, making it incredibly lightweight and efficient in preventing heat transfer.

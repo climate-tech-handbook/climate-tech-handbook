@@ -17,6 +17,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Ranmarine / Wasteshark](https://ranmarine.io)
+- [Holganix](None)
+- [Aclima](https://aclima.io)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Seaweed+Farming)
+:::
+
 ## Overview
 
 - Seaweed Farming: Developing seaweed cultivation to combat climate change with advanced technologies.

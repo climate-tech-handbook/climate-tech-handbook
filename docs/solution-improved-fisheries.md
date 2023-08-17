@@ -12,6 +12,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Pelagic Data Systems](https://pelagicdata.com)
+- [A Billion Veg](https://bit.ly/abvme)
+- [Dock To Dish](https://docktodish.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Improved+Fisheries)
+:::
+
 ## Overview
 
 - **Improved Fisheries**: Addressing overfishing impact on climate.

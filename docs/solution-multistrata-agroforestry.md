@@ -16,6 +16,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Leaf](https://lawrencedale.com)
+- [Phytoponics](https://phytoponics.com)
+- [Terviva](https://terviva.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Multistrata+Agroforestry)
+:::
+
 ## Overview
 
 Multistrata agroforestry is a type of agroforestry that involves growing trees and crops in layers. This type of agroforestry has been shown to reverse climate change by reducing greenhouse gas emissions.

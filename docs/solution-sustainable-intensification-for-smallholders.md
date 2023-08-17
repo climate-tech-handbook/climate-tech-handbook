@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Enduring Planet](https://enduringplanet.com/)
+- [Ecosoftt](https://ecosoftt.org)
+- [Ducky](https://ducky.eco)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Sustainable+Intensification+for+Smallholders)
+:::
+
 ## Overview
 
 * **Sustainable Intensification & Climate Change**: Since the early 2000s, the focus has been on sustainable intensification for smallholder farmers to curb greenhouse gas emissions.

@@ -12,6 +12,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Saltx](https://saltxtechnology.com)
+- [Form Energy](https://formenergy.com)
+- [Kraftblock](https://kraftblock.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Utility-Scale+Energy+Storage)
+:::
+
 ## Overview
 
 Advancements in Utility-Scale Energy Storage are driving climate change reversal through key technologies:

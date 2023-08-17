@@ -13,6 +13,14 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+:::info Companies working in this solution 
+- [Thrilling](https://shopthrilling.com/)
+- [For Days](https://www.fordays.com/)
+- [Heatworks](https://myheatworks.com)
+
+Checkout the [jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Recycling)
+:::
+
 ## Overview
 
 The progress that has been made in developing recycling to reduce climate change is significant. One example of a breakthrough technology that has been developed is called pyrolysis. Pyrolysis is a process that breaks down organic matter into useful products without producing any emissions. This technology has been used to recycle plastics and other materials into fuel, chemicals, and other useful products. Companies and organizations such as ExxonMobil and the U.S. Environmental Protection Agency have been at the forefront of developing and promoting recycling technologies.
