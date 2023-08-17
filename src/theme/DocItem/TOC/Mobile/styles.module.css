@@ -1,0 +1,23 @@
+@media (min-width: 997px) {
+  /* Prevent hydration FOUC, as the mobile TOC needs to be server-rendered */
+  .tocMobile {
+    display: none;
+  }
+}
+
+@media print {
+  .tocMobile {
+    display: none;
+  }
+}
+
+.tocMobile {
+  position: fixed;
+  right: 5px;
+  background-color: rgb(237, 235, 235);
+  position: right;
+  overflow: hide;
+  text-align: right;
+  opacity: 0.7;
+}
+
