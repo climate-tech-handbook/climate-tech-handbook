@@ -80,7 +80,8 @@ _[More listed here](https://www.climatefinance.xyz/climate-slack-communities)_
 </div> -->
 
 - See if your city is listed in [climatetechcities.com](https://climatetechcities.com) 
-- **Host your own!** Here's a [short guide](https://www.notion.so/Organizing-a-Climate-Meetup-2c7005194d4b4c6f954231668432f7b3) from [Lowell Bander](https://www.linkedin.com/in/lowellbander/)
+- **Host your own!** Here's a [short guide](https://docs.google.com/document/d/1wRzbTbouCaz_gdQ6bW7qaDNa1gk8M3pJkuTjJoYbPk8/edit) from MCJ Collective.
+	- Try a ☕️ [coffee crawl](coffee-crawl) for example!
 
 ## Pick your solution and information diet
 
