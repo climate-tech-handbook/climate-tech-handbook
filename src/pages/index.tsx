@@ -63,12 +63,12 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main className={clsx(styles.mainBody)}>
         <NewClimateClock countDown={climateCountdown} />
-        <HomeCard
+{/*        <HomeCard
           title="Climate Job Seekers"
           description="Get paid what your worth while solving humanity's biggest crisis. Is it too good to be true?"
           imageUrl={useBaseUrl("/img/climate-job.png")}
           linkUrl="/intro"
-        />
+        />*/}
 {/*        <HomeCard
           title="Startup Founders"
           description="Our open source industry research will save you precious time and money. We'd rather you focus on making the greatest impact possible for our planet."
