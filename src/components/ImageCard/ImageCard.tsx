@@ -25,7 +25,7 @@ import { useHistory } from 'react-router-dom';
         history.push(linkUrl);
     };
 
-    const characterLimit = 80;
+    const characterLimit = 65;
     let truncatedDescription = description;
     if (truncatedDescription.length > characterLimit) {
         // Find the last space within the character limit
