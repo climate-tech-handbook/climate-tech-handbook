@@ -29,15 +29,15 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Skip to Level 1"
-    description="Transforming discarded plastics into useful products, reducing plastic waste and its impact on the environment."
-    imageUrl="img/recycled-plastics.png"
-    linkUrl="../solution-recycled-plastics"
+    description="If you have joined essential communities and are familiar with climate solution frameworks"
+    imageUrl="img/level-1-mario.jpg"
+    linkUrl="level-1"
     />
     <ImageCard
     title="Skip to Level 2"
     description="Transforming discarded plastics into useful products, reducing plastic waste and its impact on the environment."
-    imageUrl="img/recycled-plastics.png"
-    linkUrl="../solution-recycled-plastics"
+    imageUrl="img/level-2-mario.jpg"
+    linkUrl="level-2"
     />
 </div>
 
