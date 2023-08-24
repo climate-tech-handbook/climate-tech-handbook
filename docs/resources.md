@@ -4,6 +4,9 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
+:::note
+Heavy work in progress - more coming soon!
+:::
 
 :::note This page will help you
 

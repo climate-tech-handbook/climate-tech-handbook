@@ -121,16 +121,6 @@ module.exports = {
       label: '🌍 Resources',
       id: 'resources',
     },
-    // {
-    //   type: 'link',
-    //   label: '🗞️ Blog',
-    //   href: '/blog',
-    // },
-    // {
-    //   type: 'doc',
-    //   label: '🔥 Contribute',
-    //   id: 'contribute',
-    // },
   ],
 };
 

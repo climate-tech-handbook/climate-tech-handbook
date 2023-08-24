@@ -11,6 +11,8 @@ Heavy work in progress
 :::info [Help us](contribute) track this Solution
 :::
 
+<a href="https://www.example.com" class="doc-button">Contribute</a>
+
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Recycled Plastics"
