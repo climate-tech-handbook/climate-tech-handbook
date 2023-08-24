@@ -13,12 +13,17 @@ module.exports = {
   docSidebar: [
     {
       type: 'category',
-      label: '📓 Get Started',
+      label: '🏁 Get Started',
       link: {
         type: 'doc',
         id: 'intro',
       },
       items: [
+        {
+          type: 'doc',
+          id: 'how-to-use-the-handbook',
+          label: 'How to use the Handbook',
+        },
         {
           type: 'doc',
           id: 'level-0',
@@ -34,18 +39,8 @@ module.exports = {
           id: 'level-2',
           label: 'Level 2',
         },
-        {
-          type: 'doc',
-          label: '👩🏼‍🔬 Career Guide',
-          id: 'career-guide',
-        },
       ],
     },
-    // {
-    //   type: 'doc',
-    //   label: '📓 Get started',
-    //   id: 'intro',
-    // },
     {
       type: 'category',
       label: '✅ Climate Solutions',
