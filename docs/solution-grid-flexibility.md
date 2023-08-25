@@ -29,7 +29,7 @@ A Virtual Power Plant (VPP) is a network of decentralized, medium-scale, power-g
 
 Key contributors in the progress of these technologies are Green Mountain Power, a leader in smart meter deployment, Tesla, a prominent battery storage manufacturer, and EnerNOC, a provider of demand response services. Their efforts are instrumental in enhancing grid efficiency and reducing greenhouse gas emissions.
 
-Leading Companies
+## Leading Companies
 
 Leading companies in the VPP sector include:
 
@@ -37,12 +37,10 @@ Leading companies in the VPP sector include:
 * [Siemens](https://press.siemens.com/global/en/pressrelease/siemens-expands-green-energy-potential-virtual-power-plants)
 * [GE](https://www.gegridsolutions.com/powerd/catalog/gridnode-der-management.htm)
 * [AutoGrid](https://www.auto-grid.com/solution/virtual-power-plant/)
-* Enel X
-* Cisco Systems
-* Bosch
-* Hitachi Ltd.
-* Mitsubishi
-* AGL Energy
+* [Enel X](https://www.enelx.com/n-a/en/home)
+* [Hitachi Ltd.](https://www.hitachienergy.com/products-and-solutions/grid-edge-solutions/our-offering/e-mesh/ems)
+* [Mitsubishi](https://www.mitsubishielectric.com/en/sustainability/management/social_contributions/energy/index.html)
+* [AGL Energy](https://www.agl.com.au/residential/energy/solar-and-batteries/solar-batteries/virtual-power-plant)
 
 ## Lessons Learned
 
