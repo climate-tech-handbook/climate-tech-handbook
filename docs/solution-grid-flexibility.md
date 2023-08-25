@@ -33,10 +33,10 @@ Leading Companies
 
 Leading companies in the VPP sector include:
 
-* ABB
-* Siemens
-* GE
-* Schneider Electric
+* [ABB](https://new.abb.com/power-generation/energy-management/optimax-solution-suite/optimax-for-virtual-power-plants)
+* [Siemens](https://press.siemens.com/global/en/pressrelease/siemens-expands-green-energy-potential-virtual-power-plants)
+* [GE](https://www.gegridsolutions.com/powerd/catalog/gridnode-der-management.htm)
+* [AutoGrid](https://www.auto-grid.com/solution/virtual-power-plant/)
 * Enel X
 * Cisco Systems
 * Bosch
