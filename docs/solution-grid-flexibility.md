@@ -2,6 +2,10 @@
 title: Grid Flexibility
 displayed_sidebar: docSidebar
 pagination_prev: solutions
+authors:
+  - name: Jim Douglas
+    description: Energy Enthusiast
+    avatar: :-)
 ---
 ![Cover Image](../static/img/grid-flexibility.jpg)
 *Image from the [Alliance for an Energy Efficient Economy](https://aeee.in/why-indian-grid-operators-need-to-acknowledge-demand-flexibility-for-optimal-grid-operation/) in India*
