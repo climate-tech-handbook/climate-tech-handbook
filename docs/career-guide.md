@@ -6,7 +6,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 You are committed to impactful climate work - congrats!
 
-<!-- !\[Organice farm soil](../static/img/organic-farming_resize.jpg)
+<!-- !\\[Organice farm soil](../static/img/organic-farming_resize.jpg)
 ## There are four steps: -->
 
 :::note We will show you how to:
@@ -32,7 +32,7 @@ You are committed to impactful climate work - congrats!
 
 ## Job boards
 
-The two most popular:
+The three most popular:
 
 * [ClimateBase](https://climatebase.org)
 * [Climate Tech List](https://climatetechlist.com)
