@@ -6,7 +6,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 You are committed to impactful climate work - congrats!
 
-<!-- ![Organice farm soil](../static/img/organic-farming_resize.jpg)
+<!-- !\[Organice farm soil](../static/img/organic-farming_resize.jpg)
 ## There are four steps: -->
 
 :::note We will show you how to:
@@ -15,31 +15,37 @@ You are committed to impactful climate work - congrats!
 2. Evaluate your [skills and experience](#evaluate-your-skills-and-experience)
 3. Build your [community and network](build-your-community-and-network)
 4. Pick your [climate solution](solutions) and [information diet](resources)
-:::
+   :::
 
 ## First: Choose your employer type
+
 :::note You have a choice
+
 1. Try to make your "regular job" more climate positive
 2. Leave your "regular job" and work for a dedicated climate organization
-<!--drawdown guide for climate at work-->
-:::
-**Note:** most climate tech companies are early stage startups.
- - You can explore [government jobs](https://governmentjobs.com)
- - Or look for sustainability positions within larger tech companies
+
+   :::
+   **Note:** most climate tech companies are early stage startups.
+
+* You can explore [government jobs](https://governmentjobs.com)
+* Or look for sustainability positions within larger tech companies
 
 ## Job boards
 
 The two most popular:
-- [ClimateBase](https://climatebase.org)
-- [Climate Tech List](https://climatetechlist.com)
-- ...there are dozens and dozens more on [Nicole Kelner's spreadsheet](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0).
+
+* [ClimateBase](https://climatebase.org)
+* [Climate Tech List](https://climatetechlist.com)
+* [Terra.do](https://terra.do/climate-jobs/job-board/)
+* ...there are dozens and dozens more on [Nicole Kelner's spreadsheet](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0).
 
 ## Evaluate your skills and experience
 
 :::note Tech skills and experience
+
 * Do you already have "regular tech" experience - and just need climate knowledge?
 * Or...do you need a better tech portfolio + climate knowledge?
-:::
+  :::
 
 If you'd like a stronger portfolio for tech skills or climate knowledge:
 
@@ -57,7 +63,8 @@ If you'd like a stronger portfolio for tech skills or climate knowledge:
 6. [Tofu](https://tofu4climate.substack.com/) - for marketers, Tofu = Top of Funnel
 7. [Climate Designers](https://www.climatedesigners.org)
 
-_[More listed here](https://www.climatefinance.xyz/climate-slack-communities)_
+*[More listed here](https://www.climatefinance.xyz/climate-slack-communities)*
+
 ### Local Meetups
 
 <!-- <div style={{ display: 'flex', flexWrap: 'wrap'}}>
@@ -79,9 +86,9 @@ _[More listed here](https://www.climatefinance.xyz/climate-slack-communities)_
 
 </div> -->
 
-- See if your city is listed in [climatetechcities.com](https://climatetechcities.com) 
-- **Host your own!** Here's a [short guide](https://docs.google.com/document/d/1wRzbTbouCaz_gdQ6bW7qaDNa1gk8M3pJkuTjJoYbPk8/edit) from MCJ Collective.
-	- Try a ☕️ [coffee crawl](coffee-crawl) for example!
+* See if your city is listed in [climatetechcities.com](https://climatetechcities.com) 
+* **Host your own!** Here's a [short guide](https://docs.google.com/document/d/1wRzbTbouCaz_gdQ6bW7qaDNa1gk8M3pJkuTjJoYbPk8/edit) from MCJ Collective.
+  		- Try a ☕️ [coffee crawl](coffee-crawl) for example!
 
 ## Pick your solution and information diet
 
