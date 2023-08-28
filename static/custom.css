@@ -177,7 +177,10 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: lightgrey !important;
   opacity: 1;
 }*/
+@media screen and (min-width: 1024px) {
+  .markdown p img {
+    width: 95%;
+    max-width: 1000px;
+  }
+}
 
-/*.markdown p img {
-  width: 85%;
-}*/
