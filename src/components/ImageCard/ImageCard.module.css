@@ -1,15 +1,18 @@
 .cardContainer {
     width: 100%;
-    max-width: 19rem; 
+    min-width: 250px;
+    max-width: 270px; 
     height: 26rem;
-    min-height: 26rem;
+    min-height: 24rem;
     border-radius: 10px;
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
-    margin: 10px
+    margin: 7px;
+    transition: transform 0.3s ease;
 }
 
 .cardContainer:hover {
     cursor: pointer;
+    transform: translateY(-5px);
 }
 
 .cardImg {

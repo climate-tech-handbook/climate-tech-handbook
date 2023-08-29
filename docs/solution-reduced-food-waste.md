@@ -7,7 +7,7 @@ pagination_prev: solutions
 
 *Reducing Food Waste ([BooneHealth](https://boone.health/2022/10/19/reducing-food-waste/))*
 
-:::info [Help us track this Solution](contribute)
+:::note [Help us track this Solution](contribute)
 This a sample ChatGPT page to get the ball rolling.
 
 [Click here to contribute content and feedback](contribute)
@@ -18,6 +18,10 @@ ReFED source
 :::
 
 ## Overview
+
+:::info Huge opportunity 
+Reducing food waste is one of the biggest opportunities for reducing greenhouse gas emissions in the world—more than restoring forests, insulating buildings, and driving electric vehicles _combined_
+:::
 
 * **Food waste & climate change**: Wasted food in the U.S. contributes to roughly 8% of greenhouse gas emissions.
 * **Financial implications**: Americans discard food worth about $1,500 annually per family.
