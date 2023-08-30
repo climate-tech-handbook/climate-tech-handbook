@@ -37,6 +37,9 @@ Heavy work in progress
 If you already know what job function you want, you go straight to selecting your [Climate Solution](solutions)
 :::
 
+:::info reminder
+You can contribute --xx
+:::
 
 ---
 

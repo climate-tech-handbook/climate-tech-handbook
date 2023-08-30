@@ -48,7 +48,9 @@ Nicole crowdsourced a sheet of over 500 resources to help with your daily inform
 
 [![Nicole Kelner's Google Sheet](../static/img/nicoles-spreadsheet.png)](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0)
 
+## Event Guide
 
+--woo!
 
 <!-- <iframe
   loading="lazy"

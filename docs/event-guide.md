@@ -19,6 +19,9 @@ It's easier than it sounds and the best way to get your foot in the door.
 3.
 :::
 
-## Header 2
+Check your City
+ - climatetechcities.com
+ - Work on Climate - Slack Channel
+## Trivia Night
 
 Text

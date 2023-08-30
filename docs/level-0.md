@@ -63,11 +63,16 @@ Congratulations! You took the first step.
 
 #### A broad definition
 
-Any form of technology that will help us get to our mandatory goal of 50% emission reduction by 2030 and net zero greenhouse pollution by 2050.
+Any form of technology that will help us implement our climate goals, particularly the 1.5C goal which requires:
+
+- 50% emission reduction by 2030
+- Net zero emissions by 2050.
 
 #### The industry definition
 
 There is a tech industry that 
+
+## What is a climate job like?
 
 :::question Frequently Asked Questions
 - How well does it pay?
@@ -75,8 +80,6 @@ There is a tech industry that
 - How secure are these jobs?
 - How do I avoid greenwashing?
 :::
-
-## What is a climate job like?
 
 <!-- #### How is it different from "clean tech"?
 

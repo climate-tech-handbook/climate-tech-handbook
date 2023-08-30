@@ -60,15 +60,21 @@ There is a path to solving this crisis and landing a job you love.
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
-    title="Start Level 0"
-    description="Transforming discarded plastics into useful products, reducing plastic waste and its impact on the environment."
-    imageUrl="img/recycled-plastics.png"
-    linkUrl="../solution-recycled-plastics"
+    title="How to use the Handbook"
+    description="Start with a simple framework"
+    imageUrl="img/starting-line.jpg"
+    linkUrl="../how-to-use-the-handbook"
     />
     <ImageCard
-    title="Skip to Level 1"
-    description="Transforming discarded plastics into useful products, reducing plastic waste and its impact on the environment."
-    imageUrl="img/recycled-plastics.png"
-    linkUrl="../solution-recycled-plastics"
+    title="Level 0"
+    description="You're brand new, start with the basics"
+    imageUrl="img/climate-tech-level-0-mario.jpg"
+    linkUrl="level-1"
+    />
+<ImageCard
+    title="Level 1"
+    description="You're ready to hone in on your climate solution"
+    imageUrl="img/level-1-mario.jpg"
+    linkUrl="level-1"
     />
 </div>
