@@ -6,9 +6,19 @@ We can make it better together.
 
 ![Climate tech handbook team](../static/img/climate-tech-handbook-team-zoom.png)
 
-## Come [hang out on Slack](https://chat.climatetechhandbook.com) and [play around on GitHub](https://github.com/climate-tech-handbook) to:
+## How to contribute
 
-* Contribute content
+### Slack
+
+Come [hang out on Slack](https://chat.climatetechhandbook.com) 
+
+### GitHub
+
+[Explore our code on GitHub](https://github.com/climate-tech-handbook)
+
+## Ways to contribute
+
+* Submit content
 * Improve our code and design
 * Financially support the project
 * Provide advice and expertise
