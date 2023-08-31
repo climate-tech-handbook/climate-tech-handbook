@@ -13,6 +13,17 @@ Our model is loosely based off of Austin Belcak's [Dream Job System](https://cul
 3. **Build your portfolio and network** - to prove that you are the best hire, regardless of formal experience
 :::
 
+<!-- ### Desktop
+
+- Use the left sidebar - to navigate pages
+- Use the right sidebar - to navigate sections within a page
+
+### Mobile
+
+- Use the top left hamburger menu to navigate pages
+- Use jump links within  -->
+
+
 ## Learning Levels
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
@@ -35,6 +46,31 @@ Our model is loosely based off of Austin Belcak's [Dream Job System](https://cul
     linkUrl="level-2"
     />
 </div>
+
+## Contribute
+
+This is a community supported open source project.
+
+You can help us produce:
+
+- Content
+- Code
+- Design
+
+Or help us financially through a small donation.
+
+<a href="contribute" class="doc-button">Contribute</a>
+
+<br/>
+
+:::info Remember
+If you need more tech experience for your job search
+
+Contributing to an open source project is the best way to prove yourself and gain skills
+:::
+
+
+<br/>
 
 <!-- The handbook is designed to be accessible yet comprehensive.
 

@@ -15,7 +15,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 - You're committed to working on climate and need to hone in on a [Solution](#pick-your-climate-solution)
 
-- You need to build a solid "[information diet](#information-diet)" into your weekly routine 
+- You need to build a solid [Information Diet](#start-your-information-diet) into your weekly routine 
 :::
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
@@ -33,6 +33,11 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
     />
 </div>
 
+## Lesson Start
+
+[img]
+
+
 ## Pick your climate solution
 
 :::note Why pick a specific solution?
@@ -40,6 +45,26 @@ This is a critical step for you to:
 1. **Focus your time** -  research top challenges that you are uniquely positioned to solve
 2. **Build your network** - offer something to contribute for a specific community
 :::
+
+In [Level 0](level-0) you learned about the two primary frameworks:
+
+- [Project Drawdown](level-0#project-drawdown)
+
+- [Speed and Scale](level-0#speed-and-scale)
+
+Feel free to explore our [Solutions Page](solutions).
+
+:::info Information Diet
+After you're done exploring, come back for guidance on your [Information Diet](#start-your-information-diet)
+:::
+
+<ImageCard
+  title="Climate Solutions"
+  description="An overview of all 12 sectors and 93 climate solutions"
+  imageUrl="/img/aigen-robotics.png"
+  linkUrl="/solutions"
+/>
+
 ## Start your Information Diet
 :::note What is that?
 Your daily and weekly routine.
@@ -50,18 +75,20 @@ You'll need 2-10 hours per week to find a [Solution](solutions) and stay up to s
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
 
 <ImageCard
-  title="Climate Solutions"
-  description="An overview of all 12 sectors and 93 climate solutions"
-  imageUrl="/img/aigen-robotics.png"
-  linkUrl="/solutions"
-/>
-<ImageCard
   title="Resources"
   description="Newsletters, podcasts, media coverage, and other materials."
   imageUrl="/img/healthy-lifestyle.jpg"
   linkUrl="/resources"
 />
 </div>
+
+### Speed and Scale - OKR Tracker
+
+--headlines
+
+--climate resources site
+
+
 
 ## Productivity tips
 
@@ -80,6 +107,8 @@ You'll need 2-10 hours per week to find a [Solution](solutions) and stay up to s
 	* Shortcuts
 	* Paste buffer
 * Podcast habit
+* Email labels, star options, search
+
 
 :::info Reminder
 You can contribute

@@ -56,21 +56,28 @@ Congratulations! You took the first step.
 ### In this lesson:
 - What is "climate tech"
 - Intro to Climate Solution frameworks
+- What a climate job is like
 - Intro to core communities and resources
 :::
 
 ## What is Climate Tech?
 
-#### A broad definition
+#### A broad definition:
 
 Any form of technology that will help us implement our climate goals, particularly the 1.5C goal which requires:
 
 - 50% emission reduction by 2030
 - Net zero emissions by 2050.
 
-#### The industry definition
+#### The industry definition:
 
-There is a tech industry that 
+In the Silicon Valley style tech world, there is a movement toward investing in startups that are focused on a particular climate solution.
+
+#### Climate tech vs Clean tech:
+
+First -- 
+
+Second --
 
 ## What is a climate job like?
 
@@ -88,11 +95,21 @@ There is a tech industry that
 
 ## Fundamental Climate Knowledge
 
+:::info If you already know this
+Skip to:
+- [Solution Frameworks](#solution-frameworks)
+- [Core Communities](#core-communities)
+- [Skill Requirements](#skill-requirements)
+:::
+
+
 ###
 
 #### The Paris Agreement
 #### Our carbon budget
 #### 1.5 degrees celsus and 2 degrees celsius
+
+- Temperature doesn't go down!
 
 ###
 
@@ -104,11 +121,13 @@ There is a tech industry that
 
 ## Solution Frameworks
 
-### Project Drawdown - list
+### Project Drawdown
 
-### Speed and Scale - OKR Tracker
+### Speed and Scale
 
 ## Core Communities
+
+--more networking tips in Lesson 1
 
 ## Skill Requirements
 
