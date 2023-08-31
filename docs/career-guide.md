@@ -10,22 +10,21 @@ You are committed to impactful climate work - congrats!
 ## There are four steps: -->
 
 :::note We will show you how to:
-
 1. Choose your [employer type](#choose-your-employer-type) and look at [job boards](#job-boards)
 2. Evaluate your [skills and experience](#evaluate-your-skills-and-experience)
 3. Build your [community and network](build-your-community-and-network)
 4. Pick your [climate solution](solutions) and [information diet](resources)
-   :::
+:::
 
 ## First: Choose your employer type
 
 :::note You have a choice
-
 1. Try to make your "regular job" more climate positive
 2. Leave your "regular job" and work for a dedicated climate organization
+:::
 
-   :::
-   **Note:** most climate tech companies are early stage startups.
+
+**Note:** most climate tech companies are early stage startups.
 
 * You can explore [government jobs](https://governmentjobs.com)
 * Or look for sustainability positions within larger tech companies
@@ -45,7 +44,7 @@ The three most popular:
 
 * Do you already have "regular tech" experience - and just need climate knowledge?
 * Or...do you need a better tech portfolio + climate knowledge?
-  :::
+:::
 
 If you'd like a stronger portfolio for tech skills or climate knowledge:
 
@@ -88,7 +87,7 @@ If you'd like a stronger portfolio for tech skills or climate knowledge:
 
 * See if your city is listed in [climatetechcities.com](https://climatetechcities.com) 
 * **Host your own!** Here's a [short guide](https://docs.google.com/document/d/1wRzbTbouCaz_gdQ6bW7qaDNa1gk8M3pJkuTjJoYbPk8/edit) from MCJ Collective.
-  		- Try a ☕️ [coffee crawl](coffee-crawl) for example!
+* Try a ☕️ [coffee crawl](coffee-crawl) for example!
 
 ## Pick your solution and information diet
 
