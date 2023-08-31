@@ -15,6 +15,10 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 Coastal and ocean sinks can absorb and sequester large amounts of carbon dioxide from the atmosphere, also known as "blue carbon".
 
+:::info Job Board
+[Nature Tech](https://naturetech.io/) - specifically for nature based solutions
+:::
+
 ## Solutions in this Sector
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
