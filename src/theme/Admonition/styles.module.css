@@ -31,8 +31,34 @@
 
 .question {
   border-left: 5px solid red;
+  background-color: rgb(245, 233, 235);
 }
 
 .note {
   border-left: 5px solid transparent;
+}
+
+.podcast {
+  border-left: 5px solid yellow;
+  background-color: rgb(250, 250, 234);
+}
+
+.newsletter {
+  border-left: 5px solid gray;
+  background-color: rgb(241, 239, 239);
+}
+
+.company {
+  border-left: 5px solid rgb(83, 83, 248);
+  background-color: rgb(233, 233, 247);
+}
+
+.contribute {
+  border-left: 5px solid pink;
+  background-color: rgb(246, 240, 241);
+}
+
+.book {
+  border-left: 5px solid paleturquoise;
+  background-color: rgb(238, 247, 247);
 }
