@@ -18,7 +18,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 - Need to brush up on [fundamental climate knowledge](#fundamental-climate-knowledge)
 
-- Want to understand what a climate job is like
+- Want to understand [what a climate job is like](#what-is-a-climate-job-like)
 
 - Have never heard of the Project Drawdown [Solution Framework](#project-drawdown-solution-frameworks) or the [Speed and Scale OKR tracker](#speed-and-scale-okr-tracker)
 
@@ -75,9 +75,9 @@ In the Silicon Valley style tech world, there is a movement toward investing in 
 
 #### Climate tech vs Clean tech:
 
-First -- 
+First - **fixing climate is a subset** within a broader circle of clean technologies. For example, water pollution, plastic pollution, or e-waste do not cause greenhouse emissions. However, they are still a critical problem affecting environmental health, justice, and the biodiversity crisis.
 
-Second --
+Second - **clean tech has an association** with a green startup period during the Obama administraton. Experiments from that time didn't quite turn out as expected. <!--link--> Climate tech is a version 2.0 [renaissance] for the 2020s.
 
 ## What is a climate job like?
 
@@ -88,10 +88,52 @@ Second --
 - How do I avoid greenwashing?
 :::
 
-<!-- #### How is it different from "clean tech"?
 
-1. - eg stormwater
-2. - -->
+### How well does it pay?
+
+#### Early stage startups:
+
+- Climate tech companies focusing on a specific climate [solution](solutions) tend to be early stage startups.
+- Early stage startups are more likely to pay lower salaries in exchange for generous equity packages.
+- That said, climate startups want to attract quality talent and understand that competitive pay is important.
+
+
+#### Established companies:
+
+- You can try to change the direction of a bigger company
+- Project Drawdown has a [guide on this topic](park)
+- Companies like Microsoft, Google, Stripe, etc. have a specific corporate sustainbility positions. There are also many consultancies.
+- Think outside the box. For example, you are in procurement, you have a huge opportunity to order supplies that come from clean sources. Start a green team that doesn't exist in your current job
+
+
+#### Government Jobs
+
+- There are plenty of government jobs <!--governmentjobs.com example urls-->
+- The salaries are lower, but some states and counties <!--munis??--> offer good health care and pensions
+- There can be a higher level of job security, predictability, and transparency compared to a fast moving startup environment.
+
+---
+
+###  How do I learn the necessary skills?
+
+- --x
+- --x
+
+---
+
+###  How secure are these jobs?
+
+- --x
+- --x
+
+---
+
+###  How do I avoid greenwashing?
+
+- --x
+- --x
+
+---
 
 ## Fundamental Climate Knowledge
 
