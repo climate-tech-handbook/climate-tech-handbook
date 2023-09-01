@@ -14,7 +14,13 @@ pagination_label: 🕹️ Level 0
 
 - Had no idea "climate tech" even existed and you have the opportunity to get paid to save planet earth
 
+<<<<<<< Updated upstream
 - Are brand new to the [basic terms](#basic-terms-and-definitions)
+=======
+- Need to brush up on [fundamental climate knowledge](#fundamental-climate-knowledge)
+
+- Want to understand [what a climate job is like](#what-is-a-climate-job-like)
+>>>>>>> Stashed changes
 
 - Have never heard of the Project Drawdown [Solution Framework](#project-drawdown-solution-frameworks) or the [Speed and Scale OKR tracker](#speed-and-scale-okr-tracker)
 
@@ -110,6 +116,100 @@ You made it!
 
 ### What is "Climate Tech"?
 
+
+#### A broad definition:
+
+Any form of technology that will help us implement our climate goals, particularly the 1.5C goal which requires:
+
+- 50% emission reduction by 2030
+- Net zero emissions by 2050.
+
+#### The industry definition:
+
+In the Silicon Valley style tech world, there is a movement toward investing in startups that are focused on a particular climate solution.
+
+#### Climate tech vs Clean tech:
+
+First - **fixing climate is a subset** within a broader circle of clean technologies. For example, water pollution, plastic pollution, or e-waste do not cause greenhouse emissions. However, they are still a critical problem affecting environmental health, justice, and the biodiversity crisis.
+
+Second - **clean tech has an association** with a green startup period during the Obama administraton. Experiments from that time didn't quite turn out as expected. <!--link--> Climate tech is a version 2.0 [renaissance] for the 2020s.
+
+## What is a climate job like?
+
+:::question Frequently Asked Questions
+- How well does it pay?
+- How do I learn the necessary skills?
+- How secure are these jobs?
+- How do I avoid greenwashing?
+:::
+
+
+### How well does it pay?
+
+#### Early stage startups:
+
+- Climate tech companies focusing on a specific climate [solution](solutions) tend to be early stage startups.
+- Early stage startups are more likely to pay lower salaries in exchange for generous equity packages.
+- That said, climate startups want to attract quality talent and understand that competitive pay is important.
+
+
+#### Established companies:
+
+- You can try to change the direction of a bigger company
+- Project Drawdown has a [guide on this topic](park)
+- Companies like Microsoft, Google, Stripe, etc. have a specific corporate sustainbility positions. There are also many consultancies.
+- Think outside the box. For example, you are in procurement, you have a huge opportunity to order supplies that come from clean sources. Start a green team that doesn't exist in your current job
+
+
+#### Government Jobs
+
+- There are plenty of government jobs <!--governmentjobs.com example urls-->
+- The salaries are lower, but some states and counties <!--munis??--> offer good health care and pensions
+- There can be a higher level of job security, predictability, and transparency compared to a fast moving startup environment.
+
+---
+
+###  How do I learn the necessary skills?
+
+- --x
+- --x
+
+---
+
+###  How secure are these jobs?
+
+- --x
+- --x
+
+---
+
+###  How do I avoid greenwashing?
+
+- --x
+- --x
+
+---
+
+## Fundamental Climate Knowledge
+
+:::info If you already know this
+Skip to:
+- [Solution Frameworks](#solution-frameworks)
+- [Core Communities](#core-communities)
+- [Skill Requirements](#skill-requirements)
+:::
+
+
+###
+
+#### The Paris Agreement
+#### Our carbon budget
+#### 1.5 degrees celsus and 2 degrees celsius
+
+- Temperature doesn't go down!
+
+###
+>>>>>>> Stashed changes
 
 <br/><br/><br/><br/><br/>
 

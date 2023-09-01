@@ -122,6 +122,11 @@ module.exports = {
       label: '🌍 Resources',
       id: 'resources',
     },
+    {
+      type: 'doc',
+      label: '🔥 Contribute',
+      id: 'contribute',
+    },
   ],
 };
 

@@ -48,7 +48,7 @@ The three most popular:
 
 If you'd like a stronger portfolio for tech skills or climate knowledge:
 
-**👉 Join us on [Slack](sadf.com) & [GitHub](asdf.com) and help us build the Handbook 👈**
+**👉 Join us on [Slack](https://chat.climatetechhandbook.com) & [GitHub](https://github.com/climate-tech-handbook) and help us build the Handbook 👈**
 
 ## Build your community and network
 
