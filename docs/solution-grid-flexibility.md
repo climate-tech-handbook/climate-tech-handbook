@@ -25,9 +25,21 @@ Grid flexibility refers to the capability of the electric grid to accommodate di
 3. **Demand response:** This technology enables real-time electricity demand management, curbing peak demand and lessening reliance on polluting power plants.
 4. **Virtual Power Plants**: networks of decentralized, medium-scale, power-generating units such as wind farms, solar parks, and combined-heat-and-power units, as well as flexible power consumers and storage systems.
 
-A Demand Response program is an agreement between an electricity consumer and - typically - a utility, that allows the utility to "turn down" the power consumption of a distributed energy resources (DER) during times of peak load.  For example, imagine that it's 6:00 PM on a 110-degree day in Tucson, AZ in the USA.  Many local residents have come home from work and are running their air conditioning at maximum power.  This puts extreme load on the electrical grid.  A utility with a demand response program can signal enrolled air conditioning units to change their thermostats from 75 degrees to 77 degrees, thereby reducing electricity demand from the grid.  Without a VPP or demand response program, the utility would have to meet demand by adding capacity to the grid using a "peaker" plant.  These are power plants, usually fueled by natural gas, that are held in reserve and only used at times of peak demand.
+## Demand Response
 
-A Virtual Power Plant (VPP) is a network of decentralized, medium-scale, power-generating units such as wind farms, solar parks, and combined-heat-and-power units, as well as flexible power consumers and storage systems.  VPPs aggregate the energy supply of DERs and makes that supply available in wholesale power markets.  A DER can be any internet connected device (smart thermostat, air conditioner, electric car) that is enrolled in a Demand Response program.
+:::book Definition
+A **Demand Response** program is an agreement between an electricity consumer and - typically - a utility, that allows the utility to "turn down" the power consumption of a distributed energy resources (DER) during times of peak load.
+:::
+
+For example, imagine that it's 6:00 PM on a 110-degree day in Tucson, AZ in the USA. Many local residents have come home from work and are running their air conditioning at maximum power. This puts extreme load on the electrical grid. A utility with a demand response program can signal enrolled air conditioning units to change their thermostats from 75 degrees to 77 degrees, thereby reducing electricity demand from the grid. Without a VPP or demand response program, the utility would have to meet demand by adding capacity to the grid using a "peaker" plant. These are power plants, usually fueled by natural gas, that are held in reserve and only used at times of peak demand.
+
+## Virtual Power Plant
+
+:::book definition
+A **Virtual Power Plant (VPP)** is a network of decentralized, medium-scale, power-generating units such as wind farms, solar parks, and combined-heat-and-power units, as well as flexible power consumers and storage systems. 
+:::
+
+VPPs aggregate the energy supply of DERs and makes that supply available in wholesale power markets. A DER can be any internet connected device (smart thermostat, air conditioner, electric car) that is enrolled in a Demand Response program.
 
 Key contributors in the progress of these technologies are Green Mountain Power, a leader in smart meter deployment, Tesla, a prominent battery storage manufacturer, and EnerNOC, a provider of demand response services. Their efforts are instrumental in enhancing grid efficiency and reducing greenhouse gas emissions.
 
