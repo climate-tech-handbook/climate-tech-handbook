@@ -22,6 +22,19 @@ It's easier than it sounds and the best way to get your foot in the door.
 Check your City
  - climatetechcities.com
  - Work on Climate - Slack Channel
+
+
+## Formats
+
+- Happy Hour (easiest)
+- Trivia Night
+- Coffee crawl
+- Panel
+- Lightning talks
+- Speed dating
+
 ## Trivia Night
 
 Text
+
+## Sponsors

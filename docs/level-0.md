@@ -20,7 +20,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 - Want to understand [what a climate job is like](#what-is-a-climate-job-like)
 
-- Have never heard of the Project Drawdown [Solution Framework](#project-drawdown-solution-frameworks) or the [Speed and Scale OKR tracker](#speed-and-scale-okr-tracker)
+- Have never heard of the Project Drawdown [Solution Framework](#project-drawdown-solution-frameworks) or the [Speed and Scale](#speed-and-scale) Framework
 
 - Are not yet a member and would like to learn more about these 3 [core communities](#core-communities):
 	- The Handbook Slack Community
@@ -116,9 +116,29 @@ Second - **clean tech has an association** with a green startup period during th
 
 ###  How do I learn the necessary skills?
 
-- --x
-- --x
+There are two aspects:
 
+1. **Marketable skills**
+2. **Domain knowledge**
+
+:::note Marketable skills
+#### If you already have marketable skills and tech experience
+
+There are plenty of jobs that have the same roles as a non-climate tech company
+
+:::
+
+
+:::info Experience gap
+#### If you are new to tech without 3+ years of experience
+
+[You can contribute](contribute) to the Handbook as an open source project to gain experience quickly
+:::
+
+
+:::tip Domain knowledge
+
+:::
 ---
 
 ###  How secure are these jobs?
@@ -171,9 +191,6 @@ Skip to:
 
 --more networking tips in Lesson 1
 
-## Skill Requirements
-
---also at this level if you want to work on climate AND you still need 3+ years of tech experience in your field.
 
 :::info [Help us](contribute) improve this page
 :::
