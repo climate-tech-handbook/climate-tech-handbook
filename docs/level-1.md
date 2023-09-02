@@ -110,6 +110,6 @@ You'll need 2-10 hours per week to find a [Solution](solutions) and stay up to s
 * Email labels, star options, search
 
 
-:::info Reminder
+:::contribute
 You can contribute
 :::
