@@ -4,6 +4,8 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
+<a href="https://www.example.com" class="doc-button">Button</a>
+
 :::caution
 Heavy work in progress
 :::

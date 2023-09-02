@@ -1,26 +1,29 @@
 ---
 title: How to use the Handbook
 ---
+import ImageCard from '../src/components/ImageCard/ImageCard';
 
-The handbook is designed to be accessible yet comprehensive.
+## The Dream Job System
 
-We encourage you to jump around, or you can read it in linear order.
+Our model is loosely based off of Austin Belcak's [Dream Job System](https://cultivatedculture.com/djs-podcast/).
 
-If you're getting value here, please consider [contributing](contribute) to make it better and sustainable.
+:::note The Dream Climate Job System
+1. **Find your [Climate Solution](solutions)**
+2. **Pick 10 companies** - doing the best work on that solution
+3. **Build your portfolio and network** - to prove that you are the best hire, regardless of formal experience
+:::
+
+<!-- ### Desktop
+
+- Use the left sidebar - to navigate pages
+- Use the right sidebar - to navigate sections within a page
+
+### Mobile
+
+- Use the top left hamburger menu to navigate pages
+- Use jump links within  -->
 
 
-<<<<<<< Updated upstream
-## Tips for navigation
-
-On a desktop, navigation is easy.
-
-There is a sidebar on the left, and a floating table of contents on the right.
-
-**If you are on mobile**
-
-1) Use sidebar icon frequently
-2) Jump to the top with the arrow and use the table of contents
-=======
 ## Learning Levels
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
@@ -78,4 +81,3 @@ Contributing to an open source project is the best way to prove yourself and gai
     />
 
 </div>
->>>>>>> Stashed changes
