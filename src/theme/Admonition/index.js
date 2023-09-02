@@ -1,9 +1,15 @@
 import React from 'react';
 import clsx from 'clsx';
-import { ThemeClassNames } from '@docusaurus/theme-common';
-import { AiOutlineQuestionCircle } from 'react-icons/ai'
 import Translate from '@docusaurus/Translate';
 import styles from './styles.module.css';
+import { ThemeClassNames } from '@docusaurus/theme-common';
+import { AiOutlineQuestionCircle } from 'react-icons/ai'
+import { MdPodcasts } from 'react-icons/md'
+import { BiNews } from 'react-icons/bi'
+import { IoMdBusiness } from 'react-icons/io'
+import { BiDonateHeart } from 'react-icons/bi'
+import { BsBook } from 'react-icons/bs'
+
 function NoteIcon() {
   return (
     <svg viewBox="0 0 14 16">
@@ -14,6 +20,7 @@ function NoteIcon() {
     </svg>
   );
 }
+
 function TipIcon() {
   return (
     <svg viewBox="0 0 12 16">
@@ -24,6 +31,7 @@ function TipIcon() {
     </svg>
   );
 }
+
 function DangerIcon() {
   return (
     <svg viewBox="0 0 12 16">
@@ -34,6 +42,7 @@ function DangerIcon() {
     </svg>
   );
 }
+
 function InfoIcon() {
   return (
     <svg viewBox="0 0 14 16">
@@ -44,6 +53,7 @@ function InfoIcon() {
     </svg>
   );
 }
+
 function CautionIcon() {
   return (
     <svg viewBox="0 0 16 16">
@@ -54,6 +64,7 @@ function CautionIcon() {
     </svg>
   );
 }
+
 function QuestionIcon() {
   return (
     <AiOutlineQuestionCircle
@@ -62,6 +73,52 @@ function QuestionIcon() {
     />
   )
 }
+
+function PodcastIcon() {
+  return (
+    <MdPodcasts
+      title="Podcast Icon"
+      style=""
+    />
+  )
+}
+
+function NewsletterIcon() {
+  return (
+    <BiNews
+      title="Newsletter Icon"
+      style=""
+    />
+  )
+}
+
+function CompanyIcon() {
+  return (
+    <IoMdBusiness
+      title="Company Icon"
+      style=""
+    />
+  )
+}
+
+function ContributeIcon() {
+  return (
+    <BiDonateHeart
+      title="Contribute Icon"
+      style=""
+    />
+  )
+}
+
+function BookIcon() {
+  return (
+    <BsBook
+      title="Book Icon"
+      style=""
+    />
+  )
+}
+
 // eslint-disable-next-line @typescript-eslint/consistent-indexed-object-style
 const AdmonitionConfigs = {
   note: {
@@ -130,6 +187,62 @@ const AdmonitionConfigs = {
         question
       </Translate>
     )
+  },
+  podcast: {
+    infimaClassName: 'podcast',
+    iconComponent: PodcastIcon,
+    label: (
+      <Translate
+        description='The default label used for the Podcast admonition (:::podcast)'
+      >
+        podcast
+      </Translate>
+    )
+  },
+  newsletter: {
+    infimaClassName: 'newsletter',
+    iconComponent: NewsletterIcon,
+    label: (
+      <Translate
+        description='The default label used for the Newsletter admonition (:::newsletter)'
+      >
+        newsletter
+      </Translate>
+    )
+  },
+  company: {
+    infimaClassName: 'company',
+    iconComponent: CompanyIcon,
+    label: (
+      <Translate
+        description='The default label used for the Company admonition (:::company)'
+      >
+        company
+      </Translate>
+    )
+  },
+  contribute: {
+    infimaClassName: 'contribute',
+    iconComponent: ContributeIcon,
+    label: (
+      <Translate
+        description='The default label used for the Contribute admonition (:::contribute)'
+      >
+        contribute
+      </Translate>
+    )
+  },
+  book: {
+    infimaClassName: 'book',
+    iconComponent: BookIcon,
+    label: (
+      <Translate
+        // id="theme.admonition.book"
+        description='The default label used for the Book admonition (:::book)'
+      >
+        book
+      </Translate>
+    )
   }
 };
 // Legacy aliases, undocumented but kept for retro-compatibility
@@ -182,6 +295,11 @@ export default function Admonition(props) {
 
   const isQuestionAdmonition = type === 'question';
   const isNoteAdmonition = type === 'note';
+  const isPodcastAdmonition = type === 'podcast';
+  const isNewsletterAdmonition = type === 'newsletter';
+  const isCompanyAdmonition = type === 'company';
+  const isContributeAdmonition = type === 'contribute';
+  const isBookAdmonition = type === 'book';
 
   const admonitionClassName = clsx(
     ThemeClassNames.common.admonition,
@@ -192,6 +310,11 @@ export default function Admonition(props) {
     {
       [styles.question]: isQuestionAdmonition,
       [styles.note]: isNoteAdmonition,
+      [styles.podcast]: isPodcastAdmonition,
+      [styles.newsletter]: isNewsletterAdmonition,
+      [styles.company]: isCompanyAdmonition,
+      [styles.contribute]: isContributeAdmonition,
+      [styles.book]: isBookAdmonition,
     }
   );
   return (
