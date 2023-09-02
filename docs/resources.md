@@ -8,10 +8,15 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 Heavy work in progress - more coming soon!
 :::
 
+:::note This page will help you
 
-<!-- ## Start here
+### One
 
-### Pick your climate solution
+### Two
+:::
+
+<!-- <div style={{ display: 'flex', flexWrap: 'wrap'}}>
+
 
   <ImageCard 
         title="Electricity"
@@ -20,23 +25,32 @@ Heavy work in progress - more coming soon!
         linkUrl="/sector-electricity"
     />
 
+  <ImageCard 
+        title="Electricity"
+        description="In order to electrify everything with zero emissions, we need to upgrade our entire infrastructure"
+        imageUrl="img/electricity.png"
+        linkUrl="/sector-electricity"
+    />
 
-Our growing database of:
+</div> -->
 
-- Organizations
-- Communities
-- Individuals
-- Case studies
-- [Technologies](../technologies)
-- Skills
-- Job categories
-- Full [glossary](../glossary) of terms -->
+## Have you picked your Climate Solution?
 
-# Nicole Kelner's Google Sheet
+![Farm land](../static/img/food-agriculture-and-land-use.jpg)
+
+<a href="https://www.example.com" class="doc-button">Contribute</a>
+
+## Nicole Kelner's Google Sheet
 
 [Click here to view the Google Sheet](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0).
 
+Nicole crowdsourced a sheet of over 500 resources to help with your daily information diet.
+
 [![Nicole Kelner's Google Sheet](../static/img/nicoles-spreadsheet.png)](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0)
+
+## Event Guide
+
+--woo!
 
 <!-- <iframe
   loading="lazy"
@@ -52,16 +66,5 @@ Our growing database of:
   name="iFrame Name"
   scrolling="No"
   height="500px"
-  width="100%"
-></iframe> -->
-
-<!-- ---
-
-<iframe
-  loading="lazy"
-  src="https://baserow.io/form/uDIg8ORsHgdwV0AzwivTbulh194iJOpkB_Nslz_3VhY"
-  name="iFrame Name"
-  scrolling="Yes"
-  height="1000px"
   width="100%"
 ></iframe> -->
