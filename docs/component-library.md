@@ -11,6 +11,30 @@ Heavy work in progress
 :::info [Help us](contribute) track this Solution
 :::
 
+:::question
+test
+:::
+
+:::podcast
+test
+:::
+
+:::newsletter
+test
+:::
+
+:::company
+test
+:::
+
+:::contribute
+test
+:::
+
+:::book
+test
+:::
+
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Recycled Plastics"
