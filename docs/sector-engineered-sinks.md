@@ -12,6 +12,14 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ![Biochar use cases for climate change mitigation](/../static/img/biochar-production.jpg)
 
+:::company Job openings
+#### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Carbon+Removal+Tech&p=0&remote=false)
+
+Then come back to learn more about this [Solution](#solutions-in-this-sector)
+
+<!--This is the best strategy to accelerate your expertise as a top candidate-->
+:::
+
 There are plenty of startups working to engineer non-nature solutions to capture carbon.
 
 However, Project Drawdown has only assessed biochar, which is ready today and its feasible to scale. 

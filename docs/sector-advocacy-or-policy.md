@@ -8,6 +8,12 @@ hide_table_of_contents: false
 
 ![](/../static/img/advocacy-and-policy.jpg)
 
+:::company Job openings
+#### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Advocacy+or+Policy&p=0&remote=false)
+
+<!--This is the best strategy to accelerate your expertise as a top candidate-->
+:::
+
 Technology alone will not be able to solve the climate crisis.
 
 We also need policies to support research, deployment, and public education for critical solutions.

@@ -12,6 +12,14 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ![](/../static/img/buildings.jpg)
 
+:::company Job openings
+#### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Buildings&p=0&remote=false)
+
+Then come back to learn more about each [Solution](#solutions-in-this-sector)
+
+<!--This is the best strategy to accelerate your expertise as a top candidate-->
+:::
+
 Buildings account for nearly 40% of global energy consumption and around one-third of global greenhouse gas emissions, mainly due to the use of fossil fuels for heating, cooling, and electricity. 
 
 ## Solutions in the Building Sector

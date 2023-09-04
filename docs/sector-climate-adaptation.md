@@ -9,6 +9,14 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ![](/../static/img/adaptation.jpg)
 
+:::company Job openings
+#### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Climate+Adaptation&p=0&remote=false)
+
+<!-- Then come back to learn more about each [Solution](#solutions-in-this-sector) -->
+
+<!--This is the best strategy to accelerate your expertise as a top candidate-->
+:::
+
 Climate adaptation is the process of adjusting and responding to the impacts of climate change.
 
 It involves taking proactive measures to reduce vulnerability, build resilience, and adapt to changing climate conditions in order to minimize the negative effects on human and natural systems.
