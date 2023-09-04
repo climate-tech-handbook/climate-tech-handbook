@@ -14,7 +14,6 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ![](/../static/img/electricity.png)
 
 :::company Job openings
-<<<<<<< HEAD
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Energy&p=0&remote=false)
 
 Then come back to learn more about a specific [Solution](#solutions-in-this-sector) in the Energy Sector
