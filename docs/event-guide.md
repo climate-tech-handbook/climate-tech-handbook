@@ -2,8 +2,7 @@
 title: Climate Event Guide 
 displayed_sidebar: docSidebar
 ---
-:::caution
-Heavy work in progress
+:::caution Heavy work in progress
 [Help us](contribute) improve this page
 :::
 

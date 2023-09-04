@@ -62,30 +62,46 @@ Congratulations! You took the first step.
 
 ## What is Climate Tech?
 
-#### A broad definition:
+There is both a **broad definition**, 
 
+as well as a Silicon Valley style **industry definition**.
+
+:::book a broad definition
 Any form of technology that will help us implement our climate goals, particularly the 1.5C goal which requires:
 
 - 50% emission reduction by 2030
 - Net zero emissions by 2050.
+:::
 
-#### The industry definition:
+#### A Silicon Valley style industry definition:
 
-In the Silicon Valley style tech world, there is a movement toward investing in startups that are focused on a particular climate solution.
+:::book rough industry definition:
 
+A recent financial movement to invest in startups that are focused on a particular solution to the climate emergency.
+:::book
 #### Climate tech vs Clean tech:
 
-First - **fixing climate is a subset** within a broader circle of clean technologies. For example, water pollution, plastic pollution, or e-waste do not cause greenhouse emissions. However, they are still a critical problem affecting environmental health, justice, and the biodiversity crisis.
+First - **fixing climate is a subset** within a broader circle of clean technologies.
 
-Second - **clean tech has an association** with a green startup period during the Obama administraton. Experiments from that time didn't quite turn out as expected. <!--link--> Climate tech is a version 2.0 [renaissance] for the 2020s.
+For example, water pollution, plastic pollution, or e-waste do not cause greenhouse emissions. However, they are still a critical problem affecting environmental health, justice, and the biodiversity crisis.
+
+Second - **clean tech has an association** with a green startup period during the Obama administraton. 
+
+Experiments from that time didn't quite turn out as expected.
+
+Climate tech can be seen version 2.0 [renaissance] for the 2020s.
 
 ## What is a climate job like?
 
 :::question Frequently Asked Questions
 - How well does it pay?
+
 - How do I learn the necessary skills?
+
 - How secure are these jobs?
+
 - How do I avoid greenwashing?
+
 :::
 
 
@@ -93,24 +109,34 @@ Second - **clean tech has an association** with a green startup period during th
 
 #### Early stage startups:
 
-- Climate tech companies focusing on a specific climate [solution](solutions) tend to be early stage startups.
-- Early stage startups are more likely to pay lower salaries in exchange for generous equity packages.
-- That said, climate startups want to attract quality talent and understand that competitive pay is important.
+You will be dealing with a lot of early stage startups.
 
+Roughly 3,000+ companies / organizations exist in our current database.
+
+:::note Most often
+- **Early stage startups tend to pay lower salaries** in exchange for generous equity packages.
+
+- **That said, climate startups want to attract quality talent** and hopefully understand that competitive pay is important.
+:::
 
 #### Established companies:
 
+:::note another option
 - You can try to change the direction of a bigger company
-- Project Drawdown has a [guide on this topic](park)
+- Project Drawdown has a [guide on this topic](park) / [Workforclimate.org](https://www.workforclimate.org/)
 - Companies like Microsoft, Google, Stripe, etc. have a specific corporate sustainbility positions. There are also many consultancies.
 - Think outside the box. For example, you are in procurement, you have a huge opportunity to order supplies that come from clean sources. Start a green team that doesn't exist in your current job
+:::
 
+#### Don't forget Government Jobs:
 
-#### Government Jobs
+:::note Government Jobs
+There are plenty of government jobs <!--governmentjobs.com example urls-->
 
-- There are plenty of government jobs <!--governmentjobs.com example urls-->
 - The salaries are lower, but some states and counties <!--munis??--> offer good health care and pensions
 - There can be a higher level of job security, predictability, and transparency compared to a fast moving startup environment.
+- Policy and academic roles are valuable as well (for example, analyzing the impact of voluntary carbon markets)
+:::
 
 ---
 

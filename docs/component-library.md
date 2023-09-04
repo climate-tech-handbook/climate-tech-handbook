@@ -37,19 +37,14 @@ test
 test
 :::
 
+<details>
+  <summary>Toggle me!</summary>
+  <div>
+    <div>This is the detailed content</div>
+  </div>
+</details>
+
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
-    <ImageCard
-    title="Recycled Plastics"
-    description="Transforming discarded plastics into useful products, reducing plastic waste and its impact on the environment."
-    imageUrl="img/recycled-plastics.png"
-    linkUrl="../solution-recycled-plastics"
-    />
-    <ImageCard
-    title="Recycled Plastics"
-    description="Transforming discarded plastics into useful products, reducing plastic waste and its impact on the environment."
-    imageUrl="img/recycled-plastics.png"
-    linkUrl="../solution-recycled-plastics"
-    />
     <ImageCard
     title="Recycled Plastics"
     description="Transforming discarded plastics into useful products, reducing plastic waste and its impact on the environment."
