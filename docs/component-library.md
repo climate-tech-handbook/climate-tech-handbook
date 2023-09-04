@@ -38,9 +38,12 @@ test
 :::
 
 <details>
-  <summary>Toggle me!</summary>
+  <summary><h3>Detail box</h3></summary>
   <div>
-    <div>This is the detailed content</div>
+    <div>
+      <h2>Header</h2>
+      <p>Paragraph</p>
+    </div>
   </div>
 </details>
 
