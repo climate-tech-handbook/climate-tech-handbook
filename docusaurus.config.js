@@ -29,16 +29,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             // editUrl:
             //   "https://www.climatetechhandbook.com/admin/#/edit/",
             routeBasePath: "/",
-<<<<<<< HEAD
             showLastUpdateAuthor: false,
-=======
             showLastUpdateAuthor: true,
-<<<<<<< HEAD
->>>>>>> 7006268 (test last updated by author)
-            showLastUpdateTime: true,
-=======
-            showLastUpdateTime: false,
->>>>>>> 3606c5f (turn off last updated by author)
             admonitions: {
               tag: ':::',
               keywords: ['note', 'tip', 'info', 'caution', 'danger', 'question', 'podcast', 'newsletter', 'company', 'contribute', 'book'],
