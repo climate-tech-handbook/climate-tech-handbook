@@ -13,6 +13,33 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://nan">Khethworks</a></li>
+            
+                <li><a href="https://infarm.com">Infarm</a></li>
+            
+                <li><a href="https://alescalife.com">Alesca Life</a></li>
+            
+                <li><a href="https://AeroFarms.com">Aerofarms</a></li>
+            
+                <li><a href="https://squarerootsgrow.com">Square Roots</a></li>
+            
+                <li><a href="https://80acresfarms.com">80 Acres Famrs</a></li>
+            
+                <li><a href="http://plenty.ag">Plenty</a></li>
+            
+                <li><a href="https://farm.one">Farm One</a></li>
+            
+                <li><a href="https://nan">Sunculture</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 * **Sustainable Intensification & Climate Change**: Since the early 2000s, the focus has been on sustainable intensification for smallholder farmers to curb greenhouse gas emissions.

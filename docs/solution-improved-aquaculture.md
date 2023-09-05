@@ -12,6 +12,43 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://bit.ly/2xJas4f">One Earth Designs</a></li>
+            
+                <li><a href="https://quentic.com">Quentic</a></li>
+            
+                <li><a href="https://dishcraft.com/">Dishcraft Robotics</a></li>
+            
+                <li><a href="https://growup.org.uk">Growup Urgan Farms</a></li>
+            
+                <li><a href="https://catalinasearanch.com">Catalina Sea Ranch</a></li>
+            
+                <li><a href="https://katif.com/">Katif</a></li>
+            
+                <li><a href="https://efishery.com">Efishery</a></li>
+            
+                <li><a href="https://docktodish.com">Dock To Dish</a></li>
+            
+                <li><a href="https://thejackfruitcompany.com">The Jackfruit Co</a></li>
+            
+                <li><a href="https://www.xpertsea.com">Xpertsea</a></li>
+            
+                <li><a href="https://www.novonutrients.com/">Novonutrients</a></li>
+            
+                <li><a href="https://EthoCapital.com">Etho Capital</a></li>
+            
+                <li><a href="https://finlessfoods.com">Finless Foods</a></li>
+            
+                <li><a href="https://lovethewild.com">Love The Wild</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 * **Aquaculture**, the cultivation of fish, shellfish, and other aquatic life, has seen a surge in growth, providing a vital food source globally.

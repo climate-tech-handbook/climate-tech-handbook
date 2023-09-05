@@ -13,6 +13,21 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://waterotor.com">Waterotor Energy Technologies</a></li>
+            
+                <li><a href="https://www.fathom.global/">Fathom</a></li>
+            
+                <li><a href="https://emrgy.com">Emrgy</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Water Distribution Efficiency involves using innovative methods to achieve the same goals with less water consumption. This technology encompasses strategies like drought-resistant plants, xeriscaping, rainwater harvesting, greywater recycling, and low-flow plumbing fixtures. Such approaches curtail the reliance on municipal water sources, subsequently reducing energy demands for pumping and treatment, thus contributing to climate change mitigation. Key players in this field include the **Alliance for Water Efficiency**, the **Environmental Protection Agency (EPA)**, the **Natural Resources Defense Council (NRDC)**, and the **WateReuse Association**.

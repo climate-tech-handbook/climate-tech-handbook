@@ -12,6 +12,19 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://sonnen.de">Sonnen</a></li>
+            
+                <li><a href="https://ubiquitous.energy">Ubiquitous Energy</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Dynamic Glass refers to advanced coatings applied to glass, enabling dynamic adjustments to sunlight and temperature for enhanced energy efficiency. These coatings offer potential benefits in reducing energy consumption for heating and cooling, as well as improving solar panel efficiency.

@@ -14,6 +14,17 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.everflux.tech">Everflux Technologies</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - **Composting** gains attention for curbing greenhouse gases by enhancing soil health and sequestering carbon dioxide.

@@ -13,6 +13,19 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://pipistrel.si">Pipistrel</a></li>
+            
+                <li><a href="https://keldatechnology.com">Kelda</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Hot water is responsible for a quarter of residential energy use worldwide.

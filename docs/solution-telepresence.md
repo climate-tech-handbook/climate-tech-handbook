@@ -13,6 +13,33 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://x.company">X, The Moonshot Factory</a></li>
+            
+                <li><a href="https://www.g2vp.com/">G2vp</a></li>
+            
+                <li><a href="https://interface.com">Interface</a></li>
+            
+                <li><a href="https://www.usv.com/">Usv</a></li>
+            
+                <li><a href="https://nan">Climate Jobs List</a></li>
+            
+                <li><a href="https://drone-hopper.com">Dronehopper</a></li>
+            
+                <li><a href="https://www.byton.com/">Byton</a></li>
+            
+                <li><a href="https://bit.ly/abvme">A Billion Veg</a></li>
+            
+                <li><a href="https://ehang.com/index.html">Ehang</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 **Climate Technology Solution**: Telepresence
 

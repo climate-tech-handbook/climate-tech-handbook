@@ -24,6 +24,27 @@ This a sample ChatGPT page to get the ball rolling.
 ></iframe>
 
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://li.me">Lime</a></li>
+            
+                <li><a href="https://novacem.com">Novacem</a></li>
+            
+                <li><a href="https://carbonupcycling.com">Carbon Upcycling</a></li>
+            
+                <li><a href="https://www.opus-12.com">Opus 12</a></li>
+            
+                <li><a href="https://carboncure.com">Carboncure</a></li>
+            
+                <li><a href="https://watershedmaterials.com/">Watershed</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 The progress that has been made in developing Alternative Cement to reverse climate change is significant. New technologies have been developed that have contributed to the reduction of greenhouse gas emissions. These technologies include:

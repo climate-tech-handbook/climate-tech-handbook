@@ -12,6 +12,19 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://switchautomation.com">Switch Automation</a></li>
+            
+                <li><a href="https://softwaremotor.com">Software Motor Company</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Significant progress has been achieved in developing Building Automation Systems to combat climate change. Breakthrough technologies targeting building efficiency have emerged:

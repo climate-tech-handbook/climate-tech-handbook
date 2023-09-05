@@ -17,6 +17,31 @@ This a sample ChatGPT page to get the ball rolling.
 Learn more from [The Business Network for Offshore Wind](https://www.offshorewindus.org/), a 501(c)(3) nonprofit advocate.
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://eco-drone.org">Ecodrone</a></li>
+            
+                <li><a href="https://nefino.de/">Nefino</a></li>
+            
+                <li><a href="https://ecomarinepower.com">Eco Marine Power</a></li>
+            
+                <li><a href="https://xshore.com">X Shore</a></li>
+            
+                <li><a href="https://minesto.com">Minesto</a></li>
+            
+                <li><a href="https://ampyxpower.com">Ampyx Power</a></li>
+            
+                <li><a href="https://www.saildrone.com/">Saildrone</a></li>
+            
+                <li><a href="https://equinor.com">Equinor</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Innovations like floating turbines and subsea cabling have emerged. Companies such as Vestas, GE, and Siemens have spearheaded these advancements.

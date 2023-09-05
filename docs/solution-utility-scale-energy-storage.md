@@ -12,6 +12,69 @@ This a sample ChatGPT page to get the ball rolling.
 [Contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.essinc.com/">Energy Storage Systems</a></li>
+            
+                <li><a href="https://gravitricity.com">Gravitricity</a></li>
+            
+                <li><a href="https://voltapowersystems.com">Volta Power Systems</a></li>
+            
+                <li><a href="https://highviewpower.com">Highview Power</a></li>
+            
+                <li><a href="https://nan">Relectrify</a></li>
+            
+                <li><a href="https://moixa.com/smart-battery/">Moixa</a></li>
+            
+                <li><a href="https://cadenzainnovation.com">Cadenza Innovation</a></li>
+            
+                <li><a href="https://solidpowerbattery.com">Solid Power</a></li>
+            
+                <li><a href="https://www.span.io">Span.io</a></li>
+            
+                <li><a href="https://skeletontech.com">Skeleton Technologies</a></li>
+            
+                <li><a href="https://simpliphipower.com">Simpliphi Power</a></li>
+            
+                <li><a href="https://silanano.com/">Sila Nanotechnologies</a></li>
+            
+                <li><a href="https://zolaelectric.com">Zola Electric</a></li>
+            
+                <li><a href="https://zincfive.com/twitter">Zincfive</a></li>
+            
+                <li><a href="https://formenergy.com">Form Energy</a></li>
+            
+                <li><a href="https://geli.net">Geli Energy</a></li>
+            
+                <li><a href="https://hydrostor.ca">Hydrostor</a></li>
+            
+                <li><a href="https://brillpower.com">Brill Power</a></li>
+            
+                <li><a href="https://saltxtechnology.com">Saltx</a></li>
+            
+                <li><a href="https://leveltenenergy.com">Levelten</a></li>
+            
+                <li><a href="https://lightsailenergy.com">Lightsail Energy</a></li>
+            
+                <li><a href="https://www.mobilityhouse.com/">The Mobility House</a></li>
+            
+                <li><a href="https://evercharge.net/">Evercharge</a></li>
+            
+                <li><a href="https://kraftblock.com">Kraftblock</a></li>
+            
+                <li><a href="https://northvolt.com">North Volt</a></li>
+            
+                <li><a href="https://limejump.com">Limejump</a></li>
+            
+                <li><a href="https://Ampd.energy">Ampd</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Advancements in Utility-Scale Energy Storage are driving climate change reversal through key technologies:

@@ -16,6 +16,21 @@ This a sample ChatGPT page to get the ball rolling.
 
 
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="http://fullcyclebioplastics.com/">Full Cycle Bioplastics</a></li>
+            
+                <li><a href="http://mangomaterials.com/">Mango Materials</a></li>
+            
+                <li><a href="http://www.visolisbio.com/">Visolis</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - **Bioplastics** are made from renewable sources (corn, sugar cane) and replace fossil fuel-based plastics.

@@ -12,6 +12,19 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.baseloadcap.com/">Baseload Capital</a></li>
+            
+                <li><a href="https://iberdrola.com">Iberdrola</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 District heating is a system distributing heat from a central source to multiple buildings.

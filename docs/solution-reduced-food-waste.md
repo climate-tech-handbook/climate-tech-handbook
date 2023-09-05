@@ -13,6 +13,59 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.bluehorizon.com/">Blue Horizon</a></li>
+            
+                <li><a href="https://smartersorting.com">Smarter Sorting</a></li>
+            
+                <li><a href="https://ju.st">Just</a></li>
+            
+                <li><a href="https://afreshtechnologies.com">Afresh</a></li>
+            
+                <li><a href="https://zume.com">Zume</a></li>
+            
+                <li><a href="https://smartive.eu">Smartive</a></li>
+            
+                <li><a href="https://globechain.com">Globechain</a></li>
+            
+                <li><a href="https://madewithmotif.com">Motif</a></li>
+            
+                <li><a href="https://www.freightfarms.com">Freight Farms</a></li>
+            
+                <li><a href="https://mimicalab.com">Mimica</a></li>
+            
+                <li><a href="https://www.misfitsmarket.com">Misfits Market</a></li>
+            
+                <li><a href="https://pollenity.com">Pollenity</a></li>
+            
+                <li><a href="https://www.fordays.com/">For Days</a></li>
+            
+                <li><a href="https://karma.life">Karma</a></li>
+            
+                <li><a href="https://nan">Spoiler Alert</a></li>
+            
+                <li><a href="https://impossiblefoods.com/recipes/">Impossible Foods</a></li>
+            
+                <li><a href="https://thenuwardrobe.com">Nu Wardrobe</a></li>
+            
+                <li><a href="https://agrovisio.com">Agrovisio</a></li>
+            
+                <li><a href="https://www.imperfectfoods.com">Imperfect Foods</a></li>
+            
+                <li><a href="https://hisbe.co.uk">Hisbe</a></li>
+            
+                <li><a href="https://shopthrilling.com/">Thrilling</a></li>
+            
+                <li><a href="https://graphicpkgeurope.com">Graphic Packaging International</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 :::info Huge opportunity 

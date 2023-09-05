@@ -13,6 +13,19 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://nan">Bayou With Love</a></li>
+            
+                <li><a href="https://algamafoods.com">Algama</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - **Macroalgae Protection and Restoration**: Using fast-growing marine plants to store carbon and respond to climate change.

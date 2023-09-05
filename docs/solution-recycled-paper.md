@@ -15,6 +15,19 @@ This a sample ChatGPT page to get the ball rolling.
 
 
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://nan">Tree Zero Paper</a></li>
+            
+                <li><a href="https://storaenso.com">Stora Enso</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - **Recycled paper** usage surged due to increased awareness of greenhouse gas emissions.
@@ -57,4 +70,4 @@ This a sample ChatGPT page to get the ball rolling.
 ## Best Path Forward
 
 - **Invest in R&D** to enhance recycled paper technology and affordability.
-- **Educate** the public about recycled paper benefits and encourage corporate adoption.
+- **Educate** the public about recycled paper benefits and encourage corporate adoption.

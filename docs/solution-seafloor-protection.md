@@ -13,6 +13,25 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.soalliance.org/">Sustainable Ocean Alliance</a></li>
+            
+                <li><a href="https://bluefront.org">Blue Frontier</a></li>
+            
+                <li><a href="https://www.sofarocean.com/">Sofar</a></li>
+            
+                <li><a href="https://www.saltwater.com/">Saltwater</a></li>
+            
+                <li><a href="https://theoceancleanup.com">The Ocean Cleanup</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 * **Seafloor Protection & Climate Change**: Recent advancements have highlighted the potential of the seafloor in mitigating climate change.

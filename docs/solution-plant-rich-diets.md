@@ -20,6 +20,37 @@ pagination_prev: solutions
 <!--!!! info "We are tracking closely - join our mailing ist"-->
 
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://thevegetarianbutcher.com">The Vegetarian Butcher</a></li>
+            
+                <li><a href="https://emergyfoods.com/">Emergy Food</a></li>
+            
+                <li><a href="https://www.plantiblefoods.com/">Plantible</a></li>
+            
+                <li><a href="https://buywithimpact.com/">Buy With Impact</a></li>
+            
+                <li><a href="https://www.memphismeats.com">Memphis Meats</a></li>
+            
+                <li><a href="https://www.meatable.com/">Meatable</a></li>
+            
+                <li><a href="https://clarafoods.com">Clara Foods</a></li>
+            
+                <li><a href="https://knoweatall.co/">Knoweatall</a></li>
+            
+                <li><a href="https://apeelsciences.com">Apeel Sciences</a></li>
+            
+                <li><a href="https://bittyfoods.com">Bitty Foods</a></li>
+            
+                <li><a href="https://snact.co.uk">Snact</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. Additionally, industrial livestock reduction prevents destruction of biodiverse habitat that are ideal [land sinks](../sector-land-sinks).

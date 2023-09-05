@@ -12,6 +12,29 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://pod-point.com">Pod Point</a></li>
+            
+                <li><a href="https://boostedboards.com">Boosted</a></li>
+            
+                <li><a href="https://transition-one.fr">Transition One</a></li>
+            
+                <li><a href="https://zeroavia.com">Zeroavia</a></li>
+            
+                <li><a href="https://echiontech.com">Echion Tech</a></li>
+            
+                <li><a href="https://www.proterra.com">Proterra</a></li>
+            
+                <li><a href="https://riversimple.com">River Simple</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Electric cars are becoming increasingly popular as people look for ways to reduce their environmental impact. There are a number of different technologies that are being developed to make electric cars more efficient and reduce their emissions.

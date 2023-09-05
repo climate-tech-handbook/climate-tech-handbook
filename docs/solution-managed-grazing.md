@@ -13,6 +13,17 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://missionbarns.com">Mission Barns</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 In the past decade, managed grazing has made great strides in reversing climate change. Through the use of new technologies, managed grazing has been able to significantly reduce greenhouse gas emissions. One of the most important breakthrough technologies has been the development of grazing management software. This software has allowed ranchers to more accurately monitor and manage their grazing herds. As a result, ranchers have been able to reduce their herds’ impact on the environment and significantly reduce their carbon footprint.

@@ -6,9 +6,25 @@ pagination_prev: solutions
 
 ![Abandoned farm](../static/img/abandoned-farm.jpg)
 
-## Progress Made
+
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://nan">Control Desert</a></li>
+            
+                <li><a href="https://dendra.io">Dendra Systems</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
+## Overview
 
 Abandoned farmland restoration is the process of returning abandoned or degraded farmland to a productive state. This can be done through a variety of methods, including reforestation, afforestation, and soil rehabilitation.
+
+## Progress Made
 
 A number of breakthrough technologies have been developed in recent years that have made abandoned farmland restoration more effective and efficient. One example is the use of drones to map and assess degraded landscapes. This data can then be used to plan and implement restoration projects.
 

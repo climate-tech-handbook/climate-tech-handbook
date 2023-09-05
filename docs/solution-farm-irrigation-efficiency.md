@@ -12,6 +12,25 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.nuleaftech.com/">Nuleaf Tech</a></li>
+            
+                <li><a href="https://oasyswater.com">Oasys Water</a></li>
+            
+                <li><a href="https://ecosoftt.org">Ecosoftt</a></li>
+            
+                <li><a href="https://desalitech.com">Desalitech</a></li>
+            
+                <li><a href="https://phytoponics.com">Phytoponics</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 * Significant advancements in **farm irrigation efficiency**.

@@ -12,6 +12,17 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://iglcoatings.com">Igl Coatings</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Green and cool roofs are innovative strategies to combat climate change by mitigating the urban heat island effect and reducing energy consumption. Green roofs are adorned with vegetation, while cool roofs are coated with reflective materials, helping to curb heat absorption and enhancing energy efficiency.

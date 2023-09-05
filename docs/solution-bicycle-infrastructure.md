@@ -13,6 +13,57 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://wundermobility.com">Wunder Mobility</a></li>
+            
+                <li><a href="https://max.ng">Max</a></li>
+            
+                <li><a href="https://nio.com">Nio</a></li>
+            
+                <li><a href="https://wind.co">Wind Mobility</a></li>
+            
+                <li><a href="https://nan">Conservative Energy Network</a></li>
+            
+                <li><a href="https://www.congruentvc.com/">Congruent Vc</a></li>
+            
+                <li><a href="https://arcimoto.com">Arcimoto</a></li>
+            
+                <li><a href="https://bounceshare.com/">Bounce</a></li>
+            
+                <li><a href="https://blu-smart.com/">Blu Smart</a></li>
+            
+                <li><a href="https://go.onelink.me/Cmgv/9b97737">Rapido Bike Taxi</a></li>
+            
+                <li><a href="http://thisiszerohour.org/">Zero Hour</a></li>
+            
+                <li><a href="https://nan">Climate Dossier</a></li>
+            
+                <li><a href="https://www.climatetechcities.com/">Climate Tech Cities</a></li>
+            
+                <li><a href="https://joro.tech">Joro App</a></li>
+            
+                <li><a href="https://www.thedropconf.com/">The Drop</a></li>
+            
+                <li><a href="https://sidelineswap.com">Sideline Swap</a></li>
+            
+                <li><a href="https://kittyhawk.aero">Kitty Hawk</a></li>
+            
+                <li><a href="https://cityscoot.eu/paris/">Cityscoot</a></li>
+            
+                <li><a href="https://www.cyclotronroad.org/">Cyclotron Road</a></li>
+            
+                <li><a href="https://cleverciti.com">Cleverciti</a></li>
+            
+                <li><a href="https://segway.com">Segway</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - Bicycle Infrastructure: Supports bicycle travel with lanes, parking, and education.

@@ -12,6 +12,57 @@ This a sample ChatGPT page to get the ball rolling.
 :::
 
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://scalemicrogridsolutions.com">Scale Microgrids</a></li>
+            
+                <li><a href="https://electrify.asia">Electrify</a></li>
+            
+                <li><a href="https://next-kraftwerke.com">Next Kraftwerke</a></li>
+            
+                <li><a href="https://www.newenergynexus.com">New Energy Nexus</a></li>
+            
+                <li><a href="https://energyrenaissance.com.au">Energy Renaissance</a></li>
+            
+                <li><a href="https://www.ensemble.energy/">Ensemble Energy</a></li>
+            
+                <li><a href="https://camus.energy/">Camus</a></li>
+            
+                <li><a href="https://constructisllc.com">Constructis</a></li>
+            
+                <li><a href="https://carnegiece.com">Carnegie Clean Energy</a></li>
+            
+                <li><a href="https://sparkmeter.io">Sparkmeter</a></li>
+            
+                <li><a href="https://www.bioliteenergy.com/">Biolite</a></li>
+            
+                <li><a href="https://Watch LIVE">Uniti</a></li>
+            
+                <li><a href="https://bboxx.com">Bboxx</a></li>
+            
+                <li><a href="https://voltacharging.com">Volta Charging</a></li>
+            
+                <li><a href="https://www.weavegrid.com">Weavegrid</a></li>
+            
+                <li><a href="https://angaza.com">Angaza</a></li>
+            
+                <li><a href="https://gridcomm-plc.com">Gridcomm</a></li>
+            
+                <li><a href="https://acciona.com">Acciona Energy</a></li>
+            
+                <li><a href="https://otovo.no">Otovo</a></li>
+            
+                <li><a href="https://generalfusion.com">General Fusion</a></li>
+            
+                <li><a href="https://www.energypolicy.columbia.edu/">Columbia University - Center On Global Energy Policy</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview:
 
 Microgrids are localized energy systems that generate, distribute, and store electricity in a confined geographical area.

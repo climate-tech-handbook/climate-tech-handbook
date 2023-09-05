@@ -12,6 +12,21 @@ pagination_prev: solutions
 :::
 
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.xtelligent.io/">Xtligent</a></li>
+            
+                <li><a href="https://canoo.com">Canoo</a></li>
+            
+                <li><a href="https://www.ridecabin.com">Cabin</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 **Climate Technology Solution**: Carpooling
 

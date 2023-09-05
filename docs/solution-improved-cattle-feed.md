@@ -13,6 +13,19 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.mootral.com/">Mootral</a></li>
+            
+                <li><a href="https://www.perfectdayfoods.com/">Perfect Day</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 * Improved Cattle Feed plays a pivotal role in the endeavor to mitigate climate change.

@@ -14,6 +14,41 @@ This a sample ChatGPT page to get the ball rolling.
 
 _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-to-retrofit/)_
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://veerhousevoda.com">Veerhouse Voda</a></li>
+            
+                <li><a href="https://blokable.com">Blokable</a></li>
+            
+                <li><a href="https://dandelionenergy.com">Dandelion</a></li>
+            
+                <li><a href="https://75f.io">75f</a></li>
+            
+                <li><a href="https://hempitecture.com">Hempitecture</a></li>
+            
+                <li><a href="https://www.brainboxai.com/">Brainbox Ai</a></li>
+            
+                <li><a href="https://www.e8angels.com/">E8 Angels</a></li>
+            
+                <li><a href="https://carbicrete.com">Carbicrete</a></li>
+            
+                <li><a href="https://www.plantprefab.com/">Plant Prefab</a></li>
+            
+                <li><a href="https://katerra.com">Katerra</a></li>
+            
+                <li><a href="https://soletairpower.fi">Soletair Power</a></li>
+            
+                <li><a href="https://warminguptoclimatetech.substack.com">Warming Up To Climate Tech</a></li>
+            
+                <li><a href="https://renewpower.in">Renew Power</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Building retrofitting involves enhancing existing buildings to be more energy-efficient and reduce their carbon impact, achieved through methods such as insulation, energy-efficient windows, and upgraded heating/cooling systems. Technological advances, such as energy-efficient windows and aerogel insulation, have driven progress in this field.

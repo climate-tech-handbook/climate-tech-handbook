@@ -14,6 +14,29 @@ authors:
 Check out [Voltus](https://voluts.co) - a demand response software tool
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://Joyride.city">Joyridecity</a></li>
+            
+                <li><a href="https://sympower.net">Sympower</a></li>
+            
+                <li><a href="https://predictiveanalyticsworldclimate.com">Predictive Analytics World Climate</a></li>
+            
+                <li><a href="https://tempusenergy.com">Tempus Energy</a></li>
+            
+                <li><a href="https://firstlightfusion.com">First Light Fusion</a></li>
+            
+                <li><a href="https://abundanceinvestment.com">Abundance Investment</a></li>
+            
+                <li><a href="https://JupiterIntel.com">Jupiter Intelligence</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Grid flexibility refers to the capability of the electric grid to accommodate diverse energy sources and dynamically adapt to changing demand and supply conditions, enhancing efficiency and resilience.

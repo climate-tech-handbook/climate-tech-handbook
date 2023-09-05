@@ -15,6 +15,17 @@ This a sample ChatGPT page to get the ball rolling.
 
 
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://impossiblediamond.com/">Impossible Diamond</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 

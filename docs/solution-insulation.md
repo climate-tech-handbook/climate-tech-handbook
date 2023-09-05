@@ -15,6 +15,19 @@ This a sample ChatGPT page to get the ball rolling.
 
 Sure, here's a concise summary in bullet points:
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://phononic.com">Phononic</a></li>
+            
+                <li><a href="https://thermondo.de">Thermondo</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - **Aerogel Insulation:** Composed of up to 99.8% air, making it incredibly lightweight and efficient in preventing heat transfer.

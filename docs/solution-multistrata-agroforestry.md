@@ -16,6 +16,29 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.flypollination.com/">Olombria</a></li>
+            
+                <li><a href="https://www.tortugaagtech.com/">Tortuga Agtech</a></li>
+            
+                <li><a href="https://osbeehives.com">Osbeehives</a></li>
+            
+                <li><a href="https://agrivi.com">Agrivi</a></li>
+            
+                <li><a href="https://adoptapony.com">Pony</a></li>
+            
+                <li><a href="https://aguainc.com">Agua Inc</a></li>
+            
+                <li><a href="https://www.planet.com/">Planet</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Multistrata agroforestry is a type of agroforestry that involves growing trees and crops in layers. This type of agroforestry has been shown to reverse climate change by reducing greenhouse gas emissions.

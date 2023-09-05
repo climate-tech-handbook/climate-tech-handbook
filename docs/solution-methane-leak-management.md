@@ -13,6 +13,21 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.frostmethane.com">Frost Methane</a></li>
+            
+                <li><a href="https://bluefield.co">Bluefield</a></li>
+            
+                <li><a href="https://ladera.tech">Ladera</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Methane Leak Management is a process of detecting and repairing methane leaks from natural gas infrastructure. This process can help to reduce greenhouse gas emissions and combat climate change.

@@ -13,6 +13,35 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://ohmconnect.com">Ohmconnect</a></li>
+            
+                <li><a href="https://nan">Yale Center For Business And The Environment</a></li>
+            
+                <li><a href="https://treau.cool">Treau</a></li>
+            
+                <li><a href="https://getmysa.com/">Mysa Smart Thermostats</a></li>
+            
+                <li><a href="https://globalthermostat.com/about-global-thermostat/">Global Thermostat</a></li>
+            
+                <li><a href="https://tado.com">Tado</a></li>
+            
+                <li><a href="http://www.ecosync.energy">Ecosync</a></li>
+            
+                <li><a href="https://www.climacell.co/">Climacell</a></li>
+            
+                <li><a href="https://breezi.io">Breezi</a></li>
+            
+                <li><a href="https://climatepapa.com/">Climate Papa</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Promising breakthrough technologies for Smart Thermostats include:

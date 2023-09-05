@@ -13,6 +13,19 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.indigoag.com/">Indigo Ag</a></li>
+            
+                <li><a href="https://nan">Holganix</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Over the past decade, there has been significant progress made in developing perennial biomass production to reverse climate change. Breakthrough technologies such as cellulosic ethanol and algae-based biofuels have been developed and have contributed to the reduction of greenhouse gas emissions. Companies such as LanzaTech and Solazyme have been at the forefront of this solution, developing innovative technologies that are making a significant impact in the fight against climate change.

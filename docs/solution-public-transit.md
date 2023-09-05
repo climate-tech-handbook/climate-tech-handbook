@@ -13,6 +13,33 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://urbansharing.com">Urban Sharing</a></li>
+            
+                <li><a href="https://magicbus.io">Magic Bus</a></li>
+            
+                <li><a href="https://bird.co">Bird</a></li>
+            
+                <li><a href="https://www.flixbus.com/">Flixbus</a></li>
+            
+                <li><a href="https://www.trafi.com/">Trafi</a></li>
+            
+                <li><a href="https://company.moovit.com">Moovit</a></li>
+            
+                <li><a href="https://novabus.com/index.html">Nova Bus</a></li>
+            
+                <li><a href="https://nan">Skip Scooters</a></li>
+            
+                <li><a href="https://optimoroute.com/">Optimo Route</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 In recent years, there has been a concerted effort to develop public transit systems that are more sustainable and have a smaller carbon footprint. This has led to the development of a number of new technologies, including electric buses, solar-powered trains, and wind-powered ferries. These breakthrough technologies have contributed to a significant reduction in greenhouse gas emissions from public transit systems around the world. A number of companies and organizations have been at the forefront of this effort, including the Chinese company BYD, which is the world’s largest manufacturer of electric vehicles, and the Swedish company Bombardier, which is a leading manufacturer of trains and rail equipment.

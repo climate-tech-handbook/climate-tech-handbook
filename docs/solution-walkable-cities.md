@@ -13,6 +13,33 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://maymobility.com">May Mobility</a></li>
+            
+                <li><a href="https://human-horizons.com/en">Human Horizons</a></li>
+            
+                <li><a href="https://volocopter.com">Volocopter</a></li>
+            
+                <li><a href="https://voiscooters.com">Voi</a></li>
+            
+                <li><a href="https://sidewalklabs.com/">Sidewalk Labs</a></li>
+            
+                <li><a href="https://www.sidewalkinfra.com/">Sidewalk Infrastructure Partners</a></li>
+            
+                <li><a href="https://transpod.com">Transpod</a></li>
+            
+                <li><a href="https://culdesac.com/">Culdesac</a></li>
+            
+                <li><a href="https://replicahq.com/">Replica</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 **Climate Technology Solution**: Walkable Cities
 

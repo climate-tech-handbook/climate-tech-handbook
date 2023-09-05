@@ -12,6 +12,23 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.carbonstreaming.com/">Carbon Streaming</a></li>
+            
+                <li><a href="https://www.thecapture.club/">Club Capture</a></li>
+            
+                <li><a href="https://www.naturalcapitalpartners.com/">Natural Capital Partners</a></li>
+            
+                <li><a href="https://lowercarboncapital.com/">Lower Carbon Capital</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 * Significant advancements in **forest protection** to combat climate change.
