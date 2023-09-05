@@ -94,13 +94,13 @@ Climate tech can be seen version 2.0 [renaissance] for the 2020s.
 ## What is a climate job like?
 
 :::question Frequently Asked Questions
-- How well does it pay?
+- [How well does it pay?](#how-well-does-it-pay)
 
-- How do I learn the necessary skills?
+- [How do I learn the necessary skills?](#how-do-i-learn-the-necessary-skills)
 
-- How secure are these jobs?
+- [How secure are these jobs?](#how-secure-are-these-jobs)
 
-- How do I avoid greenwashing?
+- [How do I avoid greenwashing?](#how-do-i-avoid-greenwashing)
 
 :::
 
@@ -122,10 +122,16 @@ Roughly 3,000+ companies / organizations exist in our current database.
 #### Established companies:
 
 :::note another option
-- You can try to change the direction of a bigger company
-- Project Drawdown has a [guide on this topic](park) / [Workforclimate.org](https://www.workforclimate.org/)
-- Companies like Microsoft, Google, Stripe, etc. have a specific corporate sustainbility positions. There are also many consultancies.
-- Think outside the box. For example, you are in procurement, you have a huge opportunity to order supplies that come from clean sources. Start a green team that doesn't exist in your current job
+Change the direction of a bigger company
+
+- --Project Drawdown has a [guide on this topic](park) / [Workforclimate.org](
+https://www.workforclimate.org/)
+
+- Companies like Microsoft, Google, Stripe, etc. have a specific corporate 
+sustainbility positions. There are also many consultancies.
+
+- Think outside the box. For example, you are in procurement, you have a 
+huge opportunity to order supplies that come from clean sources. Start a green team that doesn't exist in your current job
 :::
 
 #### Don't forget Government Jobs:
@@ -134,7 +140,9 @@ Roughly 3,000+ companies / organizations exist in our current database.
 There are plenty of government jobs <!--governmentjobs.com example urls-->
 
 - The salaries are lower, but some states and counties <!--munis??--> offer good health care and pensions
+
 - There can be a higher level of job security, predictability, and transparency compared to a fast moving startup environment.
+
 - Policy and academic roles are valuable as well (for example, analyzing the impact of voluntary carbon markets)
 :::
 
@@ -147,13 +155,16 @@ There are two aspects:
 1. **Marketable skills**
 2. **Domain knowledge**
 
-:::note Marketable skills
+Marketable Skills:
+
+:::note 3+ years of tech experience
 #### If you already have marketable skills and tech experience
 
-There are plenty of jobs that have the same roles as a non-climate tech company
+There are [plenty of jobs](https://climatetechlist.com) that have the same roles as a non-climate tech company
 
 :::
 
+What if you don't have tech experience?
 
 :::info Experience gap
 #### If you are new to tech without 3+ years of experience
@@ -161,23 +172,33 @@ There are plenty of jobs that have the same roles as a non-climate tech company
 [You can contribute](contribute) to the Handbook as an open source project to gain experience quickly
 :::
 
+Next is domain knowledge.
 
 :::tip Domain knowledge
+#### You're in the right place!
 
+- We built the Handbook to gather the best information on [all 93 Climate Solutions](solutions) from Project Drawdown
+
+- Writing is learning. [Contribute to the Handbook](contribute) and become an expert
 :::
 ---
 
 ###  How secure are these jobs?
 
-- --x
-- --x
+- **It varies by job category** - [Startup](early-stage-startups) vs [Established company](#established-companies) vs [Government](#dont-forget-government-jobs)
+
+- **It varies by climate solution** - some solutions are better established and others are very early.
+	- --x Voluntary Carbon Markets have been heavily criticized in the media and have experienced layoff cycles
+	
+	- --x
 
 ---
 
 ###  How do I avoid greenwashing?
 
-- --x
-- --x
+- This is a big topic and we are working on a guide
+
+- [Tell us your findings on Slack](contribute) and we'll report on it
 
 ---
 
