@@ -116,13 +116,10 @@ module.exports = {
       label: '🌍 Resources',
       id: 'resources',
     },
-<<<<<<< HEAD
     {
       type: 'doc',
       label: '🔥 Contribute',
       id: 'contribute',
     },
-=======
->>>>>>> 84f0a61 (merge sidebar and newer images back in)
   ],
 };
