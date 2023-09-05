@@ -12,6 +12,17 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://lingrove.com">Lingrove</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Bamboo production has been shown to be a promising way to reverse climate change. In recent years, breakthrough technologies have been developed that allow for the efficient production of bamboo. These technologies have contributed to the reduction of greenhouse gas emissions by allowing for the capture and storage of carbon dioxide. Additionally, bamboo production has been shown to improve soil health and water quality. Companies and organizations such as the World Wildlife Fund and the Bamboo Finance Initiative have been at the forefront of this solution.

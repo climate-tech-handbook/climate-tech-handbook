@@ -13,6 +13,17 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.airprotein.com/">Air Protein</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 * **Biogas**: Produced from the breakdown of organic matter like food waste, manure, and sewage through anaerobic digestion.

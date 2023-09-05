@@ -13,6 +13,27 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://pivotbio.com">Pivot Bio</a></li>
+            
+                <li><a href="https://protix.eu">Protix</a></li>
+            
+                <li><a href="https://OLIOex.com">Olio</a></li>
+            
+                <li><a href="https://nan">Entocycle</a></li>
+            
+                <li><a href="https://lawrencedale.com">Leaf</a></li>
+            
+                <li><a href="https://nan">Climate Tech List</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 * Significant progress in **Conservation Agriculture** for climate change reversal.

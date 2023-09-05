@@ -14,6 +14,19 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://kickstarter.com/projects/karmi…">Karmic Bikes</a></li>
+            
+                <li><a href="https://ojoelectric.com">Ojo</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Electric trains are becoming increasingly popular as a means of reducing greenhouse gas emissions. Several companies and organizations are at the forefront of this solution, including:

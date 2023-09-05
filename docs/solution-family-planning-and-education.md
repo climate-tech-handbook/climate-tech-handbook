@@ -13,6 +13,61 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://www.bloomberg.org/">Bloomberg Philanthropies</a></li>
+            
+                <li><a href="https://extendfertility.com">Extend Fertility</a></li>
+            
+                <li><a href="https://bloomlife.com/">Bloomlife</a></li>
+            
+                <li><a href="https://www.o.school">O.school</a></li>
+            
+                <li><a href="https://civiceagle.com">Civic Eagle</a></li>
+            
+                <li><a href="https://www.mavenclinic.com">Maven Clinic</a></li>
+            
+                <li><a href="https://thepillclub.com">The Pill Club</a></li>
+            
+                <li><a href="https://www.washingtonpost.com/climate-environment/">Washington Post - Climate Coverage</a></li>
+            
+                <li><a href="https://axelspace.com/en">Axelspace</a></li>
+            
+                <li><a href="https://kindbody.com">Kindbody</a></li>
+            
+                <li><a href="https://afripads.com">Afripads</a></li>
+            
+                <li><a href="https://nan">Modern Fertility</a></li>
+            
+                <li><a href="https://primecoalition.org/">Prime</a></li>
+            
+                <li><a href="https://asktia.com">Tia</a></li>
+            
+                <li><a href="https://nan">Capital For Climate (c4c)</a></li>
+            
+                <li><a href="https://nan">Airminers Academy</a></li>
+            
+                <li><a href="https://ducky.eco">Ducky</a></li>
+            
+                <li><a href="https://glowing.com">Glow</a></li>
+            
+                <li><a href="https://www.futurefamily.com/">Future Family</a></li>
+            
+                <li><a href="https://isonohealth.com/demos">Isonohealth</a></li>
+            
+                <li><a href="https://girlswhocode.com">Girls Who Code</a></li>
+            
+                <li><a href="https://www.wearepossible.org/">Possible</a></li>
+            
+                <li><a href="https://everymothercounts.org">Every Mother Counts</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 The role of family planning and having children in the climate change crisis is crucial, especially considering the significant impact that children have on climate emissions. According to a study published in Environmental Research Letters, having one fewer child can reduce an individual's carbon footprint by an estimated 58.6 metric tons of CO2-equivalent emissions per year. The decision to have children directly affects future carbon emissions, as each person contributes to the overall carbon footprint throughout their lifetime. By embracing family planning and making informed choices, individuals can play a part in mitigating climate change by reducing their carbon emissions and helping build a more sustainable future for the planet.

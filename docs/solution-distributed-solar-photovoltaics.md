@@ -13,6 +13,49 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://solarkiosk.eu">Solarkiosk</a></li>
+            
+                <li><a href="https://heliatek.com">Heliatek</a></li>
+            
+                <li><a href="https://hstsolar.com">Hst Solar</a></li>
+            
+                <li><a href="https://raptormaps.com/">Raptor Maps</a></li>
+            
+                <li><a href="https://yellowdoorenergy.com">Yellow Door Energy</a></li>
+            
+                <li><a href="https://envisionsolar.com">Envision Solar</a></li>
+            
+                <li><a href="https://chargepoint.com">Chargepoint</a></li>
+            
+                <li><a href="https://humless.com">Humless</a></li>
+            
+                <li><a href="https://solcastglobal.com">Solcast</a></li>
+            
+                <li><a href="https://diamondfoundry.com">Diamond Foundry</a></li>
+            
+                <li><a href="https://www.omnidian.com/">Omnidian</a></li>
+            
+                <li><a href="https://scatecsolar.com">Scatec Solar</a></li>
+            
+                <li><a href="https://fulcrum3d.com">Fulcrum3d</a></li>
+            
+                <li><a href="https://oxfordpv.com">Oxford Pv</a></li>
+            
+                <li><a href="https://huskpowersystems.com">Husk Power Systems</a></li>
+            
+                <li><a href="https://firstsolar.com">First Solar</a></li>
+            
+                <li><a href="https://fourthpartner.co">Fourth Partner Energy</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 **Distributed Solar Photovoltaics (DSPV):** Also known as rooftop solar, DSPV refers to the technology that harnesses sunlight using photovoltaic cells installed on various surfaces, such as rooftops of homes, businesses, and community buildings. These systems convert sunlight directly into electricity, contributing to the reduction of greenhouse gas emissions. DSPV has experienced significant progress with breakthrough technologies and innovative companies driving its development.

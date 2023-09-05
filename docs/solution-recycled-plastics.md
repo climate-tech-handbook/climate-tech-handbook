@@ -13,6 +13,21 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://ironroots.com">Iron Roots</a></li>
+            
+                <li><a href="https://recyclingtechnologies.co.uk">Recycling Technologies</a></li>
+            
+                <li><a href="https://thegreatbubblebarrier.com/en/">The Great Bubble Barrier</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - **Recycled plastics** combat climate change by reducing greenhouse gas emissions from plastic production.

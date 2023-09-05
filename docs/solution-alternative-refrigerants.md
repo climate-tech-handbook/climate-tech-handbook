@@ -11,6 +11,29 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://DyeCoo.com">Dyecoo</a></li>
+            
+                <li><a href="https://ccccx.net">C4x Green Carbon</a></li>
+            
+                <li><a href="https://www.c16bio.com/">C16 Biosciences</a></li>
+            
+                <li><a href="https://arviatechnology.com">Arvia Technology</a></li>
+            
+                <li><a href="https://atomocoffee.com">Atomo Molecular Coffee</a></li>
+            
+                <li><a href="https://www.solugentech.com/">Solugen</a></li>
+            
+                <li><a href="https://nan">Ecoware</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 * **Alternative Refrigerants**: Significant progress in developing environmentally-friendly alternatives such as CO2 and ammonia (NH3).

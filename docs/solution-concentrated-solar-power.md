@@ -13,6 +13,23 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://tae.com">Tae Technologies</a></li>
+            
+                <li><a href="https://saurea.fr">Saurea</a></li>
+            
+                <li><a href="https://lumenaza.de">Lumenaza</a></li>
+            
+                <li><a href="https://nan">Marvel Fusion</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - **Concentrated Solar Power (CSP):** Utilizes mirrors/lenses to focus sunlight, generating heat for electricity via turbines.

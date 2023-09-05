@@ -13,6 +13,35 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://moltexenergy.com">Moltex Energy</a></li>
+            
+                <li><a href="https://modernelectron.com">Modern Electron</a></li>
+            
+                <li><a href="https://vestas.com">Vestas</a></li>
+            
+                <li><a href="https://www.nitricity.co">Nitricity</a></li>
+            
+                <li><a href="https://cfs.energy">Commonwealth Fusion Systems</a></li>
+            
+                <li><a href="https://tritium.com.au">Tritium</a></li>
+            
+                <li><a href="https://nan">Nuscale Power</a></li>
+            
+                <li><a href="https://nan">Terrapower</a></li>
+            
+                <li><a href="https://surechill.com">Sure Chill</a></li>
+            
+                <li><a href="https://syntheticgenomics.com">Synthetic Genomics</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 **Nuclear power** stands out as a clean and efficient means of generating electricity, free from greenhouse gas emissions. Recent strides in technology, such as **small modular reactors (SMRs)**, have yielded more cost-effective and environmentally friendly options. Operating nuclear plants have curtailed over 2.5 billion metric tons of CO2 emissions, akin to taking 500 million cars off the road. Globally, over 450 reactors supply about 10% of electricity.

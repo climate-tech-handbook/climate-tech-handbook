@@ -13,6 +13,41 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://linearlabsinc.com">Linear Labs</a></li>
+            
+                <li><a href="https://charge.us">Charge</a></li>
+            
+                <li><a href="https://workhorse.com">Workhorse Group</a></li>
+            
+                <li><a href="https://www.jump.com/">Jump</a></li>
+            
+                <li><a href="https://spin.pm">Spin</a></li>
+            
+                <li><a href="https://actonglobal.com">Acton</a></li>
+            
+                <li><a href="https://atherenergy.com">Ather Energy</a></li>
+            
+                <li><a href="https://nan">Rad Power Bikes</a></li>
+            
+                <li><a href="https://cowboy.com">Cowboy</a></li>
+            
+                <li><a href="https://jauntmotors.com">Jaunt</a></li>
+            
+                <li><a href="https://viriciti.com">Viriciti</a></li>
+            
+                <li><a href="https://evrnu.com">Evrnu</a></li>
+            
+                <li><a href="https://arrival.com/">Arrival</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Breakthrough Technologies: Electric motors, lithium-ion batteries, solar-powered chargers.

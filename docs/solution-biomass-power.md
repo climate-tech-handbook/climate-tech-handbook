@@ -14,6 +14,21 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://leafresources.com.au">Leaf Resources</a></li>
+            
+                <li><a href="https://sunfire.de">Sunfire</a></li>
+            
+                <li><a href="https://solarfoods.fi">Solar Foods</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Significant strides have been made in **developing biomass power** over the last decade to combat climate change. Innovations include technologies like **pyrolysis**, **gasification**, **anaerobic digestion**, **combustion**, and **pyrolysis-combustion**, all contributing to the reduction of greenhouse gas emissions. Leading in this field are organizations such as the **US Department of Energy**, the **US Environmental Protection Agency**, and the **International Renewable Energy Agency**.

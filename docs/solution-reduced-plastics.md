@@ -13,6 +13,55 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://aceleronenergy.com">Aceleron</a></li>
+            
+                <li><a href="https://www.flagshippioneering.com/">Flagship Pioneering</a></li>
+            
+                <li><a href="https://blueland.com">Blueland</a></li>
+            
+                <li><a href="https://www.cleantech.com/">Cleantech Group</a></li>
+            
+                <li><a href="https://advano.io">Advano</a></li>
+            
+                <li><a href="https://nan">Bmc</a></li>
+            
+                <li><a href="https://boltthreads.com">Bolt Threads</a></li>
+            
+                <li><a href="https://dmcbio.com">Dmc Biotechnologies</a></li>
+            
+                <li><a href="https://www.byfusion.com/">Byfusion</a></li>
+            
+                <li><a href="https://www.engieimpact.com/">Engie Impact</a></li>
+            
+                <li><a href="https://www.emergenceindustries.com/">Emergence Industries</a></li>
+            
+                <li><a href="https://elvisandkresse.com">Elvis & Kresse</a></li>
+            
+                <li><a href="https://myheatworks.com">Heatworks</a></li>
+            
+                <li><a href="https://econic-technologies.com">Econic Technologies</a></li>
+            
+                <li><a href="https://econicpack.com">Econic</a></li>
+            
+                <li><a href="https://modernmeadow.com">Modern Meadow</a></li>
+            
+                <li><a href="https://cambrianinnovation.com">Cambrian Innovation</a></li>
+            
+                <li><a href="https://plasticbank.com">Plastic Bank</a></li>
+            
+                <li><a href="https://preserveproducts.com">Preserve</a></li>
+            
+                <li><a href="https://greenhope.co">Greenhope</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - **Reduced Plastics** gain momentum in combating climate change.

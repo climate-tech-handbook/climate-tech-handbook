@@ -12,6 +12,57 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://propelfuels.com/">Propel Fuels</a></li>
+            
+                <li><a href="https://econcretetech.com">Econcrete</a></li>
+            
+                <li><a href="https://normative.io/en">Normative</a></li>
+            
+                <li><a href="https://fiskerinc.com">Fisker</a></li>
+            
+                <li><a href="https://greenfuels.co.uk">Green Fuels</a></li>
+            
+                <li><a href="https://nan">Ree Automotive</a></li>
+            
+                <li><a href="https://climateneutral.org">Climateneutral</a></li>
+            
+                <li><a href="https://crwd.ly/rens19">Rens</a></li>
+            
+                <li><a href="https://torkmotors.com">Tork Motors</a></li>
+            
+                <li><a href="https://www.carbfix.com/">Carbfix</a></li>
+            
+                <li><a href="https://nan">Work On Climate</a></li>
+            
+                <li><a href="https://safi.ai">Safi Analytics</a></li>
+            
+                <li><a href="https://voltatrucks.com">Volta Trucks</a></li>
+            
+                <li><a href="https://nan">Terra.do</a></li>
+            
+                <li><a href="https://rivian.com">Rivian</a></li>
+            
+                <li><a href="https://bollingermotors.com/">Bollinger Motors</a></li>
+            
+                <li><a href="https://www.verdox.com/">Verdox</a></li>
+            
+                <li><a href="https://climateview.global">Climate View</a></li>
+            
+                <li><a href="https://nan">Cambridge Industries</a></li>
+            
+                <li><a href="https://tevva.com">Tevva</a></li>
+            
+                <li><a href="https://arcolaenergy.com">Arcola Energy</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Breakthrough Technologies: Electric trucks, aerodynamic designs, fuel-efficient engines.

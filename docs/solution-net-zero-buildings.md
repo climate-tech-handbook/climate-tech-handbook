@@ -12,6 +12,25 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://cleanchoiceenergy.com">Cleanchoice Energy</a></li>
+            
+                <li><a href="https://bettervest.com/home?r=56fe666…">Bettervest</a></li>
+            
+                <li><a href="https://bulb.co.uk">Bulb</a></li>
+            
+                <li><a href="https://www.evolvemyenergy.com/">Evolve Energy</a></li>
+            
+                <li><a href="https://www.blueprintpower.com/">Blue Print Power</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 The development of Net Zero Buildings is a significant advancement in the fight against climate change, encompassing breakthrough technologies like solar panels, wind turbines, and geothermal systems that drastically reduce greenhouse gas emissions. Leading entities driving this progress include the International Living Future Institute, U.S. Green Building Council, and Architecture 2030.

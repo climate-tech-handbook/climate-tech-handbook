@@ -13,6 +13,33 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://ewindsolutions.com">Ewind Solutions</a></li>
+            
+                <li><a href="https://makanipower.com/">Makani</a></li>
+            
+                <li><a href="https://VORTEXBLADELESS.COM">Vortex Bladeless</a></li>
+            
+                <li><a href="https://kps.energy">Kite Power Systems</a></li>
+            
+                <li><a href="https://accioenergy.com">Accio Energy</a></li>
+            
+                <li><a href="https://upriseenergy.com">Uprise Energy</a></li>
+            
+                <li><a href="https://energyweb.org">Energy Web</a></li>
+            
+                <li><a href="https://americanwindinc.com">American Wind</a></li>
+            
+                <li><a href="https://nan">Climate Tech Vc</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Micro Wind Turbines (MWTs) are compact wind energy devices contributing significantly to sustainability efforts. Innovations like vertical axis turbines and small-scale options have emerged, utilized by leading entities such as Vestas, GE, and Siemens.

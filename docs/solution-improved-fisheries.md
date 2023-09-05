@@ -12,6 +12,25 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://bureo.co/">Bureo</a></li>
+            
+                <li><a href="https://pelagicdata.com">Pelagic Data Systems</a></li>
+            
+                <li><a href="https://ethic.investments/">Ethic Investments</a></li>
+            
+                <li><a href="https://nan">Climate Draft</a></li>
+            
+                <li><a href="https://froglabs.ai">Froglabs</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - **Improved Fisheries**: Addressing overfishing impact on climate.

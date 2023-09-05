@@ -13,6 +13,25 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://thewastetransformers.com">The Waste Transformers</a></li>
+            
+                <li><a href="https://sierraenergy.com">Sierra Energy</a></li>
+            
+                <li><a href="http://takachar.mystrikingly.com/">Takachar</a></li>
+            
+                <li><a href="https://capricornpower.com.au">Capricorn Power</a></li>
+            
+                <li><a href="https://www.bloomenergy.com">Bloom Energy</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 The progression in Waste to Energy (WtE) to counter climate change has been substantial. Innovations have led to efficient conversion of waste into energy, contributing to a reduction in greenhouse gas emissions. Leading this endeavor are entities like Waste to Energy Solutions, Inc. and the U.S. Environmental Protection Agency.

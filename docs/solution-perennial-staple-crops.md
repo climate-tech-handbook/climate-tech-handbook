@@ -13,6 +13,33 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://wiserg.com">Wiserg</a></li>
+            
+                <li><a href="https://www.atlasai.co/">Atlas Ai</a></li>
+            
+                <li><a href="https://brightfarms.com">Brightfarms</a></li>
+            
+                <li><a href="https://traptic.com">Traptic</a></li>
+            
+                <li><a href="https://boweryfarming.com/">Bowery</a></li>
+            
+                <li><a href="http://www.beeflow.co/en/">Beeflow</a></li>
+            
+                <li><a href="https://beehero.io">Beehero</a></li>
+            
+                <li><a href="https://nan">Farmshelf</a></li>
+            
+                <li><a href="https://gothamgreens.com">Gotham Greens</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 In the last decade, there has been significant progress in developing perennial staple crops to reverse climate change. Breakthrough technologies such as genetic engineering and synthetic biology have enabled the development of crops that are more resistant to drought and pests, and require less fertilizer and water. These crops have contributed to the reduction of greenhouse gas emissions by reducing the need for chemical inputs, and by sequestering carbon in the soil.

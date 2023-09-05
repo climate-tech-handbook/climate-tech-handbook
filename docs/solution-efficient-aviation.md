@@ -13,6 +13,59 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://skyven.co">Skyven Technologies</a></li>
+            
+                <li><a href="https://airbus-sv.com">A3</a></li>
+            
+                <li><a href="https://aclima.io">Aclima</a></li>
+            
+                <li><a href="http://www.jobyaviation.com/">Joby Aviation</a></li>
+            
+                <li><a href="https://www.hybridairvehicles.com/">Hybrid Air Vehicles</a></li>
+            
+                <li><a href="https://emitwise.com">Emitwise</a></li>
+            
+                <li><a href="https://airlabs.com">Airlabs</a></li>
+            
+                <li><a href="https://terrafugia.com">Terrafugia</a></li>
+            
+                <li><a href="https://magniX.aero">Magnix</a></li>
+            
+                <li><a href="https://zunum.aero">Zunum Aero</a></li>
+            
+                <li><a href="https://opener.aero">Opener Aero</a></li>
+            
+                <li><a href="https://ellipsis-environmental.com">Ellipsis Environmental</a></li>
+            
+                <li><a href="https://skai.co">Alaka’i Technologies</a></li>
+            
+                <li><a href="https://ampaire.com">Ampaire</a></li>
+            
+                <li><a href="https://weflywright.com">Wright Electric</a></li>
+            
+                <li><a href="https://wisk.aero">Wisk</a></li>
+            
+                <li><a href="https://www.b-t.energy">Breakthrough Energy</a></li>
+            
+                <li><a href="https://eviation.co">Eviation</a></li>
+            
+                <li><a href="https://breezometer.com">Breezometer</a></li>
+            
+                <li><a href="https://elroyair.com">Elroy Air</a></li>
+            
+                <li><a href="https://aeroseal.com">Aeroseal</a></li>
+            
+                <li><a href="https://nan">Canary Media</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - **Efficient Aviation**: Focuses on technology to reverse climate change.

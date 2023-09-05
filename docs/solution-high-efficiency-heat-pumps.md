@@ -12,6 +12,17 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="http://darcysolutions.com/">Darcy Solutions</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Heat pumps are a great technology to help us get off of air conditioners, which are a huge portion of greenhouse gas emissions.

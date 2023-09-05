@@ -15,6 +15,59 @@ This a sample ChatGPT page to get the ball rolling.
 
 Here's your text with markdown syntax:
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://wattzon.com">Wattzon</a></li>
+            
+                <li><a href="https://zeromasswater.com">Zero Mass Water</a></li>
+            
+                <li><a href="https://www.planetary.vc/">Planetary Vc</a></li>
+            
+                <li><a href="https://arcadia.com">Arcadia Power</a></li>
+            
+                <li><a href="https://ampere-energy.es/contacto/">Ampere Energy</a></li>
+            
+                <li><a href="https://www.bidgely.com">Bidgely</a></li>
+            
+                <li><a href="https://sprucefinance.com">Spruce Finance</a></li>
+            
+                <li><a href="https://nan">Leafr</a></li>
+            
+                <li><a href="https://dsdrenewables.com">Distributed Solar Development</a></li>
+            
+                <li><a href="https://enphase.com/">Enphase</a></li>
+            
+                <li><a href="https://ecozensolutions.com">Ecozen</a></li>
+            
+                <li><a href="https://naturalsolar.com.au">Natural Solar</a></li>
+            
+                <li><a href="https://www.overlay.earth/">Overlay</a></li>
+            
+                <li><a href="https://nelhydrogen.com">Nel Hydrogen</a></li>
+            
+                <li><a href="https://climeon.com">Climeon</a></li>
+            
+                <li><a href="https://exergyn.com">Exergyn</a></li>
+            
+                <li><a href="https://fervoenergy.com">Fervo Energy</a></li>
+            
+                <li><a href="https://www.cleanenergytrust.org/">Clean Energy Trust</a></li>
+            
+                <li><a href="https://desolenator.com">Desolenator</a></li>
+            
+                <li><a href="https://clir.eco/">Clir Renewables</a></li>
+            
+                <li><a href="https://orbital-systems.com">Orbital Systems</a></li>
+            
+                <li><a href="https://withforerunner.com/">Forerunner</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Solar hot water systems have seen recent advancements in technology, making them more efficient and affordable. **Evacuated tube solar collectors**, such as SolarReserve and SolarCity, enhance solar radiation absorption, heating water for domestic use or generating electricity via solar thermal power.

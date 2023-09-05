@@ -17,6 +17,21 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="http://cellana.com">Cellana</a></li>
+            
+                <li><a href="https://phyconomy.net">Phyconomy</a></li>
+            
+                <li><a href="http://www.aljadix.com/">Aljadix</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 - Seaweed Farming: Developing seaweed cultivation to combat climate change with advanced technologies.

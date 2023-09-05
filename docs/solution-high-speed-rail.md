@@ -14,6 +14,23 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://lilium.com">Lilium</a></li>
+            
+                <li><a href="https://hyperloop-one.com">Hyperloop One</a></li>
+            
+                <li><a href="https://hyperloop.global">Hyperloop Transportation Technologies</a></li>
+            
+                <li><a href="https://einride.tech/news/einride-o…">Einride</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 There has been significant progress made in developing high-speed rail to reverse climate change. Some of the breakthrough technologies that have been developed include magnetic levitation and linear motors. These technologies have contributed to the reduction of greenhouse gas emissions by enabling trains to travel at high speeds with little to no friction. Some of the companies and organizations that have been at the forefront of this solution include the Central Japan Railway Company and the Linear Electric Vehicle Consortium.

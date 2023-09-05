@@ -13,6 +13,19 @@ This a sample ChatGPT page to get the ball rolling.
 [Click here to contribute content and feedback](contribute)
 :::
 
+<details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+             
+                <li><a href="https://nan">Eco-fuel Africa</a></li>
+            
+                <li><a href="https://www.kitro.ch/">Kitro</a></li>
+            
+            </ul>
+        </div>
+        </details>
+
 ## Overview
 
 Methane digesters are vital tools in reversing climate change by efficiently converting organic waste into methane gas, which can be harnessed to generate electricity. This technology significantly reduces greenhouse gas emissions by capturing methane that would otherwise contribute to atmospheric warming. Leading the charge are organizations like the Environmental Protection Agency, the Department of Energy, and the National Renewable Energy Laboratory.
