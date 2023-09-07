@@ -128,7 +128,7 @@ Change the direction of a bigger company
 https://www.workforclimate.org/)
 
 - Companies like Microsoft, Google, Stripe, etc. have a specific corporate 
-sustainbility positions. There are also many consultancies.
+sustainability positions. There are also many consultancies.
 
 - Think outside the box. For example, you are in procurement, you have a 
 huge opportunity to order supplies that come from clean sources. Start a green team that doesn't exist in your current job
@@ -188,9 +188,13 @@ Next is domain knowledge.
 - **It varies by job category** - [Startup](early-stage-startups) vs [Established company](#established-companies) vs [Government](#dont-forget-government-jobs)
 
 - **It varies by climate solution** - some solutions are better established and others are very early.
-	- --x Voluntary Carbon Markets have been heavily criticized in the media and have experienced layoff cycles
-	
-	- --x
+
+For example:
+
+- Electric vehicles and infrastructure are becoming more popular 
+- Voluntary Carbon Markets started as a popular solution, but have recently been hit by a round of layoffs to criticism in the press on overstated benefits
+
+As we [continue writing the Handbook](contribute), we will better be tracking news on Solution viability in the marketplace.
 
 ---
 
