@@ -14,11 +14,17 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ![](/../static/img/electricity.png)
 
 :::company Job openings
-#### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Energy&p=0&remote=false)
+### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Energy&p=0&remote=false)
 
-Then come back to learn more about each [Solution](#solutions-in-this-sector)
+Then come back to learn more about a specific [Solution](#solutions-in-this-sector) in the Energy Sector
+:::
 
-<!--This is the best strategy to accelerate your expertise as a top candidate-->
+<!--Huge opportunity admonition-->
+
+:::caution
+### Huge learning curve
+
+Be prepared to read [a lot of obscures PDFs like these](https://www.eia.gov/analysis/handbook/)
 :::
 
 Overhauling electricity is a critical step.
