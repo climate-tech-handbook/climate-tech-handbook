@@ -102,9 +102,9 @@ Climate tech can be seen version 2.0 [renaissance] for the 2020s.
 
 - [How do I avoid greenwashing?](#how-do-i-avoid-greenwashing)
 
+<!--questions about IT tech, deep tech, hard tech, and trade work-->
+
 :::
-
-
 ### How well does it pay?
 
 #### Early stage startups:
@@ -191,10 +191,10 @@ Next is domain knowledge.
 
 For example:
 
-- Electric vehicles and infrastructure are becoming more popular 
-- Voluntary Carbon Markets started as a popular solution, but have recently been hit by a round of layoffs to criticism in the press on overstated benefits
+- The highest anticipated growth is in automotive, power generation, and electrical efficiency.  <!--citation. MCJ Podcast??-->
+- Voluntary Carbon Markets started as a popular solution, but have recently been hit by a round of layoffs, due to public criticism on overstated benefits
 
-As we [continue writing the Handbook](contribute), we will better be tracking news on Solution viability in the marketplace.
+As we [continue writing the Handbook together](contribute), we will better be tracking news on Solution viability in the marketplace.
 
 ---
 
