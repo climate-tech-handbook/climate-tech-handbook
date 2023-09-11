@@ -11,7 +11,7 @@ authors:
 *Image from the [Alliance for an Energy Efficient Economy](https://aeee.in/why-indian-grid-operators-need-to-acknowledge-demand-flexibility-for-optimal-grid-operation/) in India*
 
 :::company
-Check out [Voltus](https://voluts.co) - a demand response software tool
+Check out [Voltus](https://voltus.co) - a demand response software tool
 :::
 
 <details>
