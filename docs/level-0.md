@@ -100,6 +100,8 @@ Climate tech can be seen version 2.0 [renaissance] for the 2020s.
 
 - [How secure are these jobs?](#how-secure-are-these-jobs)
 
+- [How much do I need to know about climate science and politics?](#how-much-do-i-need-to-know-about-climate-science-and-politics)
+
 - [How do I avoid greenwashing?](#how-do-i-avoid-greenwashing)
 
 <!--questions about IT tech, deep tech, hard tech, and trade work-->
@@ -122,7 +124,9 @@ Roughly 3,000+ companies / organizations exist in our current database.
 #### Established companies:
 
 :::note another option
-Change the direction of a bigger company
+Change the direction of your current company.
+
+Or try to steer a bigger company that's been around for a while.
 
 - --Project Drawdown has a [guide on this topic](park) / [Workforclimate.org](
 https://www.workforclimate.org/)
@@ -153,6 +157,7 @@ There are plenty of government jobs <!--governmentjobs.com example urls-->
 There are two aspects:
 
 1. **Marketable skills**
+
 2. **Domain knowledge**
 
 Marketable Skills:
@@ -189,23 +194,37 @@ Next is domain knowledge.
 
 - **It varies by climate solution** - some solutions are better established and others are very early.
 
-For example:
+**For example:**
 
-- The highest anticipated growth is in automotive, power generation, and electrical efficiency.  <!--citation. MCJ Podcast??-->
+- The highest anticipated growth is in automotive, power generation, and electrical efficiency (_[Electricity Sector](electricity)_).  <!--citation. MCJ Podcast??-->
+
 - Voluntary Carbon Markets started as a popular solution, but have recently been hit by a round of layoffs, due to public criticism on overstated benefits
 
-As we [continue writing the Handbook together](contribute), we will better be tracking news on Solution viability in the marketplace.
+As we [continue writing the Handbook together](contribute), we will better be tracking news on [Solution](solutions) viability in the marketplace.
 
 ---
 
 ###  How do I avoid greenwashing?
 
+- Read and support journalism outlets such as [DeSmog](https://www.desmog.com//), [Grist](grist.org), [Inside Climate News](https://insideclimatenews.org/), [Climate Desk](climatedesk.org), and more.
+<!--Link to Resources, and Media Sector-->
 - This is a big topic and we are working on a guide
 
 - [Tell us your findings on Slack](contribute) and we'll report on it
 
 ---
 
+### How much do I need to know about climate science and politics?
+
+- It depends on the [Solution](solution). The [electrical](sector-electricity) grid can get quite complicated. Others less so.
+
+- It depends on the role. Being a software engineer or running people operations are more transferrable. If you are in sales or marketing, you need to know as much as possible about your industry market.
+
+- Our goal is to document --x together
+
+
+
+---
 ## Fundamental Climate Knowledge
 
 :::info If you already know this
@@ -214,13 +233,20 @@ Skip to:
 - [Core Communities](#core-communities)
 - [Skill Requirements](#skill-requirements)
 :::
-
-
 ###
 
-#### The Paris Agreement
+#### The 2015 Paris Agreement
+
+- Signed by --xx countries, except -xx
+- All agreed to prevent the global average temperature from rising more than 1.5 Celsius
+
+Key Points:
+
+
 #### Our carbon budget
-#### 1.5 degrees celsus and 2 degrees celsius
+#### 1.5 degrees vs and 2 degrees celsius
+
+Common myths:
 
 - Temperature doesn't go down!
 
