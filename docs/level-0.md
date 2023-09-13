@@ -196,9 +196,9 @@ Next is domain knowledge.
 
 **For example:**
 
-- The highest anticipated growth is in automotive, power generation, and electrical efficiency (_[Electricity Sector](electricity)_).  <!--citation. MCJ Podcast??-->
+- The highest anticipated growth is in automotive, power generation, and electrical efficiency.  <!--citation. MCJ Podcast??, add links to solution pages-->
 
-- Voluntary Carbon Markets started as a popular solution, but have recently been hit by a round of layoffs, due to public criticism on overstated benefits
+- Voluntary Carbon Markets started as a popular solution, but have recently been hit by a round of layoffs, due to public criticism on overstated benefits.
 
 As we [continue writing the Handbook together](contribute), we will better be tracking news on [Solution](solutions) viability in the marketplace.
 
@@ -216,15 +216,18 @@ As we [continue writing the Handbook together](contribute), we will better be tr
 
 ### How much do I need to know about climate science and politics?
 
-- It depends on the [Solution](solution). The [electrical](sector-electricity) grid can get quite complicated. Others less so.
+- It depends on the both the [Solution](solution), and the role.
 
-- It depends on the role. Being a software engineer or running people operations are more transferrable. If you are in sales or marketing, you need to know as much as possible about your industry market.
+- For example, a solution involving the [electrical](sector-electricity) grid can get quite complicated.
 
-- Our goal is to document --x together
+- When it comes to the role, being a software engineer or running people operations are more transferrable. 
 
+- But, you are in sales or marketing, you need to know as much as possible about your industry market.
 
+As we continue to [document the Handbook together](contribute), we will provide more clarity.
 
 ---
+
 ## Fundamental Climate Knowledge
 
 :::info If you already know this
@@ -237,14 +240,28 @@ Skip to:
 
 #### The 2015 Paris Agreement
 
-- Signed by --xx countries, except -xx
-- All agreed to prevent the global average temperature from rising more than 1.5 Celsius
+The bottom line is that we need to keep the global average temperature down to **1.5 degrees celsius**.
 
-Key Points:
+This will allow us to avoid [the most catastrophic impacts](https://www.npr.org/2021/11/08/1052198840/1-5-degrees-warming-climate-change).
 
+To do so, we need to cut greenhouse pollution down to 45% of 2010 levels and 100% by 2050.
+
+This is called "net zero".
+
+#### 1.5 degrees versus 2 degrees celsius
+
+Reaching our 2030 goal is not likely.
+
+However, we still have a chance of keeping the global average temperature under 2 degrees celsius.
+
+<iframe
+src="https://ourworldindata.org/grapher/total-ghg-emissions?country=~OWID_WRL" loading="lazy"
+width="100%"
+height="600px"
+></iframe>
 
 #### Our carbon budget
-#### 1.5 degrees vs and 2 degrees celsius
+
 
 Common myths:
 
