@@ -83,13 +83,19 @@ A recent financial movement to invest in startups that are focused on a particul
 
 First - **fixing climate is a subset** within a broader circle of clean technologies.
 
-For example, water pollution, plastic pollution, or e-waste do not cause greenhouse emissions. However, they are still a critical problem affecting environmental health, justice, and the biodiversity crisis.
+:::note For example
+Water pollution, plastic pollution, or e-waste do not cause greenhouse emissions. However, they are still a critical problem affecting environmental health, justice, and the biodiversity crisis.
+:::
 
-Second - **clean tech has an association** with a green startup period during the Obama administraton. 
+Second - **The term "clean tech" has a negative association** with a failed "Clean Tech 1.0" startup period from 2006-2011. 
 
-Experiments from that time didn't quite turn out as expected.
+:::note What happened?
+MIT Technolgy review called it a bloodbath that "[ended in disaster](https://www.technologyreview.com/2020/11/30/1012660/venture-capital-clean-tech-boom-biden/), wiping out billions in investments and scaring venture capitalists away for years."
 
-Climate tech can be seen version 2.0 [renaissance] for the 2020s.
+_More context from BVP: "[Eight lessons from the first climate tech boom and bust](https://www.bvp.com/atlas/eight-lessons-from-the-first-climate-tech-boom-and-bust)"_
+:::
+
+Climate tech can be seen as a "Clean tech Version 2.0" the 2020s.
 
 ## What is a climate job like?
 
