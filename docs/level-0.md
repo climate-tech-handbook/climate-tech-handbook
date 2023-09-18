@@ -4,8 +4,10 @@ displayed_sidebar: docSidebar
 pagination_label: 🕹️ Level 0
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
+import sslogo from '/img/speed-and-scale-logo.jpg';
+import ddlogo from '../static/img/project-drawdown-logo.png';
 
-![video game pic](../static/img/climate-tech-level-0-mario.jpg)
+![video game pic](/img/climate-tech-level-0-mario.jpg)
 
 ## ⛳️ Start here
 
@@ -43,12 +45,9 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
     />
 </div>
 
-
-
-
 ## Lesson Start
 
-![test](../static/img/welcome-aboard.jpg) 
+![test](/img/welcome-aboard.jpg) 
 
 Congratulations! You took the first step.
 
@@ -157,8 +156,9 @@ There are plenty of government jobs <!--governmentjobs.com example urls-->
 :::
 
 ---
-
-###  How do I learn the necessary skills?
+:::question
+##  How do I learn the necessary skills?
+:::
 
 There are two aspects:
 
@@ -194,7 +194,9 @@ Next is domain knowledge.
 :::
 ---
 
+:::question
 ###  How secure are these jobs?
+:::
 
 - **It varies by job category** - [Startup](early-stage-startups) vs [Established company](#established-companies) vs [Government](#dont-forget-government-jobs)
 
@@ -210,27 +212,35 @@ As we [continue writing the Handbook together](contribute), we will better be tr
 
 ---
 
-###  How do I avoid greenwashing?
-
-- Read and support journalism outlets such as [DeSmog](https://www.desmog.com//), [Grist](grist.org), [Inside Climate News](https://insideclimatenews.org/), [Climate Desk](climatedesk.org), and more.
-<!--Link to Resources, and Media Sector-->
-- This is a big topic and we are working on a guide
-
-- [Tell us your findings on Slack](contribute) and we'll report on it
-
----
-
+:::question
 ### How much do I need to know about climate science and politics?
+:::
 
-- It depends on the both the [Solution](solution), and the role.
+It depends on:
 
-- For example, a solution involving the [electrical](sector-electricity) grid can get quite complicated.
+#### 1. The [Solution](solution) space
+
+For example, a solution involving the [electrical](sector-electricity) grid can get quite complicated.
+
+
+#### 2. The job role
+
 
 - When it comes to the role, being a software engineer or running people operations are more transferrable. 
 
 - But, you are in sales or marketing, you need to know as much as possible about your industry market.
 
-As we continue to [document the Handbook together](contribute), we will provide more clarity.
+---
+
+:::question
+###  How do I avoid greenwashing?
+:::
+
+- Read and support journalism outlets such as [DeSmog](https://www.desmog.com//), [Grist](grist.org), [Inside Climate News](https://insideclimatenews.org/), [Climate Desk](climatedesk.org), [Drilled](https://drilled.media), and more.
+<!--Link to Resources, and Media Sector-->
+- This is a big topic and we are working on a guide
+
+- [Tell us your findings on Slack](contribute) and we'll report on it
 
 ---
 
@@ -244,48 +254,114 @@ Skip to:
 :::
 ###
 
-#### The 2015 Paris Agreement
+#### The 2015 Paris Agreement:
 
-The bottom line is that we need to keep the global average temperature down to **1.5 degrees celsius**.
+The bottom line is that we are supposed to keep the global average temperature down to **1.5 degrees celsius**.
 
-This will allow us to avoid [the most catastrophic impacts](https://www.npr.org/2021/11/08/1052198840/1-5-degrees-warming-climate-change).
+This would allow us to avoid [the most catastrophic impacts](https://www.npr.org/2021/11/08/1052198840/1-5-degrees-warming-climate-change).
 
-To do so, we need to cut greenhouse pollution down to 45% of 2010 levels and 100% by 2050.
+To do so, **we need to cut greenhouse pollution down 50% by 2030 and 100% by 2050.**
 
-This is called "net zero".
+By 2050 we need to be at "net zero".
 
-#### 1.5 degrees versus 2 degrees celsius
+#### 1.5 degrees versus 2 degrees celsius:
 
 Reaching our 2030 goal is not likely.
 
-However, we still have a chance of keeping the global average temperature under 2 degrees celsius.
+However, we still have a chance of keeping the global average temperature near 2 degrees celsius within the next 23 years.
 
 <iframe
-src="https://ourworldindata.org/grapher/total-ghg-emissions?country=~OWID_WRL" loading="lazy"
+src="https://ourworldindata.org/grapher/total-ghg-emissions?tab=chart&country=~OWID_WRL" loading="lazy"
 width="100%"
 height="600px"
 ></iframe>
 
-#### Our carbon budget
+#### Our carbon budget:
+
+There are many different calculations.
+
+![carbon budget hourglass](../static/img/carbon-budget.jpg)
+
+One [budget from the Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en/research/co2-budget.html) states:
+
+- The world is emitting roughly 42.2 gigatons of greenhouse pollution per year.
+
+- **We have roughly 995 gigatons left if we want some likelihood of staying below 2C.**
+
+- We have [250 gigatons of CO2 left](https://www.washingtonpost.com/climate-environment/2023/06/08/carbon-budget-study-climate-change/) to stay below 1.5 degrees, roughly 5 years.
+
+The global standard comes from the United Nations [Intergovernmental Panel on Climate Change](https://www.ipcc.ch) (IPCC).
 
 
-Common myths:
+#### Common myths:
 
-- Temperature doesn't go down!
+[SkepticalScience.com maintains a good list](https://skepticalscience.com/argument.php) counter-arguments to over 200 climate myths.
 
-###
+One of the [most important myths to debunk](https://upgrader.gapminder.org/q/85) is the belief that global temperatures will decline as greenhouse emissions go down.
 
-<br/><br/><br/><br/><br/>
+This implies that we can partially reduce emissions and keep global temperatures at a stable level.
 
+In reality, carbon dioxide persists for [hundreds of years](https://www.epa.gov/ghgemissions/overview-greenhouse-gases#CO2-references)
 
+**We need to cut emissions completely** to stop any further damage.
+
+Partial cuts will not work. 
 
 ---
 
 ## Solution Frameworks
 
+Time for the good news. We have solutions!
+
+![forest and river](../static/img/climate-solutions.png)
+
 ### Project Drawdown
 
+<img src={ddlogo} width="500"/>
+
+[Project Drawdown](https://drawdown.org) is a non-profit organization that created a list of the 93 top climate solutions.
+
+The list comes from a global coalition of leading scientists.
+
+They calculated and ranked the highest likelihood of reducing greenhouse pollution based on available solutions today.
+
+Examples include:
+
+- Reducing food waste
+
+- Alternatives to meat
+
+- Alternative refrigerants
+
+- Family planning
+
+:::note
+The Handbook's [Solution Page](solutions) is mostly based off of Project Drawdown.
+:::
+
 ### Speed and Scale
+
+<img src={sslogo} width="300"/>
+
+[Created by venture capitalist John Doerr](https://speedandscale.com), this framework has both similarities and differences with Drawdown.
+
+Rather than a big list of 93 Solutions ranked by gigaton reduction, the Speed and Scale framework uses Doerr's popular [OKR system](https://en.wikipedia.org/wiki/Objectives_and_key_results) for measuring "objective key results."
+
+:::note OKR Tracker
+Here is Speed and Scale's [official OKR Tracker](https://speedandscale.com/tracker/)
+:::
+
+:::question
+#### Which framework to use?
+:::
+
+Both are valuable and are not mutually exlusive.
+
+Project Drawdown has some more granular solutions, while Speed and Scale has larger categories.
+
+Speed and Scale has a great OKR system that is time bound and uses very specific metrics to track progress.
+
+
 
 ## Core Communities
 
