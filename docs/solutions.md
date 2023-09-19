@@ -32,13 +32,13 @@ Each solution comes with a calculated number of greenhouse emissions that need t
   <ImageCard 
         title="Electricity"
         description="In order to electrify everything with zero emissions, we need to upgrade our entire infrastructure"
-        imageUrl="img/electricity.png"
+        imageUrl="/img/electricity.png"
         linkUrl="/sector-electricity"
     />
     <ImageCard 
         title="Food, Agriculture, and Land Use"
         description="Food waste, forest protection, meat production, all play a major role"
-        imageUrl="img/food-agriculture-and-land-use.jpg"
+        imageUrl="/img/food-agriculture-and-land-use.jpg"
         linkUrl="sector-food-agriculture-and-land-use"
     />
     <ImageCard 

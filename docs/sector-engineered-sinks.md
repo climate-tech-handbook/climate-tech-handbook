@@ -28,7 +28,7 @@ However, Project Drawdown has only assessed biochar, which is ready today and it
     <ImageCard
     title="Biochar Production"
     description="Biochar retains most of the carbon produced by decomposing biomass."
-    imageUrl="img/biochar-kiln.jpg"
+    imageUrl="/img/biochar-kiln.jpg"
     linkUrl="../solution-biochar-production"
     />
 </div>
