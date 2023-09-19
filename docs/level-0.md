@@ -6,6 +6,7 @@ pagination_label: 🕹️ Level 0
 import ImageCard from '../src/components/ImageCard/ImageCard';
 import sslogo from '/img/speed-and-scale-logo.jpg';
 import ddlogo from '../static/img/project-drawdown-logo.png';
+import cthlogo from '/img/cth-new-logo.png';
 
 ![video game pic](/img/climate-tech-level-0-mario.jpg)
 
@@ -361,9 +362,66 @@ Project Drawdown has some more granular solutions, while Speed and Scale has lar
 
 Speed and Scale has a great OKR system that is time bound and uses very specific metrics to track progress.
 
-
+---
 
 ## Core Communities
+
+There are [26 Slack communities listed here](https://www.climatefinance.xyz/climate-slack-communities).
+
+Here are 3 to try:
+
+### The Climate Tech Handbook
+
+<img src={cthlogo} width="300"/>
+
+Our community is designed for people who want to level up their portfolio.
+
+We're building the handbook together to show off our skills and knowledge.
+
+<a href="https://chat.climatetechhandbook.com" class="doc-button">Join our Slack</a>
+
+<br/>
+
+### Work on Climate
+
+https://workonclimate.org
+
+![Work on Climate logo](/img/woc-logo.jpg)
+
+The largest Slack community for climate work.
+
+25,000+ members
+
+
+### MCJ Collective
+
+https://mcjcollective.com
+
+![MCJ Collective logo](/img/mcjcollective-logo.png)
+
+
+
+MCJ stands for My Climate Journey
+
+
+
+:::podcast
+They have a [great podcast here](https://www.mcjcollective.com/media/podcast)
+:::
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+    <ImageCard
+    title="Start Level 1"
+    description="Time to pick your climate solution"
+    imageUrl="img/level-1-mario.jpg"
+    linkUrl="level-1"
+    />
+    <ImageCard
+    title="Skip to Level 2"
+    description="If you are actively working on a climate solution and need to advance faster"
+    imageUrl="img/level-2-mario.jpg"
+    linkUrl="level-2"
+    />
+</div>
 
 --more networking tips in Lesson 1
 
