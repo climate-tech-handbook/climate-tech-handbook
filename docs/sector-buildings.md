@@ -20,6 +20,10 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
 
+:::contribute Community
+Meet people in the *[#learn-built-environment](https://app.slack.com/client/T017M28BLSG/C033K3U1ZQR)* channel - [Work on Climate Slack](https://workonclimate.org)
+:::
+
 Buildings account for nearly 40% of global energy consumption and around one-third of global greenhouse gas emissions, mainly due to the use of fossil fuels for heating, cooling, and electricity. 
 
 ## Solutions in the Building Sector
