@@ -58,7 +58,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Get you up to speed on climate tech as quickly as possible"
+      description="Get up to speed on climate tech as quickly as possible"
     >
       <HomepageHeader />
       <main className={clsx(styles.mainBody)}>
