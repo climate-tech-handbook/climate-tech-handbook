@@ -5,12 +5,12 @@ pagination_prev: solutions
 ---
 ![](/../static/img/reduced-food-waste.png)
 
-*Reducing Food Waste ([BooneHealth](https://boone.health/2022/10/19/reducing-food-waste/))*
+:::contribute Community
+Meet people in the *[#learn-food-waste](https://workonclimate.slack.com/messages/C01K3JV2LNQ)* channel - [Work on Climate Slack](https://workonclimate.org)
+:::
 
-:::note [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
+:::tip Resource
+[ReFED](https://refed.org/) is a good resource to understand food waste solutions
 :::
 
 <details>
@@ -114,3 +114,11 @@ Reducing food waste is one of the biggest opportunities for reducing greenhouse 
 * **Policies & incentives**: Create programs that financially benefit businesses and individuals reducing food waste.
 * **Infrastructure development**: Invest in tech and structures, like composting facilities, that support waste reduction.
 * Pioneering entities: **ReFED**, **LeanPath**, **Food Rescue US**.
+
+:::note [Help us track this Solution](contribute)
+This a sample ChatGPT page to get the ball rolling.
+
+[Click here to contribute content and feedback](contribute)
+:::
+
+*Image credit: Reducing Food Waste ([BooneHealth](https://boone.health/2022/10/19/reducing-food-waste/))*
