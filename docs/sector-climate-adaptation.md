@@ -32,13 +32,13 @@ It involves taking proactive measures to reduce vulnerability, build resilience,
 <ImageCard
   title="New York City - Climate Adaptation"
   description="See the progress made and lessons learned from New York City's multi-billion dollar effort"
-  imageUrl="img/climate-adaptation-new-york.jpg"
+  imageUrl="/img/climate-adaptation-new-york.jpg"
   linkUrl="../climate-adaptation-new-york-city"
 />
 <ImageCard
   title="Sea Level Rise"
   description="Start working on solutions for communities to adapt quickly"
-  imageUrl="img/sea-level-rise.webp"
+  imageUrl="/img/sea-level-rise.webp"
   linkUrl="../sea-level-rise"
 />
 
