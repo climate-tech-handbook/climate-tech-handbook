@@ -134,11 +134,10 @@ Change the direction of your current company.
 
 Or try to steer a bigger company that's been around for a while.
 
-- --Project Drawdown has a [guide on this topic](park) / [Workforclimate.org](
-https://www.workforclimate.org/)
-
+- Project Drawdown has a [guide on this topic](https://drawdown.org/sites/default/files/210920_Drawdown_AtWork_06.pdf). Organizations like [Climate Voice](https://climatevoice.org/) and [Work for Climate](http://workforclimate.org) specialize in this.
+<!-- Check for PDF updates periodically -->
 - Companies like Microsoft, Google, Stripe, etc. have a specific corporate 
-sustainability positions. There are also many consultancies.
+sustainability positions. There are also many consultancies you can join.
 
 - Think outside the box. For example, you are in procurement, you have a 
 huge opportunity to order supplies that come from clean sources. Start a green team that doesn't exist in your current job
@@ -401,15 +400,18 @@ https://mcjcollective.com
 
 This one costs $10 per month, but is well worth it.
 
+Work on Climate is very heavy toward job seekers, while MCJ also has a strong startup / investor community.
 
+The MCJ Collective are investors themselves.
 
 MCJ stands for My Climate Journey
-
-
 
 :::podcast
 They have a [great podcast here](https://www.mcjcollective.com/media/podcast)
 :::
+
+Networking strategies will be covered further in [Level 1](level-1).
+
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Start Level 1"
@@ -425,8 +427,7 @@ They have a [great podcast here](https://www.mcjcollective.com/media/podcast)
     />
 </div>
 
---more networking tips in Lesson 1
-
+<br/>
 
 :::info [Help us](contribute) improve this page
 :::
