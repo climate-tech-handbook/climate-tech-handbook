@@ -35,7 +35,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Lesson Start
 
-[img]
+![business cat](/img/business-cat.jpg)
 
 
 ## Pick your climate solution
