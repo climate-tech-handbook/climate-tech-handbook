@@ -43,9 +43,12 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 :::note Lesson Overview
 ### In this lesson you will:
 - Pick a climate solution to research
-- Intro to Climate Solution frameworks
-- What a climate job is like
-- Intro to core communities and resources
+
+- Get to know 10 companies within that solution
+
+- Build your daily and weekly information diet
+
+- Build your profile and networking strategy
 :::
 
 ## Pick your climate solution

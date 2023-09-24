@@ -3,14 +3,11 @@ title: Level 2
 displayed_sidebar: docSidebar
 ---
 
-[test](level-0#%EF%B8%8F-start-here)
-
 :::caution
 Heavy work in progress
 :::
 
-:::info [Help us](contribute) track this Solution
-:::
+
 
 Opensustain.tech
 

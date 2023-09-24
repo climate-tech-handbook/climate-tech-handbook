@@ -9,7 +9,9 @@ Our model is loosely based off of Austin Belcak's [Dream Job System](https://cul
 
 :::note The Dream Climate Job System
 1. **Find your [Climate Solution](solutions)**
+
 2. **Pick 10 companies** - doing the best work on that solution
+
 3. **Build your portfolio and network** - to prove that you are the best hire, regardless of formal experience
 :::
 

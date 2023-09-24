@@ -444,5 +444,5 @@ Now on to the next level:
 
 <br/>
 
-:::info [Help us](contribute) improve this page
+:::contribute [Help us](contribute) improve this page
 :::
