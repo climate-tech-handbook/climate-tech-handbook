@@ -52,12 +52,15 @@ import cthlogo from '/img/cth-new-logo.png';
 
 Congratulations! You took the first step.
 
-:::note Lesson 1
+:::note Lesson Overview
 ### In this lesson:
-- What is "climate tech"
-- Intro to Climate Solution frameworks
-- What a climate job is like
-- Intro to core communities and resources
+- [What is "climate tech"](#what-is-climate-tech)
+
+- Intro to [Climate Solution frameworks](#solution-frameworks)
+
+- What a [climate job is like](#what-is-a-climate-job-like)
+
+- Intro to [core communities](#core-communities)
 :::
 
 ## What is Climate Tech?
@@ -249,7 +252,9 @@ For example, a solution involving the [electrical](sector-electricity) grid can 
 :::info If you already know this
 Skip to:
 - [Solution Frameworks](#solution-frameworks)
+
 - [Core Communities](#core-communities)
+
 - [Skill Requirements](#skill-requirements)
 :::
 ###
@@ -367,7 +372,11 @@ Speed and Scale has a great OKR system that is time bound and uses very specific
 
 There are [26 Slack communities listed here](https://www.climatefinance.xyz/climate-slack-communities).
 
-Here are 3 to try:
+Some are generalized for climate job seekers, and others are specialized toward roles (climate designers) and solutions ()
+
+**Here are 3 to start with:**
+
+---
 
 ### The Climate Tech Handbook
 
@@ -411,6 +420,12 @@ They have a [great podcast here](https://www.mcjcollective.com/media/podcast)
 :::
 
 Networking strategies will be covered further in [Level 1](level-1).
+
+---
+
+## You did it!
+
+Now on to the next level:
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard

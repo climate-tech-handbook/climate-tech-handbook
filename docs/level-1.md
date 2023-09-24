@@ -8,6 +8,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ![video game pic](../static/img/level-1-mario.jpg)
 ## Definition of LEVEL 1
 
+
 :::info Level 0
 **Stay here if you**:
 
@@ -17,6 +18,8 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 - You need to build a solid [Information Diet](#start-your-information-diet) into your weekly routine 
 :::
+
+### Wrong level?
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
@@ -37,20 +40,31 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ![business cat](/img/business-cat.jpg)
 
+:::note Lesson Overview
+### In this lesson you will:
+- Pick a climate solution to research
+- Intro to Climate Solution frameworks
+- What a climate job is like
+- Intro to core communities and resources
+:::
 
 ## Pick your climate solution
 
 :::note Why pick a specific solution?
 This is a critical step for you to:
 1. **Focus your time** -  research top challenges that you are uniquely positioned to solve
+
 2. **Build your network** - offer something to contribute for a specific community
 :::
+
+## Solution Frameworks
 
 In [Level 0](level-0) you learned about the two primary frameworks:
 
 - [Project Drawdown](level-0#project-drawdown)
 
 - [Speed and Scale](level-0#speed-and-scale)
+
 
 Feel free to explore our [Solutions Page](solutions).
 
