@@ -11,9 +11,9 @@ pagination_prev: solutions
 [Click here to contribute content and feedback](contribute)
 :::
 
-
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -27,6 +27,9 @@ pagination_prev: solutions
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Carpooling)
+:::
 ## Overview
 **Climate Technology Solution**: Carpooling
 

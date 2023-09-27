@@ -15,6 +15,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -68,6 +69,9 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Family+Planning+and+Education)
+:::
 ## Overview
 
 The role of family planning and having children in the climate change crisis is crucial, especially considering the significant impact that children have on climate emissions. According to a study published in Environmental Research Letters, having one fewer child can reduce an individual's carbon footprint by an estimated 58.6 metric tons of CO2-equivalent emissions per year. The decision to have children directly affects future carbon emissions, as each person contributes to the overall carbon footprint throughout their lifetime. By embracing family planning and making informed choices, individuals can play a part in mitigating climate change by reducing their carbon emissions and helping build a more sustainable future for the planet.

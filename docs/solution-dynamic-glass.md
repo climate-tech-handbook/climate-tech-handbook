@@ -14,6 +14,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -25,6 +26,9 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Dynamic+Glass)
+:::
 ## Overview
 
 Dynamic Glass refers to advanced coatings applied to glass, enabling dynamic adjustments to sunlight and temperature for enhanced energy efficiency. These coatings offer potential benefits in reducing energy consumption for heating and cooling, as well as improving solar panel efficiency.

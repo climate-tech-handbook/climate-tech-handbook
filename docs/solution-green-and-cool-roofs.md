@@ -14,6 +14,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -23,6 +24,9 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Green+and+Cool+Roofs)
+:::
 ## Overview
 
 Green and cool roofs are innovative strategies to combat climate change by mitigating the urban heat island effect and reducing energy consumption. Green roofs are adorned with vegetation, while cool roofs are coated with reflective materials, helping to curb heat absorption and enhancing energy efficiency.

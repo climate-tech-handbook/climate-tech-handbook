@@ -16,6 +16,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -29,6 +30,9 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Geothermal+Power)
+:::
 ## Overview
 
 Geothermal power, a renewable energy source, taps into the Earth's core heat to generate electricity. One significant breakthrough is "enhanced geothermal systems" (EGS) which involve artificially enhancing geothermal reservoirs by injecting water into hot rock formations, often utilizing hydraulic fracturing (fracking). EGS boosts energy extraction, making large-scale power generation feasible. Notable companies include AltaRock Energy, Davenport Newberry Holdings, and Ormat Technologies.

@@ -15,6 +15,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -28,6 +29,9 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Water+Distribution+Efficiency)
+:::
 ## Overview
 
 Water Distribution Efficiency involves using innovative methods to achieve the same goals with less water consumption. This technology encompasses strategies like drought-resistant plants, xeriscaping, rainwater harvesting, greywater recycling, and low-flow plumbing fixtures. Such approaches curtail the reliance on municipal water sources, subsequently reducing energy demands for pumping and treatment, thus contributing to climate change mitigation. Key players in this field include the **Alliance for Water Efficiency**, the **Environmental Protection Agency (EPA)**, the **Natural Resources Defense Council (NRDC)**, and the **WateReuse Association**.

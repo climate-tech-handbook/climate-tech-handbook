@@ -15,6 +15,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -26,6 +27,9 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Ocean+Power)
+:::
 ## Overview
 
 **Ocean Power** technology has witnessed significant progress, particularly through the development of **Wave Energy Converters (WECs)**. These devices extract energy from ocean waves and transform it into electricity. One promising variant is the **Oscillating Water Column (OWC)** device, characterized by a submerged structure with an open chamber at the top. As waves pass over, they propel water movement that drives a turbine for electricity generation. Organizations like the **U.S. Department of Energy**, the **Electric Power Research Institute**, and the **European Marine Energy Centre** are pioneering this technology.

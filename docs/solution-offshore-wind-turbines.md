@@ -19,6 +19,7 @@ Learn more from [The Business Network for Offshore Wind](https://www.offshorewin
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -42,6 +43,9 @@ Learn more from [The Business Network for Offshore Wind](https://www.offshorewin
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Offshore+Wind+Turbines)
+:::
 ## Overview
 
 Innovations like floating turbines and subsea cabling have emerged. Companies such as Vestas, GE, and Siemens have spearheaded these advancements.

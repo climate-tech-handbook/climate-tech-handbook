@@ -15,6 +15,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -40,6 +41,9 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Perennial+Staple+Crops)
+:::
 ## Overview
 
 In the last decade, there has been significant progress in developing perennial staple crops to reverse climate change. Breakthrough technologies such as genetic engineering and synthetic biology have enabled the development of crops that are more resistant to drought and pests, and require less fertilizer and water. These crops have contributed to the reduction of greenhouse gas emissions by reducing the need for chemical inputs, and by sequestering carbon in the soil.

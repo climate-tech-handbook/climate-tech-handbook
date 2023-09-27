@@ -16,6 +16,7 @@ Check out [Voltus](https://voltus.co) - a demand response software tool
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -37,6 +38,9 @@ Check out [Voltus](https://voltus.co) - a demand response software tool
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Grid+Flexibility)
+:::
 ## Overview
 
 Grid flexibility refers to the capability of the electric grid to accommodate diverse energy sources and dynamically adapt to changing demand and supply conditions, enhancing efficiency and resilience.

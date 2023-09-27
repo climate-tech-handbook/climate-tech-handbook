@@ -23,9 +23,9 @@ This a sample ChatGPT page to get the ball rolling.
   allow="autoplay; fullscreen"
 ></iframe>
 
-
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -45,6 +45,9 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Cement)
+:::
 ## Overview
 
 The progress that has been made in developing Alternative Cement to reverse climate change is significant. New technologies have been developed that have contributed to the reduction of greenhouse gas emissions. These technologies include:

@@ -15,6 +15,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -32,6 +33,9 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Waste+to+Energy)
+:::
 ## Overview
 
 The progression in Waste to Energy (WtE) to counter climate change has been substantial. Innovations have led to efficient conversion of waste into energy, contributing to a reduction in greenhouse gas emissions. Leading this endeavor are entities like Waste to Energy Solutions, Inc. and the U.S. Environmental Protection Agency.

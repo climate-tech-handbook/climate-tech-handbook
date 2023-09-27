@@ -15,6 +15,7 @@ Meet people in the *[#learn-food-waste](https://workonclimate.slack.com/messages
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -66,6 +67,9 @@ Meet people in the *[#learn-food-waste](https://workonclimate.slack.com/messages
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Reduced+Food+Waste)
+:::
 ## Overview
 
 :::info Huge opportunity 

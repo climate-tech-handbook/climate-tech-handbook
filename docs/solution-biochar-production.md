@@ -16,6 +16,7 @@ _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://ww
 
 <details>
         <summary>List of companies working in this solution...</summary>
+        Experimental feature. Exciting Updates Underway!
         <div>
             <ul>
              
@@ -27,6 +28,9 @@ _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://ww
         </div>
         </details>
 
+:::company
+  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biochar+Production)
+:::
 ## Overview
 
 Biochar retains most of the carbon produced by decomposing biomass.
