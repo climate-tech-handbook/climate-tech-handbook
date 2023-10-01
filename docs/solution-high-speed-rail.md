@@ -16,7 +16,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -32,9 +32,11 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=High-Speed+Rail)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=High-Speed+Rail)
 :::
+
 ## Overview
 
 There has been significant progress made in developing high-speed rail to reverse climate change. Some of the breakthrough technologies that have been developed include magnetic levitation and linear motors. These technologies have contributed to the reduction of greenhouse gas emissions by enabling trains to travel at high speeds with little to no friction. Some of the companies and organizations that have been at the forefront of this solution include the Central Japan Railway Company and the Linear Electric Vehicle Consortium.

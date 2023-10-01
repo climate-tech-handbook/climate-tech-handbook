@@ -14,7 +14,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -36,9 +36,11 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Cars)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Cars)
 :::
+
 ## Overview
 
 Electric cars are becoming increasingly popular as people look for ways to reduce their environmental impact. There are a number of different technologies that are being developed to make electric cars more efficient and reduce their emissions.

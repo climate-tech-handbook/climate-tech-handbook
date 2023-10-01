@@ -15,7 +15,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -29,9 +29,11 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Methane+Leak+Management)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Methane+Leak+Management)
 :::
+
 ## Overview
 
 Methane Leak Management is a process of detecting and repairing methane leaks from natural gas infrastructure. This process can help to reduce greenhouse gas emissions and combat climate change.

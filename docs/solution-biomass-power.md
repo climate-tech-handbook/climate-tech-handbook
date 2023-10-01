@@ -16,7 +16,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -30,9 +30,11 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biomass+Power)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biomass+Power)
 :::
+
 ## Overview
 
 Significant strides have been made in **developing biomass power** over the last decade to combat climate change. Innovations include technologies like **pyrolysis**, **gasification**, **anaerobic digestion**, **combustion**, and **pyrolysis-combustion**, all contributing to the reduction of greenhouse gas emissions. Leading in this field are organizations such as the **US Department of Energy**, the **US Environmental Protection Agency**, and the **International Renewable Energy Agency**.

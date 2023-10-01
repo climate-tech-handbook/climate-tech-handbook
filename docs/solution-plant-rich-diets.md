@@ -21,7 +21,7 @@ pagination_prev: solutions
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -51,9 +51,11 @@ pagination_prev: solutions
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Plant-Rich+Diets)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Plant-Rich+Diets)
 :::
+
 ## Overview
 
 - By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. Additionally, industrial livestock reduction prevents destruction of biodiverse habitat that are ideal [land sinks](../sector-land-sinks).

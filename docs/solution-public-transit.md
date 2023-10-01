@@ -15,7 +15,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -41,9 +41,11 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Public+Transit)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Public+Transit)
 :::
+
 ## Overview
 
 In recent years, there has been a concerted effort to develop public transit systems that are more sustainable and have a smaller carbon footprint. This has led to the development of a number of new technologies, including electric buses, solar-powered trains, and wind-powered ferries. These breakthrough technologies have contributed to a significant reduction in greenhouse gas emissions from public transit systems around the world. A number of companies and organizations have been at the forefront of this effort, including the Chinese company BYD, which is the world’s largest manufacturer of electric vehicles, and the Swedish company Bombardier, which is a leading manufacturer of trains and rail equipment.

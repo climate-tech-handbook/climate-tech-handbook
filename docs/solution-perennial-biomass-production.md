@@ -15,7 +15,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -27,9 +27,11 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Perennial+Biomass+Production)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Perennial+Biomass+Production)
 :::
+
 ## Overview
 
 Over the past decade, there has been significant progress made in developing perennial biomass production to reverse climate change. Breakthrough technologies such as cellulosic ethanol and algae-based biofuels have been developed and have contributed to the reduction of greenhouse gas emissions. Companies such as LanzaTech and Solazyme have been at the forefront of this solution, developing innovative technologies that are making a significant impact in the fight against climate change.

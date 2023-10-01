@@ -16,7 +16,7 @@ _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -50,9 +50,11 @@ _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Building+Retrofitting)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Building+Retrofitting)
 :::
+
 ## Overview
 
 Building retrofitting involves enhancing existing buildings to be more energy-efficient and reduce their carbon impact, achieved through methods such as insulation, energy-efficient windows, and upgraded heating/cooling systems. Technological advances, such as energy-efficient windows and aerogel insulation, have driven progress in this field.

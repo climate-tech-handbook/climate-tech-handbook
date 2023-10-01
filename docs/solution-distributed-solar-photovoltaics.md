@@ -15,7 +15,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -57,9 +57,11 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Solar+Photovoltaics)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Solar+Photovoltaics)
 :::
+
 ## Overview
 
 **Distributed Solar Photovoltaics (DSPV):** Also known as rooftop solar, DSPV refers to the technology that harnesses sunlight using photovoltaic cells installed on various surfaces, such as rooftops of homes, businesses, and community buildings. These systems convert sunlight directly into electricity, contributing to the reduction of greenhouse gas emissions. DSPV has experienced significant progress with breakthrough technologies and innovative companies driving its development.

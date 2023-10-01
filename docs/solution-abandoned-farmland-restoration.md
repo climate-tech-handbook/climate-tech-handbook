@@ -8,7 +8,7 @@ pagination_prev: solutions
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -20,9 +20,11 @@ pagination_prev: solutions
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Abandoned+Farmland+Restoration)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Abandoned+Farmland+Restoration)
 :::
+
 ## Overview
 
 Abandoned farmland restoration is the process of returning abandoned or degraded farmland to a productive state. This can be done through a variety of methods, including reforestation, afforestation, and soil rehabilitation.

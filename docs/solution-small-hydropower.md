@@ -17,7 +17,7 @@ Of course, I understand. Here's the summary of your article on small hydropower 
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -29,9 +29,11 @@ Of course, I understand. Here's the summary of your article on small hydropower 
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Small+Hydropower)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Small+Hydropower)
 :::
+
 ## Overview
 
 **Small Hydropower** development has notably contributed to greenhouse gas emission reduction through innovations like **micro-hydro turbines**. These efficient turbines find applications in diverse settings, including remote villages lacking grid power. Examples also include using hydropower for irrigation and electricity generation, both mitigating reliance on fossil fuels. Leading in small hydropower development are organizations such as the **International Renewable Energy Agency (IRENA)**, the **United Nations Development Programme (UNDP)**, and the **World Bank**.

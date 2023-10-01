@@ -17,7 +17,7 @@ Sure, here's a concise summary in bullet points:
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -29,9 +29,11 @@ Sure, here's a concise summary in bullet points:
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Insulation)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Insulation)
 :::
+
 ## Overview
 
 - **Aerogel Insulation:** Composed of up to 99.8% air, making it incredibly lightweight and efficient in preventing heat transfer.

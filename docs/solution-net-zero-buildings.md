@@ -14,7 +14,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -32,9 +32,11 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Net+Zero+Buildings)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Net+Zero+Buildings)
 :::
+
 ## Overview
 
 The development of Net Zero Buildings is a significant advancement in the fight against climate change, encompassing breakthrough technologies like solar panels, wind turbines, and geothermal systems that drastically reduce greenhouse gas emissions. Leading entities driving this progress include the International Living Future Institute, U.S. Green Building Council, and Architecture 2030.

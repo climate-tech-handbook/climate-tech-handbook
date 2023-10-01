@@ -15,7 +15,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -25,9 +25,11 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Refrigerant+Management)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Refrigerant+Management)
 :::
+
 ## Overview
 
 The Montreal Protocol, which was originally signed in 1987 and amended in 1990, has been successful in reducing the production and consumption of chlorofluorocarbons (CFCs), which are greenhouse gases that contribute to climate change. The Montreal Protocol has phased out the production of CFCs and other harmful chemicals, and has helped to reduce the global warming potential of refrigerants by 95%. In addition, the Protocol has resulted in the destruction of over 6,000 metric tons of CFCs, which is the equivalent of removing 1.5 million cars from the road.

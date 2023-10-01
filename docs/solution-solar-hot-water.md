@@ -17,7 +17,7 @@ Here's your text with markdown syntax:
 
 <details>
         <summary>List of companies working in this solution...</summary>
-        Experimental feature. Exciting Updates Underway!
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -69,9 +69,11 @@ Here's your text with markdown syntax:
         </div>
         </details>
 
+
 :::company
-  #### [Jobs listed in this solution at Climatebase](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Solar+Hot+Water)
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Solar+Hot+Water)
 :::
+
 ## Overview
 
 Solar hot water systems have seen recent advancements in technology, making them more efficient and affordable. **Evacuated tube solar collectors**, such as SolarReserve and SolarCity, enhance solar radiation absorption, heating water for domestic use or generating electricity via solar thermal power.
