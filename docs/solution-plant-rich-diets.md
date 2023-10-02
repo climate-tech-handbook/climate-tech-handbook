@@ -19,9 +19,9 @@ pagination_prev: solutions
 
 <!--!!! info "We are tracking closely - join our mailing ist"-->
 
-
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -50,6 +50,11 @@ pagination_prev: solutions
             </ul>
         </div>
         </details>
+
+
+:::company
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Plant-Rich+Diets)
+:::
 
 ## Overview
 

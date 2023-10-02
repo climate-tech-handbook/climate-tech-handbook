@@ -11,9 +11,9 @@ pagination_prev: solutions
 [Click here to contribute content and feedback](contribute)
 :::
 
-
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -26,6 +26,11 @@ pagination_prev: solutions
             </ul>
         </div>
         </details>
+
+
+:::company
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Carpooling)
+:::
 
 ## Overview
 **Climate Technology Solution**: Carpooling

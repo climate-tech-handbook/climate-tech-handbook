@@ -17,6 +17,7 @@ Sure, here's a concise summary in bullet points:
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -27,6 +28,11 @@ Sure, here's a concise summary in bullet points:
             </ul>
         </div>
         </details>
+
+
+:::company
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Insulation)
+:::
 
 ## Overview
 

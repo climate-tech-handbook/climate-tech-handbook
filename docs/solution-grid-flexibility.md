@@ -16,6 +16,7 @@ Check out [Voltus](https://voltus.co) - a demand response software tool
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -36,6 +37,11 @@ Check out [Voltus](https://voltus.co) - a demand response software tool
             </ul>
         </div>
         </details>
+
+
+:::company
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Grid+Flexibility)
+:::
 
 ## Overview
 

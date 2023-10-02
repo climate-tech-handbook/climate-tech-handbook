@@ -17,6 +17,7 @@ Of course, I understand. Here's the summary of your article on small hydropower 
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -27,6 +28,11 @@ Of course, I understand. Here's the summary of your article on small hydropower 
             </ul>
         </div>
         </details>
+
+
+:::company
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Small+Hydropower)
+:::
 
 ## Overview
 

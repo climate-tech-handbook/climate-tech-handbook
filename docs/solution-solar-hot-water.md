@@ -17,6 +17,7 @@ Here's your text with markdown syntax:
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -67,6 +68,11 @@ Here's your text with markdown syntax:
             </ul>
         </div>
         </details>
+
+
+:::company
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Solar+Hot+Water)
+:::
 
 ## Overview
 

@@ -21,6 +21,7 @@ _Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distribute
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -59,6 +60,11 @@ _Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distribute
             </ul>
         </div>
         </details>
+
+
+:::company
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Energy+Storage)
+:::
 
 ## Overview
 

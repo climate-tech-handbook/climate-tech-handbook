@@ -19,6 +19,7 @@ Learn more from [The Business Network for Offshore Wind](https://www.offshorewin
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
         <div>
             <ul>
              
@@ -41,6 +42,11 @@ Learn more from [The Business Network for Offshore Wind](https://www.offshorewin
             </ul>
         </div>
         </details>
+
+
+:::company
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Offshore+Wind+Turbines)
+:::
 
 ## Overview
 
