@@ -30,6 +30,8 @@ Check your City
 - Coffee crawl
 - Panel
 - Lightning talks
+  - Formal
+  - Open Mic
 - Speed dating
 
 ## Trivia Night
