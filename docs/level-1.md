@@ -53,9 +53,15 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Pick your climate solution
 
+You may be tempted to apply for any open roles, regardless of their industry domain.
+
+**This is not recommended.**
+
+You should try to narrow down your focus to a specific solution.
+
 :::note Why pick a specific solution?
 This is a critical step for you to:
-1. **Focus your time** -  research top challenges that you are uniquely positioned to solve
+1. **Manage your time** -  research top challenges that you are uniquely positioned to solve
 
 2. **Build your network** - offer something to contribute for a specific community
 :::
@@ -68,12 +74,12 @@ In [Level 0](level-0) you learned about the two primary frameworks:
 
 - [Speed and Scale](level-0#speed-and-scale)
 
+They are all listed in The Handbook under our [Solutions Page](Solutions).
 
-Feel free to explore our [Solutions Page](solutions).
+### Where to begin?
 
-:::info Information Diet
-After you're done exploring, come back for guidance on your [Information Diet](#start-your-information-diet)
-:::
+Take a moment to browse, and then come back to this page to plan your Information Diet.
+
 
 <ImageCard
   title="Climate Solutions"
@@ -82,12 +88,55 @@ After you're done exploring, come back for guidance on your [Information Diet](#
   linkUrl="/solutions"
 />
 
+### What to look for
+
+- **Job openings** - every [Solutions](solutions) page has a link to job openings by that particular Solution or Sector.
+
+- **Transferrable Skills** - some [Solutions](solutions) are very software specific and easier to transfer over from a similar IT role.
+
+<!-- ??climate papa article. -->
+
+- **Industry risk** - some industries are better established, like electric vehicles and solar. Other solutions are earlier stage or have more volatility such as carbon markets.
+
+- **Co-benefits** - climate change is not our only ecological emergency. We also have a biodiversity crisis. Some solutions offer multiple benefits, such as land conservation and regenerative agricultural which can solve more than one problem. We must also incorporate solutions that intersect with other social challenges like poverty and inequity.
+
+<!-- ### Example Trends
+
+- **Electric vehicles** - 
+
+- **Electric utilities** - 
+
+- **Solar** - 
+
+- **Heat Pumps** -
+
+- **Hydrogren** - 
+
+- **Food and Agriculture**
+
+These are just a few examples to get you thinking. -->
+
+:::tip don't overthink it
+Climate tech is the next industrial revolution.
+
+**Every single thing we do has to be completely transformed.**
+
+It's more important that you start on something immediately and not spin your wheels too much.
+
+:::
+
 ## Start your Information Diet
 :::note What is that?
 Your daily and weekly routine.
 
-You'll need 2-10 hours per week to find a [Solution](solutions) and stay up to speed
+You'll need 2-10 hours per week to find a [Solution](solutions) and stay up to speed on the latest news.
 :::
+
+### Resource page
+
+Our complete set of resources are listed on our [Resources page](resources).
+
+Read below for guidance so you aren't overwhelemed.
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
 
@@ -101,10 +150,36 @@ You'll need 2-10 hours per week to find a [Solution](solutions) and stay up to s
 
 ### Speed and Scale - OKR Tracker
 
---headlines
+The Speed and Scale website has an OKR Tracker.
+
+This is a curated news feed to track progress on particular solution.
+
+For example:
+
+- Fertilizer
+
+- Alternative Cement
+
+- --x
+
+### Newsletters and Podcasts
+
+There are many to choose from.
+
+:::tip
+Find specific episodes that pertain to your solution.
+
+Especially if it features a founder or investor for a company on your top 10 list.
+:::
+
+Another amazing resource is -xx
+
 
 --climate resources site
 
+--we will get them embedded!
+
+### Topics within a community
 
 
 ## Productivity tips
