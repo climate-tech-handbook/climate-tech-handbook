@@ -1,8 +1,6 @@
 ---
 title: Electricity
 displayed_sidebar: docSidebar
-# hide_table_of_contents: true
-
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
@@ -14,6 +12,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ![](/../static/img/electricity.png)
 
 :::company Job openings
+
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Energy&p=0&remote=false)
 
 Then come back to learn more about a specific [Solution](#solutions-in-this-sector) in the Energy Sector
@@ -22,17 +21,18 @@ Then come back to learn more about a specific [Solution](#solutions-in-this-sect
 <!--Huge opportunity admonition-->
 
 :::caution
+
 ### Huge learning curve
 
-Be prepared to read [a lot of obscures PDFs like these](https://www.eia.gov/analysis/handbook/)
+Be prepared to read [a lot of obscure PDFs like these](https://www.eia.gov/analysis/handbook/)
 :::
 
 Overhauling electricity is a critical step.
 
 In addition to scaling new technologies, there are unique challenges such as:
 
- - The permitting process for new infrastructure
- - Responding to peak demand
+* The permitting process for new infrastructure
+* Responding to peak demand
 
 ## Solutions in this Sector
 
@@ -256,6 +256,7 @@ In addition to scaling new technologies, there are unique challenges such as:
     imageUrl="/img/onshore-wind-turbines.jpg"
     linkUrl="../solution-onshore-wind-turbines"
   />
+
 </div>
 
 - - -
