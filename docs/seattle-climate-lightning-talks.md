@@ -93,4 +93,4 @@ Vicki makes the case for why we should invest in consumer behavior shifts to com
 
 Former Logitech CTO presents a compelling case for businesses to transform their model of infinite growth into something that is both profitable and long lasting.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rNT0EoqzsPw?si=-nfIoNVd7yfu14lj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bzQwnc8fKn0?si=RbfozWzq5k0tNNrD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
