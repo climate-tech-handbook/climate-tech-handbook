@@ -15,6 +15,12 @@ Picture
 
 * Solar Industry Segments: Manufacturing, installation & maintenance, sales & distribution, project development, and research & development.
 
+Solar was once seen as too expensive, but the prices have dropped significantly in the last decade, and continue to do so.
+
+![price graph](/img/solar-price-chart.jpg)
+
+_Price chart from [pv-magazine.com](https://www.pv-magazine.com/magazine-archive/module-prices-falling-with-no-end-in-sight/)_
+
 ## Required Background & Experience:
 
 ###  Educational Background:
