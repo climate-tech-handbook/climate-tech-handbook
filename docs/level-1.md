@@ -150,26 +150,42 @@ Read below for guidance so you aren't overwhelemed.
 
 ### Speed and Scale - OKR Tracker
 
-The Speed and Scale website has an OKR Tracker.
+The Speed and Scale website has an [OKR Tracker](https://speedandscale.com/tracker/).
+
+OKR = Objective Key Results.
 
 This is a curated news feed to track progress on particular solution.
 
 For example:
 
-- Fertilizer
+- Farm [soil health](https://speedandscale.com/okrs/3-0-fix-food/3-1-farm-soils/), and alternative [fertilizers](https://speedandscale.com/okrs/3-0-fix-food/3-2-fertilizers/).
 
-- Alternative Cement
+- [Alternative Cement](https://speedandscale.com/okrs/5-0-clean-up-industry/5-2-cement/)
 
-- --x
+- [Policy battles](https://speedandscale.com/okrs/7-0-win-politics-and-policy/)
 
 ### Newsletters and Podcasts
 
-There are many to choose from.
+There are many to choose from on our [Resources Page](resources).
+
+**Examples:**
+
+- [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) with Shayle Kahn
+- The [My Climate Journey Podcast](https://www.mcjcollective.com/media/podcast)
+- [Volts](https://volts.wtf) (Electricity focused)
 
 :::tip
 Find specific episodes that pertain to your solution.
 
 Especially if it features a founder or investor for a company on your top 10 list.
+:::
+
+:::contribute Community topics and locations
+- X
+
+- X
+
+- #meet-seattle
 :::
 
 Another amazing resource is -xx
