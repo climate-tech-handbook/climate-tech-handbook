@@ -69,12 +69,12 @@ There is a path to solving this crisis and landing a job you love.
     title="Level 0"
     description="You're brand new, start with the basics"
     imageUrl="img/climate-tech-level-0-mario.jpg"
-    linkUrl="level-1"
+    linkUrl="/level-1"
     />
 <ImageCard
     title="Level 1"
     description="You're ready to hone in on your climate solution"
     imageUrl="img/level-1-mario.jpg"
-    linkUrl="level-1"
+    linkUrl="/level-1"
     />
 </div>

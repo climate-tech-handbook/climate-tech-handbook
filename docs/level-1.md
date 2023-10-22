@@ -26,13 +26,13 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
     title="Back to Level 0"
     description="You still need the basics"
     imageUrl="img/climate-tech-level-0-mario.jpg"
-    linkUrl="level-0"
+    linkUrl="/level-0"
     />
     <ImageCard
     title="Skip to Level 2"
     description="You already picked your climate solution"
     imageUrl="img/level-2-mario.jpg"
-    linkUrl="level-2"
+    linkUrl="/level-2"
     />
 </div>
 
