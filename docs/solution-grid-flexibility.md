@@ -39,7 +39,7 @@ Check out [Voltus](https://voltus.co) - a demand response software tool
         </details>
 
 
-:::company
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Grid+Flexibility)
 :::
 

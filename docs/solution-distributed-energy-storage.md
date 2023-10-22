@@ -62,7 +62,7 @@ _Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distribute
         </details>
 
 
-:::company
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Energy+Storage)
 :::
 

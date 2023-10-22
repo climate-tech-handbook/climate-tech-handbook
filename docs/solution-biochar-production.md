@@ -29,7 +29,7 @@ _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://ww
         </details>
 
 
-:::company
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biochar+Production)
 :::
 

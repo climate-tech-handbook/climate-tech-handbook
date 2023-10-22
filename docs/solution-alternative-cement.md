@@ -46,7 +46,7 @@ This a sample ChatGPT page to get the ball rolling.
         </details>
 
 
-:::company
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Cement)
 :::
 

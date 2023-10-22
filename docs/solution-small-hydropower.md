@@ -30,7 +30,7 @@ Of course, I understand. Here's the summary of your article on small hydropower 
         </details>
 
 
-:::company
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Small+Hydropower)
 :::
 

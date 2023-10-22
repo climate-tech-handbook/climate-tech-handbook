@@ -21,7 +21,7 @@ pagination_prev: solutions
         </details>
 
 
-:::company
+:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Abandoned+Farmland+Restoration)
 :::
 
