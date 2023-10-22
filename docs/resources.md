@@ -4,11 +4,6 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-:::note
-Heavy work in progress - more coming soon!
-:::
-
-
 <!-- ## Start here
 
 ### Pick your climate solution
@@ -38,30 +33,14 @@ Our growing database of:
 
 [![Nicole Kelner's Google Sheet](../static/img/nicoles-spreadsheet.png)](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0)
 
-<!-- <iframe
-  loading="lazy"
-  src="https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0"
-  scrolling="No"
-  height="600px"
-  width="100%"
-></iframe>
- -->
-<!-- <iframe
-  loading="lazy"
-  src="https://baserow.io/public/grid/F9iNqpzpbOSx1mAixwYzOaozLex-fjXn2JdUtTIc8TQ"
-  name="iFrame Name"
-  scrolling="No"
-  height="500px"
-  width="100%"
-></iframe> -->
+# Climate News
 
-<!-- ---
+[ClimateChangeResources.org](https://climatechangeresources.org) - is comprehensive and up to date.
 
-<iframe
-  loading="lazy"
-  src="https://baserow.io/form/uDIg8ORsHgdwV0AzwivTbulh194iJOpkB_Nslz_3VhY"
-  name="iFrame Name"
-  scrolling="Yes"
-  height="1000px"
-  width="100%"
-></iframe> -->
+[![CCR News Page](/img/ccr-news-page.png)](https://climatechangeresources.org)
+
+# Slack Communities
+
+[Complete list here](https://www.climatefinance.xyz/climate-slack-communities)
+
+[![Slack community logos](/img/slack-communities.png)](https://www.climatefinance.xyz/climate-slack-communities)
