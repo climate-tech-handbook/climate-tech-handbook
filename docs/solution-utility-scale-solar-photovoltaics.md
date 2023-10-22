@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *NREL Illustration of Typical Ground-Mounted Utility-Scale Solar PV Installation ([Northwest Power and Conservation Council](https://www.nwcouncil.org/2021powerplan_utility-scale-solar-pv_generating-resource-reference-plants/))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 Certainly, here's the overview section with a definition of utility-scale PV:
 
 <details>

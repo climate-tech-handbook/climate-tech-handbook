@@ -7,12 +7,6 @@ pagination_prev: solutions
 ![Cover Image](https://images.unsplash.com/photo-1607400201889-565b1ee75f8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxJbnN1bGF0aW9ufGVufDB8fHx8MTY4MzY1OTM5NQ&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@introspectivedsgn)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 Sure, here's a concise summary in bullet points:
 
 <details>

@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Lay-out design of Integrated System of Rice Intensification ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S037837741530055X#fig0005))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 ## Overview
 
 * **The System of Rice Intensification(SRI) Origin**: Developed in the 1980s by Henri de Laulanié in Madagascar.

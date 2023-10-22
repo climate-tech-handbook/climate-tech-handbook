@@ -6,12 +6,6 @@ pagination_prev: solutions
 
 ![Cement Factory](../static/img/cement-factory.jpg)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <iframe
   height="100px"
   width="100%"

@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Examples of Conservation Agriculture include: no tillage, crop residue retention as mulch, and crop rotations. Work with your local [Conservation District](https://www.nacdnet.org/) for assistance.*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental feature. Accuracy not guaranteed</em>

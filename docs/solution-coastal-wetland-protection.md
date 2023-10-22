@@ -6,12 +6,6 @@ pagination_prev: solutions
 
 ![Cover Image](../static/img/living-shorelines.png)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 :::tip [Delaware Living Shorelines Committee](https://www.delawarelivingshorelines.org/) is a great resource
 :::
 

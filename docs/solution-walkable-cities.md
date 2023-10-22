@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *15 minutes of walkable city ([Yes Magazine](https://www.yesmagazine.org/economy/2021/05/05/15-minute-city-walk))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental feature. Accuracy not guaranteed</em>

@@ -6,12 +6,6 @@ pagination_prev: solutions
 
 ![Cover Image](../static/img/biochar-kiln.jpg)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://www.vnews.com/Biochar-Demonstration-Offers-Alternative-to-Burn-Piles-46911424))
 
 <details>

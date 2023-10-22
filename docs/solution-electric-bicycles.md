@@ -7,12 +7,6 @@ pagination_prev: solutions
 ![Cover Image](https://images.unsplash.com/photo-1673969694073-23681e038413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxFbGVjdHJpYyUyMEJpY3ljbGVzfGVufDB8fHx8MTY4MzY1ODY2MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@eveloelectricbikes)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental feature. Accuracy not guaranteed</em>

@@ -6,12 +6,6 @@ pagination_prev: solutions
 ![Cover Image](/../static/img/farm-irrigation-efficiency.png)
 *An Aquaspy tube-style sensor - [farmprogress.com](https://www.farmprogress.com/corn/regional-research-needed-for-irrigation-efficiency)*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental feature. Accuracy not guaranteed</em>

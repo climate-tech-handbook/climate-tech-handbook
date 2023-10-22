@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Example of an oscillating water column and an OTEC power plant ([U.S. Government Accountability Office](https://www.gao.gov/products/gao-21-533sp))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental feature. Accuracy not guaranteed</em>

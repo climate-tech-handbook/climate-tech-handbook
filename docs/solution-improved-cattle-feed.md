@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Frank Mitloehner, UC Davis professor and air quality specialist, is researching feed alternatives, such as seaweed, that reduce methane from cow burps.* ([UC Davis](https://www.ucdavis.edu/food/news/making-cattle-more-sustainable))
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental feature. Accuracy not guaranteed</em>

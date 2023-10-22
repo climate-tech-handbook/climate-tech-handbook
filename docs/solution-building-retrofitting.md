@@ -6,12 +6,6 @@ pagination_prev: solutions
 
 ![Cover Image](../static/img/building-retrofitting.jpg)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-to-retrofit/)_
 
 <details>

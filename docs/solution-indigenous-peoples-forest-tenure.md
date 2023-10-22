@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Benefits of securing land tenure for indigenous people* **([Rights and Resouces](https://rightsandresources.org/learnmore/))**
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 ## Overview
 
 * **Technological Advancements:** Use of satellite imagery, drones, and GIS in forest management.

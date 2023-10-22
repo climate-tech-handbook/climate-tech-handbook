@@ -5,12 +5,6 @@ pagination_prev: solutions
 ---
 ![A microgrid comprises three basic components: an energy generator, a storage unit, and a controller to manage energy flow and usage.](/../static/img/microgrids.jpg)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental feature. Accuracy not guaranteed</em>

@@ -7,12 +7,6 @@ pagination_prev: solutions
 ![Cover Image](../static/img/efficient-ocean-shipping.png)
 _Image Credit: [Marine Insight](https://www.marineinsight.com/maritime-law/energy-efficiency-design-index/)_
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental feature. Accuracy not guaranteed</em>

@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Injecting CO2 into the Deep Ocean ([U.S. Naval Institute](https://www.usni.org/magazines/proceedings/2021/july/burial-sea-injecting-co2-deep-ocean))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental feature. Accuracy not guaranteed</em>

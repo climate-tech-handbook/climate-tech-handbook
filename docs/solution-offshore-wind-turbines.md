@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Offshore Wind Turbines ([Environment America](https://environmentamerica.org/center/resources/offshore-wind-for-america-3/))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 :::tip
 Learn more from [The Business Network for Offshore Wind](https://www.offshorewindus.org/), a 501(c)(3) nonprofit advocate.
 :::

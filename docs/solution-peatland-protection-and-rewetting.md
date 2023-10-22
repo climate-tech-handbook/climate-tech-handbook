@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *European peatlands gradually drained ([Sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/B9780128191668001274?via%3Dihub))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 ## Overview
 
 * **Peatland Protection and Rewetting**: Restores wetlands and prevents further degradation.

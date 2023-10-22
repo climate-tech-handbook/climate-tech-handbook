@@ -6,12 +6,6 @@ pagination_prev: solutions
 
 ![Distributed Energy Storage diagram](../static/img/distributed-energy-storage.jpg)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 _Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distributed-energy-resources)_
 
 :::tip Resources

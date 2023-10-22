@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Schematic of solar hot water system ([This Old House](https://www.thisoldhouse.com/green-home/21014968/solar-hot-water))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 Here's your text with markdown syntax:
 
 <details>

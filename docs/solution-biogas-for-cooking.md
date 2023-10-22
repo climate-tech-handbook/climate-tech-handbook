@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Demo from the [Biogas Handbook](https://turnwasteintoenergy.com/product/biogas-handbook-step-by-step-guide/)*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental feature. Accuracy not guaranteed</em>

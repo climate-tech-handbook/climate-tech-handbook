@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Rice production in Eastern Uruguay* 
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 ## Overview
 
 * The **Green Revolution** was a pivotal moment in history where agricultural advancements, such as fertilizers, pesticides, and irrigation methods, significantly boosted food production. Although beneficial for food security, these techniques led to environmental issues like soil degradation and water contamination.

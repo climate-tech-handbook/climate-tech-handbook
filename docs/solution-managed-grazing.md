@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Benefits of management rotational grazing ([Environmental and Energy Study Institute](https://www.eesi.org/articles/view/the-climate-and-economic-benefits-of-rotational-livestock-grazing))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
