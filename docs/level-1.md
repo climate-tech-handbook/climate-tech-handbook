@@ -156,7 +156,7 @@ OKR = Objective Key Results.
 
 This is a curated news feed to track progress on particular solution.
 
-For example:
+**Examples:**
 
 - Farm [soil health](https://speedandscale.com/okrs/3-0-fix-food/3-1-farm-soils/), and alternative [fertilizers](https://speedandscale.com/okrs/3-0-fix-food/3-2-fertilizers/).
 
@@ -171,53 +171,53 @@ There are many to choose from on our [Resources Page](resources).
 **Examples:**
 
 - [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) with Shayle Kahn
+
 - The [My Climate Journey Podcast](https://www.mcjcollective.com/media/podcast)
+
 - [Volts](https://volts.wtf) (Electricity focused)
 
 :::tip
-Find specific episodes that pertain to your solution.
+Find specific episodes _within_ a podcast that pertain to your solution.
 
-Especially if it features a founder or investor for a company on your top 10 list.
+Also, look for episodes featuring founders from your Top 10 list of companies.
 :::
 
-:::contribute Community topics and locations
-- X
+**Examples:**
 
-- X
+- You want to learn about electricity challenges: listen to an episode like ["Navigating the electrification gauntlet"](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann/navigating-the-electrification-gauntlet).
 
-- #meet-seattle
-:::
-
-Another amazing resource is -xx
+- You want to understand decarbonizing steel: [listen to an episode featuring the founder of Electra](https://www.mcjcollective.com/my-climate-journey-podcast/electra), and add them to your Top 10 company list.
 
 
---climate resources site
-
---we will get them embedded!
 
 ### Topics within a community
 
+The [Work on Climate Slack community](workonclimate.org) has channels based on topics and locations.
 
-## Productivity tips
+:::info Example topics and locations
+- [#learn-built-environment](https://app.slack.com/client/T017M28BLSG/C033K3U1ZQR)
 
-<!--[video]-->
-:::tip Tips for your research
-### How
+- [#learn-food-waste](https://workonclimate.slack.com/messages/C01K3JV2LNQ)
+
+- [#meet-seattle](https://workonclimate.slack.com/archives/C02EXRJPS66)
 :::
- - LinkedIn alerts
- - Podcast while cleaning, walking the dog, etc.
 
+## You did it!
 
-* Time Out / Timecamp
-* Tab jockey
-* Slack jockey
-* Keyboard saxaphone
-	* Shortcuts
-	* Paste buffer
-* Podcast habit
-* Email labels, star options, search
+You should now have some ideas on where to source your Information Diet and build a study habit for 2-10 hours per week.
 
+Now on to the FINAL level:
 
-:::contribute
-You can contribute
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+    <ImageCard
+    title="Start Level 2"
+    description="Pick your TOP 10 companies"
+    imageUrl="img/level-2-mario.jpg"
+    linkUrl="/level-2"
+    />
+</div>
+
+<br/>
+
+:::contribute [Help us](contribute) improve this page
 :::
