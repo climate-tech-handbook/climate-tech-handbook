@@ -44,8 +44,6 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ### In this lesson you will:
 - Pick a climate solution to research
 
-- Get to know 10 companies within that solution
-
 - Build your daily and weekly information diet
 
 - Build your profile and networking strategy
@@ -76,17 +74,18 @@ In [Level 0](level-0) you learned about the two primary frameworks:
 
 They are all listed in The Handbook under our [Solutions Page](Solutions).
 
-### Where to begin?
-
-Take a moment to browse, and then come back to this page to plan your Information Diet.
-
-
 <ImageCard
   title="Climate Solutions"
   description="An overview of all 12 sectors and 93 climate solutions"
   imageUrl="/img/aigen-robotics.png"
   linkUrl="/solutions"
 />
+
+### Where to begin?
+
+Take a moment to browse, and then come back to this page to plan your Information Diet.
+
+
 
 ### What to look for
 

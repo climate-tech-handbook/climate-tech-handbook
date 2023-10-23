@@ -6,17 +6,19 @@ pagination_label: 🕹️ Level 2
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ![video game pic](../static/img/level-2-mario.jpg)
-## Definition of LEVEL 1
+## Definition of LEVEL 2
 
 
 :::info Level 2
 **Stay here if you**:
 
-- Understand the basics from [Level 0](level-0)
+- Understand the basics from [Level 1](level-1)
 
-- You're committed to working on climate and need to hone in on a [Solution](#pick-your-climate-solution)
+- You've picked a [Climate Solution](#pick-your-climate-solution) to research deeply 
 
-- You need to build a solid [Information Diet](#start-your-information-diet) into your weekly routine 
+- You're ready to build your TOP 10 company list
+
+- You want to take your networking to the next level
 :::
 
 ### Wrong level?
