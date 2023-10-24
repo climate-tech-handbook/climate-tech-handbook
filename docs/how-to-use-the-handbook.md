@@ -32,19 +32,19 @@ Our model is loosely based off of Austin Belcak's [Dream Job System](https://cul
     <ImageCard
     title="Level 0"
     description="You're brand new. A basic overview of terms and common questions"
-    imageUrl="img/climate-tech-level-0-mario.jpg"
+    imageUrl="/img/climate-tech-level-0-mario.jpg"
     linkUrl="/level-0"
     />
 <ImageCard
     title="Level 1"
     description="You're ready to hone in on your climate solution"
-    imageUrl="img/level-1-mario.jpg"
+    imageUrl="/img/level-1-mario.jpg"
     linkUrl="/level-1"
     />
     <ImageCard
     title="Level 2"
     description="You have a solution but need to stand out in your job search"
-    imageUrl="img/level-2-mario.jpg"
+    imageUrl="/img/level-2-mario.jpg"
     linkUrl="/level-2"
     />
 </div>
@@ -78,7 +78,7 @@ Contributing to an open source project is the best way to prove yourself and gai
     <ImageCard
     title="Level 0"
     description="You're brand new. A basic overview of terms and common questions"
-    imageUrl="img/climate-tech-level-0-mario.jpg"
+    imageUrl="/img/climate-tech-level-0-mario.jpg"
     linkUrl="/level-0"
     />
 

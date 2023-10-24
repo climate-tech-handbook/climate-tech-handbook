@@ -21,14 +21,14 @@ Heavy work in progress - more coming soon!
   <ImageCard 
         title="Electricity"
         description="In order to electrify everything with zero emissions, we need to upgrade our entire infrastructure"
-        imageUrl="img/electricity.png"
+        imageUrl="/img/electricity.png"
         linkUrl="/sector-electricity"
     />
 
   <ImageCard 
         title="Electricity"
         description="In order to electrify everything with zero emissions, we need to upgrade our entire infrastructure"
-        imageUrl="img/electricity.png"
+        imageUrl="/img/electricity.png"
         linkUrl="/sector-electricity"
     />
 
