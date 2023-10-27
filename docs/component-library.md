@@ -1,5 +1,5 @@
 ---
-title: Replace with Page Title
+title: Component Library
 displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
