@@ -2,12 +2,18 @@
 title: Solar 
 displayed_sidebar: docSidebar
 ---
-:::caution
-Heavy work in progress
-[Help us](contribute) improve this page
-:::
 
-Picture
+![Solar Panels](/img/solar-panels.jpg)
+
+:::contribute Communities
+
+- Reddit [/r/solar]
+
+- Solar Punks
+
+- Solar Talk
+
+:::
 
 ## Overview
 
@@ -81,3 +87,5 @@ _Price chart from [pv-magazine.com](https://www.pv-magazine.com/magazine-archive
 * Mid-level: Project Manager, Senior Engineer, Sales Manager.
 
 * Senior-level: Director of Operations, Chief Technology
+
+_Photo by <a href="https://unsplash.com/@publicpowerorg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">American Public Power Association</a> on <a href="https://unsplash.com/photos/solar-panel-under-blue-sky-XGAZzyLzn18?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>_
