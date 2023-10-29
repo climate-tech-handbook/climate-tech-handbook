@@ -10,7 +10,7 @@ _Packing peanuts made from bioplastics (thermoplastic starch) ([Wikipedia](https
 
 <details>
         <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              

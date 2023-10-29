@@ -10,7 +10,7 @@ _Image from the California High-Speed Rail Authority_
 
 <details>
         <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental feature. Accuracy not guaranteed</em>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
