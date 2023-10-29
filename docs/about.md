@@ -47,7 +47,7 @@ We are made possible by our [Advisory Board](#advisory-board) and an active comm
 
 * [Wikipedia](https://wikipedia.org)
 * [The Change Handbook](https://www.bkconnection.com/books/title/the-change-handbook)
-* [The GitLab Handook](https://about.gitlab.com/handbook/)
+* [The GitLab Handook](https://handbook.gitlab.com)
 * [The Principles of journalism](https://journalistsresource.org/home/principles-of-journalism/)
 * [The Whole Earth Catalog](https://en.wikipedia.org/wiki/Whole_Earth_Catalog)
 
