@@ -41,6 +41,11 @@ Our growing database of:
 
 # Slack Communities
 
-[Complete list here](https://www.climatefinance.xyz/climate-slack-communities)
+First step:
+
+<a href="https://chat.climatetechhandbook.com" class="doc-button">Join Us</a>
+<br/>
+
+Then explore the [complete list here](https://www.climatefinance.xyz/climate-slack-communities)
 
 [![Slack community logos](/img/slack-communities.png)](https://www.climatefinance.xyz/climate-slack-communities)
