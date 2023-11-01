@@ -68,7 +68,8 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .navbar__item {
-  color: var(--ifm-color-primary);
+  /* color: var(--ifm-color-primary); older color*/
+  color: #23009B;
   padding-left: 30px;
   padding-right: 30px;
 }
@@ -88,7 +89,8 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .footer {
-  background-color: var(--ifm-color-primary);
+  /* background-color: var(--ifm-color-primary);old color */
+  background-color: rgba(176, 203, 221, 1);
   color: white;
 }
 
@@ -122,14 +124,14 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .contribute-button {
-  border-radius: 10px;
-  background-color: var(--ifm-color-secondary);
+  display: inline-flex;
+  padding: 10px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 32.5px;
+  background: #F9932B;
   color: white;
-  height: 40px;
-  display: flex;
-  align-items: center; /* Center vertically */
-  justify-content: center; /* Center horizontally */
-  border: 2px solid var(--ifm-color-secondary);
 }
 
 .contribute-button:hover {
@@ -241,4 +243,13 @@ details summary::before {
 
 details > div > div {
   border-top: 1px solid rgb(83, 83, 248) !important;
+}
+.markdown > h4{
+  font-size: 27px;
+}
+.footer__title{
+  color: #23009B;
+}
+.footer__link-item {
+  color: #23009B;
 }
