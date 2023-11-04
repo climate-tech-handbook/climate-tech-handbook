@@ -33,6 +33,15 @@ Our growing database of:
 
 [![Nicole Kelner's Google Sheet](../static/img/nicoles-spreadsheet.png)](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0)
 
+# Job Boards
+
+There are 81+ [on Nicole's sheet](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0). Try:
+
+- [Green Jobs Board](https://www.greenjobsboard.us/)
+- [ClimateBase](https://climatebase.org)
+- [Climate Tech List](https://climatetechlist.com)
+- [Terra.do](https://terra.do/climate-jobs/job-board/)
+
 # Climate News
 
 [ClimateChangeResources.org](https://climatechangeresources.org) - is comprehensive and up to date.
