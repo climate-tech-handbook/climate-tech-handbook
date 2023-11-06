@@ -39,6 +39,19 @@ test
 test
 :::
 
+### Detail box
+
+<details>
+  <summary><h3>Title here</h3></summary>
+  <div>
+    <div>
+      <h2>Header</h2>
+      <p>Paragraph</p>
+    </div>
+  </div>
+</details>
+
+
 ## Image Cards
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
