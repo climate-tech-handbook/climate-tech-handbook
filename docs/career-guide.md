@@ -12,7 +12,7 @@ You are committed to impactful climate work - congrats!
 :::note We will show you how to:
 1. Choose your [employer type](#choose-your-employer-type) and look at [job boards](#job-boards)
 2. Evaluate your [skills and experience](#evaluate-your-skills-and-experience)
-3. Build your [community and network](build-your-community-and-network)
+3. Build your [community and network](#build-your-community-and-network)
 4. Pick your [climate solution](solutions) and [information diet](resources)
 :::
 
