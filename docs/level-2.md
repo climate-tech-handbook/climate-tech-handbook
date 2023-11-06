@@ -59,7 +59,10 @@ You've poked around the [Climate Sectors and Solutions](solutions).
 
 Now it's time to pick just one!
 
-Then you'll hone in on just 10 companies.
+You don't have to stick with it forever.
+
+Try one out for 2-4 weeks, then decide if you want to switch.
+
 
 <ImageCard
   title="Climate Solutions"
@@ -67,6 +70,17 @@ Then you'll hone in on just 10 companies.
   imageUrl="/img/aigen-robotics.png"
   linkUrl="/solutions"
 />
+
+<br/>
+
+:::tip Example
+You're going to focus exclusively on seaweed farming. 
+
+You can spend your research time exploring the [phyconomy](https://phyconomy.net/) database and newsletter. 
+
+:::
+
+Now it's time to hone in on just 10 companies.
 
 ## TOP 10 Company List
 
@@ -85,51 +99,79 @@ Make a spreadsheet with columns:
 
 <!--Zach's Notion template-->
 
-Go to [ClimateBase](https://climatebase.org).
+Go to the [ClimateBase job board](https://climatebase.org/jobs).
 
-![SCREENSHOT OF FLITER](
+[![ClimateBase Drawdown Filter](/img/climatebase-drawdown-filter.png)](https://climatebase.org/jobs)
 
+Filter job openings by Drawdown Solution.
 
+After you add 10 companies who are hiring, add 5 more companies who aren't hiring
 
-Filter [job openings by Drawdown Solution](--URL)
+These extra 5 are your dream job companies.
 
-
-
-_note: the data is not too accurate but it's a good start. We are working on the first public database of companies and organizations by Drawdown Solution_
-
-
-Add 5 more organizations who aren't hiring.
+It's your long game strategy to network with those 5 companies so you can find a "hidden job" before it's publicly posted.
 
 <!--You can also explore the Climate Tech List verticals.-->
 
 
 ### STEP 3: Behavior
 
-
 :::note Remember
-> It is your behavior --x"
+
+It is your behavior that influences your attitude, not the other way around.
+
+Consistency is everything.
+
+Focus on actions not outcomes.
+:::
+
+- Set a goal of 5 outreach messages on Slack and LinkedIn, plus 5 connection requests per day.
+
+- Listen to one podcast episode per day on wireless headphones while doing dishes or cooking dinner.
+
+- Read one email newsletter per day.
+
+- Attend 1-3 webinars per week.
+
+:::info Best option
+[Help us write The Handbook](contribute) if you really want to become an expert!
 :::
 
 <!--Notion web clipper-->
 
+## Build your community and network
 
-Personal journal
+### Slack / Discord communities
 
-## aue
+1. [The Climate Tech Handbook](https://chat.climatetechhandbook.com)
+2. [Work on Climate](https://workonclimate.org)
+3. [MCJ Collective](https://mcjcollective.com)
+4. [Women in Climate](https://www.womenandclimate.co/slack)
+5. [DER Task Force](https://www.dertaskforce.com/) (DER = [Distributed Energy Resources](glossary#distributed-energy-resources-der))
+6. [Tofu](https://tofu4climate.substack.com/) - for marketers, Tofu = Top of Funnel
+7. [Climate Designers](https://www.climatedesigners.org)
 
-## Networking
+*[More listed here](https://www.climatefinance.xyz/climate-slack-communities)*
 
+### Local Meetups
 
-## Need more?
+* See if your city is listed in [climatetechcities.com](https://climatetechcities.com) 
+* **Host your own!** Here's a [short guide](https://docs.google.com/document/d/1wRzbTbouCaz_gdQ6bW7qaDNa1gk8M3pJkuTjJoYbPk8/edit) from MCJ Collective.
+* Start with a happy hour
+* You can experiment with a ☕️ [coffee crawl](coffee-crawl), Trivia Night, or [Lightning Talks](seattle-climate-lightning-talks) for example!
 
---Playbook goes deeper
+## Don't forget...
 
+Keep updating this spreadsheet after you get your job!
+
+Jot down your biggest success stories in your current role.
+
+Now you don't need to panic when it's time to aim even higher 🙂
 
 <!--Notion web clipper-->
 
 <!--Slack shortcuts-->
 
-Keep updating this spreadsheet after you get your job!
 
 
 :::contribute [Help us](contribute) improve this page
