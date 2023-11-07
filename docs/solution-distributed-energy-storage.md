@@ -6,7 +6,9 @@ pagination_prev: solutions
 
 ![Distributed Energy Storage diagram](../static/img/distributed-energy-storage.jpg)
 
-_Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distributed-energy-resources)_
+:::contribute Community
+[Join DER Task Force](https://dertaskforce.com/) on Slack
+:::
 
 :::tip Resources
  - [Intercalation Station](https://intercalationstation.substack.com) -  a battery specific newsletter
@@ -110,3 +112,5 @@ Continued development of distributed energy storage to mitigate climate change r
 2. **Public Awareness:** Highlighting benefits.
 3. **Government Incentives:** Encouraging adoption.
 4. **Business Model Innovation:** New approaches for storage.
+
+_Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distributed-energy-resources)_
