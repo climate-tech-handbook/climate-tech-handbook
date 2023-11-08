@@ -9,16 +9,14 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ## Definition of LEVEL 2
 
 
-:::info Level 2
+:::info Level 1
 **Stay here if you**:
 
-- Understand the basics from [Level 0](level-0) and [Level 1](level-1)
+- Understand the basics from [Level 1](level-1)
 
-- You've picked a [Climate Solution](solutions) to research more deeply
+- You're committed to working on climate and need to hone in on a [Solution](#pick-your-climate-solution)
 
-- You're ready to build your TOP 10 company list
-
-- You want to take your networking to the next level
+- You need to build a solid [Information Diet](#start-your-information-diet) into your weekly routine 
 :::
 
 ### Wrong level?
@@ -26,43 +24,55 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Back to Level 1"
-    description="You need to explore climate solutions"
-    imageUrl="/img/level-1-mario.jpg"
+    description="You still need the basics"
+    imageUrl="/img/climate-tech-level-1-mario.jpg"
     linkUrl="/level-1"
     />
     <ImageCard
-    title="Back to Level 0"
-    description="You still need the basics"
-    imageUrl="/img/climate-tech-level-0-mario.jpg"
-    linkUrl="/level-0"
+    title="Skip to Level 3"
+    description="You already picked your climate solution"
+    imageUrl="/img/level-3-mario.jpg"
+    linkUrl="/level-3"
     />
 </div>
 
 ## Lesson Start
 
-![business cat](/img/level-2-priorities.jpg)
+![business cat](/img/business-cat.jpg)
 
 :::note Lesson Overview
 ### In this lesson you will:
-- Pick a climate solution for your deep dive
+- Pick a climate solution to research
 
-- Get to know 10 companies within that solution
+- Build your daily and weekly information diet
 
-- Upgrade your daily and weekly information diet
-
-- Upgrade your profile and networking strategy
+- Build your profile and networking strategy
 :::
 
-## Climate Solution - Deep Dive
+## Pick your climate solution
 
-You've poked around the [Climate Sectors and Solutions](solutions).
+You may be tempted to apply for any open roles, regardless of their industry domain.
 
-Now it's time to pick just one!
+**This is not recommended.**
 
-You don't have to stick with it forever.
+You should try to narrow down your focus to a specific solution.
 
-Try one out for 2-4 weeks, then decide if you want to switch.
+:::note Why pick a specific solution?
+This is a critical step for you to:
+1. **Manage your time** -  research top challenges that you are uniquely positioned to solve
 
+2. **Build your network** - offer something to contribute for a specific community
+:::
+
+## Solution Frameworks
+
+In [Level 1](level-1) you learned about the two primary frameworks:
+
+- [Project Drawdown](level-1#project-drawdown)
+
+- [Speed and Scale](level-1#speed-and-scale)
+
+They are all listed in The Handbook under our [Solutions Page](Solutions).
 
 <ImageCard
   title="Climate Solutions"
@@ -71,108 +81,142 @@ Try one out for 2-4 weeks, then decide if you want to switch.
   linkUrl="/solutions"
 />
 
+### Where to begin?
+
+Take a moment to browse, and then come back to this page to plan your Information Diet.
+
+
+
+### What to look for
+
+- **Job openings** - every [Solutions](solutions) page has a link to job openings by that particular Solution or Sector.
+
+- **Transferrable Skills** - some [Solutions](solutions) are very software specific and easier to transfer over from a similar IT role.
+
+<!-- ??climate papa article. -->
+
+- **Industry risk** - some industries are better established, like electric vehicles and solar. Other solutions are earlier stage or have more volatility such as carbon markets.
+
+- **Co-benefits** - climate change is not our only ecological emergency. We also have a biodiversity crisis. Some solutions offer multiple benefits, such as land conservation and regenerative agricultural which can solve more than one problem. We must also incorporate solutions that intersect with other social challenges like poverty and inequity.
+
+<!-- ### Example Trends
+
+- **Electric vehicles** - 
+
+- **Electric utilities** - 
+
+- **Solar** - 
+
+- **Heat Pumps** -
+
+- **Hydrogren** - 
+
+- **Food and Agriculture**
+
+These are just a few examples to get you thinking. -->
+
+:::tip don't overthink it
+Climate tech is the next industrial revolution.
+
+**Every single thing we do has to be completely transformed.**
+
+It's more important that you start on something immediately and not spin your wheels too much.
+
+:::
+
+## Start your Information Diet
+:::note What is that?
+Your daily and weekly routine.
+
+You'll need 2-10 hours per week to find a [Solution](solutions) and stay up to speed on the latest news.
+:::
+
+### Resource page
+
+Our complete set of resources are listed on our [Resources page](resources).
+
+Read below for guidance so you aren't overwhelemed.
+
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+
+<ImageCard
+  title="Resources"
+  description="Newsletters, podcasts, media coverage, and other materials."
+  imageUrl="/img/healthy-lifestyle.jpg"
+  linkUrl="/resources"
+/>
+</div>
+
+### Speed and Scale - OKR Tracker
+
+The Speed and Scale website has an [OKR Tracker](https://speedandscale.com/tracker/).
+
+OKR = Objective Key Results.
+
+This is a curated news feed to track progress on particular solution.
+
+**Examples:**
+
+- Farm [soil health](https://speedandscale.com/okrs/3-0-fix-food/3-1-farm-soils/), and alternative [fertilizers](https://speedandscale.com/okrs/3-0-fix-food/3-2-fertilizers/).
+
+- [Alternative Cement](https://speedandscale.com/okrs/5-0-clean-up-industry/5-2-cement/)
+
+- [Policy battles](https://speedandscale.com/okrs/7-0-win-politics-and-policy/)
+
+### Newsletters and Podcasts
+
+There are many to choose from on our [Resources Page](resources).
+
+**Examples:**
+
+- [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) with Shayle Kahn
+
+- The [My Climate Journey Podcast](https://www.mcjcollective.com/media/podcast)
+
+- [Volts](https://volts.wtf) (Electricity focused)
+
+:::tip
+Find specific episodes _within_ a podcast that pertain to your solution.
+
+Also, look for episodes featuring founders from your Top 10 list of companies.
+:::
+
+**Examples:**
+
+- You want to learn about electricity challenges: listen to an episode like ["Navigating the electrification gauntlet"](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann/navigating-the-electrification-gauntlet).
+
+- You want to understand decarbonizing steel: [listen to an episode featuring the founder of Electra](https://www.mcjcollective.com/my-climate-journey-podcast/electra), and add them to your Top 10 company list.
+
+
+
+### Topics within a community
+
+The [Work on Climate Slack community](workonclimate.org) has channels based on topics and locations.
+
+:::info Example topics and locations
+- [#learn-built-environment](https://app.slack.com/client/T017M28BLSG/C033K3U1ZQR)
+
+- [#learn-food-waste](https://workonclimate.slack.com/messages/C01K3JV2LNQ)
+
+- [#meet-seattle](https://workonclimate.slack.com/archives/C02EXRJPS66)
+:::
+
+## You did it!
+
+You should now have some ideas on where to source your Information Diet and build a study habit for 2-10 hours per week.
+
+Now on to the FINAL level:
+
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+    <ImageCard
+    title="Start Level 3"
+    description="Pick your TOP 10 companies"
+    imageUrl="/img/level-3-mario.jpg"
+    linkUrl="/level-3"
+    />
+</div>
+
 <br/>
-
-:::tip Example
-You're going to focus exclusively on seaweed farming. 
-
-You can spend your research time exploring the [phyconomy](https://phyconomy.net/) database and newsletter. 
-
-:::
-
-Now it's time to hone in on just 10 companies.
-
-## TOP 10 Company List
-
-Start simple.
-
-### STEP 1: Spreadsheet
-Make a spreadsheet with columns:
-
-- Company
-- LinkedIn page URL
-- Challenges
-- Opportunities
-- Network
-
-### STEP 2: Company Data
-
-<!--Zach's Notion template-->
-
-Go to the [ClimateBase job board](https://climatebase.org/jobs).
-
-[![ClimateBase Drawdown Filter](/img/climatebase-drawdown-filter.png)](https://climatebase.org/jobs)
-
-Filter job openings by Drawdown Solution.
-
-After you add 10 companies who are hiring, add 5 more companies who aren't hiring
-
-These extra 5 are your dream job companies.
-
-It's your long game strategy to network with those 5 companies so you can find a "hidden job" before it's publicly posted.
-
-<!--You can also explore the Climate Tech List verticals.-->
-
-
-### STEP 3: Behavior
-
-:::note Remember
-
-It is your behavior that influences your attitude, not the other way around.
-
-Consistency is everything.
-
-Focus on actions not outcomes.
-:::
-
-- Set a goal of 5 outreach messages on Slack and LinkedIn, plus 5 connection requests per day.
-
-- Listen to one podcast episode per day on wireless headphones while doing dishes or cooking dinner.
-
-- Read one email newsletter per day.
-
-- Attend 1-3 webinars per week.
-
-:::info Best option
-[Help us write The Handbook](contribute) if you really want to become an expert!
-:::
-
-<!--Notion web clipper-->
-
-## Build your community and network
-
-### Slack / Discord communities
-
-1. [The Climate Tech Handbook](https://chat.climatetechhandbook.com)
-2. [Work on Climate](https://workonclimate.org)
-3. [MCJ Collective](https://mcjcollective.com)
-4. [Women in Climate](https://www.womenandclimate.co/slack)
-5. [DER Task Force](https://www.dertaskforce.com/) (DER = [Distributed Energy Resources](glossary#distributed-energy-resources-der))
-6. [Tofu](https://tofu4climate.substack.com/) - for marketers, Tofu = Top of Funnel
-7. [Climate Designers](https://www.climatedesigners.org)
-
-*[More listed here](https://www.climatefinance.xyz/climate-slack-communities)*
-
-### Local Meetups
-
-* See if your city is listed in [climatetechcities.com](https://climatetechcities.com) 
-* **Host your own!** Here's a [short guide](https://docs.google.com/document/d/1wRzbTbouCaz_gdQ6bW7qaDNa1gk8M3pJkuTjJoYbPk8/edit) from MCJ Collective.
-* Start with a happy hour
-* You can experiment with a ☕️ [coffee crawl](coffee-crawl), Trivia Night, or [Lightning Talks](seattle-climate-lightning-talks) for example!
-
-## Don't forget...
-
-Keep updating this spreadsheet after you get your job!
-
-Jot down your biggest success stories in your current role.
-
-Now you don't need to panic when it's time to aim even higher 🙂
-
-<!--Notion web clipper-->
-
-<!--Slack shortcuts-->
-
-
 
 :::contribute [Help us](contribute) improve this page
 :::

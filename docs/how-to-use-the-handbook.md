@@ -28,22 +28,22 @@ Our model is loosely based off of Austin Belcak's [Dream Job System](https://cul
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
-    title="Level 0"
-    description="You're brand new. A basic overview of terms and common questions"
-    imageUrl="/img/climate-tech-level-0-mario.jpg"
-    linkUrl="level-0"
-    />
-<ImageCard
     title="Level 1"
-    description="You're ready to hone in on your climate solution"
-    imageUrl="/img/level-1-mario.jpg"
+    description="You're brand new. A basic overview of terms and common questions"
+    imageUrl="/img/climate-tech-level-1-mario.jpg"
     linkUrl="level-1"
     />
-    <ImageCard
+<ImageCard
     title="Level 2"
-    description="You have a solution but need to stand out in your job search"
+    description="You're ready to hone in on your climate solution"
     imageUrl="/img/level-2-mario.jpg"
     linkUrl="level-2"
+    />
+    <ImageCard
+    title="Level 3"
+    description="You have a solution but need to stand out in your job search"
+    imageUrl="/img/level-3-mario.jpg"
+    linkUrl="level-3"
     />
 </div>
 
@@ -70,14 +70,14 @@ Contributing to an open source project is the best way to prove yourself and gai
 :::
 
 
-## Start Level 0
+## Start Level 1
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
-    title="Level 0"
+    title="Level 1"
     description="You're brand new. A basic overview of terms and common questions"
-    imageUrl="/img/climate-tech-level-0-mario.jpg"
-    linkUrl="level-0"
+    imageUrl="/img/climate-tech-level-1-mario.jpg"
+    linkUrl="level-1"
     />
 
 </div>

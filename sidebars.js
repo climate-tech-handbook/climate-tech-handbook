@@ -26,11 +26,6 @@ module.exports = {
         },
         {
           type: 'doc',
-          id: 'level-0',
-          label: 'Level 0',
-        },
-        {
-          type: 'doc',
           id: 'level-1',
           label: 'Level 1',
         },
@@ -38,6 +33,11 @@ module.exports = {
           type: 'doc',
           id: 'level-2',
           label: 'Level 2',
+        },
+        {
+          type: 'doc',
+          id: 'level-3',
+          label: 'Level 3',
         },
       ],
     },
