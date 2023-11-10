@@ -113,6 +113,8 @@ Climate tech can be seen as a "Clean tech Version 2.0" the 2020s.
 
 - [How do I avoid greenwashing?](#how-do-i-avoid-greenwashing)
 
+- [Day in the Life of a climate professional](https://www.opendoorclimate.com/day-in-the-life?offset=1677868884207&reversePaginate=true)
+
 <!--questions about IT tech, deep tech, hard tech, and trade work-->
 
 :::

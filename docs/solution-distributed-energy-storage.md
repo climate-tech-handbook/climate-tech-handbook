@@ -11,6 +11,7 @@ pagination_prev: solutions
 :::
 
 :::tip Resources
+ - [Reading guide](https://miro.com/app/board/uXjVNd1IcnU=/)
  - [Intercalation Station](https://intercalationstation.substack.com) -  a battery specific newsletter
  - [InDERmediate](https://www.indermediate.com/) podcast -  move up your clean energy knowledge from beginner to intermediate level
 :::

@@ -16,8 +16,11 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 #### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Materials+%26+Manufacturing&p=0&remote=false)
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
+:::
 
-<!--This is the best strategy to accelerate your expertise as a top candidate-->
+:::newsletter Newsletters
+- [Industry Decarbonization](https://industrydecarbonization.com/)
+- [Survival Club](https://survival.club)
 :::
 
 The industry sector can contribute to low-carbon innovation, by developing and manufacturing technologies necessary for the energy transition, such as batteries, wind turbines, and solar panels.

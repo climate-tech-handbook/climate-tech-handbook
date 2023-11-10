@@ -93,8 +93,6 @@ Leading Innovators:
 
 - **Tesla:** Powerwall for home energy storage from solar panels.
 - **SunPower:** Solar energy storage system.
-- **LG**
-- **Samsung**
 
 ## Progress Made
 
