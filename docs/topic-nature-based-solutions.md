@@ -9,11 +9,15 @@ _Image credit: ([MIT Climate Portal)](https://climate.mit.edu/explainers/soil-ba
 [Click here to contribute content and feedback](contribute)
 :::
 
-:::info Job Board
+:::company Job Board
 [Nature Tech](https://naturetech.io/) - specifically for nature based solutions
 :::
 
-## The Big Question:
+:::podcast
+[Solving Climate Naturally](https://www.solvingclimatenaturally.com/)
+:::
+
+## A Big Question:
 
 To what degree should nature-based solutions be a part of carbon markets?
 
