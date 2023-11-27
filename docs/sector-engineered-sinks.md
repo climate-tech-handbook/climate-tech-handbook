@@ -13,7 +13,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ![Biochar use cases for climate change mitigation](/../static/img/biochar-production.jpg)
 
 :::company Job openings
-#### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Carbon+Removal+Tech&p=0&remote=false)
+### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Carbon+Removal+Tech&p=0&remote=false)
 
 Then come back to learn more about this [Solution](#solutions-in-this-sector)
 

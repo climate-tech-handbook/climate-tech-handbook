@@ -14,7 +14,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ![](/../static/img/coastal-and-ocean-sinks.png)
 
 :::company Job openings
-#### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Coastal+%26+Ocean+Sinks&p=0&remote=false)
+### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Coastal+%26+Ocean+Sinks&p=0&remote=false)
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
 

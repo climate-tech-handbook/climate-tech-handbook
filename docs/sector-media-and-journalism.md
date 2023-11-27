@@ -12,7 +12,7 @@ displayed_sidebar: docSidebar
 ![](/../static/img/journalism.jpg)
 
 :::company Job openings
-#### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Media+%26+Journalism&p=0&remote=false)
+### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Media+%26+Journalism&p=0&remote=false)
 
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
