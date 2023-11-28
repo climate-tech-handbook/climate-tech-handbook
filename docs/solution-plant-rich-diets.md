@@ -1,5 +1,5 @@
 ---
-title: Plant-Rich Diets / Meat alternatives
+title: Plant-Rich Diets / Non-animal protein
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
@@ -8,7 +8,7 @@ pagination_prev: solutions
 *Plant-Rich Diets ([ESRAG](https://esragdev.com/project/plant-rich-diets/))*
 
 :::info success 🏅Ranked in the top 5 most effective climate solutions on the planet.
- With the potential to reduce **78.33 Gigatons** from our 1050.91 Gigaton Drawdown Goal, supporting meat alternatives are the 2nd highest out of 93 total [Project Drawdown Solutions](../solutions-explorer).
+ With the potential to reduce **78.33 Gigatons** from our 1050.91 Gigaton Drawdown Goal, supporting meat alternatives are the 2nd highest out of 93 total [Project Drawdown Solutions](solutions).
 :::
 
 :::tip If you want a tech job supporting meat alternatives

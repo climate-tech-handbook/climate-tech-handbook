@@ -3,8 +3,19 @@ title: Hydrogen
 displayed_sidebar: docSidebar
 ---
 
-:::tip
-[Hydrogen Explained - Climate Drift](https://www.climatedrift.com/p/hydrogen-explained-part-1)
+:::company Job Boards
+- [H2 Jobs](https://h2-jobs.com/)
+- [Climate Tech List](https://www.climatetechlist.com/search/text/hydrogen) - search for Hydrogen
+:::
+
+:::note Go in depth
+- [Hydrogen Explained - Climate Drift](https://www.climatedrift.com/p/hydrogen-explained-part-1)
+- [News on hydrogen](https://www.canarymedia.com/articles/hydrogen) - Canary Media
+- [Hydrogen Council](https://hydrogencouncil.com/en/) (pro hydrogen)
+:::
+
+:::podcast Podcast
+- [The Hydrogen Podcast](https://podcasts.apple.com/us/podcast/the-hydrogen-podcast/id1560907194)
 :::
 
 ## Understanding the Hydrogen Industry:
@@ -12,20 +23,33 @@ displayed_sidebar: docSidebar
 There are 4 types of hydrogen:
 
 * Green (electrolysis)
+
 * Blue (steam methane reforming with CO2 capture)
+
 * Grey (without CO2 capture)
+
 * Turquoise (pyrolysis).
 
-* Industry Applications: Fuel cells, power generation, transportation (hydrogen-powered vehicles), and industrial processes
+<br/>
+
+Examples of how hydrogen can be used:
+
+- [Utility-Scale Energy Storage](solution-utility-scale-energy-storage)
+
+- Power generation
+
+- Transportation (hydrogen-powered vehicles)
+
+- Industrial processes
 
 ## Required Background & Experience:
 
 ### Educational Background:
 * Technical Roles: Engineering degrees in chemical, mechanical, environmental, or energy disciplines.
-* Sales & Marketing: Business degrees or experience in sales/marketing, especially within the energy sector.
-* Research: Advanced degrees in material science, energy studies, or related fields.
 
-* Soft Skills: Critical thinking, innovation, teamwork, communication.
+* Sales & Marketing: Business degrees or experience in sales/marketing, especially within the energy sector.
+
+* Research: Advanced degrees in material science, energy studies, or related fields.
 
 ## Where to Start:
 * Internships: Leading hydrogen companies and startups often offer internships to train the next generation.
@@ -35,27 +59,22 @@ There are 4 types of hydrogen:
 * Entry-level Positions: Roles in hydrogen production facilities, research labs, or hydrogen-based product companies.
 
 ## Resources for Staying Up-to-Date:
-* Podcasts & Newsletters:
 
-* [The Hydrogen Podcast](https://podcasts.apple.com/us/podcast/the-hydrogen-podcast/id1560907194)
+Books:
 
-* Websites:
-
-* [Hydrogen Council](https://hydrogencouncil.com/)
-* [International Association for Hydrogen Energy (IAHE)](https://www.iahe.org/)
-* Books:
 * "The Hydrogen Economy" by Jeremy Rifkin
-* "Hydrogen: The Essential Element" by John S. Rigden
-* Courses:
-* Platforms like Coursera and Udemy have started offering courses related to hydrogen technologies.
-* Universities around the world are developing specialized programs in hydrogen and fuel cell technologies.
-* Forums & Communities: Engage in discussions on dedicated hydrogen industry forums and related subreddits.
 
-## Job Platforms & Websites:
-* General: LinkedIn, Indeed, Glassdoor.
-* Hydrogen-specific: H2-Jobs, Hydrogen Fuel News Jobs Section.
+* "Hydrogen: The Essential Element" by John S. Rigden
+
+Courses:
+
+* Coursera and Udemy have started offering courses related to hydrogen technologies.
+
+* Universities around the world are developing specialized programs in hydrogen and fuel cell technologies.
 
 ## Career Progression & Potential Roles:
 * Entry-level: Hydrogen Technician, Lab Researcher, Business Development Associate.
+
 * Mid-level: Production Manager, Lead Engineer, Strategy & Market Development Manager.
+
 * Senior-level: Director of Operations, Chief Engineer, R&D Lead.
