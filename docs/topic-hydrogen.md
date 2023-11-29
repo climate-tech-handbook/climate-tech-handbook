@@ -11,6 +11,7 @@ displayed_sidebar: docSidebar
 :::note Go in depth
 - [Hydrogen Explained - Climate Drift](https://www.climatedrift.com/p/hydrogen-explained-part-1)
 - [News on hydrogen](https://www.canarymedia.com/articles/hydrogen) - Canary Media
+- [Green Hydrogen Tracker](https://speedandscale.com/okrs/9-0-innovate/9-3-green-hydrogen/) - Speed and Scale
 - [Hydrogen Council](https://hydrogencouncil.com/en/) (pro hydrogen)
 :::
 

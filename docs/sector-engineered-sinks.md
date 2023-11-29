@@ -35,7 +35,7 @@ However, Project Drawdown has only assessed biochar, which is ready today and it
     title="Carbon Capture and Storage"
     description="Machines that can capture CO2 emissions"
     imageUrl="/img/biochar-kiln.jpg"
-    linkUrl="../solution-carbon-capture-and-storage"
+    linkUrl="../topic-carbon-capture-and-storage"
     />
 </div>
 

@@ -78,7 +78,7 @@ test
   height="175" 
   style={{width:'100%', maxWidth:'660px', overflow:'hidden', borderRadius:'10px'}} 
   sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-  src="https://embed.podcasts.apple.com/us/podcast/how-to-accelerate-rooftop-solar-household-batteries/id1548554104?i=1000628024034"
+  src="https://player.simplecast.com/48f461ac-a9c3-4c9e-8288-207b588d8a60?dark=true&wmode=opaque"
 />
 
 ---
