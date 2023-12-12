@@ -4,6 +4,7 @@ import { useHistory } from "@docusaurus/router";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import { usePluginData } from '@docusaurus/useGlobalData';
 import useIsBrowser from "@docusaurus/useIsBrowser";
+
 const Search = props => {
   const initialized = useRef(false);
   const searchBarRef = useRef(null);
