@@ -4,9 +4,33 @@ displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
 
+import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagination.jsx'; 
+
 ![Cover Image](../static/img/geothermal-power.jpg)
 
 _Krafla, a geothermal power station in Iceland_
+
+:::podcast podcast
+  <PodcastPagination iframes={[
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/35ea4392-6765-45f1-84f1-a26be74238b7?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/a4869646-c65c-47ec-84a1-258608140b79?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/a555726b-0209-4a73-ae7e-12c668951cca?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/d6923cf6-8506-4aa2-a9b4-73e71eef0f60?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/f38669d9-5f00-4634-a43f-1eb8a3b571b0?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/6494cd57-98a7-4deb-8c93-dc0786d3f384?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/2e617094-02b6-4773-ac03-efed55995e3b?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/a9bf8a03-6078-486f-875a-514b0e07a1c4?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/e23f7238-14d2-430d-b553-a341142bbb4e?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/1cdb3ff0-145d-4695-9fab-333b70a81195?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/661850dc-9482-43c7-9fef-4de5338166d4?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/a9ad8691-74c9-426a-a791-430620cbc59a?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/8bc245bd-7b9c-4d6c-b444-cd1ecd99c100?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/fc7a7a98-5739-4d4f-8abc-081bf204f7e7?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/dbfd3ce0-8ce8-4504-9457-88dcbc0135df?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b59214ec-4bda-4957-8d31-681522fe8a5c?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/54cd32c3-500c-41f4-95cc-d64a654bb2c4?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+  ]}/>
+:::
 
 <details>
         <summary>List of companies working in this solution...</summary>

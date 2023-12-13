@@ -3,9 +3,22 @@ title: Improved Manure Management
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
+
+import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagination.jsx'; 
+
 ![Cover Image](../static/img/manure-management.jpg)
 
 *Learn about manure management from the [University of Minnesota Extension](https://extension.umn.edu/livestock-operations/manure-management)*
+
+:::podcast podcast
+  <PodcastPagination iframes={[
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b2f2929d-1fe5-4805-8820-8e2779aeeac6?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/a23de586-d471-4d79-bc17-b27733b2972a?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/1aec5f86-d2ab-4ce5-bbe2-64c8d01a7c5e?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b0a116d9-cc05-4476-8193-62603414251e?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/80cffd5b-0c28-4073-a19b-d827958f4877?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+  ]}/>
+:::
 
 ## Overview
 

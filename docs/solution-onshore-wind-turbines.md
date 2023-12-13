@@ -3,9 +3,26 @@ title: Onshore Wind Turbines
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
+
+import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagination.jsx'; 
+
 ![Wind farms, either onshore or offshore, can include floating turbines in deep sea areas.](/../static/img/onshore-wind-turbines.jpg)
 
 *Types of wind farms ([Mare Wind](https://www.marewind.eu/news/wind-energy-basics/))*
+
+:::podcast podcast
+  <PodcastPagination iframes={[
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/9bd477bf-b300-4664-b3b5-702b33925b57?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/d0f95331-b941-4004-a25d-7e928c3a0166?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/ba7b8289-4be5-4ca4-ac50-44363fba19ee?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b5f216d5-5043-41e4-ab1c-d514ce8932b0?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/e6414b9e-5b98-4344-8773-f0e575cbd73f?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/53bc8bda-2c31-472d-87ab-0bfde42f3712?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/0f463338-4129-425d-a6de-8c1dc0c32649?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/44c8dafa-4689-4731-a3a2-24f897198d33?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/1121e3a2-18f4-40f1-82ca-ba348335ff2c?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+  ]}/>
+:::
 
 <details>
         <summary>List of companies working in this solution...</summary>

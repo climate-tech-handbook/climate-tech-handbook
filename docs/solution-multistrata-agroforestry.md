@@ -4,11 +4,33 @@ displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
 
+import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagination.jsx'; 
+
 # Multistrata Agroforestry
 
 ![The Falcata plants are randomly distributed on the residual and erosional slope units in the agroforestry. The multilayer trees sequentially consist of Falcata–Petai–Teak–Rambutan and Coffee plants.](/../static/img/multistrata-agroforestry.webp)
 
 *The actual plant layout in the agroforestry land use ([MDPI Open Access Journals](https://www.mdpi.com/2073-445X/9/9/327#fig_body_display_land-09-00327-f005))*
+
+:::podcast podcast
+  <PodcastPagination iframes={[
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/f546865e-2d5b-45ba-9dae-a1ceec1ff2b7?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/437cbbed-48ff-4c28-91f9-afb115cfb949?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/d6cd3659-9783-4078-b8f8-4d189f49ed05?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/086f9d25-cb6e-4256-914e-a4288cbe5ff9?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/279a9669-eb88-491b-b386-18a1cf980901?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/cb30d1fa-44a6-4fd8-818b-f8307c1c39b0?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b8ee1ad2-0ddc-4d7e-b012-947a59a315ea?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/452b03f5-39f4-4b03-bf66-7a9fdbdf947f?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/0cb87e67-c3df-4ed0-8db6-c8c69686f8a9?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/02cb2a27-2ffa-4d4d-ab76-6f07de4ca751?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/f06d9e20-71c5-489b-9acb-b806afcba5d4?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/7025c0c4-b45b-4f5f-be8e-7db38e0a3ee1?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/bf370c32-06ab-447e-a18f-a575ef3612a4?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/625a8837-01d0-4c83-bfc4-be100346db33?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/f3137f3c-2e90-4557-b90f-68ebab20145c?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+  ]}/>
+:::
 
 <details>
         <summary>List of companies working in this solution...</summary>

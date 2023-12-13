@@ -3,11 +3,37 @@ title: Tropical Forest Restoration
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
+
+import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagination.jsx'; 
+
 ![The graphic displays the recovery of soil, ecosystem functioning, forest structure, and tree biodiversity as tropical forests regrow on former agricultural lands.](/../static/img/tropical-forest-restoration.jpg)
 
 *Changes in soil, ecosystem functioning, forest structure and tree biodiversity as tropical rainforests restoration ([The Conversation](https://theconversation.com/tropical-forests-can-recover-surprisingly-quickly-on-deforested-lands-and-letting-them-regrow-naturally-is-an-effective-and-low-cost-way-to-slow-climate-change-173302))*
 
 <!--EndFragment-->
+
+:::podcast podcast
+  <PodcastPagination iframes={[
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/bae81b16-d532-42b8-a1c1-85872ddd4e1e?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/8335e303-179b-465b-963c-99e4eb9ebb2d?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/7807bc37-e4ea-4dd1-b19b-2df8e9c9957c?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/6807ee51-30e1-4477-971a-05fe615c09aa?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/e874af1d-7b6b-4977-922f-90f3c8632e86?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/dcacac96-e049-480e-a255-7eee6a728fb9?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/7a973f45-a744-496e-b76b-5ed6979eac64?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/db45d41e-0dc3-4b47-9fed-452fb8b7f544?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/cdb39bac-8dcb-469f-9aae-e443dbcdb116?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/6de40bbd-678a-4090-856f-8f5a384cf944?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/8a7be5a4-173f-4a01-bef7-44e3a1bdb07d?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/0167b2df-f976-4a45-afc0-9b16528abe7e?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/9d0c8588-8e5c-44f2-9482-87990c0cd496?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/9eb94cb6-6ac8-4b1b-8a30-44132b72935a?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/c716436b-21ff-4986-b180-ab6b76e47d2f?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/a1924d13-614c-4f8d-871a-7c752dea2c93?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/569b8b94-3f6c-48c8-b6d7-edb3a1325274?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/f1027e5e-8fbd-4c9b-8673-0ada2eaf4648?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+  ]}/>
+:::
 
 ## Overview
 

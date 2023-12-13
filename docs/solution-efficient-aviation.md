@@ -4,8 +4,23 @@ displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
 
+import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagination.jsx'; 
+
 ![Cover Image](../static/img/electric-aircraft.jpg)
 _Image Credit: [Financial Times](https://www.ft.com/content/a9dc81d2-725e-11e9-bf5c-6eeb837566c5)_
+
+:::podcast podcast
+  <PodcastPagination iframes={[
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/c927972f-b903-4ef3-b5f5-2547abd3c0fe?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/6e142237-9770-479d-80ad-eeb264b2f97c?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/69c6793b-0c85-4911-baa9-f01142d73f77?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/00d60395-fe25-449e-823b-0de90303dbd2?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/ecee5c5d-f7df-4fc0-9611-84c9cf49db90?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/35fa6fcb-67bd-41ec-b439-e587cfeece60?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/4e5ac405-80a6-4ea4-92ca-3b95233ffed6?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/1341bbf5-cb37-4060-b125-e5dc7e7bb9d6?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+  ]}/>
+:::
 
 <details>
         <summary>List of companies working in this solution...</summary>

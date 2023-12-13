@@ -3,9 +3,21 @@ title: Temperate Forest Restoration
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
+
+import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagination.jsx'; 
+
 ![Assisted migration of Abies religiosa 275m upward might be necessary for climate mitigation and to maintain its function for Danaus plexippus.](/../static/img/temperate-forest-restoration.webp)
 
 *Assisted migration of Abies religiosa 275 m upwards in altitude to mitigate changes in climate ([Springer](https://link.springer.com/article/10.1007/s11056-015-9504-6))*
+
+:::podcast podcast
+  <PodcastPagination iframes={[
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/ad93dfe7-b893-4b4c-82cb-a35b69355fae?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/991ad407-3fdc-4a81-8a93-bf48bdc7b315?dark=false&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/250e5a27-7a31-43f2-ae79-47427cec81e5?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/ab25c214-8ecd-458a-a518-6b8f6fb6a69b?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+  ]}/>
+:::
 
 ## Overview
 

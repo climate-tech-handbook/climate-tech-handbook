@@ -4,9 +4,24 @@ displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
 
+import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagination.jsx'; 
+
 ![Cover Image](../static/img/biochar-kiln.jpg)
 
 _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://www.vnews.com/Biochar-Demonstration-Offers-Alternative-to-Burn-Piles-46911424))
+
+:::podcast podcast
+  <PodcastPagination iframes={[
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/7187c38f-e030-423b-80e3-8f2adabfdc70?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/4c9c1507-4ba7-49c6-b2db-b7002ec7b343?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/b90a7316-0d4c-4ef4-ab0e-6cf04e5f3976?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/146bc323-e71a-4c11-b066-37c707f5fd97?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/c690e742-23d2-40ec-ae21-e7587757e4a0?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/ef324476-0573-411e-a85a-a17295cce818?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/10b86d33-6c0b-467c-91d1-2cced2ac2d58?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+    `<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/f89c659d-69b0-400a-8891-f1217063340e?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>`,
+  ]}/>
+:::
 
 <details>
         <summary>List of companies working in this solution...</summary>
