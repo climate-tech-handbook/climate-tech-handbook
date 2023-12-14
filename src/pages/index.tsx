@@ -20,6 +20,7 @@ export default function Home(): JSX.Element {
     minutes: 0,
     seconds: 0
   });
+
   const [dateOfDeadline, setDateOfDeadline] = useState(
     moment("")
   );
@@ -28,11 +29,10 @@ export default function Home(): JSX.Element {
     fetch('https://api.climateclock.world/v2/clock.json')
       .then(res => res.json())
       .then(climateClockData => setDateOfDeadline(moment(climateClockData.data.modules.carbon_deadline_1.timestamp)))
-  }, [])
+  }, []);
  
   useEffect(() => {
     const timeBetween = moment.duration(dateOfDeadline.diff(moment()));
-
     const interval = setInterval(() => {
       setClimateCountdown({
         years: timeBetween.years(),
@@ -42,7 +42,7 @@ export default function Home(): JSX.Element {
         minutes: timeBetween.minutes(),
         seconds: padWithZeroes(timeBetween.seconds(), 2)
       });
-    }, 1);
+    }, 1000);
 
     return () => clearInterval(interval);
   }, [climateCountdown]);
@@ -59,6 +59,7 @@ export default function Home(): JSX.Element {
       description="Get up to speed on climate tech as quickly as possible"
     >
       <HomepageHeader />
+
       <main className={clsx(styles.mainBody)}>
         <NewClimateClock countDown={climateCountdown} />
 
