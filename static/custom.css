@@ -92,7 +92,8 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .footer {
-  background-color: var(--ifm-color-primary);
+ /* background-color: var(--ifm-color-primary);old color */
+  background-color: rgba(176, 203, 221, 1);
   color: white;
 }
 
@@ -126,14 +127,13 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .contribute-button {
-  border-radius: 10px;
-  background-color: var(--ifm-color-secondary);
-  color: white;
-  height: 40px;
-  display: flex;
-  align-items: center; /* Center vertically */
-  justify-content: center; /* Center horizontally */
-  border: 2px solid var(--ifm-color-secondary);
+  display: inline-flex;
+  padding: 10px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 32.5px;
+  background: #F9932B;
 }
 
 .contribute-button:hover {
