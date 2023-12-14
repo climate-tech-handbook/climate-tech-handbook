@@ -53,9 +53,11 @@
   }
     
 }
-  /* .hideMilliseconds {
-    display: none !important;
-  } */
+
+/* .hideMilliseconds {
+  display: none !important;
+} */
+
 .countdown {
   gap: 1rem;
   display: flex;

@@ -14,7 +14,7 @@ export default function Home(): JSX.Element {
 
   const [climateCountdown, setClimateCountdown] = useState({
     years: 0,
-    months: 0,
+    // months: 0,
     days: 0,
     hours: 0,
     minutes: 0,
@@ -33,16 +33,30 @@ export default function Home(): JSX.Element {
  
   useEffect(() => {
     const timeBetween = moment.duration(dateOfDeadline.diff(moment()));
+
     const interval = setInterval(() => {
       setClimateCountdown({
-        years: timeBetween.years(),
-        months: timeBetween.months(),
-        days: timeBetween.days(),
+        years: Math.floor(timeBetween.asYears()),
+        days: Math.floor(timeBetween.asDays()) % 365,
         hours: timeBetween.hours(),
         minutes: timeBetween.minutes(),
         seconds: padWithZeroes(timeBetween.seconds(), 2)
       });
-    }, 1000);
+  }, 1000);
+
+  //
+  // useEffect(() => {
+  //   const timeBetween = moment.duration(dateOfDeadline.diff(moment()));
+  //   const interval = setInterval(() => {
+  //     setClimateCountdown({
+  //       years: timeBetween.years(),
+  //       months: timeBetween.months(),
+  //       days: timeBetween.days(),
+  //       hours: timeBetween.hours(),
+  //       minutes: timeBetween.minutes(),
+  //       seconds: padWithZeroes(timeBetween.seconds(), 2)
+  //     });
+  //   }, 1000);
 
     return () => clearInterval(interval);
   }, [climateCountdown]);
