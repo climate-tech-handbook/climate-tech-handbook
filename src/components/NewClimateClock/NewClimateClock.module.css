@@ -5,8 +5,8 @@
   align-items: center;
   align-self: center;
 
-  background: #ffffff;
-  box-shadow: 12px 12px 28px rgba(0, 0, 0, 0.2);
+  background: #F9F2F3;
+  /* box-shadow: 12px 12px 28px rgba(0, 0, 0, 0.2); */
   border-radius: 20px;
   padding-left: 2.5rem;
   padding-right: 2.5rem;
@@ -81,10 +81,10 @@
 } */
 
 .clockHeader {
-  color: var(--ifm-color-secondary);
+  color: #26282A;
   font-family: 'Oswald', sans-serif;
   font-size: 1.5rem;
-  margin-bottom: 0px; 
+  margin-bottom: 20px; 
 }
 
 .clockText {
