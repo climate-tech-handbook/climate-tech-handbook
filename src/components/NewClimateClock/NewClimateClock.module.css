@@ -10,10 +10,7 @@
   background: #F9F2F3;
   /* box-shadow: 12px 12px 28px rgba(0, 0, 0, 0.2); */
   border-radius: 20px;
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding: 1.25rem 2.5rem;
   position: absolute;
   top: -5rem;
   text-align-last: center;
@@ -86,10 +83,6 @@
   margin-bottom: 20px; 
 }
 
-.clockText {
-  color: black;
-}
-
 .clockMain {
   /* display: none; */
   display: flex;
@@ -104,6 +97,7 @@
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;
   font-size: 2rem;
+  margin: 21px 0;
 }
 
 .number {

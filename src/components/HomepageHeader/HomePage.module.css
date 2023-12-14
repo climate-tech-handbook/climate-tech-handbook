@@ -3,7 +3,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
-
   height: 75vh;
   padding: 4rem 0;
   position: relative;
@@ -24,8 +23,8 @@
 .headerContainer {
   display: flex;
   flex-direction: column;
-  /* gap: 2rem; */
   align-items: flex-start;
+  /* gap: 2rem; */
 }
 
 .headerBackground {

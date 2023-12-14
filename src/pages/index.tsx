@@ -44,7 +44,7 @@ export default function Home(): JSX.Element {
       });
   }, 1000);
 
-  //
+  // With Months included in climateClock
   // useEffect(() => {
   //   const timeBetween = moment.duration(dateOfDeadline.diff(moment()));
   //   const interval = setInterval(() => {
