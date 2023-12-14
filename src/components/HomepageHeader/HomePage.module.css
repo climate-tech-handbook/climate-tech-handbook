@@ -33,7 +33,7 @@
 }
 
 .headerStatement {
-  font-family: Lato;
+  font-family: 'Lato', sans-serif;
   font-size: 3rem;
   font-weight: 800;
   text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.77);
@@ -43,7 +43,7 @@
 }
 
 .headerSubtitle {
-  font-family: Lato;
+  font-family: 'Lato', sans-serif;
   font-size: 4.5rem;
   font-weight: 800;
   text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.77);
@@ -55,7 +55,7 @@
 }
 
 .cthLink {
-  font-family: Lato;
+  font-family: 'Lato', sans-serif;
   font-size: 1.25rem;
   font-weight: 600;
   background-color: #FD6F02;
