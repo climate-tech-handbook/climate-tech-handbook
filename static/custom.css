@@ -64,20 +64,20 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 
 .navbar {
   background-color: #F9F2F3;
-  height: 6.5rem;
+  height: 5rem;
   display: flex;
   align-items: center; /* Center vertically */
   justify-content: center; /* Center horizontally */
 }
 
 .navbar__logo {
-  height: 4rem;
+  height: 3rem;
 }
 
 .navbar__item {
   font-family: 'Lato', sans-serif;
   color: #2A2C2D;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   font-weight: 600;
   padding: 0px 30px;
 }
@@ -133,7 +133,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 
 .contribute-button {
   font-family: 'Lato', sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   color: #F9F2F3;
   background: #0054FB;
   border-radius: 30px;
@@ -162,8 +162,8 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   color: white;
 }
 
-@media (max-width: 996px) {
-  .contribute-button, .search-bar {
+@media (max-width: 1100px) {
+  .navbar__item {
     display: none;
   }
 }
