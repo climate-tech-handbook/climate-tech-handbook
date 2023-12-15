@@ -2,6 +2,7 @@
 title: Component Library
 displayed_sidebar: docSidebar
 ---
+
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
 <a href="https://www.example.com" class="doc-button">Button</a>
@@ -51,7 +52,6 @@ test
   </div>
 </details>
 
-
 ## Image Cards
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
@@ -69,7 +69,6 @@ test
     />
 </div>
 
-
 ## Podcast embed
 
 <iframe 
@@ -78,8 +77,26 @@ test
   height="175" 
   style={{width:'100%', maxWidth:'660px', overflow:'hidden', borderRadius:'10px'}} 
   sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-  src="https://player.simplecast.com/48f461ac-a9c3-4c9e-8288-207b588d8a60?dark=true&wmode=opaque"
+  src="https://podcasts.apple.com/us/podcast/what-do-you-do-with-a-100-hour-battery/id1593204897?i=1000638538550&uo=4"
 />
+
+<iframe 
+    id="embedPlayer" 
+    src="https://embed.podcasts.apple.com/us/podcast/the-future-of-natural-gas/id1593204897?i=1000544414574&itsct=podcast_box_player&itscg=30200&ls=1&theme=auto" 
+    height="175px" 
+    frameBorder="0" 
+    sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" 
+    allow="autoplay *; encrypted-media *; clipboard-write" 
+    style={{ 
+        width: '100%', 
+        maxWidth: '660px', 
+        overflow: 'hidden', 
+        borderRadius: '10px', 
+        transform: 'translateZ(0px)', 
+        animation: '2s ease 0s 6 normal none running loadingIndicator', 
+        backgroundColor: 'rgb(228, 228, 228)' 
+    }}
+></iframe>
 
 ---
 
@@ -98,3 +115,4 @@ Paragraph Text
 #### Header 4
 
 Paragraph Text
+
