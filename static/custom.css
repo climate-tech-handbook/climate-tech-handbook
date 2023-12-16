@@ -75,11 +75,11 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .navbar__item {
-  font-family: Lato;
+  font-family: 'Lato', sans-serif;
   color: #2A2C2D;
   font-size: 1.25rem;
   font-weight: 600;
-  padding: 0px 40px;
+  padding: 0px 30px;
 }
 
 .navbar__brand {
@@ -132,7 +132,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .contribute-button {
-  font-family: Lato;
+  font-family: 'Lato', sans-serif;
   font-size: 1.25rem;
   color: #F9F2F3;
   background: #0054FB;
@@ -141,15 +141,15 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   display: flex;
   align-items: center; /* Center vertically */
   justify-content: center; /* Center horizontally */
-  margin: 0px 40px;
+  margin: 0px 30px;
 }
 
 .contribute-button:hover {
-  border-radius: 10px;
+  /* border-radius: 10px; */
   background-color: white;
-  color: var(--ifm-color-secondary);
   text-decoration: none !important;
-  border: 2px solid var(--ifm-color-secondary);
+  color: #0054FB;
+  border: 2px solid #0054FB;
 }
 
 .navbar__link:hover {
