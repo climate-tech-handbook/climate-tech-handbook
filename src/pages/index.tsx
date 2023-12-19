@@ -14,13 +14,13 @@ export default function Home(): JSX.Element {
 
   const [climateCountdown, setClimateCountdown] = useState({
     years: 0,
-    months: 0,
+    // months: 0,
     days: 0,
     hours: 0,
     minutes: 0,
-    seconds: 0,
-    milliseconds: 0,
+    seconds: 0
   });
+
   const [dateOfDeadline, setDateOfDeadline] = useState(
     moment("")
   );
@@ -29,22 +29,34 @@ export default function Home(): JSX.Element {
     fetch('https://api.climateclock.world/v2/clock.json')
       .then(res => res.json())
       .then(climateClockData => setDateOfDeadline(moment(climateClockData.data.modules.carbon_deadline_1.timestamp)))
-  }, [])
+  }, []);
  
   useEffect(() => {
     const timeBetween = moment.duration(dateOfDeadline.diff(moment()));
 
     const interval = setInterval(() => {
       setClimateCountdown({
-        years: timeBetween.years(),
-        months: timeBetween.months(),
-        days: timeBetween.days(),
+        years: Math.floor(timeBetween.asYears()),
+        days: Math.floor(timeBetween.asDays()) % 365,
         hours: timeBetween.hours(),
         minutes: timeBetween.minutes(),
-        seconds: padWithZeroes(timeBetween.seconds(), 2),
-        milliseconds: padWithZeroes(timeBetween.milliseconds(), 3),
+        seconds: padWithZeroes(timeBetween.seconds(), 2)
       });
-    }, 1);
+  }, 1000);
+
+  // With Months included in climateClock
+  // useEffect(() => {
+  //   const timeBetween = moment.duration(dateOfDeadline.diff(moment()));
+  //   const interval = setInterval(() => {
+  //     setClimateCountdown({
+  //       years: timeBetween.years(),
+  //       months: timeBetween.months(),
+  //       days: timeBetween.days(),
+  //       hours: timeBetween.hours(),
+  //       minutes: timeBetween.minutes(),
+  //       seconds: padWithZeroes(timeBetween.seconds(), 2)
+  //     });
+  //   }, 1000);
 
     return () => clearInterval(interval);
   }, [climateCountdown]);
@@ -61,20 +73,23 @@ export default function Home(): JSX.Element {
       description="Get up to speed on climate tech as quickly as possible"
     >
       <HomepageHeader />
+
       <main className={clsx(styles.mainBody)}>
         <NewClimateClock countDown={climateCountdown} />
-{/*        <HomeCard
+
+       {/* <HomeCard
           title="Climate Job Seekers"
           description="Get paid what your worth while solving humanity's biggest crisis. Is it too good to be true?"
           imageUrl={useBaseUrl("/img/climate-job.png")}
           linkUrl="/intro"
-        />*/}
-{/*        <HomeCard
+        />
+       <HomeCard
           title="Startup Founders"
           description="Our open source industry research will save you precious time and money. We'd rather you focus on making the greatest impact possible for our planet."
           imageUrl={useBaseUrl("/img/climate-startups.webp")}
           linkUrl="/sectors"
-        />*/}
+        /> */}
+
       </main>
     </Layout>
   );
