@@ -13,7 +13,7 @@ export default function NewClimateClock({ countDown }) {
         <main className={clsx(styles.clockMain)}>
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.years}</div>
-            <div className="label">Year(s)</div>
+            <div className="label">Years</div>
           </div>
 
           {/* <span> : </span>
@@ -27,28 +27,28 @@ export default function NewClimateClock({ countDown }) {
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.days}</div>
-            <span className="label">Day(s)</span>
+            <span className="label">Days</span>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.hours}</div>
-            <span className="label">Hour(s)</span>
+            <span className="label">Hours</span>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.minutes}</div>
-            <span className="label">Minute(s)</span>
+            <span className="label">Minutes</span>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.seconds}</div>
-            <span className="label">Seconds(s)</span>
+            <span className="label">Seconds</span>
           </div>
 
         </main>

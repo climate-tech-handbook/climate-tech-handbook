@@ -97,8 +97,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .footer {
- /* background-color: var(--ifm-color-primary);old color */
-  background-color: rgba(176, 203, 221, 1);
+  background-color: #0F8DBA;
   color: white;
 }
 
