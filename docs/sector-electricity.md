@@ -34,6 +34,12 @@ In addition to scaling new technologies, there are unique challenges such as:
 * The permitting process for new infrastructure
 * Responding to peak demand
 
+## Resources:
+
+:::info
+- [Cipher News](https://ciphernews.com/topics/electricity)
+:::
+
 ## Solutions in this Sector
 
 <div style={{ display: 'flex', flexWrap: 'wrap' }}>
