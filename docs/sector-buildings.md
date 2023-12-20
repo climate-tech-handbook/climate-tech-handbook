@@ -26,6 +26,13 @@ Meet people in the *[#learn-built-environment](https://app.slack.com/client/T017
 
 Buildings account for nearly 40% of global energy consumption and around one-third of global greenhouse gas emissions, mainly due to the use of fossil fuels for heating, cooling, and electricity. 
 
+## Resources:
+
+:::info
+- [A Look at Building Companies](https://www.climatedrift.com/p/a-look-at-building-companies?utm_source=%2Fsearch%2Finsulation&utm_medium=reader2)
+- [Use Toasters and Bricks to Reduce Global Emissions](https://www.climatedrift.com/p/how-to-use-toasters-and-bricks-to)
+:::
+
 ## Solutions in the Building Sector
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
