@@ -23,6 +23,13 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
 
+## Resources:
+
+:::info
+- [Cipher News](https://ciphernews.com/topics/transportation)
+- [A Look at Transportation Companies](https://www.climatedrift.com/p/a-look-at-transportation-companies?utm_source=%2Fsearch%2Ftransportation&utm_medium=reader2)
+- [Climate Hype Curve: Transportation](https://www.climatedrift.com/p/climate-hype-curve-transportation?utm_source=%2Fsearch%2Ftransportation&utm_medium=reader2)
+:::
 
 ## Solutions in this Sector
 
