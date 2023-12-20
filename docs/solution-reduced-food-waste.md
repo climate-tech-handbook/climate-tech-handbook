@@ -78,6 +78,10 @@ Meet people in the *[#learn-food-waste](https://workonclimate.slack.com/messages
 Reducing food waste is one of the biggest opportunities for reducing greenhouse gas emissions in the world—more than restoring forests, insulating buildings, and driving electric vehicles _combined_
 :::
 
+:::caution
+Demo
+:::
+
 * **Food waste & climate change**: Wasted food in the U.S. contributes to roughly 8% of greenhouse gas emissions.
 * **Financial implications**: Americans discard food worth about $1,500 annually per family.
 * **Breakthroughs**:
