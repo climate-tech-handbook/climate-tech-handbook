@@ -32,6 +32,9 @@ Check your City
 - Panel
 - Lightning talks
 - Speed dating
+- Game night
+- Ski trip
+- Founders potluck
 
 ## Trivia Night
 
