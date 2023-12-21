@@ -1,51 +1,63 @@
 .cardContainer {
   display: flex;
-  flex-direction: column;
-  justify-content: left;
-  gap: 5vmin;
-  align-self: center;
-
-  margin-bottom: 80px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center; 
+  width: 20vw;
+  height: 40vh;
+  padding: 5rem;
+  margin: 80px 0;
+  background-color: rgb(249, 242, 243);
+  
+  /* border: 1px blue solid; */
 }
 
-.cardText {
-  display: block;
+.cardText > h1 {
+  text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: .2px;
+  font-size: 2rem;
+  color: #26282A;
 }
 
-.cardDescription {
+/* .cardDescription {
   padding-bottom: 26px;
   font-size: 1.25rem;
-}
+} */
 
-.cardImg {
+/* .cardImg {
   width: 100%;
   height: auto;
   border-radius: 10px;
-}
+} */
 
-.buttonMain { /* overwrites default button styling */
+/* overwrites default button styling */
+/* .buttonMain { 
   background-color: var(--ifm-color-secondary) !important;
   color: white !important;
   font-size: 1.25rem !important;
   font-weight: bold;
   height: 60px !important;
   display: flex;
-  align-items: center; /* Center vertically */
-  justify-content: center; /* Center horizontally */
+  align-items: center; 
+  justify-content: center; 
   min-width: fit-content;
   box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 10px;
-}
+} */
 
-.buttonMain:hover {
+/* .buttonMain:hover {
   transition: ease-in-out 0.25s;
   color: var(--ifm-color-secondary) !important;
   background: white !important;
   border: 2px solid var(--ifm-color-secondary) !important;
   text-decoration: none;
-}
+} */
 
-@media screen and (min-width: 966px) {
+/* @media screen and (min-width: 966px) {
   .buttonMain {
     width: 66%;
   }
@@ -53,8 +65,8 @@
   .cardContainer {
     flex-direction: row;
   }
-  /* Applies to the second .cardContainer div inside the main section */
-  /* This selector is more specific, so it overrides the .cardContainer one */
+  Applies to the second .cardContainer div inside the main section
+  This selector is more specific, so it overrides the .cardContainer one
   main .cardContainer:nth-child(2) { 
     flex-direction: row-reverse;
   }
@@ -62,4 +74,4 @@
     width: 42%;
     height: 100%;
   }
-}
+} */

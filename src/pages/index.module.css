@@ -18,6 +18,14 @@
   background: #FFF;
 }
 
+.homecardContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5rem;
+}
+
 @media screen and (max-width: 966px) {
   .mainBody {
     padding-top: 9rem;
