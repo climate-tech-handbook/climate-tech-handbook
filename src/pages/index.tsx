@@ -77,20 +77,47 @@ export default function Home(): JSX.Element {
       <main className={clsx(styles.mainBody)}>
         <NewClimateClock countDown={climateCountdown} />
 
-       {/* <HomeCard
-          title="Climate Job Seekers"
-          description="Get paid what your worth while solving humanity's biggest crisis. Is it too good to be true?"
-          imageUrl={useBaseUrl("/img/climate-job.png")}
+       <HomeCard
+          title="About Us"
+          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+            nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
+            reprehenderit in voluptate velit esse cillum dolore eu fugiat 
+            nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
+            sunt in culpa qui officia deserunt mollit anim id est laborum."
+          imageUrl=""
+          linkUrl="/about"
+        />
+        
+       <HomeCard
+          title="Courses"
+          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+            nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
+            reprehenderit in voluptate velit esse cillum dolore eu fugiat 
+            nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
+            sunt in culpa qui officia deserunt mollit anim id est laborum."
+          imageUrl=""
           linkUrl="/intro"
         />
-       <HomeCard
-          title="Startup Founders"
-          description="Our open source industry research will save you precious time and money. We'd rather you focus on making the greatest impact possible for our planet."
-          imageUrl={useBaseUrl("/img/climate-startups.webp")}
-          linkUrl="/sectors"
-        /> */}
 
+      <HomeCard
+          title="Climate Solutions"
+          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+            nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
+            reprehenderit in voluptate velit esse cillum dolore eu fugiat 
+            nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
+            sunt in culpa qui officia deserunt mollit anim id est laborum."
+          imageUrl=""
+          linkUrl="/solutions"
+          // imageUrl={useBaseUrl("/img/climate-startups.webp")}
+        />
       </main>
+
     </Layout>
   );
 }

@@ -5,19 +5,19 @@ import Link from "@docusaurus/Link";
 import { AiOutlineArrowRight } from 'react-icons/ai';
 import { useHistory } from 'react-router-dom';
 
-    interface CardProps {
-        title: string;
-        description: string;
-        imageUrl: string;
-        linkUrl: string;
-    }
+interface CardProps {
+    title: string;
+    description: string;
+    imageUrl: string;
+    linkUrl: string;
+}
 
-    const ImageCard: React.FC<CardProps> = ({
-        title,
-        description,
-        imageUrl,
-        linkUrl,
-    }) => {
+const ImageCard: React.FC<CardProps> = ({
+    title,
+    description,
+    imageUrl,
+    linkUrl,
+}) => {
 
     const history = useHistory();
 
@@ -36,7 +36,6 @@ import { useHistory } from 'react-router-dom';
             truncatedDescription = truncatedDescription.substring(0, characterLimit) + '...';
         }
     }
-
 
     return (
         <div className={clsx("cardContainer", styles.cardContainer)} onClick={handleClick}>
