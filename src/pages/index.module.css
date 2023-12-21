@@ -30,4 +30,14 @@
   .mainBody {
     padding-top: 9rem;
   }
+
+  .homecardContainer {
+    flex-direction: column;
+  }
 }
+
+/* @media screen and (max-width: 1000px) {
+  .homecardContainer {
+    flex-direction: column;
+  }
+} */

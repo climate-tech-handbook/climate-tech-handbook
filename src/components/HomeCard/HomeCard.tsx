@@ -19,13 +19,15 @@ const HomeCard: React.FC<CardProps> = ({
   return (
     <Link
       to={linkUrl}
-      className={styles.buttonMain}
+      className={styles.cardLink}
     >
       <div className={clsx("container", styles.cardContainer)}>
         {/* <img className={clsx(styles.cardImg)} src={imageUrl} alt={title} /> */}
         <div className={clsx(styles.cardText)}>
           <h1>{title}</h1>
-          {/* <p className={clsx(styles.cardDescription)}>{description}</p> */}
+          <p className={clsx(styles.cardDescription)}>
+            {description}
+          </p>
         </div>
       </div>
     </Link>

@@ -8,8 +8,9 @@
   padding: 5rem;
   margin: 80px 0;
   background-color: rgb(249, 242, 243);
-  
-  /* border: 1px blue solid; */
+  /* background-image: url("~@site/static/img/design/windmill-hero.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat; */
 }
 
 .cardText > h1 {
@@ -19,14 +20,28 @@
   text-align: center;
   font-family: 'Lato', sans-serif;
   letter-spacing: .2px;
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #26282A;
 }
 
-/* .cardDescription {
-  padding-bottom: 26px;
-  font-size: 1.25rem;
-} */
+.cardDescription {
+  display: none;
+}
+
+.cardContainer:hover {
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.2); 
+}
+
+.cardContainer:hover .cardDescription{
+  display: block;
+  overflow: auto;
+  font-size: 1rem;
+}
+
+.cardContainer:hover .cardText > h1{
+  display: none;
+}
 
 /* .cardImg {
   width: 100%;
@@ -35,21 +50,8 @@
 } */
 
 /* overwrites default button styling */
-/* .buttonMain { 
-  background-color: var(--ifm-color-secondary) !important;
-  color: white !important;
-  font-size: 1.25rem !important;
-  font-weight: bold;
-  height: 60px !important;
-  display: flex;
-  align-items: center; 
-  justify-content: center; 
-  min-width: fit-content;
-  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: 10px;
-} */
 
-/* .buttonMain:hover {
+/* .cardContainer:hover {
   transition: ease-in-out 0.25s;
   color: var(--ifm-color-secondary) !important;
   background: white !important;
@@ -57,15 +59,15 @@
   text-decoration: none;
 } */
 
-/* @media screen and (min-width: 966px) {
-  .buttonMain {
-    width: 66%;
+@media screen and (max-width: 966px) {
+  .cardContainer {
+    margin: 40px 0;
+    width: 40vw;
+    height: 30vh;
+    padding: 10rem;
   }
 
-  .cardContainer {
-    flex-direction: row;
-  }
-  Applies to the second .cardContainer div inside the main section
+  /* Applies to the second .cardContainer div inside the main section
   This selector is more specific, so it overrides the .cardContainer one
   main .cardContainer:nth-child(2) { 
     flex-direction: row-reverse;
@@ -73,5 +75,5 @@
   .cardImg{
     width: 42%;
     height: 100%;
-  }
-} */
+  } */
+}
