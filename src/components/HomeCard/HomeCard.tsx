@@ -21,23 +21,24 @@ const HomeCard: React.FC<CardProps> = ({
   icon
 }) => {
 
+  const iconSize = "5rem";
+
   const iconComponent = () => {
     switch(icon) {
       case 'IoEarth': {
-        return <IoEarth />;
+        return <IoEarth size={iconSize}/>;
       }
       case 'FaBookOpen': {
-        return <FaBookOpen />;
+        return <FaBookOpen size={iconSize}/>;
       }
       case 'MdWindPower': {
-        return <MdWindPower />;
+        return <MdWindPower size={iconSize}/>;
       }
       default: {
         return null;
       }
     }
-    
-  }
+  };
 
   return (
     <Link
@@ -46,7 +47,9 @@ const HomeCard: React.FC<CardProps> = ({
     >
       <div className={clsx("container", styles.cardContainer)}>
         <div className={clsx(styles.cardText)}>
-          {iconComponent()}
+          <div className={clsx(styles.icon)}>
+            {iconComponent()}
+          </div>
           <h1>{title}</h1>
           <p className={clsx(styles.cardDescription)}>
             {description}

@@ -1,6 +1,6 @@
 .cardContainer {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   align-items: center; 
   width: 20vw;
@@ -8,9 +8,18 @@
   padding: 5rem;
   margin: 1rem 0;
   background-color: rgb(249, 242, 243);
-  /* background-image: url("~@site/static/img/design/windmill-hero.jpeg");
-  background-size: cover;
-  background-repeat: no-repeat; */
+}
+
+.cardText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+}
+
+.icon {
+  color: #05B295;
+  margin-bottom: 1rem;
 }
 
 .cardText > h1 {
@@ -20,8 +29,10 @@
   text-align: center;
   font-family: 'Lato', sans-serif;
   letter-spacing: .2px;
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: #26282A;
+  width: 20vw;
+  
 }
 
 .cardDescription {
@@ -33,21 +44,19 @@
   background-color: rgba(0, 0, 0, 0.2); 
 }
 
-.cardContainer:hover .cardDescription{
+.cardContainer:hover .cardDescription {
   display: block;
   overflow: auto;
   font-size: 1rem;
 }
 
-.cardContainer:hover .cardText > h1{
+.cardContainer:hover .cardText > h1 {
   display: none;
 }
 
-/* .cardImg {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-} */
+.cardContainer:hover .icon {
+  display: none;
+}
 
 /* overwrites default button styling */
 

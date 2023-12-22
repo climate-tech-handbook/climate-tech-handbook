@@ -30,7 +30,6 @@ export default function Home(): JSX.Element {
  
   useEffect(() => {
     const timeBetween = moment.duration(dateOfDeadline.diff(moment()));
-
     const interval = setInterval(() => {
       setClimateCountdown({
         years: Math.floor(timeBetween.asYears()),
@@ -39,7 +38,7 @@ export default function Home(): JSX.Element {
         minutes: timeBetween.minutes(),
         seconds: padWithZeroes(timeBetween.seconds(), 2)
       });
-  }, 1000);
+    }, 1000);
 
     return () => clearInterval(interval);
   }, [climateCountdown]);
@@ -62,7 +61,6 @@ export default function Home(): JSX.Element {
 
         <div className={clsx(styles.infoDiv)}>
           <h1>OUR MISSION</h1>
-
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
             tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
             veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
