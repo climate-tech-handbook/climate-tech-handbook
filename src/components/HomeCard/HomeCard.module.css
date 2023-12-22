@@ -8,6 +8,7 @@
   padding: 5rem;
   margin: 1rem 0;
   background-color: rgb(249, 242, 243);
+  border-radius: 20px;
 }
 
 .cardText {
@@ -32,7 +33,6 @@
   font-size: 1rem;
   color: #26282A;
   width: 20vw;
-  
 }
 
 .cardDescription {
