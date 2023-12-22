@@ -6,7 +6,7 @@
   width: 20vw;
   height: 40vh;
   padding: 5rem;
-  margin: 80px 0;
+  margin: 1rem 0;
   background-color: rgb(249, 242, 243);
   /* background-image: url("~@site/static/img/design/windmill-hero.jpeg");
   background-size: cover;
@@ -61,7 +61,7 @@
 
 @media screen and (max-width: 966px) {
   .cardContainer {
-    margin: 40px 0;
+    margin: 2rem 0;
     width: 40vw;
     height: 30vh;
     padding: 10rem;

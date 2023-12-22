@@ -18,6 +18,11 @@
   background: #FFF;
 }
 
+.infoDiv {
+ padding: 5rem;
+ padding-bottom: 0;
+}
+
 .homecardContainer {
   display: flex;
   flex-direction: row;
@@ -35,9 +40,3 @@
     flex-direction: column;
   }
 }
-
-/* @media screen and (max-width: 1000px) {
-  .homecardContainer {
-    flex-direction: column;
-  }
-} */
