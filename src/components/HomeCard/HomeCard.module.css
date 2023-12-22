@@ -58,16 +58,6 @@
   display: none;
 }
 
-/* overwrites default button styling */
-
-/* .cardContainer:hover {
-  transition: ease-in-out 0.25s;
-  color: var(--ifm-color-secondary) !important;
-  background: white !important;
-  border: 2px solid var(--ifm-color-secondary) !important;
-  text-decoration: none;
-} */
-
 @media screen and (max-width: 966px) {
   .cardContainer {
     margin: 2rem 0;
@@ -76,13 +66,16 @@
     padding: 10rem;
   }
 
-  /* Applies to the second .cardContainer div inside the main section
-  This selector is more specific, so it overrides the .cardContainer one
-  main .cardContainer:nth-child(2) { 
-    flex-direction: row-reverse;
+  .cardContainer:hover {
+    margin: 2rem 0;
+    width: 40vw;
+    height: 30vh;
+    padding: 10rem;
   }
-  .cardImg{
-    width: 42%;
-    height: 100%;
-  } */
+
+  .cardContainer:hover .cardDescription {
+    font-size: 1rem;
+    width: 40vw;
+  }
+
 }
