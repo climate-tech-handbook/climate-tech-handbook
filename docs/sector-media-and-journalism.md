@@ -14,6 +14,10 @@ displayed_sidebar: docSidebar
 :::company Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Media+%26+Journalism&p=0&remote=false)
 
+:::info Key Resources
+- [Yale Climate Connections]([https://climate.mit.edu/explainers/carbon-capture](https://yaleclimateconnections.org/))
+:::
+
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
 
