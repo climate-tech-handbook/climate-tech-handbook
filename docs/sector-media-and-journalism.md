@@ -17,6 +17,12 @@ displayed_sidebar: docSidebar
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
 
+## Resources:
+
+:::info
+- [Yale Climate Connections]([https://ciphernews.com/topics/electricity](https://yaleclimateconnections.org/))
+:::
+
 The influence of media and journalism can drive systemic change, mobilize public support, and hold those in power accountable for their actions or inactions related to climate change.
 
 A strong fearless media will allow us to:
