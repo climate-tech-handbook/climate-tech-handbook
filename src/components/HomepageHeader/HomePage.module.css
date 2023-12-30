@@ -35,7 +35,7 @@
   font-family: 'Lato', sans-serif;
   font-size: 3rem;
   font-weight: 800;
-  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.77);
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.77);
   z-index: 10;
   line-height: 105%;
   align-self: center;
@@ -45,7 +45,7 @@
   font-family: 'Lato', sans-serif;
   font-size: 4.5rem;
   font-weight: 800;
-  text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.77);
+  text-shadow:  3px 3px 10px rgba(0, 0, 0, 0.77);
   z-index: 10;
   line-height: 105%;
   align-self: center;
