@@ -25,9 +25,7 @@
 
 @media screen and (max-width: 540px) {
   .clockMain {
-    display: flex;
     justify-content: flex-start !important;
-    max-width: fit-content;
   }
 }
 
@@ -39,7 +37,6 @@
   }
 
   .clockMain {
-    width: fit-content;
     block-size: fit-content;  
     overflow: auto;
   }
