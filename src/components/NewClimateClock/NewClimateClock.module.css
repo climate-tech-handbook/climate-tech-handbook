@@ -7,7 +7,6 @@
   align-items: center;
   align-self: center;
   background: #F9F2F3;
-  /* box-shadow: 12px 12px 28px rgba(0, 0, 0, 0.2); */
   border-radius: 20px;
   padding: 1.25rem 2.5rem;
   position: absolute;
@@ -32,11 +31,9 @@
   }
 
   .clockMain {
-    /* max-width: 100vw; */
     width: fit-content;
     block-size: fit-content;  
-    /* font-size: 1em; */
-    /* overflow: hidden; */
+    overflow: auto;
   }
 
   .countdown {
