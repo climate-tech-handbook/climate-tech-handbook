@@ -23,6 +23,14 @@
   }
 }
 
+@media screen and (max-width: 540px) {
+  .clockMain {
+    display: flex;
+    justify-content: flex-start !important;
+    max-width: fit-content;
+  }
+}
+
 @media screen and (max-width: 966px) {
   .clock {
     max-width: 90vw;
@@ -70,7 +78,6 @@
 .clockMain {
   /* display: none; */
   display: flex;
-  /* border: 2px solid red; */
   justify-content: space-around;
   align-items: center;
   width: 100%;
