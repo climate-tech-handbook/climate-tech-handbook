@@ -13,7 +13,7 @@ module.exports = {
   docSidebar: [
     {
       type: 'category',
-      label: '🏁 Get Started',
+      label: 'Get Started',
       link: {
         type: 'doc',
         id: 'intro',
@@ -43,7 +43,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: '✅ Climate Solutions',
+      label: 'Climate Solutions',
       link: {
         type: 'doc',
         id: 'solutions',
@@ -113,12 +113,12 @@ module.exports = {
     },
     {
       type: 'doc',
-      label: '🌍 Resources',
+      label: 'Resources',
       id: 'resources',
     },
     {
       type: 'doc',
-      label: '🔥 Contribute',
+      label: 'Contribute',
       id: 'contribute',
     },
   ],
