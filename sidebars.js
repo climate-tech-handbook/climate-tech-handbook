@@ -13,7 +13,7 @@ module.exports = {
   docSidebar: [
     {
       type: 'category',
-      label: 'Get Started',
+      label: 'Start Learning',
       link: {
         type: 'doc',
         id: 'intro',

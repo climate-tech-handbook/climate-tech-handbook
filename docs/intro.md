@@ -1,5 +1,5 @@
 ---
-title: Get started
+title: Start Learning
 displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
