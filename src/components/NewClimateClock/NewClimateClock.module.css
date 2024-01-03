@@ -17,45 +17,6 @@
   text-align: center;
 }
 
-@media screen and (min-width: 1440px){
-  .clock{
-    max-width: 800px;
-  }
-}
-
-@media screen and (max-width: 540px) {
-  .clockMain {
-    justify-content: flex-start !important;
-  }
-}
-
-@media screen and (max-width: 966px) {
-  .clock {
-    max-width: 90vw;
-    overflow: auto;
-    margin-top: 20px;
-  }
-
-  .clockMain {
-    block-size: fit-content;  
-    overflow: auto;
-  }
-
-  .countdown {
-    gap: 0.2rem;
-  }
-
-  html, body { /*prevent mobile scrolling horizontally*/
-    max-width: 100%;
-    overflow-x: hidden;
-  }
-    
-}
-
-/* .hideMilliseconds {
-  display: none !important;
-} */
-
 .countdown {
   gap: 1rem;
   display: flex;
@@ -73,7 +34,6 @@
 }
 
 .clockMain {
-  /* display: none; */
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -102,11 +62,6 @@
   padding-bottom: 5px;
 }
 
-/* prevents millisecond stuttering */
-/* .milliseconds{
-  width:40px; 
-} */
-
 .section {
   letter-spacing: 0.01rem;
   color: #26282A;
@@ -116,3 +71,54 @@
   font-weight: 500;
 }
 
+@media screen and (min-width: 1440px){
+  .clock{
+    max-width: 800px;
+  }
+}
+
+/* Displays clock details for mobile view */
+@media screen and (max-width: 540px) {
+  .clockHeader {
+    font-size: 1.5rem;
+  }
+  
+  .clock {
+    padding: 1.25rem;
+  }
+  
+  .section {
+    font-size: 0.5rem;
+  }
+  
+  .clockMain > span {
+    font-size: 1rem;
+  }
+
+  .number {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 966px) {
+  .clock {
+    max-width: 90vw;
+    overflow: auto;
+    margin-top: 20px;
+  }
+
+  .clockMain {
+    block-size: fit-content;  
+    overflow: auto;
+  }
+
+  .countdown {
+    gap: 0.2rem;
+  }
+
+  html, body { /*prevent mobile scrolling horizontally*/
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+    
+}
