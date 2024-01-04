@@ -18,9 +18,18 @@
   background: #FFF;
 }
 
-.infoDiv {
- padding: 5rem;
- padding-bottom: 0;
+.missionContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* padding: 5rem 10rem; */
+  margin: 1rem 10rem;
+  margin-bottom: 0;
+}
+
+.missionIcon {
+  width: 43.5rem;
+  height: 30.75rem;
 }
 
 .homecardContainer {
