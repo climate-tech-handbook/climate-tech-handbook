@@ -19,17 +19,45 @@
 }
 
 .missionContainer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  /* padding: 5rem 10rem; */
   margin: 1rem 10rem;
   margin-bottom: 0;
 }
 
 .missionIcon {
-  width: 43.5rem;
-  height: 30.75rem;
+  margin: 5rem 1rem;
+}
+
+.infoDiv {
+  position: relative;
+  bottom: 20rem;
+  left: 10rem;
+  z-index: 10;
+  margin-left: 10rem;
+}
+
+.infoDiv > h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 800;
+}
+
+.infoDiv > p {
+  font-family: 'Lato', sans-serif;
+  position: relative;
+  text-align: justify;
+  left: 3rem;
+  width: 60%;
+}
+
+.secondaryButton {
+  font-family: 'Lato', sans-serif;
+  position: relative;
+  text-align: justify;
+  left: 3rem;
+  width: 60%;
+}
+
+.infoDiv > p > span {
+  font-weight: bold;
 }
 
 .homecardContainer {
