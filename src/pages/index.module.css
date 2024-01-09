@@ -18,6 +18,7 @@
   background: #FFF;
 }
 
+/* Styling for missionContainer */
 .missionContainer {
   margin: 1rem 10rem;
   margin-bottom: 0;
@@ -31,37 +32,55 @@
 .infoDiv {
   position: relative;
   position: absolute;
-  bottom: 8rem;
+  bottom: 5rem;
   left: 20rem;
   z-index: 10;
-  /* margin-left: 10rem; */
 }
 
 .infoDiv > h1 {
   font-family: 'Lato', sans-serif;
   font-weight: 800;
+  font-size: 2.5rem;
 }
 
 .infoDiv > p {
   font-family: 'Lato', sans-serif;
   position: relative;
   text-align: justify;
-  left: 3rem;
-  width: 80%;
-}
-
-.secondaryButton {
-  font-family: 'Lato', sans-serif;
-  position: relative;
-  text-align: justify;
-  left: 3rem;
-  width: 60%;
+  left: var(--infoDiv-left-spacing);
+  width: 85%;
 }
 
 .infoDiv > p > span {
   font-weight: bold;
 }
 
+/* Styling for missionContainer button */
+.secondaryButton {
+  font-family: 'Lato', sans-serif;
+  position: relative;
+  left: var(--infoDiv-left-spacing);
+  font-size: 1.25rem;
+  font-weight: 600;
+  background-color: #FD6F02;
+  color: #2A2C2D;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 9.5rem;
+  border-radius: 30px;
+}
+
+.secondaryButton:hover {
+  transition: ease-in-out 0.25s;
+  color: #FD6F02;
+  background-color: #fd6f021c;
+  border: 2px solid #FD6F02;
+  text-decoration: none;
+}
+
+/* Styling for homecardContainer */
 .homecardContainer {
   display: flex;
   flex-direction: row;

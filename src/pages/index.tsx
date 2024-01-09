@@ -68,8 +68,11 @@ export default function Home(): JSX.Element {
 
           <div className={clsx(styles.infoDiv)}>
             <h1>OUR MISSION</h1>
-            <p>To build the world's most <span>accessible</span>, yet <span>comprehensive</span>, 
-            resource for anyone using technology to address our climate emergency.</p>
+            <p>Our mission is to build the world's most <span>accessible</span>, 
+            yet <span>comprehensive</span>, resource for anyone using technology 
+            to address our climate emergency. Your skills are the missing piece 
+            in the fight against climate change. We help you join the solution 
+            and make a lasting impact.</p>
             <Link className={styles.secondaryButton} to="/about">
               Learn More
             </Link>
