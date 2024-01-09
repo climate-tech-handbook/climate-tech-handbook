@@ -3,12 +3,6 @@
  * and scoped locally.
  */
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .mainBody {
   display: flex;
   flex-direction: column;
@@ -30,7 +24,6 @@
 }
 
 .infoDiv {
-  position: relative;
   position: absolute;
   bottom: 5rem;
   left: 20rem;
@@ -98,4 +91,63 @@
   .homecardContainer {
     flex-direction: column;
   }
+
+  /* .missionContainer {
+    border: 1px solid red;
+  } */
+
+  .missionIcon {
+    transform: scale(0.75);
+  }
+
+  .infoDiv {
+    /* border: 1px solid yellow; */
+    position: relative;
+    bottom: 10rem;
+    left: 50%; 
+    transform: translateX(-50%); 
+    text-align: center;
+  }
+
+  .infoDiv > h1 {
+    position: relative;
+    bottom: 5rem;
+    left: 7rem;
+  }
+
+  .secondaryButton {
+    left: 50%; 
+    transform: translateX(-50%); 
+  }
+}
+
+@media screen and (max-width: 1339px) {
+  /* .missionContainer {
+    border: 1px solid red;
+  } */
+
+  .missionIcon {
+    transform: scale(0.75);
+  }
+
+  .infoDiv {
+    /* border: 1px solid yellow; */
+    position: relative;
+    bottom: 10rem;
+    left: 50%; 
+    transform: translateX(-50%); 
+    text-align: center;
+  }
+
+  .infoDiv > h1 {
+    position: relative;
+    bottom: 5rem;
+    left: 7rem;
+  }
+
+  .secondaryButton {
+    left: 50%; 
+    transform: translateX(-50%); 
+  }  
+
 }

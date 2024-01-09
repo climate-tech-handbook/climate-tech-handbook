@@ -68,16 +68,19 @@
     padding: 10rem;
   }
 
-  .cardContainer:hover {
-    margin: 2rem 0;
-    width: 40vw;
-    height: 30vh;
-    padding: 10rem;
-  }
+  .cardText > h1 {
+    width: 100%;
+  } 
 
   .cardContainer:hover .cardDescription {
     font-size: 1rem;
     width: 40vw;
   }
 
+  /* .cardContainer:hover {
+    margin: 2rem 0;
+    width: 40vw;
+    height: 30vh;
+    padding: 10rem;
+  } */
 }
