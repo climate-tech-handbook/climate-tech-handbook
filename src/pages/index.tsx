@@ -74,7 +74,6 @@ export default function Home(): JSX.Element {
               Learn More
             </Link>
           </div>
-
         </div>
 
         <div className={clsx(styles.homecardContainer)}>

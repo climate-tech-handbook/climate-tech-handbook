@@ -21,6 +21,8 @@
 .missionContainer {
   margin: 1rem 10rem;
   margin-bottom: 0;
+  /* border: 1px solid #000; */
+  position: relative;
 }
 
 .missionIcon {
@@ -29,10 +31,11 @@
 
 .infoDiv {
   position: relative;
-  bottom: 20rem;
-  left: 10rem;
+  position: absolute;
+  bottom: 8rem;
+  left: 20rem;
   z-index: 10;
-  margin-left: 10rem;
+  /* margin-left: 10rem; */
 }
 
 .infoDiv > h1 {
@@ -45,7 +48,7 @@
   position: relative;
   text-align: justify;
   left: 3rem;
-  width: 60%;
+  width: 80%;
 }
 
 .secondaryButton {
@@ -66,6 +69,7 @@
   justify-content: space-around;
   align-items: center;
   padding: 5rem;
+  padding-top: 0;
 }
 
 @media screen and (max-width: 966px) {
