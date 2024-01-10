@@ -19,8 +19,9 @@
 }
 
 .icon {
-  color: #05B295;
+  color: #2A70FB;
   margin-bottom: 1rem;
+  z-index: 10;
 }
 
 .cardText > h1 {
@@ -40,23 +41,23 @@
 }
 
 .cardContainer:hover {
-  padding: 1rem;
   background-color: rgba(0, 0, 0, 0.2); 
 }
 
-.cardContainer:hover .cardDescription {
+/* cardContainer hover effect */
+/* .cardContainer:hover .cardDescription {
   display: block;
   overflow: auto;
   font-size: 1rem;
-}
+} */
 
-.cardContainer:hover .cardText > h1 {
+/* .cardContainer:hover .cardText > h1 {
   display: none;
-}
+} */
 
-.cardContainer:hover .icon {
+/* .cardContainer:hover .icon {
   display: none;
-}
+} */
 
 @media screen and (max-width: 966px) {
   .cardContainer {
@@ -66,16 +67,19 @@
     padding: 10rem;
   }
 
-  .cardContainer:hover {
+  .cardText > h1 {
+    width: 100%;
+  } 
+
+  /* .cardContainer:hover .cardDescription {
+    font-size: 1rem;
+    width: 40vw;
+  } */
+
+  /* .cardContainer:hover {
     margin: 2rem 0;
     width: 40vw;
     height: 30vh;
     padding: 10rem;
-  }
-
-  .cardContainer:hover .cardDescription {
-    font-size: 1rem;
-    width: 40vw;
-  }
-
+  } */
 }

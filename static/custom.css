@@ -23,6 +23,8 @@
   --ifm-color-secondary-light: lighten(#be4721, 10%);
   --ifm-color-secondary-lighter: lighten(#be4721, 20%);
   --ifm-color-secondary-lightest: lighten(#be4721, 30%);
+
+  --infoDiv-left-spacing: 4rem;
 }
 
 p {

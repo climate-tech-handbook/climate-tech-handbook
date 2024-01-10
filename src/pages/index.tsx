@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import clsx from "clsx";
+import Link from "@docusaurus/Link";
 import moment from "moment";
 import Layout from "@theme/Layout";
 import styles from "./index.module.css";
@@ -59,16 +60,23 @@ export default function Home(): JSX.Element {
       <main className={clsx(styles.mainBody)}>
         <NewClimateClock countDown={climateCountdown} />
 
-        <div className={clsx(styles.infoDiv)}>
-          <h1>OUR MISSION</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
-            veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
-            commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-            cupidatat non proident, sunt in culpa qui officia deserunt mollit anim 
-            id est laborum.
-          </p>
+        <div className={clsx(styles.missionContainer)}>
+          <svg className={clsx(styles.missionIcon)} width="348" height="246" viewBox="0 0 348 246" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="119" cy="123" r="119" fill="#AAC6FD" fill-opacity="0.63"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M150.778 136.6C140.161 27.9755 240.078 -13.1761 336.69 3.62438C340.824 4.34159 343.866 7.61672 344.463 11.529C353.248 64.9685 347.09 124.044 309.767 162.752C276.99 196.746 230.746 202.413 182.868 189.984C178.413 208.563 177.754 225.742 177.218 237.116C176.63 249.536 157.663 248.65 158.251 236.23C161.713 163.829 189.784 111.738 248.482 67.1478C229.36 70.9185 181.374 104.258 157.975 149.208C153.881 147.709 151.468 143.676 150.778 136.6Z" fill="#5DC597" fill-opacity="0.85"/>
+          </svg>
+
+          <div className={clsx(styles.infoDiv)}>
+            <h1>OUR MISSION</h1>
+            <p>Our mission is to build the world's most <span>accessible</span>, 
+            yet <span>comprehensive</span>, resource for anyone using technology 
+            to address our climate emergency. Your skills are the missing piece 
+            in the fight against climate change. We help you join the solution 
+            and make a lasting impact.</p>
+            <Link className={styles.secondaryButton} to="/about">
+              Learn More
+            </Link>
+          </div>
         </div>
 
         <div className={clsx(styles.homecardContainer)}>
