@@ -24,6 +24,7 @@
 }
 
 .infoDiv {
+  font-family: 'Lato', sans-serif;
   position: absolute;
   bottom: 5rem;
   left: 20rem;
@@ -37,7 +38,6 @@
 }
 
 .infoDiv > p {
-  font-family: 'Lato', sans-serif;
   position: relative;
   text-align: justify;
   left: var(--infoDiv-left-spacing);
@@ -50,7 +50,6 @@
 
 /* Styling for missionContainer button */
 .secondaryButton {
-  font-family: 'Lato', sans-serif;
   position: relative;
   left: var(--infoDiv-left-spacing);
   font-size: 1.25rem;
@@ -92,16 +91,11 @@
     flex-direction: column;
   }
 
-  /* .missionContainer {
-    border: 1px solid red;
-  } */
-
   .missionIcon {
     transform: scale(0.75);
   }
 
   .infoDiv {
-    /* border: 1px solid yellow; */
     position: relative;
     bottom: 10rem;
     left: 50%; 
@@ -122,16 +116,11 @@
 }
 
 @media screen and (max-width: 1339px) {
-  /* .missionContainer {
-    border: 1px solid red;
-  } */
-
   .missionIcon {
     transform: scale(0.75);
   }
 
   .infoDiv {
-    /* border: 1px solid yellow; */
     position: relative;
     bottom: 10rem;
     left: 50%; 
@@ -149,5 +138,27 @@
     left: 50%; 
     transform: translateX(-50%); 
   }  
+}
 
+@media screen and (max-width: 700px) {
+  .missionContainer {
+    margin: 0;
+    padding-top: 5rem;
+  }
+
+  .missionIcon {
+    transform: scale(0.50) translate(-50%);
+  }
+
+  .infoDiv > p {
+    left: 50%;
+    transform: translateX(-50%); 
+    width: 85%;
+  }
+
+  .infoDiv > h1 {
+    position: relative;
+    bottom: 5rem;
+    left: 2rem;
+  }
 }
