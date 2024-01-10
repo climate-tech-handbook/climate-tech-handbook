@@ -143,7 +143,7 @@
 @media screen and (max-width: 700px) {
   .missionContainer {
     margin: 0;
-    padding-top: 5rem;
+    /* padding-top: 5rem; */
   }
 
   .missionIcon {
