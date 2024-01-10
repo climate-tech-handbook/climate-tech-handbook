@@ -19,7 +19,7 @@ export default function HomepageHeader() {
         </p>
 
         <Link className={styles.cthLink} to="/intro">
-          Get Started
+          Start Learning
         </Link>
         
         <div className={styles.overlay}></div>
