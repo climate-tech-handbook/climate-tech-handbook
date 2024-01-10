@@ -41,7 +41,6 @@
 }
 
 .cardContainer:hover {
-  padding: 1rem;
   background-color: rgba(0, 0, 0, 0.2); 
 }
 
@@ -72,10 +71,10 @@
     width: 100%;
   } 
 
-  .cardContainer:hover .cardDescription {
+  /* .cardContainer:hover .cardDescription {
     font-size: 1rem;
     width: 40vw;
-  }
+  } */
 
   /* .cardContainer:hover {
     margin: 2rem 0;
