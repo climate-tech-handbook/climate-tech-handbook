@@ -67,6 +67,10 @@
     padding: 10rem;
   }
 
+  .cardLink:first-child .cardContainer {
+    margin-top: 0;
+  }
+
   .cardText > h1 {
     width: 100%;
   } 

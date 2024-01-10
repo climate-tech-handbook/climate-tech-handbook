@@ -7,14 +7,13 @@
   display: flex;
   flex-direction: column;
   padding-top: 8rem;
-  padding-bottom: 5rem;
   position: relative;
   background: #FFF;
 }
 
 /* Styling for missionContainer */
 .missionContainer {
-  margin: 1rem 10rem;
+  margin: 2rem 10rem;
   margin-bottom: 0;
   position: relative;
 }
@@ -143,7 +142,6 @@
 @media screen and (max-width: 700px) {
   .missionContainer {
     margin: 0;
-    /* padding-top: 5rem; */
   }
 
   .missionIcon {
@@ -159,5 +157,7 @@
   .infoDiv > h1 {
     position: relative;
     left: 2rem;
+    left: 50%; 
+    transform: translateX(-50%); 
   }
 }
