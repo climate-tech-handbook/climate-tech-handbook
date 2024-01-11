@@ -127,4 +127,12 @@
     padding: 1rem 0.5rem;
     width: 75%;
   }
+  
+  .clockMain > span {
+    font-size: 0.5rem;
+  }
+
+  .number {
+    font-size: 0.75rem;
+  }
 }
