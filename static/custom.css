@@ -90,7 +90,6 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .navbar__brand:hover {
-  /* transform: scale(1.05); */
   transition: ease-in 0.1s;
   color: black;
 }
@@ -100,12 +99,42 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .footer {
-  background-color: #0F8DBA;
+  background-color: #D4E2FE;
   color: white;
 }
 
+.footer__title {
+  color: #26282A;
+  font-family: 'Roboto', sans-serif;
+  line-height: 28.8px;
+  letter-spacing: 0.48px;
+}
+
+.footer__links {
+  display: grid;
+  grid-template-columns: 40% 15% 15% 15% 15%;
+}
+
 .footer__link-item {
-  color: white;
+  color: #26282A;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+.footer-logo-social-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+}
+
+.footer-logo-social-links > img {
+  height: 4rem;
+  margin-bottom: 2rem;
+}
+
+.footer__item > .social-links > a {
+  fill: #26282A;
 }
 
 .doc-button {
@@ -270,4 +299,10 @@ details summary::before {
 
 details > div > div {
   border-top: 1px solid rgb(83, 83, 248) !important;
+}
+
+@media screen and (max-width: 895px) {
+  .footer__links {
+    display: flex;
+  }
 }
