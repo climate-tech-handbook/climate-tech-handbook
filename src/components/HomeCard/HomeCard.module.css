@@ -1,65 +1,89 @@
 .cardContainer {
   display: flex;
   flex-direction: column;
-  justify-content: left;
-  gap: 5vmin;
-  align-self: center;
-
-  margin-bottom: 80px;
+  justify-content: center;
+  align-items: center; 
+  width: 20vw;
+  height: 40vh;
+  padding: 5rem;
+  margin: 1rem 0;
+  background-color: rgb(249, 242, 243);
+  border-radius: 20px;
 }
 
 .cardText {
-  display: block;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+}
+
+.icon {
+  color: #2A70FB;
+  margin-bottom: 1rem;
+  z-index: 10;
+}
+
+.cardText > h1 {
+  text-transform: uppercase;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: .2px;
+  font-size: 1rem;
+  color: #26282A;
+  width: 20vw;
 }
 
 .cardDescription {
-  padding-bottom: 26px;
-  font-size: 1.25rem;
+  display: none;
 }
 
-.cardImg {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
+.cardContainer:hover {
+  background-color: rgba(0, 0, 0, 0.2); 
 }
 
-.buttonMain { /* overwrites default button styling */
-  background-color: var(--ifm-color-secondary) !important;
-  color: white !important;
-  font-size: 1.25rem !important;
-  font-weight: bold;
-  height: 60px !important;
-  display: flex;
-  align-items: center; /* Center vertically */
-  justify-content: center; /* Center horizontally */
-  min-width: fit-content;
-  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: 10px;
-}
+/* cardContainer hover effect */
+/* .cardContainer:hover .cardDescription {
+  display: block;
+  overflow: auto;
+  font-size: 1rem;
+} */
 
-.buttonMain:hover {
-  transition: ease-in-out 0.25s;
-  color: var(--ifm-color-secondary) !important;
-  background: white !important;
-  border: 2px solid var(--ifm-color-secondary) !important;
-  text-decoration: none;
-}
+/* .cardContainer:hover .cardText > h1 {
+  display: none;
+} */
 
-@media screen and (min-width: 966px) {
-  .buttonMain {
-    width: 66%;
-  }
+/* .cardContainer:hover .icon {
+  display: none;
+} */
 
+@media screen and (max-width: 966px) {
   .cardContainer {
-    flex-direction: row;
+    margin: 2rem 0;
+    width: 40vw;
+    height: 30vh;
+    padding: 10rem;
   }
-  /* Applies to the second .cardContainer div inside the main section */
-  /* This selector is more specific, so it overrides the .cardContainer one */
-  main .cardContainer:nth-child(2) { 
-    flex-direction: row-reverse;
+
+  .cardLink:first-child .cardContainer {
+    margin-top: 0;
   }
-  .cardImg{
-    width: 42%;
-    height: 100%;
-  }
+
+  .cardText > h1 {
+    width: 100%;
+  } 
+
+  /* .cardContainer:hover .cardDescription {
+    font-size: 1rem;
+    width: 40vw;
+  } */
+
+  /* .cardContainer:hover {
+    margin: 2rem 0;
+    width: 40vw;
+    height: 30vh;
+    padding: 10rem;
+  } */
 }
