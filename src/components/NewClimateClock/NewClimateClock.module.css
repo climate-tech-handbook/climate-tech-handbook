@@ -46,7 +46,6 @@
   font-weight: 500;
   font-size: 2rem;
   margin: 21px 0;
-  padding: 0 1rem;
 }
 
 .number {
@@ -126,6 +125,7 @@
 @media screen and (max-width: 375px) {
   .clock {
     padding: 1rem 0.5rem;
+    width: 75%;
   }
   
   .clockMain > span {
