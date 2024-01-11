@@ -116,11 +116,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           style: "dark",
           links: [
             {
-              title: "Social",
               items: [
                 {
                   html: `
-                    </a>
+                    <img src="/img/main/cth-earth-logo.png" alt="CTH Earth Logo">
                     <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
                       <img src="img/slack_icon.png" alt="Slack Icon" style="margin-right: 8px; width: 40px;"/>
                     </a>
@@ -129,7 +128,38 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                     </a>
                     <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noreferrer noopener" aria-label="Github">
                       <img src="img/design/icons/github-mark-white.svg" alt="Github Icon" style="width: 40px;" />
+                    </a>
                   `,
+                },
+              ],
+            },
+            {
+              title: "Job Seekers",
+              items: [
+                {
+                  label: "Resource Library",
+                  to: "/resources",
+                },
+                {
+                  label: "Career Guide",
+                  to: "/career-guide",
+                },
+                {
+                  label: "Technologies",
+                  to: "/technologies"
+                },
+                {
+                  label: "Glossary",
+                  to: "/glossary",
+                },
+              ],
+            },
+            {
+              title: "Startups",
+              items: [
+                {
+                  label: "Choose a Sector",
+                  to: "/solutions",
                 },
               ],
             },
@@ -151,49 +181,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               items: [
                 {
                   label: "Blog",
-                  href: "/blog",
-                },
-              ],
-            },
-            {
-              title: "Resources",
-              items: [
-                {
-                  label: "Resource Library",
-                  to: "/resources",
-                },
-                {
-                  label: "Career Guide",
-                  to: "/career-guide",
-                },
-                {
-                  label: "Glossary",
-                  to: "/glossary",
-                },
-              ],
-            },
-            {
-              title: "Climate Solutions",
-              items: [
-                {
-                  label: "Electricity",
-                  to: "/sector-electricity",
-                },
-                {
-                  label: "Food, Agriculture, & Land Use",
-                  to: "/sector-food-agriculture-and-land-use",
-                },
-                {
-                  label: "Industry",
-                  to: "/sector-industry",
-                },
-                {
-                  label: "Transportation",
-                  to: "/sector-transportation",
-                },
-                {
-                  label: "Additional Sectors",
-                  to: "/solutions",
+                  to: "/blog",
+                  position: "right",
                 },
               ],
             },
