@@ -128,12 +128,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 
 .footer-logo-social-links > img {
   height: 4rem;
-  margin-bottom: 1rem;
-}
-
-.footer-logo-social-links > .social-links {
-  display: flex;
-  justify-content: space-around;
+  margin-bottom: 2rem;
 }
 
 .footer__item > .social-links > a {
@@ -302,4 +297,10 @@ details summary::before {
 
 details > div > div {
   border-top: 1px solid rgb(83, 83, 248) !important;
+}
+
+@media screen and (max-width: 895px) {
+  .footer__links {
+    display: flex;
+  }
 }
