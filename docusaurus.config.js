@@ -119,16 +119,22 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               items: [
                 {
                   html: `
+                  <div class="footer-logo-social-links">
                     <img src="/img/main/cth-earth-logo.png" alt="CTH Earth Logo">
-                    <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
-                      <img src="img/slack_icon.png" alt="Slack Icon" style="margin-right: 8px; width: 40px;"/>
-                    </a>
-                    <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
-                      <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon" style="margin-right: 8px;"/>
-                    </a>
-                    <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noreferrer noopener" aria-label="Github">
-                      <img src="img/design/icons/github-mark-white.svg" alt="Github Icon" style="width: 40px;" />
-                    </a>
+                    <div class="social-links">
+                      <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
+                        <img src="img/slack_icon.png" alt="Slack Icon" style="margin-right: 8px; width: 40px;"/>
+                      </a>
+                      <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
+                        <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon" style="margin-right: 8px;"/>
+                      </a>
+                      <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noreferrer noopener" aria-label="Github">
+                        <img src="img/design/icons/github-mark-white.svg" alt="Github Icon" style="width: 40px;" />
+                      </a>
+                    </div>
+                  </div>
+
+
                   `,
                 },
               ],
