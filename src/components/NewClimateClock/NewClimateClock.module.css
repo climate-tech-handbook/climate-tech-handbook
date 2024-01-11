@@ -123,7 +123,7 @@
   }
 }
 
-@media screen and (max-width: 356px) {
+@media screen and (max-width: 375px) {
   .clock {
     padding: 1rem 0.5rem;
   }
