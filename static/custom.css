@@ -186,7 +186,9 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 .footer__link-item:hover {
-  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  color: #26282A;
 }
 
 @media (max-width: 1100px) {
