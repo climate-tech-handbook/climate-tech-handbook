@@ -129,7 +129,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                         <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon" style="margin-right: 8px;"/>
                       </a>
                       <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noreferrer noopener" aria-label="Github">
-                        <img src="img/design/icons/github-mark-white.svg" alt="Github Icon" style="width: 40px;" />
+                        <img src="img/design/icons/github-mark-black.svg" alt="Github Icon" style="width: 40px;" />
                       </a>
                     </div>
                   </div>
