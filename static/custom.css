@@ -133,10 +133,6 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   margin-bottom: 2rem;
 }
 
-.footer__item > .social-links > a {
-  fill: #26282A;
-}
-
 .doc-button {
   background-color: #be4721;
   border: 2px solid var(--ifm-color-secondary);
@@ -304,5 +300,9 @@ details > div > div {
 @media screen and (max-width: 895px) {
   .footer__links {
     display: flex;
+  }
+
+  .footer-logo-social-links {
+    width: 100%;
   }
 }
