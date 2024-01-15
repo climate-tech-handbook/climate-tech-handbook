@@ -140,31 +140,31 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               ],
             },
             {
-              title: "Job Seekers",
+              title: "Start Learning",
               items: [
+                {
+                  label: "Mini Course",
+                  to: "/level-1",
+                },
                 {
                   label: "Resource Library",
                   to: "/resources",
                 },
                 {
-                  label: "Career Guide",
-                  to: "/career-guide",
+                  label: "Glossary",
+                  to: "/glossary",
                 },
                 {
                   label: "Technologies",
                   to: "/technologies"
                 },
-                {
-                  label: "Glossary",
-                  to: "/glossary",
-                },
               ],
             },
             {
-              title: "Startups",
+              title: "Solutions",
               items: [
                 {
-                  label: "Choose a Sector",
+                  label: "All Climate Solutions",
                   to: "/solutions",
                 },
               ],
