@@ -94,10 +94,12 @@
   }
 
   html, body { /*prevent mobile scrolling horizontally*/
-    max-width: 100%;
     overflow-x: hidden;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
   }
-    
 }
 
 @media screen and (max-width: 540px) {
@@ -110,7 +112,7 @@
   }
   
   .section {
-    font-size: 0.5rem;
+    font-size: 0.75rem;
   }
   
   .clockMain > span {
@@ -125,14 +127,5 @@
 @media screen and (max-width: 375px) {
   .clock {
     padding: 1rem 0.5rem;
-    width: 75%;
-  }
-  
-  .clockMain > span {
-    font-size: 0.5rem;
-  }
-
-  .number {
-    font-size: 0.75rem;
   }
 }
