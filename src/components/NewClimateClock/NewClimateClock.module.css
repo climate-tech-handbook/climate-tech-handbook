@@ -46,7 +46,6 @@
   font-weight: 500;
   font-size: 2rem;
   margin: 21px 0;
-  padding: 0 1rem;
 }
 
 .number {
@@ -78,6 +77,29 @@
 }
 
 /* Displays clock details for mobile view */
+@media screen and (max-width: 966px) {
+  .clock {
+    max-width: 90vw;
+    overflow: auto;
+    margin-top: 20px;
+  }
+
+  .clockMain {
+    block-size: fit-content;  
+    overflow: auto;
+  }
+
+  .countdown {
+    gap: 0.2rem;
+  }
+
+  html, body { /*prevent mobile scrolling horizontally*/
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+    
+}
+
 @media screen and (max-width: 540px) {
   .clockHeader {
     font-size: 1.5rem;
@@ -100,25 +122,17 @@
   }
 }
 
-@media screen and (max-width: 966px) {
+@media screen and (max-width: 375px) {
   .clock {
-    max-width: 90vw;
-    overflow: auto;
-    margin-top: 20px;
+    padding: 1rem 0.5rem;
+    width: 75%;
+  }
+  
+  .clockMain > span {
+    font-size: 0.5rem;
   }
 
-  .clockMain {
-    block-size: fit-content;  
-    overflow: auto;
+  .number {
+    font-size: 0.75rem;
   }
-
-  .countdown {
-    gap: 0.2rem;
-  }
-
-  html, body { /*prevent mobile scrolling horizontally*/
-    max-width: 100%;
-    overflow-x: hidden;
-  }
-    
 }

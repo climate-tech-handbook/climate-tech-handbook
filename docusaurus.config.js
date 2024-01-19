@@ -116,20 +116,56 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           style: "dark",
           links: [
             {
-              title: "Social",
               items: [
                 {
                   html: `
-                    </a>
-                    <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
-                      <img src="img/slack_icon.png" alt="Slack Icon" style="margin-right: 8px; width: 40px;"/>
-                    </a>
-                    <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
-                      <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon" style="margin-right: 8px;"/>
-                    </a>
-                    <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noreferrer noopener" aria-label="Github">
-                      <img src="img/design/icons/github-mark-white.svg" alt="Github Icon" style="width: 40px;" />
+                  <div class="footer-logo-social-links">
+                    <img src="/img/main/cth-earth-logo.png" alt="CTH Earth Logo">
+                    <div class="social-links">
+                      <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
+                        <img src="img/slack_icon.png" alt="Slack Icon" style="margin-right: 15px; width: 40px;"/>
+                      </a>
+                      <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
+                        <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon" style="margin-right: 15px;"/>
+                      </a>
+                      <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noreferrer noopener" aria-label="Github">
+                        <img src="img/design/icons/github-mark-black.svg" alt="Github Icon" style="width: 40px;" />
+                      </a>
+                    </div>
+                  </div>
+
+
                   `,
+                },
+              ],
+            },
+            {
+              title: "Start Learning",
+              items: [
+                {
+                  label: "Mini Course",
+                  to: "/level-1",
+                },
+                {
+                  label: "Resource Library",
+                  to: "/resources",
+                },
+                {
+                  label: "Glossary",
+                  to: "/glossary",
+                },
+                {
+                  label: "Technologies",
+                  to: "/technologies"
+                },
+              ],
+            },
+            {
+              title: "Solutions",
+              items: [
+                {
+                  label: "All Climate Solutions",
+                  to: "/solutions",
                 },
               ],
             },
@@ -151,49 +187,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               items: [
                 {
                   label: "Blog",
-                  href: "/blog",
-                },
-              ],
-            },
-            {
-              title: "Resources",
-              items: [
-                {
-                  label: "Resource Library",
-                  to: "/resources",
-                },
-                {
-                  label: "Career Guide",
-                  to: "/career-guide",
-                },
-                {
-                  label: "Glossary",
-                  to: "/glossary",
-                },
-              ],
-            },
-            {
-              title: "Climate Solutions",
-              items: [
-                {
-                  label: "Electricity",
-                  to: "/sector-electricity",
-                },
-                {
-                  label: "Food, Agriculture, & Land Use",
-                  to: "/sector-food-agriculture-and-land-use",
-                },
-                {
-                  label: "Industry",
-                  to: "/sector-industry",
-                },
-                {
-                  label: "Transportation",
-                  to: "/sector-transportation",
-                },
-                {
-                  label: "Additional Sectors",
-                  to: "/solutions",
+                  to: "/blog",
+                  position: "right",
                 },
               ],
             },

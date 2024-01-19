@@ -3,23 +3,161 @@
  * and scoped locally.
  */
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .mainBody {
   display: flex;
   flex-direction: column;
   padding-top: 8rem;
-  padding-bottom: 5rem;
   position: relative;
   background: #FFF;
+}
+
+/* Styling for missionContainer */
+.missionContainer {
+  margin: 2rem 10rem;
+  margin-bottom: 0;
+  position: relative;
+}
+
+.missionIcon {
+  margin: 5rem 1rem;
+}
+
+.infoDiv {
+  font-family: 'Lato', sans-serif;
+  position: absolute;
+  bottom: 5rem;
+  left: 20rem;
+  z-index: 10;
+}
+
+.infoDiv > h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 800;
+  font-size: 2.5rem;
+}
+
+.infoDiv > p {
+  position: relative;
+  text-align: justify;
+  left: var(--infoDiv-left-spacing);
+  width: 85%;
+}
+
+.infoDiv > p > span {
+  font-weight: bold;
+}
+
+/* Styling for missionContainer button */
+.secondaryButton {
+  position: relative;
+  left: var(--infoDiv-left-spacing);
+  font-size: 1.25rem;
+  font-weight: 600;
+  background-color: #FD6F02;
+  color: #2A2C2D;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 9.5rem;
+  border-radius: 30px;
+}
+
+.secondaryButton:hover {
+  transition: ease-in-out 0.25s;
+  color: #FD6F02;
+  background-color: #fd6f021c;
+  border: 2px solid #FD6F02;
+  text-decoration: none;
+}
+
+/* Styling for homecardContainer */
+.homecardContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5rem;
+  padding-top: 0;
 }
 
 @media screen and (max-width: 966px) {
   .mainBody {
     padding-top: 9rem;
+  }
+
+  .homecardContainer {
+    flex-direction: column;
+  }
+
+  .missionIcon {
+    transform: scale(0.75);
+  }
+
+  .infoDiv {
+    position: relative;
+    bottom: 10rem;
+    left: 50%; 
+    transform: translateX(-50%); 
+    text-align: center;
+  }
+
+  .infoDiv > h1 {
+    position: relative;
+    bottom: 5rem;
+    left: 7rem;
+  }
+
+  .secondaryButton {
+    left: 50%; 
+    transform: translateX(-50%); 
+  }
+}
+
+@media screen and (max-width: 1339px) {
+  .missionIcon {
+    transform: scale(0.75);
+  }
+
+  .infoDiv {
+    position: relative;
+    bottom: 10rem;
+    left: 50%; 
+    transform: translateX(-50%); 
+    text-align: center;
+  }
+
+  .infoDiv > h1 {
+    position: relative;
+    bottom: 5rem;
+    left: 7rem;
+  }
+
+  .secondaryButton {
+    left: 50%; 
+    transform: translateX(-50%); 
+  }  
+}
+
+@media screen and (max-width: 700px) {
+  .missionContainer {
+    margin: 0;
+  }
+
+  .missionIcon {
+    transform: scale(0.50) translate(-50%);
+  }
+
+  .infoDiv > p {
+    left: 50%;
+    transform: translateX(-50%); 
+    width: 85%;
+  }
+
+  .infoDiv > h1 {
+    position: relative;
+    left: 2rem;
+    left: 50%; 
+    transform: translateX(-50%); 
   }
 }

@@ -1,20 +1,18 @@
 import React, { useEffect, useState } from "react";
+import clsx from "clsx";
+import Link from "@docusaurus/Link";
 import moment from "moment";
 import Layout from "@theme/Layout";
+import styles from "./index.module.css";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import HomepageHeader from "../components/HomepageHeader/HomepageHeader";
 import HomeCard from "../components/HomeCard/HomeCard";
-import styles from "./index.module.css";
-import clsx from "clsx";
 import NewClimateClock from "../components/NewClimateClock/NewClimateClock";
-import useBaseUrl from "@docusaurus/useBaseUrl";
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
-
   const [climateCountdown, setClimateCountdown] = useState({
     years: 0,
-    // months: 0,
     days: 0,
     hours: 0,
     minutes: 0,
@@ -33,7 +31,6 @@ export default function Home(): JSX.Element {
  
   useEffect(() => {
     const timeBetween = moment.duration(dateOfDeadline.diff(moment()));
-
     const interval = setInterval(() => {
       setClimateCountdown({
         years: Math.floor(timeBetween.asYears()),
@@ -42,21 +39,7 @@ export default function Home(): JSX.Element {
         minutes: timeBetween.minutes(),
         seconds: padWithZeroes(timeBetween.seconds(), 2)
       });
-  }, 1000);
-
-  // With Months included in climateClock
-  // useEffect(() => {
-  //   const timeBetween = moment.duration(dateOfDeadline.diff(moment()));
-  //   const interval = setInterval(() => {
-  //     setClimateCountdown({
-  //       years: timeBetween.years(),
-  //       months: timeBetween.months(),
-  //       days: timeBetween.days(),
-  //       hours: timeBetween.hours(),
-  //       minutes: timeBetween.minutes(),
-  //       seconds: padWithZeroes(timeBetween.seconds(), 2)
-  //     });
-  //   }, 1000);
+    }, 1000);
 
     return () => clearInterval(interval);
   }, [climateCountdown]);
@@ -77,20 +60,52 @@ export default function Home(): JSX.Element {
       <main className={clsx(styles.mainBody)}>
         <NewClimateClock countDown={climateCountdown} />
 
-       {/* <HomeCard
-          title="Climate Job Seekers"
-          description="Get paid what your worth while solving humanity's biggest crisis. Is it too good to be true?"
-          imageUrl={useBaseUrl("/img/climate-job.png")}
-          linkUrl="/intro"
-        />
-       <HomeCard
-          title="Startup Founders"
-          description="Our open source industry research will save you precious time and money. We'd rather you focus on making the greatest impact possible for our planet."
-          imageUrl={useBaseUrl("/img/climate-startups.webp")}
-          linkUrl="/sectors"
-        /> */}
+        <div className={clsx(styles.missionContainer)}>
+          <svg className={clsx(styles.missionIcon)} width="348" height="246" viewBox="0 0 348 246" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="119" cy="123" r="119" fill="#AAC6FD" fill-opacity="0.63"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M150.778 136.6C140.161 27.9755 240.078 -13.1761 336.69 3.62438C340.824 4.34159 343.866 7.61672 344.463 11.529C353.248 64.9685 347.09 124.044 309.767 162.752C276.99 196.746 230.746 202.413 182.868 189.984C178.413 208.563 177.754 225.742 177.218 237.116C176.63 249.536 157.663 248.65 158.251 236.23C161.713 163.829 189.784 111.738 248.482 67.1478C229.36 70.9185 181.374 104.258 157.975 149.208C153.881 147.709 151.468 143.676 150.778 136.6Z" fill="#5DC597" fill-opacity="0.85"/>
+          </svg>
 
+          <div className={clsx(styles.infoDiv)}>
+            <h1>OUR MISSION</h1>
+            <p>Our mission is to build the world's most <span>accessible</span>, 
+            yet <span>comprehensive</span>, resource for anyone using technology 
+            to address our climate emergency. Your skills are the missing piece 
+            in the fight against climate change. We help you join the solution 
+            and make a lasting impact.</p>
+            <Link className={styles.secondaryButton} to="/about">
+              Learn More
+            </Link>
+          </div>
+        </div>
+
+        <div className={clsx(styles.homecardContainer)}>
+          <HomeCard
+              title="About Us"
+              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+              linkUrl="/about"
+              icon="IoEarth"
+          />
+            
+          <HomeCard
+              title="Courses"
+              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+              linkUrl="/intro"
+              icon="FaBookOpen"
+          />
+
+          <HomeCard
+              title="Climate Solutions"
+              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+              linkUrl="/solutions"
+              icon="MdWindPower"
+          />
+        </div>
       </main>
+
     </Layout>
   );
 }

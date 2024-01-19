@@ -3,13 +3,17 @@ title: How to use the Handbook
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-## The Dream Job System
+## Your Dream Job System
 
 Our model is loosely based off of Austin Belcak's [Dream Job System](https://cultivatedculture.com/djs-podcast/).
 
+### Here's how it works
+
 :::note The Dream Climate Job System
 1. **Find your [Climate Solution](solutions)**
+
 2. **Pick 10 companies** - doing the best work on that solution
+
 3. **Build your portfolio and network** - to prove that you are the best hire, regardless of formal experience
 :::
 
@@ -23,8 +27,9 @@ Our model is loosely based off of Austin Belcak's [Dream Job System](https://cul
 - Use the top left hamburger menu to navigate pages
 - Use jump links within  -->
 
+## There are 3 learning levels
 
-## Learning Levels
+Here we go!
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
