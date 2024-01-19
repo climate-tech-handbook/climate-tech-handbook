@@ -39,25 +39,25 @@ Each solution comes with a calculated number of greenhouse emissions that need t
         title="Food, Agriculture, and Land Use"
         description="Food waste, forest protection, meat production, all play a major role"
         imageUrl="/img/food-agriculture-and-land-use.jpg"
-        linkUrl="sector-food-agriculture-and-land-use"
+        linkUrl="/sector-food-agriculture-and-land-use"
     />
     <ImageCard 
         title="Industry"
         description="Materials such as cement, steel, and iron all need new manufacturing processes"
         imageUrl="/img/industry.jpg"
-        linkUrl="sector-industry"
+        linkUrl="/sector-industry"
     />
     <ImageCard 
         title="Transportation"
         description="Electrification as well as the promotion of public transit and urban design"
         imageUrl="/img/transportation.jpeg"
-        linkUrl="sector-transportation"
+        linkUrl="/sector-transportation"
     />
     <ImageCard 
         title="Buildings"
         description="Heating, cooling, electricity and more. All need to be reimagined"
         imageUrl="/img/buildings.jpg"
-        linkUrl="sector-buildings"
+        linkUrl="/sector-buildings"
     />
 
 </div>
@@ -70,19 +70,19 @@ Each solution comes with a calculated number of greenhouse emissions that need t
     title="Land Sinks"
     description="Carbon sequestration through plants, soil, and other living systems"
     imageUrl="/img/land-sinks.jpg"
-    linkUrl="sector-land-sinks"
+    linkUrl="/sector-land-sinks"
 />
 <ImageCard 
     title="Coastal and Ocean Sinks"
     description="Coastal and ocean sinks can absorb and sequester large amounts of carbon dioxide"
     imageUrl="/img/coastal-and-ocean-sinks.png"
-    linkUrl="sector-coastal-and-ocean-sinks"
+    linkUrl="/sector-coastal-and-ocean-sinks"
 />
 <ImageCard 
     title="Engineered Sinks"
     description="Creating new mechanical systems for capturing carbon in addition to natural sinks"
     imageUrl="/img/biochar-production.jpg"
-    linkUrl="sector-engineered-sinks"
+    linkUrl="/sector-engineered-sinks"
 />
 
 </div>
