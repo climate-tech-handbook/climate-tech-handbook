@@ -29,6 +29,8 @@ _Krafla, a geothermal power station in Iceland_
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Geothermal+Power)
 :::
 
+<iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/dbfd3ce0-8ce8-4504-9457-88dcbc0135df?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>
+
 ## Overview
 
 Geothermal power, a renewable energy source, taps into the Earth's core heat to generate electricity. One significant breakthrough is "enhanced geothermal systems" (EGS) which involve artificially enhancing geothermal reservoirs by injecting water into hot rock formations, often utilizing hydraulic fracturing (fracking). EGS boosts energy extraction, making large-scale power generation feasible. Notable companies include AltaRock Energy, Davenport Newberry Holdings, and Ormat Technologies.

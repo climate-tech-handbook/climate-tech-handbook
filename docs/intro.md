@@ -1,5 +1,5 @@
 ---
-title: Get started
+title: Start Learning
 displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
@@ -61,7 +61,7 @@ There is a path to solving this crisis and landing a job you love.
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="How to use the Handbook"
-    description="Start with a simple framework"
+    description="An introduction to our free one hour mini-course"
     imageUrl="/img/starting-line.jpg"
     linkUrl="../how-to-use-the-handbook"
     />

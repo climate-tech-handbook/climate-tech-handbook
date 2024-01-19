@@ -24,6 +24,13 @@ The Food, Agriculture, and Land Use sector is essential in the worldwide effort 
 
 Beyond decreasing its emissions, it also presents opportunities for carbon capture and enhancing resilience to climate-related impacts.
 
+## Resources:
+
+:::info
+- [A Look at Food & Agriculture](https://www.climatedrift.com/p/a-look-at-food-and-agriculture?utm_source=%2Fsearch%2Fagriculture&utm_medium=reader2)
+- [The Complete Guide to Alternative-Proteins](https://www.climatedrift.com/p/the-complete-guide-to-alternative?utm_source=%2Fsearch%2Fagriculture&utm_medium=reader2)
+:::
+
 ## Solutions in this Sector
 
 <div style={{ display: 'flex', flexWrap: 'wrap' }}>

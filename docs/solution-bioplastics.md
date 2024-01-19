@@ -29,6 +29,10 @@ _Packing peanuts made from bioplastics (thermoplastic starch) ([Wikipedia](https
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Bioplastics)
 :::
 
+:::info Resources
+- [Great overview by Climate Tech Distillery](https://www.climatetechdistillery.com/p/19-bioplastics)
+:::
+
 ## Overview
 
 - **Bioplastics** are made from renewable sources (corn, sugar cane) and replace fossil fuel-based plastics.

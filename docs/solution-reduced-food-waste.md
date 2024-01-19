@@ -88,6 +88,10 @@ Reducing food waste is one of the biggest opportunities for reducing greenhouse 
 
 ## Progress Made
 
+Here's an example of using anaerobic digestion:
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameBorder="0" height="175" style={{width:'100%', maxWidth:'660px', overflow:'hidden', borderRadius:'10px'}} sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://player.simplecast.com/3bd0286c-c673-4eae-97bf-2efb427f3fd8?dark=true&wmode=opaque" />
+
 * **Awareness**: Growing realization about the role of food waste in climate change.
 * **Innovations**:
 
