@@ -95,25 +95,25 @@ Each solution comes with a calculated number of greenhouse emissions that need t
     title="Health and Education"
     description="Ensuring an equitable transition, building resilience, and fostering informed decision-making"
     imageUrl="/img/healthy-lifestyle.jpg"
-    linkUrl="sector-health-and-education"
+    linkUrl="/sector-health-and-education"
 />
 <ImageCard 
     title="Climate Adaptation"
     description="We need to quickly adjust and respond to the impacts of climate change"
     imageUrl="/img/adaptation.jpg"
-    linkUrl="sector-climate-adaptation"
+    linkUrl="/sector-climate-adaptation"
 />
 <ImageCard 
     title="Media and Journalism"
     description="Essential to drive systemic change, mobilize public support, and hold those in power accountable"
     imageUrl="/img/journalism.jpg"
-    linkUrl="sector-media-and-journalism"
+    linkUrl="/sector-media-and-journalism"
 />
 <ImageCard 
     title="Advocacy or Policy"
     description="Ensuring we have enough funding and political support. Reforming bureaucratic systems that slow down progress"
     imageUrl="/img/advocacy-and-policy.jpg"
-    linkUrl="sector-advocacy-or-policy"
+    linkUrl="/sector-advocacy-or-policy"
 />
 
 </div>
