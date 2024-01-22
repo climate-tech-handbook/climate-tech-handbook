@@ -25,6 +25,8 @@ Come [hang out on Slack](https://chat.climatetechhandbook.com)
 
 <!--insert logos-->
 
+<a href="https://checkout.square.site/merchant/QT27FKBWCRT2B/checkout/YJPPOLBCIENMGHKMMCTLKYBE" class="doc-button">Donate</a>
+
 ---
 
 ## Contribution Guidelines
