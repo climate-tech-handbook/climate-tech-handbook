@@ -19,8 +19,11 @@ Come [hang out on Slack](https://chat.climatetechhandbook.com)
 ## Ways to contribute
 
 * Submit content
+
 * Improve our code and design
+
 * Financially support the project
+
 * Provide advice and expertise
 
 <!--insert logos-->
