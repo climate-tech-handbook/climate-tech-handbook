@@ -3,7 +3,6 @@ title: Component Library
 displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
-
 import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagination.jsx'; 
 
 <a href="https://www.example.com" class="doc-button">Button</a>

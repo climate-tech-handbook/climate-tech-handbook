@@ -81,7 +81,7 @@ Any form of technology that will help us implement our climate goals, particular
 :::book rough industry definition:
 
 A recent financial movement to invest in startups that are focused on a particular solution to the climate emergency.
-:::book
+
 #### Climate tech vs Clean tech:
 
 First - **fixing climate is a subset** within a broader circle of clean technologies.
@@ -126,11 +126,14 @@ You will be dealing with a lot of early stage startups.
 
 Roughly 3,000+ companies / organizations exist in our current database.
 
-:::note Most often
+Most often:
 - **Early stage startups tend to pay lower salaries** in exchange for generous equity packages.
 
 - **That said, climate startups want to attract quality talent** and hopefully understand that competitive pay is important.
-:::
+
+### Hi everybody!
+
+This is my special section
 
 #### Established companies:
 
@@ -374,7 +377,7 @@ Speed and Scale has a great OKR system that is time bound and uses very specific
 
 There are [26 Slack communities listed here](https://www.climatefinance.xyz/climate-slack-communities).
 
-Some are generalized for climate job seekers, and others are specialized toward roles (climate designers) and solutions ()
+Some are generalized for climate job seekers, and others are specialized toward roles (climate designers) and solutions.
 
 **Here are 3 to start with:**
 
