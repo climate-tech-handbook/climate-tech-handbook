@@ -12,7 +12,7 @@ const ScrollIndicator = () => {
         const percentage = (scrollPosition / documentHeight) * 100;
         setScrollPercentage(percentage);
     };
-
+    
     useEffect(() => {
         window.addEventListener('scroll', handleScroll);
         return () => {
