@@ -41,8 +41,8 @@ const TableOfContent = () => {
             scrollIndicator.background = "green";
             scrollIndicator.height = "100px";
             scrollIndicator.id = "scrollIndicatorId"
-            console.log(scrollIndicator)
-            console.log(articleElement)
+            // console.log(scrollIndicator)
+            // console.log(articleElement)
         }
 
         addScrollIndicator();
@@ -55,8 +55,8 @@ const TableOfContent = () => {
 
     return (
         <>
-            {console.log('from TOC')}
-            {console.log(location.pathname)}
+            {/* {console.log('from TOC')}
+            {console.log(location.pathname)} */}
             {/* {addScrollIndicator()} */}
         </>
     )
