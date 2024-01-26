@@ -9,7 +9,6 @@ const TableOfContent = () => {
 
     useEffect(() => {
         const tableOfContentButton = document.getElementsByClassName("tocCollapsible_node_modules-\@docusaurus-theme-classic-lib-theme-TOCCollapsible-styles-module")[0];
-
         const handleScrollOffset = () => {
             const currentScrollPos = window.pageYOffset;
 

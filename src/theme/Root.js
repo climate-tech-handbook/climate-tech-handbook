@@ -17,7 +17,7 @@ export default function Root({children}) {
     <> 
         { setSmoothScroll() }
         {/* { renderScroll() } */}
-        <TableOfContent />
+        {/* <TableOfContent /> */}
         {children}   
     </>
     );

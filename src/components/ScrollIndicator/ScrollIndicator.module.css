@@ -1,10 +1,7 @@
 .scrollContainer {
     width: 100%;
-    height: 10px;
-    background: #ccc;
     background-color: yellow;
     z-index: 99;
-
     position: fixed;
     bottom: 0;
     left: 0;
