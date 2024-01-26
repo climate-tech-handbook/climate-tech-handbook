@@ -2,15 +2,16 @@ import React, { useEffect, useState } from "react";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import moment from "moment";
-import Layout from "@theme/Layout";
 import styles from "./index.module.css";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import HomepageHeader from "../components/HomepageHeader/HomepageHeader";
 import HomeCard from "../components/HomeCard/HomeCard";
 import NewClimateClock from "../components/NewClimateClock/NewClimateClock";
+import Layout from "@theme/Layout";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
+  
   const [climateCountdown, setClimateCountdown] = useState({
     years: 0,
     days: 0,
@@ -54,9 +55,9 @@ export default function Home(): JSX.Element {
     <Layout
       title={`${siteConfig.title}`}
       description="Get up to speed on climate tech as quickly as possible"
-    >
+    > 
       <HomepageHeader />
-
+      
       <main className={clsx(styles.mainBody)}>
         <NewClimateClock countDown={climateCountdown} />
 
@@ -81,31 +82,26 @@ export default function Home(): JSX.Element {
 
         <div className={clsx(styles.homecardContainer)}>
           <HomeCard
-              title="About Us"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-              linkUrl="/about"
-              icon="IoEarth"
+            title="About Us"
+            linkUrl="/about"
+            icon="IoEarth"
           />
             
           <HomeCard
-              title="Courses"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-              linkUrl="/intro"
-              icon="FaBookOpen"
+            title="Courses"
+            linkUrl="/intro"
+            icon="FaBookOpen"
           />
 
           <HomeCard
-              title="Climate Solutions"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-              sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-              linkUrl="/solutions"
-              icon="MdWindPower"
+            title="Climate Solutions"
+            linkUrl="/solutions"
+            icon="MdWindPower"
           />
         </div>
-      </main>
-
+      </main>   
+  
     </Layout>
+
   );
 }
