@@ -15,7 +15,6 @@ export default function TOCCollapsible({ toc, className, minHeadingLevel, maxHea
 
   useEffect(() => {
     let tableOfContentButton = tableOfContentButtonRef.current;
-    console.log(tableOfContentButton)
 
     const handleScrollOffset = () => {
       const currentScrollPos = window.pageYOffset;
