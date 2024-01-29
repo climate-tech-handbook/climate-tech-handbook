@@ -1,7 +1,6 @@
 import React from 'react';
 import { useLocation } from '@docusaurus/router';
 import ScrollIndicator from '../components/ScrollIndicator/ScrollIndicator';
-import TableOfContent from '../components/TableOfContent/TableOfContent';
 import { setSmoothScroll } from '../utils/scriptLogic';
 
 export default function Root({children}) {
@@ -17,7 +16,6 @@ export default function Root({children}) {
     <> 
         { setSmoothScroll() }
         {/* { renderScroll() } */}
-        <TableOfContent />
         {children}   
     </>
     );

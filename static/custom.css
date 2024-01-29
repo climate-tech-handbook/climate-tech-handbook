@@ -272,31 +272,6 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   --custom-table-of-contents-link-active-before-left: -32px;
 }
 
-/* .tocCollapsible_node_modules-\@docusaurus-theme-classic-lib-theme-TOCCollapsible-styles-module {
-  background-color: red important!;
-  position: sticky;
-  top: 0;
-}
-
-.table-of-contents {
-  background-color: red important!;
-} */
-
-@media screen and (max-width: 375px) {
-  .table-of-contents {
-    /* position: fixed;
-    bottom: 0;
-    left: 0; */
-    background-color: yellow;
-  }
-
-  .tocCollapsible_node_modules-\@docusaurus-theme-classic-lib-theme-TOCCollapsible-styles-module {
-    background-color: red !important;
-    position: sticky;
-    top: 0px;
-  }
-}
-
 /* .table-of-contents > ul > li > ul > li .table-of-contents__link--active:before {
   content: " ";
   position: absolute;
