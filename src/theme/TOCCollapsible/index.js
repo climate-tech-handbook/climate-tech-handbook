@@ -43,7 +43,7 @@ export default function TOCCollapsible({ toc, className, minHeadingLevel, maxHea
         !collapsed && styles.tocCollapsibleExpanded,
         className,
       )}>
-      <CollapseButton collapsed={collapsed} onClick={toggleCollapsed} />
+      <CollapseButton collapsed={collapsed} onClick={toggleCollapsed} toc={toc} />
       <Collapsible
         lazy
         className={styles.tocCollapsibleContent}

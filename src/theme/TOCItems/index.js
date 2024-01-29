@@ -10,18 +10,13 @@ export default function TOCItems({
   linkActiveClassName = undefined,
   minHeadingLevel: minHeadingLevelOption,
   maxHeadingLevel: maxHeadingLevelOption,
-  ...props
-}) {
+  ...props}) {
+
   const themeConfig = useThemeConfig();
-  const minHeadingLevel =
-    minHeadingLevelOption ?? themeConfig.tableOfContents.minHeadingLevel;
-  const maxHeadingLevel =
-    maxHeadingLevelOption ?? themeConfig.tableOfContents.maxHeadingLevel;
-  const tocTree = useFilteredAndTreeifiedTOC({
-    toc,
-    minHeadingLevel,
-    maxHeadingLevel,
-  });
+  const minHeadingLevel = minHeadingLevelOption ?? themeConfig.tableOfContents.minHeadingLevel;
+  const maxHeadingLevel = maxHeadingLevelOption ?? themeConfig.tableOfContents.maxHeadingLevel;
+  const tocTree = useFilteredAndTreeifiedTOC({ toc, minHeadingLevel, maxHeadingLevel});
+
   const tocHighlightConfig = useMemo(() => {
     if (linkClassName && linkActiveClassName) {
       return {
@@ -33,8 +28,9 @@ export default function TOCItems({
     }
     return undefined;
   }, [linkClassName, linkActiveClassName, minHeadingLevel, maxHeadingLevel]);
-  useTOCHighlight(tocHighlightConfig);
   
+  useTOCHighlight(tocHighlightConfig);
+
   return (
     <TOCItemTree
       toc={tocTree}
