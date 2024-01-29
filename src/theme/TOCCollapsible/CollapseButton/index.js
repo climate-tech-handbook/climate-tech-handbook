@@ -10,21 +10,22 @@ export default function TOCCollapsibleCollapseButton({collapsed, toc, ...props})
 
   const renderTitle = () => {
     const currentTitle = currentSection && toc.find((item) => (item.id === currentSection) && item.level === 2)?.value
+    let decodedTitle = ""
 
     if (currentTitle !== undefined) {
-      const decodedTitle = currentTitle 
-      .replace(/&#39;/g, "'")
-      .replace(/&amp;/g, '&')
-      .replace(/&lt;/g, '<')
-      .replace(/&gt;/g, '>')
-      .replace(/&quot;/g, '"')
-      .replace(/&nbsp;/g, ' ');
+      decodedTitle = currentTitle 
+          .replace(/&#39;/g, "'")
+          .replace(/&amp;/g, '&')
+          .replace(/&lt;/g, '<')
+          .replace(/&gt;/g, '>')
+          .replace(/&quot;/g, '"')
+          .replace(/&nbsp;/g, ' ');
 
       prevTitleRef.current = decodedTitle;
       console.log("decoded", decodedTitle)
     }
 
-    return currentTitle || prevTitleRef.current;
+    return decodedTitle || prevTitleRef.current;
   }
   
   useEffect(() => {
