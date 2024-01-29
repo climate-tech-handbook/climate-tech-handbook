@@ -1,0 +1,16 @@
+.scrollContainer {
+    width: 100%;
+    background-color: yellow;
+    z-index: 99;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 10px;
+}
+
+.scrollIndicator {
+    height: 10px; 
+    background-color: #007acc; 
+    z-index: 999;
+    transition: width 0.3s;
+}

@@ -9,7 +9,7 @@ export default function TOCCollapsible({ toc, className, minHeadingLevel, maxHea
   const {collapsed, toggleCollapsed} = useCollapsible({
     initialState: true,
   });
-  
+
   let prevScrollPos = typeof window !== 'undefined' ? window.pageYOffset : 0;
   let tableOfContentButtonRef = useRef(null);
 
@@ -47,6 +47,7 @@ export default function TOCCollapsible({ toc, className, minHeadingLevel, maxHea
         !collapsed && styles.tocCollapsibleExpanded,
         className,
       )}>
+
       <CollapseButton collapsed={collapsed} onClick={toggleCollapsed} toc={toc}/>
       <Collapsible
         lazy
