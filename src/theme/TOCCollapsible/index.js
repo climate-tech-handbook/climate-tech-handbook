@@ -10,7 +10,6 @@ export default function TOCCollapsible({ toc, className, minHeadingLevel, maxHea
     initialState: true,
   });
   
-  // let prevScrollPos = window.pageYOffset;
   let prevScrollPos = typeof window !== 'undefined' ? window.pageYOffset : 0;
   let tableOfContentButtonRef = useRef(null);
 
