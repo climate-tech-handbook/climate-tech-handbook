@@ -22,7 +22,6 @@ export default function TOCCollapsibleCollapseButton({collapsed, toc, ...props})
           .replace(/&nbsp;/g, ' ');
 
       prevTitleRef.current = decodedTitle;
-      console.log("decoded", decodedTitle)
     }
 
     return decodedTitle || prevTitleRef.current;
