@@ -6,18 +6,30 @@ import Link from '@docusaurus/Link';
 import isInternalUrl from '@docusaurus/isInternalUrl';
 import IconExternalLink from '@theme/Icon/ExternalLink';
 import styles from './styles.module.css';
-export default function DocSidebarItemLink({
-  item,
-  onItemClick,
-  activePath,
-  level,
-  index,
-  ...props
-}) {
+import { FaHandHoldingHeart } from "react-icons/fa";
+import { FaGlobe } from "react-icons/fa";
+
+export default function DocSidebarItemLink({ item, onItemClick, activePath, level, index, ...props }) {
   const {href, label, className, autoAddBaseUrl} = item;
   const isActive = isActiveSidebarItem(item, activePath);
   const isInternalLink = isInternalUrl(href);
   
+  // Render icons for sidebar
+  const marginRight = { marginRight: '8px' };
+  const renderIcon = () => {
+    switch (label) {
+      case 'Resources' : {
+        return <FaGlobe style={ marginRight }/>;
+      }
+      case 'Contribute' : {
+        return <FaHandHoldingHeart style={ marginRight }/>;
+      }
+      default: {
+        return;
+      }
+    }
+  }
+
   return (
     <li
       className={clsx(
@@ -42,6 +54,8 @@ export default function DocSidebarItemLink({
           onClick: onItemClick ? () => onItemClick(item) : undefined,
         })}
         {...props}>
+        {}
+        {renderIcon()}
         {label}
         {!isInternalLink && <IconExternalLink />}
       </Link>

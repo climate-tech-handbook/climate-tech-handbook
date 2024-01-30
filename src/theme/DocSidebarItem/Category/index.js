@@ -97,7 +97,7 @@ export default function DocSidebarItemCategory({ item, onItemClick, activePath, 
 
   useAutoExpandActiveCategory({isActive, collapsed, updateCollapsed});
 
-// Render icons for sidebar
+  // Render icons for sidebar
   const marginRight = { marginRight: '8px' };
   const renderIcon = () => {
     switch (label) {
@@ -108,7 +108,7 @@ export default function DocSidebarItemCategory({ item, onItemClick, activePath, 
         return <MdWindPower style={ marginRight }/>;
       }
       default: {
-        return null;
+        return;
       }
     }
   }
