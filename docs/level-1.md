@@ -1,5 +1,5 @@
 ---
-title: 🕹️ Welcome to Level 1
+title: 🕹️ Level 1
 displayed_sidebar: docSidebar
 pagination_label: 🕹️ Level 1
 ---
@@ -10,25 +10,23 @@ import cthlogo from '/img/main/cth-earth-logo.png';
 
 ![video game pic](/img/climate-tech-level-1-mario.jpg)
 
-## ⛳️ Start here
 
-## Definition of LEVEL 1
 
-:::info Level 1
-**Stay here if you**:
+## ⛳️ Introduction to Level 1
 
-- Know very little about what "[climate tech](#what-is-climate-tech)" means
+**Welcome to Level 1!** You are in the right place if you are _brand new to climate action_, and need a _basic overview of terms_ as well as some _questions_ you probably want answered!
 
-- Need to brush up on [fundamental climate knowledge](#fundamental-climate-knowledge)
 
-- Want to understand [what a climate job is like](#what-is-a-climate-job-like)
 
-- Have never heard of the Project Drawdown [Solution Framework](#project-drawdown-solution-frameworks) or the [Speed and Scale](#speed-and-scale) Framework
+### Learning Objectives
 
-- Are not yet a member and would like to learn more about these 3 [core communities](#core-communities):
-	- The Handbook Slack Community
-	- Work on Climate
-	- MCJ Collective
+:::note Learning Objectives:
+
+- Be able to **define climate tech**.
+- Gain **fundamental climate knowledge**.
+- Browse **solution frameworks**.
+- Consider joining a **core community**.
+
 :::
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
@@ -45,23 +43,13 @@ import cthlogo from '/img/main/cth-earth-logo.png';
     linkUrl="../level-3"
     />
 </div>
+<br/>
 
-## Lesson Start
+_In Level 1_, you will read up on climate defintions, and it is _recommended that you read some of the articles that are linked in this level for a comprehensive background.
 
-![test](/img/welcome-aboard.jpg) 
+_Once you have completed the materials in Level 1_, you will be given a glossary of the terms used in Level 1. Feel free to browse that, as well as take the practice quiz at the end.
 
-Congratulations! You took the first step.
-
-:::note Lesson Overview
-### In this lesson:
-- [What is "climate tech"](#what-is-climate-tech)
-
-- Intro to [Climate Solution frameworks](#solution-frameworks)
-
-- What a [climate job is like](#what-is-a-climate-job-like)
-
-- Intro to [core communities](#core-communities)
-:::
+ 
 
 ## What is Climate Tech?
 
