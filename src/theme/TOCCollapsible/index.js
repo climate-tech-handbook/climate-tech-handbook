@@ -4,37 +4,44 @@ import {useCollapsible, Collapsible} from '@docusaurus/theme-common';
 import TOCItems from '@theme/TOCItems';
 import CollapseButton from '@theme/TOCCollapsible/CollapseButton';
 import styles from './styles.module.css';
+import useIsBrowser from '@docusaurus/useIsBrowser';
 
 export default function TOCCollapsible({ toc, className, minHeadingLevel, maxHeadingLevel}) {
+  const isBrowser = useIsBrowser();
   const {collapsed, toggleCollapsed} = useCollapsible({
     initialState: true,
   });
+  
 
-  let prevScrollPos = window.pageYOffset;
+  let prevScrollPos = isBrowser ? window.pageYOffset : 0;
   let tableOfContentButtonRef = useRef(null);
 
-  useEffect(() => {
-    let tableOfContentButton = tableOfContentButtonRef.current;
-
-    const handleScrollOffset = () => {
+  const handleScrollOffset = () => {
+    if (isBrowser) {
+      let tableOfContentButton = tableOfContentButtonRef.current;
       const currentScrollPos = window.pageYOffset;
-
-      if ( tableOfContentButton ) {
-          if ( prevScrollPos > currentScrollPos ) {
-              // Scrolling up
-              tableOfContentButton.style.top = "80px";
-          } else {
-              // Scrolling down
-              tableOfContentButton.style.top = "0";
-          }
-
-          prevScrollPos = currentScrollPos;
+  
+      if (tableOfContentButton) {
+        if (prevScrollPos > currentScrollPos) {
+          // Scrolling up
+          tableOfContentButton.style.top = "80px";
+        } else {
+          // Scrolling down
+          tableOfContentButton.style.top = "0";
+        }
+    
+        prevScrollPos = currentScrollPos;
       }
     }
+  
+  };
 
-    window.addEventListener('scroll', handleScrollOffset);
+  useEffect(() => {
+    if (isBrowser) {
+      window.addEventListener('scroll', handleScrollOffset)
+    };
   }, [])
-
+ 
   return (
     <div
       ref={tableOfContentButtonRef}
