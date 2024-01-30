@@ -33,7 +33,7 @@ const HomeCard: React.FC<CardProps> = ({
         return <MdWindPower size={iconSize}/>;
       }
       default: {
-        return null;
+        return;
       }
     }
   };
