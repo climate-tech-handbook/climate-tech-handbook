@@ -134,8 +134,6 @@ Most often:
 
 ### Hi everybody!
 
-This is my special section
-
 #### Established companies:
 
 :::note another option
