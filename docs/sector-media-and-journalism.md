@@ -6,8 +6,8 @@ displayed_sidebar: docSidebar
 
 ## Sector Overview
 
-:::tip 196.8–420.6 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
-:::
+The influence of media and journalism can drive systemic change, mobilize public support, and hold those in power accountable for their actions or inactions related to climate change.
+
 
 ![](/../static/img/journalism.jpg)
 
@@ -16,8 +16,6 @@ displayed_sidebar: docSidebar
 
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
-
-The influence of media and journalism can drive systemic change, mobilize public support, and hold those in power accountable for their actions or inactions related to climate change.
 
 A strong fearless media will allow us to:
 

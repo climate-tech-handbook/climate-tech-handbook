@@ -23,8 +23,19 @@ Come [hang out on Slack](https://chat.climatetechhandbook.com)
 
 [Explore our code on GitHub](https://github.com/climate-tech-handbook)
 
+## Ways to contribute
+
+* Submit content
+
+* Improve our code and design
+
+* Financially support the project
+
+* Provide advice and expertise
 
 <!--insert logos-->
+
+<a href="https://checkout.square.site/merchant/QT27FKBWCRT2B/checkout/YJPPOLBCIENMGHKMMCTLKYBE" class="doc-button">Donate</a>
 
 ---
 
