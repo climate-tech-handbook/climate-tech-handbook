@@ -28,11 +28,11 @@ The Climate Tech Handbook is here to serve:
 
 We value:
 
-1) **Quality** [journalism](../contribute/#quality-journalism)
+1) **Quality** [journalism](/contribute/#quality-journalism)
 
-2) **Measurable** [impact](../contribute/#measurable-impact)
+2) **Measurable** [impact](/contribute/#measurable-impact)
 
-3) **Strong** [community](../contribute/#strong-community)
+3) **Strong** [community](/contribute/#strong-community)
 
 
 

@@ -81,6 +81,7 @@ Any form of technology that will help us implement our climate goals, particular
 :::book rough industry definition:
 
 A recent financial movement to invest in startups that are focused on a particular solution to the climate emergency.
+:::
 
 #### Climate tech vs Clean tech:
 

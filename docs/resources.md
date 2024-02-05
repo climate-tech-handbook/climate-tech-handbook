@@ -25,7 +25,7 @@ Our growing database of:
 - [Technologies](../technologies)
 - Skills
 - Job categories
-- Full [glossary](../glossary) of terms -->
+- Full [glossary](/glossary) of terms -->
 
 # Nicole Kelner's Google Sheet
 
