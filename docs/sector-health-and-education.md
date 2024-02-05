@@ -6,7 +6,7 @@ displayed_sidebar: docSidebar
 
 ## Sector Overview
 
-:::tip 68.9 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::tip 68.9 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
 ![](/../static/img/healthy-lifestyle.jpg)
