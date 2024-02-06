@@ -7,7 +7,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 1.4–3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::tip 1.4–3 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
 ![Biochar use cases for climate change mitigation](/../static/img/biochar-production.jpg)

@@ -106,13 +106,6 @@ It is important to note that “clean tech” has a negative association with a 
 Green tech is just **an umbrella term for climate tech and clean tech**. Climate tech and Clean tech _are_ green tech. Climate tech and Clean tech are different are simply different from one another, however.
 
 
-
-
-
-
-
-
-
 ## What is a climate job like?
 
 :::question Frequently Asked Questions
@@ -139,11 +132,12 @@ You will be dealing with a lot of early stage startups.
 
 Roughly 3,000+ companies / organizations exist in our current database.
 
-:::note Most often
+Most often:
 - **Early stage startups tend to pay lower salaries** in exchange for generous equity packages.
 
 - **That said, climate startups want to attract quality talent** and hopefully understand that competitive pay is important.
-:::
+
+### Hi everybody!
 
 #### Established companies:
 
@@ -387,7 +381,7 @@ Speed and Scale has a great OKR system that is time bound and uses very specific
 
 There are [26 Slack communities listed here](https://www.climatefinance.xyz/climate-slack-communities).
 
-Some are generalized for climate job seekers, and others are specialized toward roles (climate designers) and solutions ()
+Some are generalized for climate job seekers, and others are specialized toward roles (climate designers) and solutions.
 
 **Here are 3 to start with:**
 
