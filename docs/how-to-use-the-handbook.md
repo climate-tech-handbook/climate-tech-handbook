@@ -3,19 +3,25 @@ title: How to use the Handbook
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-## Your Dream Job System
 
-Our model is loosely based off of Austin Belcak's [Dream Job System](https://cultivatedculture.com/djs-podcast/).
 
-### Here's how it works
+Now that it has been established why climate jobs matter and how this handbook/mini-course will aid in your finding of a climate solution and company that solves it, it is time to learn how this mini-course is set up the way it is!
 
-:::note The Dream Climate Job System
-1. **Find your [Climate Solution](solutions)**
 
-2. **Pick 10 companies** - doing the best work on that solution
+## How is this course set up?
+#### Climate Tech Handbook’s uses the Dream Climate Job System to get you to your climate tech job!
 
-3. **Build your portfolio and network** - to prove that you are the best hire, regardless of formal experience
+:::note **Dream Climate Job System:**
+
+1. **Choose a climate solution** (you will complete this in Level 2).
+2. **Select 10 companies** working on that climate solution (you will do this in Level 3).
+3. **Build your portfolio** and network (you will do this in Level 3).
 :::
+
+Our model is loosely based on [Austin Belcak’s Dream Job System](https://cultivatedculture.com/djs-podcast/).
+
+---
+
 
 <!-- ### Desktop
 
@@ -27,9 +33,40 @@ Our model is loosely based off of Austin Belcak's [Dream Job System](https://cul
 - Use the top left hamburger menu to navigate pages
 - Use jump links within  -->
 
-## There are 3 learning levels
 
-Here we go!
+
+## There are 3 learning levels!
+
+**Level 1:** An introductory lesson on what climate tech is, fundamental climate knowledge you should have, and an overview of terms and commonly asked questions.
+
+**Level 2:** Here, you will do research on select climate solutions and choose one.
+
+**Level 3:** Once you have a climate solution selected, you will research and choose 10 companies you are willing to work with and build your portfolio and network to increase your chances of getting a climate tech job!
+
+---
+
+
+## Contribute
+
+Before you choose your learning level, we want you to remember this one important thing!
+
+This is a community supported open source project. Contributing to an open source project is the best way to prove yourself and gain skills and experience in tech!
+
+**You can help us produce:**
+
+- Content
+- Code
+- Designs
+
+_You can also help us financially through a small donation._
+
+<a href="contribute" class="doc-button">Contribute</a>
+
+<br/>
+
+---
+
+## Task 2: Choose Your Learning Level
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
@@ -52,37 +89,5 @@ Here we go!
     />
 </div>
 
-## Contribute
-
-This is a community supported open source project.
-
-You can help us produce:
-
-- Content
-- Code
-- Design
-
-Or help us financially through a small donation.
-
-<a href="contribute" class="doc-button">Contribute</a>
-
-<br/>
-
-:::info Remember
-If you need more tech experience for your job search
-
-Contributing to an open source project is the best way to prove yourself and gain skills
-:::
 
 
-## Start Level 1
-
-<div style={{ display: 'flex', flexWrap: 'wrap'}}>
-    <ImageCard
-    title="Level 1"
-    description="You're brand new. A basic overview of terms and common questions"
-    imageUrl="/img/climate-tech-level-1-mario.jpg"
-    linkUrl="level-1"
-    />
-
-</div>
