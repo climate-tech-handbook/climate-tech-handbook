@@ -137,8 +137,6 @@ Most often:
 
 - **That said, climate startups want to attract quality talent** and hopefully understand that competitive pay is important.
 
-### Hi everybody!
-
 #### Established companies:
 
 :::note another option
