@@ -71,15 +71,15 @@ The term "climate tech", short for climate technology, is **used in two related 
 
 **The main sources of GHG emissions are divided into the following sectors, or subcategories**, which we will go more in depth with later on in this course:
 
-&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;1. Electricity
+1. Electricity
 
-&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;2. Food, Agriculture, and Land Use
+2. Food, Agriculture, and Land Use
 
-&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;3. Industry
+3. Industry
 
-&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;4. Transportation
+4. Transportation
 
-&nbsp;&nbsp&nbsp&nbsp;&nbsp;&nbsp;&nbsp;5. Buildings
+5. Buildings
 
 
 You have probably heard of clean tech before. What is it, and is it the same thing as _climate tech_?
