@@ -25,6 +25,8 @@
   --ifm-color-secondary-lightest: lighten(#be4721, 30%);
 
   --infoDiv-left-spacing: 4rem;
+
+  --doc-sidebar-width: 246px !important;
 }
 
 p {
