@@ -47,16 +47,9 @@ import cthlogo from '/img/main/cth-earth-logo.png';
 
 _In Level 1_, you will read up on climate definitions, and it is _recommended_ that you read some of the articles that are linked in this level for a comprehensive background.
 
-_Once you have completed the materials in Level 1_, you will be given a glossary of the terms used in Level 1. Feel free to browse that, as well as take the practice quiz at the end.
-
- 
-
 ## What is Climate Tech?
 
 The term "climate tech", short for climate technology, is **used in two related ways.** There is a _broad_ definition and a _Silicon Valley-style industry_ definition.
-
-<br/>
-
 
 | Broad Definition   | Industry Definition |
 |    --------        |      -------        |
