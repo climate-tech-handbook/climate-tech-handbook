@@ -8,11 +8,7 @@ function TOCItemTree({toc, className, linkClassName, isChild, collapsed, toggleC
 
   const handleClick = (e, headingId) => {
     e.preventDefault();
-
-    const targetElement = document.querySelector(`#${headingId}`);
     
-    const offset = 350;
-
     const scrollIntoViewWithOffset = (selector, offset) => {
       window.scrollTo({
         behavior: 'smooth',
@@ -21,11 +17,13 @@ function TOCItemTree({toc, className, linkClassName, isChild, collapsed, toggleC
       })
     }
     
-    if (targetElement) {
-      scrollIntoViewWithOffset(`#${headingId}`, offset)
-    }
+    if (window.innerWidth < 997) {
+      scrollIntoViewWithOffset(`#${headingId}`, 300)
+      toggleCollapsed();
+    } else {
+      scrollIntoViewWithOffset(`#${headingId}`, 0)
 
-    toggleCollapsed();
+    }
   };
 
 
