@@ -49,7 +49,7 @@ To have the best handbook possible, we need three things:
 
 2) **Strong** [Community](#strong-community)
 
-3) **Measureable** [Impact](#measureable-impact)
+3) **Measurable** [Impact](#measurable-impact)
 
 ---
 

@@ -25,6 +25,8 @@
   --ifm-color-secondary-lightest: lighten(#be4721, 30%);
 
   --infoDiv-left-spacing: 4rem;
+
+  --doc-sidebar-width: 246px !important;
 }
 
 p {
@@ -46,7 +48,6 @@ a:hover {
 html, body { /*prevent mobile scrolling horizontally*/
   max-width: 100%;
   overflow-x: hidden;
-  scroll-behavior: smooth;
 }
 
 body {

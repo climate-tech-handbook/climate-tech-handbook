@@ -206,6 +206,11 @@ const darkCodeTheme = themes.dracula;
           disableSwitch: true,
           respectPrefersColorScheme: false,
         },
+
+        tableOfContents: {
+          minHeadingLevel: 2,
+          maxHeadingLevel: 2,
+        },
       }),
   }
 );
