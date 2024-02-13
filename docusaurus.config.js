@@ -206,6 +206,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           disableSwitch: true,
           respectPrefersColorScheme: false,
         },
+
+        tableOfContents: {
+          minHeadingLevel: 2,
+          maxHeadingLevel: 2,
+        },
       }),
   }
 );
