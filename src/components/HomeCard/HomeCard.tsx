@@ -9,14 +9,12 @@ import { MdWindPower } from "react-icons/md";
 
 interface CardProps {
   title: string;
-  description: string;
   linkUrl: string;
   icon: string;
 }
 
 const HomeCard: React.FC<CardProps> = ({
   title,
-  description,
   linkUrl,
   icon
 }) => {
@@ -35,7 +33,7 @@ const HomeCard: React.FC<CardProps> = ({
         return <MdWindPower size={iconSize}/>;
       }
       default: {
-        return null;
+        return;
       }
     }
   };
@@ -51,9 +49,6 @@ const HomeCard: React.FC<CardProps> = ({
             {iconComponent()}
           </div>
           <h1>{title}</h1>
-          <p className={clsx(styles.cardDescription)}>
-            {description}
-          </p>
         </div>
       </div>
     </Link>
