@@ -11,7 +11,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 1. A **climate solution** that fits you
 2. An **organization** working to solve it
 3. A **job offer** that is right for you
-4. **Succession your first 90 days** of working
+4. **Success your first 90 days** of working
 
 ### Why do climate tech jobs matter?
 
@@ -19,7 +19,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 - We are _5 years_ from reaching a global temperature of **1.5 degrees Celsius (or 2.7 degrees Fahrenheit)**. 
 - We need to _reduce greenhouse pollution_ by **50% before 2030 and 100% by 2050**.
-- There are _5 million deaths per year_ and **billions of economic damages thus far**.
+- We are already experiencing _millions of deaths per year_ and **billions of economic damages thus far**. Each year this number is increasing.
 
 #### ![Partly Cloudy](../static/img/partlycloudy.png) Despite this, though, there is still hope. Currently:
 
@@ -36,14 +36,8 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 You can complete this in a document or on paper. **Be sure to keep it saved**.
 
 ![ikigai](../static/img/Climate+Action+Venn+diagram.jpg)
+
 _Climate Action Venn Diagram - by [Ayana Elizabeth Johnson](https://www.ayanaelizabeth.com/climatevenn)_
-
-### 
-
-<br/>
-
->"_When you come to a fork in the road, take it._"
->    -Yogi Berra
 
 ## Next Up: How to Use the Handbook
 
