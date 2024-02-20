@@ -11,6 +11,13 @@ displayed_sidebar: docSidebar
 Then come back to learn more about this [Solution](#solutions-in-this-sector)
 :::
 
+:::podcast Podcast episodes
+- [MIT Climate Portal - explainer](https://climate.mit.edu/explainers/carbon-capture)
+- [Open Air Collective](https://openaircollective.com)
+- [Global CCS Institute](https://www.globalccsinstitute.com/)
+- [Carbon Capture & Storage Association (CCSA)](https://www.ccsassociation.org/)
+:::
+
 ## Resources:
 
 :::info
