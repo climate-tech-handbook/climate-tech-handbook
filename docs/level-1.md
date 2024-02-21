@@ -18,7 +18,7 @@ import cthlogo from '/img/main/cth-earth-logo.png';
 
 
 
-### Learning Objectives
+#### Learning Objectives
 
 :::note Learning Objectives:
 
@@ -47,9 +47,6 @@ import cthlogo from '/img/main/cth-earth-logo.png';
 
 _In Level 1_, you will read up on climate definitions, and it is _recommended_ that you read some of the articles that are linked in this level for a comprehensive background.
 
-_Once you have completed the materials in Level 1_, you will be given a glossary of the terms used in Level 1. Feel free to browse that, as well as take the practice quiz at the end.
-
- 
 
 ## What is Climate Tech?
 
@@ -85,9 +82,9 @@ The term "climate tech", short for climate technology, is **used in two related 
 You have probably heard of clean tech before. What is it, and is it the same thing as _climate tech_?
 
 
-### What is clean tech?
+#### What is clean tech?
 
-| Clean Tech    |
+| Clean Tech |
 | -------- |
 |The term “clean tech”, short for clean technology, are **technologies that reduce the environmental impact that existing technologies cause**, as well as **improve the quality of natural resources**. |
 
@@ -108,66 +105,41 @@ Green tech is just **an umbrella term for climate tech and clean tech**. Climate
 
 ## What is a climate job like?
 
-:::question Frequently Asked Questions
-- [How well does it pay?](#how-well-does-it-pay)
-
-- [How do I learn the necessary skills?](#how-do-i-learn-the-necessary-skills)
-
-- [How secure are these jobs?](#how-secure-are-these-jobs)
-
-- [How much do I need to know about climate science and politics?](#how-much-do-i-need-to-know-about-climate-science-and-politics)
-
-- [How do I avoid greenwashing?](#how-do-i-avoid-greenwashing)
-
-- [Day in the Life of a climate professional](https://www.opendoorclimate.com/day-in-the-life?offset=1677868884207&reversePaginate=true)
-
 <!--questions about IT tech, deep tech, hard tech, and trade work-->
 
-:::
-### How well does it pay?
+Now that we know what climate tech is, let’s dig into what the climate tech _job_ is!
 
-#### Early stage startups:
+#### **Click each drop-down menu below** to read through each frequently asked question about climate jobs.
 
-You will be dealing with a lot of early stage startups.
+<details>
+  <summary>**How well does it pay?**</summary>
+  
+**This depends on one thing: whether the job involves working with an early stage startup, an established company, or a government agency.**
 
-Roughly 3,000+ companies / organizations exist in our current database.
+| Startups 								| Established companies | Government jobs |
+| -------- 								| --------              |--------         |
+|Tend to be paid **lower** salaries					|Tend to be paid **higher** salaries |**Lower salaries**, but offer good health care and pensions
+|More startups to choose from (**Roughly 3,000+ companies and organizations** to choose from our database!).|You can work for bigger companies once you rack up **experience** and/or have great **networking skills**! | There can be a **higher level of job security, predictability, and transparency** compared to a fast moving startup environment.|
+</details>
 
-Most often:
-- **Early stage startups tend to pay lower salaries** in exchange for generous equity packages.
+<details>
+  <summary>**How can I use my voice as an employee?**</summary>
+  
+**You can change the direction of the current company you work for to one that is involved in solving the climate crisis.**
 
-- **That said, climate startups want to attract quality talent** and hopefully understand that competitive pay is important.
+[Project Drawdown](https://drawdown.org/sites/default/files/210920_Drawdown_AtWork_06.pdf) is a framework and guide you can use to not only educate yourself on ways you can help the climate through your actions at work, but how to leverage your climate actions to involve your colleagues and employer.
 
-#### Established companies:
+[Climate Voice](https://climatevoice.org/) hooks you up with tools to educate yourself on how to unlock corporate influence for climate, host events for Climate Voice to speak at your company or university, and an employee guide on how to advocate for the climate at your workplace.
 
-:::note another option
-Change the direction of your current company.
+[Work for Climate](http://workforclimate.org) is another resource that offers courses where you can learn climate literacy skills, join webinars and expert talks on the inclusion of climate at work, as well as access to playbooks on topics such as Energy and Emissions.
 
-Or try to steer a bigger company that's been around for a while.
+</details>
 
-- Project Drawdown has a [guide on this topic](https://drawdown.org/sites/default/files/210920_Drawdown_AtWork_06.pdf). Organizations like [Climate Voice](https://climatevoice.org/) and [Work for Climate](http://workforclimate.org) specialize in this.
 <!-- Check for PDF updates periodically -->
-- Companies like Microsoft, Google, Stripe, etc. have a specific corporate 
-sustainability positions. There are also many consultancies you can join.
-
-- Think outside the box. For example, you are in procurement, you have a 
-huge opportunity to order supplies that come from clean sources. Start a green team that doesn't exist in your current job
-:::
-
-#### Don't forget Government Jobs:
-
-:::note Government Jobs
-There are plenty of government jobs <!--governmentjobs.com example urls-->
-
-- The salaries are lower, but some states and counties <!--munis??--> offer good health care and pensions
-
-- There can be a higher level of job security, predictability, and transparency compared to a fast moving startup environment.
-
-- Policy and academic roles are valuable as well (for example, analyzing the impact of voluntary carbon markets)
-:::
 
 ---
 :::question
-##  How do I learn the necessary skills?
+####  How do I learn the necessary skills?
 :::
 
 There are two aspects:
@@ -205,7 +177,7 @@ Next is domain knowledge.
 ---
 
 :::question
-###  How secure are these jobs?
+####  How secure are these jobs?
 :::
 
 - **It varies by job category** - [Startup](early-stage-startups) vs [Established company](#established-companies) vs [Government](#dont-forget-government-jobs)
@@ -223,7 +195,7 @@ As we [continue writing the Handbook together](contribute), we will better be tr
 ---
 
 :::question
-### How much do I need to know about climate science and politics?
+#### How much do I need to know about climate science and politics?
 :::
 
 It depends on:
@@ -243,7 +215,7 @@ For example, a solution involving the [electrical](sector-electricity) grid can 
 ---
 
 :::question
-###  How do I avoid greenwashing?
+####  How do I avoid greenwashing?
 :::
 
 - Read and support journalism outlets such as [DeSmog](https://www.desmog.com//), [Grist](grist.org), [Inside Climate News](https://insideclimatenews.org/), [Climate Desk](climatedesk.org), [Drilled](https://drilled.media), and more.
@@ -327,7 +299,7 @@ Time for the good news. We have solutions!
 
 ![forest and river](../static/img/climate-solutions.png)
 
-### Project Drawdown
+#### Project Drawdown
 
 <img src={ddlogo} width="500"/>
 
@@ -351,7 +323,7 @@ Examples include:
 The Handbook's [Solution Page](solutions) is mostly based off of Project Drawdown.
 :::
 
-### Speed and Scale
+#### Speed and Scale
 
 <img src={sslogo} width="300"/>
 
@@ -385,7 +357,7 @@ Some are generalized for climate job seekers, and others are specialized toward 
 
 ---
 
-### The Climate Tech Handbook
+#### The Climate Tech Handbook
 
 <img src={cthlogo} width="300"/>
 
@@ -397,7 +369,7 @@ We're building the handbook together to show off our skills and knowledge.
 
 <br/>
 
-### Work on Climate
+#### Work on Climate
 
 https://workonclimate.org
 
@@ -408,7 +380,7 @@ The largest Slack community for climate work.
 25,000+ members
 
 
-### MCJ Collective
+#### MCJ Collective
 
 https://mcjcollective.com
 
