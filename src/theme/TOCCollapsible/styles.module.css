@@ -1,12 +1,13 @@
 .tocCollapsible {
   background-color: #ebe3e5;
-  border-radius: var(--ifm-global-radius);
+  /* border-radius: var(--ifm-global-radius); */
   margin: 1rem 0;
   width: 100%;
   position: sticky;
   top: 0;
   font-family: 'Lato', sans-serif;
-  /* width: 100vw; */
+  width: 100vw;
+  margin-left: -16px;
 }
 
 .tocCollapsibleContent > ul {
