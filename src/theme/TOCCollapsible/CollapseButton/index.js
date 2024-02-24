@@ -9,7 +9,6 @@ import useIsBrowser from '@docusaurus/useIsBrowser';
 export default function TOCCollapsibleCollapseButton({collapsed, toc, ...props}) {
   const [currentSection, setCurrentSection] = useState('');
   const prevTitleRef = useRef('');
-  const observer = useRef(null);
   const isBrowser = useIsBrowser();
 
   const renderTitle = () => {
@@ -32,31 +31,28 @@ export default function TOCCollapsibleCollapseButton({collapsed, toc, ...props})
   }
   
   useEffect(() => {
-    if (isBrowser) {
-      observer.current = new IntersectionObserver(
-        (entries) => {
-          entries.forEach((entry) => {
-            if (entry.isIntersecting) {
-              const { id } = entry.target;
-              setCurrentSection(id);
-            }
-          });
-        },
-        { threshold: 1 } 
-      );
+    const h2Anchors = toc.filter(anchor => anchor.level === 2).map(anchor => anchor.id)
+    
+    const options = {
+      rootMargin: "-30px 0% -77%",
+      threshold: 1
+    }
 
-      toc.forEach(({ id }) => {
-        const target = document.getElementById(id);
-        if (target) {
-          observer.current.observe(target);
+    const obFunc = (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const { id } = entry.target;
+          setCurrentSection(id);
         }
       });
+    }
 
-      return () => {
-        if (observer.current) {
-          observer.current.disconnect();
-        }
-      };
+    if (isBrowser) {
+      const observer = new IntersectionObserver(obFunc, options);
+      h2Anchors.forEach((h2) => {
+        const target = document.getElementById(h2)
+        observer.observe(target)
+      })
     }
   }, [toc]);
 
