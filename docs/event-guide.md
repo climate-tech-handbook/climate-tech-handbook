@@ -34,28 +34,28 @@ Check to see if there are existing events and organizations you are not aware of
 - General climate change meetups - 350.org chapter, green drinks, etc.
 - You can also search through Eventbrite, Meetup.com, Luma, and other sites for things about climate change
 
-## Event Formats
+## Event Guides
 
-Start with something simple.
+Pick a format below, organized by the amount of effort:
 
 ### Easiest Effort
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Happy hour"
-    description="If you are familiar with the basics, but need to hone in on a climate solution"
+    description="Find a place and tell people to show up"
     imageUrl="/img/climate-tech-happy-hour.jpg"
     linkUrl="/event-format-happy-hour"
     />
     <ImageCard
     title="Co-working session"
-    description="If you are actively working on a climate solution and need to advance faster"
+    description="Like a Happy Hour but people bring laptops"
     imageUrl="/img/climate-tech-co-working-seattle.jpg"
     linkUrl="/event-format-co-working-session"
     />
     <ImageCard
     title="City park"
-    description="If you are familiar with the basics, but need to hone in on a climate solution"
+    description="Take advantage of a nice day and invite some folks"
     imageUrl="/img/women-in-climate-seattle.jpg"
     linkUrl="/event-format-city-park"
     />
@@ -67,19 +67,19 @@ Start with something simple.
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Expert Panel"
-    description="If you are actively working on a climate solution and need to advance faster"
+    description="A great way to build and amplify new ideas"
     imageUrl="/img/climate-panel-seattle.jpg"
     linkUrl="/event-format-expert-panel"
     />
     <ImageCard
     title="Coffee Crawl"
-    description="If you are familiar with the basics, but need to hone in on a climate solution"
+    description="Post a walking route and stop at a variety of coffee joints"
     imageUrl="/img/climate-coffee-crawl.jpg"
     linkUrl="/event-format-coffee-crawl"
     />
     <ImageCard
     title="Trivia Night"
-    description="If you are actively working on a climate solution and need to advance faster"
+    description="People love a friendly competition with a dash of humor"
     imageUrl="/img/climate-tech-trivia-night.jpg"
     linkUrl="/event-format-trivia-night"
     />
