@@ -7,7 +7,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ## The ultimate resource for hosting your local climate event
 
 :::caution Under Construction
-[Help us](contribute) improve this page
+[Help us](../contribute) improve this page
 :::
 
 ![seattle climate tech meetup](../static/img/seattle-climate-tech-meetup.jpg)
