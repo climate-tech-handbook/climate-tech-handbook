@@ -45,19 +45,19 @@ Start with something simple.
     title="Happy hour"
     description="If you are familiar with the basics, but need to hone in on a climate solution"
     imageUrl="/img/climate-tech-happy-hour.jpg"
-    linkUrl="event-format-happy-hour"
+    linkUrl="/event-format-happy-hour"
     />
     <ImageCard
     title="Co-working session"
     description="If you are actively working on a climate solution and need to advance faster"
     imageUrl="/img/climate-tech-co-working-seattle.jpg"
-    linkUrl="co-working-session"
+    linkUrl="/event-format-co-working-session"
     />
     <ImageCard
     title="City park"
     description="If you are familiar with the basics, but need to hone in on a climate solution"
     imageUrl="/img/women-in-climate-seattle.jpg"
-    linkUrl="#city-park"
+    linkUrl="/event-format-city-park"
     />
 
 </div>
@@ -69,19 +69,19 @@ Start with something simple.
     title="Expert Panel"
     description="If you are actively working on a climate solution and need to advance faster"
     imageUrl="/img/climate-panel-seattle.jpg"
-    linkUrl="../level-3"
+    linkUrl="/event-format-expert-panel"
     />
     <ImageCard
     title="Coffee Crawl"
     description="If you are familiar with the basics, but need to hone in on a climate solution"
     imageUrl="/img/climate-coffee-crawl.jpg"
-    linkUrl="#pickleball"
+    linkUrl="/event-format-coffee-crawl"
     />
     <ImageCard
     title="Trivia Night"
     description="If you are actively working on a climate solution and need to advance faster"
     imageUrl="/img/climate-tech-trivia-night.jpg"
-    linkUrl="../level-3"
+    linkUrl="/event-format-trivia-night"
     />
 </div>
 
@@ -94,56 +94,30 @@ This will take some work but it can be the most rewarding.
     title="Lightning talks"
     description="Put on a great show and learn a ton"
     imageUrl="/img/climate-lightning-talks.jpg"
-    linkUrl="../level-3"
+    linkUrl="/event-format-lightning-talks"
     />
     <ImageCard
-    title="Weekend retreat"
+    title="Outdoor Excursion"
     description="Bond in a new environment"
     imageUrl="/img/climate-ski-trip.jpg"
-    linkUrl="#pickleball"
+    linkUrl="/event-format-outdoor-excursion"
     />
     <ImageCard
     title="Climate Day / Week"
     description="Paint the town green!"
     imageUrl="/img/pnw-climate-week-event.png"
-    linkUrl="../level-3"
+    linkUrl="/event-format-climate-day-or-week"
     />
 </div>
-
-Lightning Talk
-
-Weekend Retreat
-
-Festival
-
-We
-
-## Event Formats
-
-- Happy Hour (easiest)
-- Trivia Night
-- Coffee crawl
-- Panel
-- Lightning talks
-- Speed dating
-- Game night
-- Ski trip
-- Founders potluck
-- Weekend retreat
-
-## Trivia Night
 
 ## Honorable Mentions
 
 - Speed dating
 - Founders potluck
-- Outdoor excursion
+- Weekend retreat
+- Pickleball
 
-Text
-
-## Pickleball
-
-## Funding your event
+---
 
 ## Acknowledgements
 
