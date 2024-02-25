@@ -45,7 +45,7 @@ Start with something simple.
     title="Happy hour"
     description="If you are familiar with the basics, but need to hone in on a climate solution"
     imageUrl="/img/climate-tech-happy-hour.jpg"
-    linkUrl="#happy-hour"
+    linkUrl="event-format-happy-hour"
     />
     <ImageCard
     title="Co-working session"
