@@ -38,54 +38,54 @@ Check to see if there are existing events and organizations you are not aware of
 
 Start with something simple.
 
-### Easiest
+### Easiest Effort
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Happy hour"
     description="If you are familiar with the basics, but need to hone in on a climate solution"
-    imageUrl="/img/level-2-mario.jpg"
+    imageUrl="/img/climate-tech-happy-hour.jpg"
     linkUrl="#happy-hour"
     />
     <ImageCard
     title="Co-working session"
     description="If you are actively working on a climate solution and need to advance faster"
-    imageUrl="/img/level-3-mario.jpg"
+    imageUrl="/img/climate-tech-co-working-seattle.jpg"
     linkUrl="co-working-session"
     />
     <ImageCard
     title="City park"
     description="If you are familiar with the basics, but need to hone in on a climate solution"
-    imageUrl="/img/level-2-mario.jpg"
+    imageUrl="/img/women-in-climate-seattle.jpg"
     linkUrl="#city-park"
     />
 
 </div>
 
-### Medium
+### Medium Effort
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Expert Panel"
     description="If you are actively working on a climate solution and need to advance faster"
-    imageUrl="/img/level-3-mario.jpg"
+    imageUrl="/img/climate-panel-seattle.jpg"
     linkUrl="../level-3"
     />
     <ImageCard
     title="Coffee Crawl"
     description="If you are familiar with the basics, but need to hone in on a climate solution"
-    imageUrl="/img/level-2-mario.jpg"
+    imageUrl="/img/climate-coffee-crawl.jpg"
     linkUrl="#pickleball"
     />
     <ImageCard
     title="Trivia Night"
     description="If you are actively working on a climate solution and need to advance faster"
-    imageUrl="/img/level-3-mario.jpg"
+    imageUrl="/img/climate-tech-trivia-night.jpg"
     linkUrl="../level-3"
     />
 </div>
 
-### Rock star
+### Rock star achievement
 
 This will take some work but it can be the most rewarding.
 
@@ -93,19 +93,19 @@ This will take some work but it can be the most rewarding.
     <ImageCard
     title="Lightning talks"
     description="Put on a great show and learn a ton"
-    imageUrl="/img/level-3-mario.jpg"
+    imageUrl="/img/climate-lightning-talks.jpg"
     linkUrl="../level-3"
     />
     <ImageCard
     title="Weekend retreat"
     description="Bond in a new environment"
-    imageUrl="/img/level-2-mario.jpg"
+    imageUrl="/img/climate-ski-trip.jpg"
     linkUrl="#pickleball"
     />
     <ImageCard
     title="Climate Day / Week"
     description="Paint the town green!"
-    imageUrl="/img/level-3-mario.jpg"
+    imageUrl="/img/pnw-climate-week-event.png"
     linkUrl="../level-3"
     />
 </div>
