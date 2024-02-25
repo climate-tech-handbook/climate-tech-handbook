@@ -1,5 +1,5 @@
 ---
-title: Event Format - Happy Hour
+title: Event Format - Trivia Night
 displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';

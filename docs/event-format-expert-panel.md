@@ -1,5 +1,5 @@
 ---
-title: Event Format - Happy Hour
+title: Event Format - Expert Panel
 displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
