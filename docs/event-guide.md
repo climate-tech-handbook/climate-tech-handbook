@@ -38,7 +38,7 @@ Check to see if there are existing events and organizations you are not aware of
 
 Pick a format below, organized by the amount of effort:
 
-### Easiest Effort
+### Easiest Effort - informal gathering
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
