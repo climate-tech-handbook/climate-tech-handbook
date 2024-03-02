@@ -137,44 +137,25 @@ Now that we know what climate tech is, let’s dig into what the climate tech _j
 
 <!-- Check for PDF updates periodically -->
 
----
-:::question
-####  How do I learn the necessary skills?
-:::
 
-There are two aspects:
+
+<details>
+  <summary>**How do I learn the necessary skills?**</summary>
+  
+**You can get a climate job based on:**
 
 1. **Marketable skills**
-
 2. **Domain knowledge**
 
-Marketable Skills:
+<br></br>
+| Marketable skills | Domain Knowledge |
+|       --------    |     --------     |
+|Marketable skills are skills that you bring from other jobs, such as data analysis, digital marketing, project management, UX, and more, hat can be applicable and relevant to climate jobs. | Domain knowledge is the knowledge you have relating to the specific industry of climate tech.
+|If you already have marketable skills and 3+ years of tech experience, there are [plenty of jobs](https://climatetechlist.com) that have the same roles as a non-climate tech company. | If you need to gain domain knowledge on climate tech: we built the Handbook to gather the best information on [all 93 Climate Solutions](solutions) from Project Drawdown.
 
-:::note 3+ years of tech experience
-#### If you already have marketable skills and tech experience
+**Need to gain experience _and_ domain knowledge?** Writing is learning. Kill two birds with one stone by **[contributing](contribute)** to The Climate Tech Handbook.
+</details>
 
-There are [plenty of jobs](https://climatetechlist.com) that have the same roles as a non-climate tech company
-
-:::
-
-What if you don't have tech experience?
-
-:::info Experience gap
-#### If you are new to tech without 3+ years of experience
-
-[You can contribute](contribute) to the Handbook as an open source project to gain experience quickly
-:::
-
-Next is domain knowledge.
-
-:::tip Domain knowledge
-#### You're in the right place!
-
-- We built the Handbook to gather the best information on [all 93 Climate Solutions](solutions) from Project Drawdown
-
-- Writing is learning. [Contribute to the Handbook](contribute) and become an expert
-:::
----
 
 :::question
 ####  How secure are these jobs?
