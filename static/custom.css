@@ -29,6 +29,24 @@
   --doc-sidebar-width: 246px !important;
 }
 
+
+figure {
+  text-align: center;
+}
+
+img {
+  /* Add any image styling you want */
+  max-width: 100%;
+  height: auto;
+}
+
+figcaption {
+  font-size: 0.8em; /* Adjust the font size as needed */
+  margin-top: 8px; /* Adjust the margin to provide space between the image and caption */
+  color: #555; /* Adjust the color as needed */
+}
+
+
 p {
   font-size: 18px;
 }
