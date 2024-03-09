@@ -32,8 +32,14 @@ Overhauling electricity is a critical step.
 In addition to scaling new technologies, there are unique challenges such as:
 
 * The permitting process for new infrastructure
+
 * Responding to peak demand
 
+* The economics of buying and selling clean energy
+
+:::expert
+Connect with [Ahmad Faruqui](https://www.linkedin.com/in/ahmad-faruqui-0177b83/) to learn about energy economics
+:::
 ## Resources:
 
 :::info
