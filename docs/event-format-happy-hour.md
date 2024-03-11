@@ -21,16 +21,16 @@ This is an [event guide](event-guide) for hosting a Climate Happy Hour.
 
 ## There are 5 steps
 
-:::note
-1. Pick 
+:::note The 5 Steps
+1. Pick a Venue
 
-2.
+2. Create a Sharable Event
 
-3.
+3. Share the Event
 
-4.
+4. Show Up
 
-5.
+5. Share the Results
 :::
 
 ## 1. Pick a Venue
