@@ -157,21 +157,21 @@ Now that we know what climate tech is, let’s dig into what the climate tech _j
 </details>
 
 
-:::question
-####  How secure are these jobs?
-:::
+<details>
+  <summary>**How secure are these jobs?**</summary>
+  
+**It varies by job category and climate solution.**
 
-- **It varies by job category** - [Startup](early-stage-startups) vs [Established company](#established-companies) vs [Government](#dont-forget-government-jobs)
+**Depending on the job category**--whether it is a startup, established company, or a government job, security varies. Here is a [Fact Sheet](https://www.eesi.org/files/FactSheet_Climate_Jobs_2024.pdf) that details the demand for climate jobs, and which sectors have been steadily on the rise in the United States.
 
-- **It varies by climate solution** - some solutions are better established and others are very early.
+**Depending on the climate solution**--whether it is a more established solution or an early one, job security varies. 
 
-**For example:**
+_For instance_, the highest anticipated growth are in automotive, power generation, and electrical efficiency.  <!--citation. MCJ Podcast??, add links to solution pages-->
 
-- The highest anticipated growth is in automotive, power generation, and electrical efficiency.  <!--citation. MCJ Podcast??, add links to solution pages-->
-
-- Voluntary Carbon Markets started as a popular solution, but have recently been hit by a round of layoffs, due to public criticism on overstated benefits.
+_Voluntary Carbon Markets_ started as a popular solution, but have recently been hit by a round of layoffs, due to public criticism on overstated benefits.
 
 As we [continue writing the Handbook together](contribute), we will better be tracking news on [Solution](solutions) viability in the marketplace.
+</details>
 
 ---
 
