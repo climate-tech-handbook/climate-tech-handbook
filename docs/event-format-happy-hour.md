@@ -4,6 +4,8 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
+![Climate Happy Hour group](/img/seattle-climate-tech-meetup.jpg)
+
 ## What is this page?
 
 This is an [event guide](event-guide) for hosting a Climate Happy Hour.
@@ -17,22 +19,62 @@ This is an [event guide](event-guide) for hosting a Climate Happy Hour.
     />
 </div>
 
-## How to Organize
+## There are 5 steps
 
-### 1. Pick a Venue
-1. Make a list of potential venues with suitable size, location, and amenities for your event. Consider saving and sharing this list for future reference.
-2. Call the venues to inquire about making a reservation for your desired event date(s). If a venue requires a reservation fee, you may have luck requesting a waiver in support of the climate change community.
-3. Choose a venue that is available for your desired date(s)!
+:::note
+1. Pick 
 
-### 2. Create a Sharable Event
+2.
+
+3.
+
+4.
+
+5.
+:::
+
+## 1. Pick a Venue
+
+Make a list of potential venues.
+
+Consider
+- **Size** (not to small)
+
+- **Location** (easy to get to)
+
+- **Amenities** (food on site, not too noisy)
+
+As your list of venues grow, **Share It** for future reference with other organizers.
+
+
+Should you call the venue?
+
+If your not expecting a large turnout and don't need a special area for your group, this may not be necessary.
+
+That said, it never hurts to inquire about making a reservation for your desired event date(s). 
+
+If a venue requires a reservation fee, you may have luck requesting a waiver in support of the climate change community.
+
+It's good to build a relationship with venues for future events.
+
+## 2. Create a Sharable Event
 Use a tool such as [Luma](https://lu.ma) to craft a sharable event. Ensure the climate theme and any other goals or activities are clear.
 
-### 3. Share the Event!
+## 3. Share the Event!
 Utilize various marketing channels such as social media platforms, email newsletters, and your personal network to spread the word. Encourage others to share the event.
 
-### 4. Show Up
+:::tip
+In Seattle - we use the [Work on Climate Slack](workonclimate.org) and post in the #meet-seattle channel  
+:::
+
+## 4. Show Up
 1. Beforehand, gather any required materials. Common materials are markers and name tags, and food.
+
 2. Arrive early on the event day to set up, address any last-minute concerns, and be ready to welcome attendees with organization and enthusiasm.
 
-### 5. Share the Results!
+:::info Remember
+Take a big group photo!
+:::
+
+## 5. Share the Results!
 After the event, utilize social media to share the highlights with those who attended and those who missed out. Sharing the results not only celebrates the success of the event but also encourages future engagement and participation.
