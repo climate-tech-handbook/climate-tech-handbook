@@ -21,6 +21,8 @@
     "@svgr/webpack": "^5.5.0",
     "classnames": "^2.5.1",
     "clsx": "^1.2.1",
+    "csv-parse": "^5.5.5",
+    "csv-parser": "^3.0.0",
     "docusaurus-lunr-search": "^3.3.2",
     "docusaurus-plugin-image-zoom": "^1.0.1",
     "i": "^0.3.7",
