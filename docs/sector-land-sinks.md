@@ -7,7 +7,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 248.2–392.7 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::tip 248.2–392.7 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
 ![](/../static/img/land-sinks.jpg)

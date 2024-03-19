@@ -1,110 +1,123 @@
 ---
-title: Climate Event Guide 
+title: Climate Event Organizers Guide
 displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-:::caution
-Heavy work in progress
-[Help us](contribute) improve this page
+## The ultimate resource for hosting your local climate event
+
+:::caution Under Construction
+[Help us](../contribute) improve this page
 :::
 
-## How to host your local climate event
+![seattle climate tech meetup](../static/img/seattle-climate-tech-meetup.jpg)
 
-It's marvelously fun, and the best way to network and develop close bonds with others in the space.
+There's nothing like getting people together who share a common purpose to save humanity.
 
---img
+This guide will help you host events on a scale of easy happy hours to a full on festival.
 
-:::note We'll cover
+## We will cover:
+
 1. Event formats
 
-2. Tips and promotion
+2. Fundraising, logistics, and promotion
 
-3. Free assets you can use
-:::
+3. Free assets you can borrow
 
-## Event Formats
+## Real Quick
 
-Here are the event formats:
+Check to see if there are existing events and organizations you are not aware of.
 
-### Easiest
+- [Climate Tech Cities](https://www.climatetechcities.com/)
+- [MCJ Events Calendar on Luma](https://lu.ma/u/mcj)
+- Local channels in various [Slack Communities](/level-1#core-communities), for example `#meet-seattle` in the [Work on Climate Slack](https://workonclimate.org)
+- General climate change meetups - 350.org chapter, green drinks, etc.
+- You can also search through Eventbrite, Meetup.com, Luma, and other sites for things about climate change
+
+## Event Guides
+
+Pick a format below, organized by the amount of effort:
+
+### Easiest Effort
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Happy hour"
-    description="If you are familiar with the basics, but need to hone in on a climate solution"
-    imageUrl="/img/level-2-mario.jpg"
-    linkUrl="#pickleball"
+    description="Find a place and tell people to show up"
+    imageUrl="/img/climate-tech-happy-hour.jpg"
+    linkUrl="/event-format-happy-hour"
     />
     <ImageCard
-    title="Hike / Park trip"
-    description="If you are actively working on a climate solution and need to advance faster"
-    imageUrl="/img/level-3-mario.jpg"
-    linkUrl="../level-3"
+    title="Co-working session"
+    description="Like a Happy Hour but people bring laptops"
+    imageUrl="/img/climate-tech-co-working-seattle.jpg"
+    linkUrl="/event-format-co-working-session"
     />
     <ImageCard
-    title="Game night"
-    description="If you are familiar with the basics, but need to hone in on a climate solution"
-    imageUrl="/img/level-2-mario.jpg"
-    linkUrl="#pickleball"
+    title="City park"
+    description="Take advantage of a nice day and invite some folks"
+    imageUrl="/img/women-in-climate-seattle.jpg"
+    linkUrl="/event-format-city-park"
+    />
+
+</div>
+
+### Medium Effort
+
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+    <ImageCard
+    title="Expert Panel"
+    description="A great way to build and amplify new ideas"
+    imageUrl="/img/climate-panel-seattle.jpg"
+    linkUrl="/event-format-expert-panel"
     />
     <ImageCard
-    title="Skip to Level 3"
-    description="If you are actively working on a climate solution and need to advance faster"
-    imageUrl="/img/level-3-mario.jpg"
-    linkUrl="../level-3"
+    title="Coffee Crawl"
+    description="Post a walking route and stop at a variety of coffee joints"
+    imageUrl="/img/climate-coffee-crawl.jpg"
+    linkUrl="/event-format-coffee-crawl"
     />
     <ImageCard
-    title="Pickleball"
-    description="If you are familiar with the basics, but need to hone in on a climate solution"
-    imageUrl="/img/level-2-mario.jpg"
-    linkUrl="#pickleball"
-    />
-    <ImageCard
-    title="Skip to Level 3"
-    description="If you are actively working on a climate solution and need to advance faster"
-    imageUrl="/img/level-3-mario.jpg"
-    linkUrl="../level-3"
+    title="Trivia Night"
+    description="People love a friendly competition with a dash of humor"
+    imageUrl="/img/climate-tech-trivia-night.jpg"
+    linkUrl="/event-format-trivia-night"
     />
 </div>
 
-[cards]
+### Rock star achievement
 
--card
--card
--card
--card
+This will take some work but it can be the most rewarding.
 
-## First - Check your city
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+    <ImageCard
+    title="Lightning talks"
+    description="Put on a great show and learn a ton"
+    imageUrl="/img/climate-lightning-talks.jpg"
+    linkUrl="/event-format-lightning-talks"
+    />
+    <ImageCard
+    title="Outdoor Excursion"
+    description="Bond in a new environment"
+    imageUrl="/img/climate-ski-trip.jpg"
+    linkUrl="/event-format-outdoor-excursion"
+    />
+    <ImageCard
+    title="Climate Day / Week"
+    description="Paint the town green!"
+    imageUrl="/img/pnw-climate-week-event.png"
+    linkUrl="/event-format-climate-day-or-week"
+    />
+</div>
 
-There may be existing events and organizations you are not aware of.
+## Honorable Mentions
 
-### Two resources:
-
- - climatetechcities.com
- - Work on Climate - Slack Channel
-
-
-## Event Formats
-
-- Happy Hour (easiest)
-- Trivia Night
-- Coffee crawl
-- Panel
-- Lightning talks
 - Speed dating
-- Game night
-- Ski trip
 - Founders potluck
 - Weekend retreat
+- Pickleball
 
-## Trivia Night
-
-Text
-
-## Pickleball
-
-## Sponsors
+---
 
 ## Acknowledgements
 

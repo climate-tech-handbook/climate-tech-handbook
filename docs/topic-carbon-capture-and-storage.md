@@ -46,3 +46,7 @@ Then come back to learn more about this [Solution](#solutions-in-this-sector)
 * Internships: CCS-focused companies, environmental NGOs, and research institutions often offer internships.
 * Networking: Join industry associations, attend environmental conferences, and connect with professionals in the sector.
 * Entry-level Positions: Consider roles in research labs, CCS technology companies, or environmental consultancies.
+
+## Additional Notes:
+
+- [One of the fastest growing carbon removal technologies](https://www.climatetechdistillery.com/p/01-direct-air-capture-dac) - _ClimateDrift_

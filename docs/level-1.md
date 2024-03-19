@@ -1,5 +1,5 @@
 ---
-title: 🕹️ Welcome to Level 1
+title: 🕹️ Level 1
 displayed_sidebar: docSidebar
 pagination_label: 🕹️ Level 1
 ---
@@ -10,25 +10,23 @@ import cthlogo from '/img/main/cth-earth-logo.png';
 
 ![video game pic](/img/climate-tech-level-1-mario.jpg)
 
-## ⛳️ Start here
 
-## Definition of LEVEL 1
 
-:::info Level 1
-**Stay here if you**:
+## ⛳️ Introduction to Level 1
 
-- Know very little about what "[climate tech](#what-is-climate-tech)" means
+**Welcome to Level 1!** You are in the right place if you are _brand new to climate action_, and need a _basic overview of terms_ as well as some _questions_ you probably want answered!
 
-- Need to brush up on [fundamental climate knowledge](#fundamental-climate-knowledge)
 
-- Want to understand [what a climate job is like](#what-is-a-climate-job-like)
 
-- Have never heard of the Project Drawdown [Solution Framework](#project-drawdown-solution-frameworks) or the [Speed and Scale](#speed-and-scale) Framework
+### Learning Objectives
 
-- Are not yet a member and would like to learn more about these 3 [core communities](#core-communities):
-	- The Handbook Slack Community
-	- Work on Climate
-	- MCJ Collective
+:::note Learning Objectives:
+
+- Be able to **define climate tech**.
+- Gain **fundamental climate knowledge**.
+- Browse **solution frameworks**.
+- Consider joining a **core community**.
+
 :::
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
@@ -45,60 +43,61 @@ import cthlogo from '/img/main/cth-earth-logo.png';
     linkUrl="../level-3"
     />
 </div>
+<br/>
 
-## Lesson Start
-
-![test](/img/welcome-aboard.jpg) 
-
-Congratulations! You took the first step.
-
-:::note Lesson Overview
-### In this lesson:
-- [What is "climate tech"](#what-is-climate-tech)
-
-- Intro to [Climate Solution frameworks](#solution-frameworks)
-
-- What a [climate job is like](#what-is-a-climate-job-like)
-
-- Intro to [core communities](#core-communities)
-:::
+_In Level 1_, you will read up on climate definitions, and it is _recommended_ that you read some of the articles that are linked in this level for a comprehensive background.
 
 ## What is Climate Tech?
 
-There is both a **broad definition**, 
+The term "climate tech", short for climate technology, is **used in two related ways.** There is a _broad_ definition and a _Silicon Valley-style industry_ definition.
 
-as well as a Silicon Valley style **industry definition**.
+| Broad Definition   | Industry Definition |
+|    --------        |      -------        |
+|Climate Tech is **any form of technology, physical or digital**, that will help people implement climate change.|Climate Tech is a **recent financial movement to invest in startup companies** that are focused on a solution to the climate emergency.
 
-:::book a broad definition
-Any form of technology that will help us implement our climate goals, particularly the 1.5C goal which requires:
+**They are used interchangeably at times**, but it is only a matter of one referring to a movement and the other being a physical thing that jump started the movement. The broad definition of climate tech is what we are mostly going to be using in this mini-course.
 
-- 50% emission reduction by 2030
-- Net zero emissions by 2050.
-:::
+**These climate technologies are focused on:**
+- _reducing GHG_ (Greenhouse gasses - gasses in the earth’s atmosphere that trap heat) _emissions_
 
-#### A Silicon Valley style industry definition:
 
-:::book rough industry definition:
 
-A recent financial movement to invest in startups that are focused on a particular solution to the climate emergency.
-:::book
-#### Climate tech vs Clean tech:
+**The main sources of GHG emissions are divided into the following sectors, or subcategories**, which we will go more in depth with later on in this course:
 
-First - **fixing climate is a subset** within a broader circle of clean technologies.
+1. Electricity
 
-:::note For example
-Water pollution, plastic pollution, or e-waste do not cause greenhouse emissions. However, they are still a critical problem affecting environmental health, justice, and the biodiversity crisis.
-:::
+2. Food, Agriculture, and Land Use
 
-Second - **The term "clean tech" has a negative association** with a failed "Clean Tech 1.0" startup period from 2006-2011. 
+3. Industry
 
-:::note What happened?
-MIT Technolgy review called it a bloodbath that "[ended in disaster](https://www.technologyreview.com/2020/11/30/1012660/venture-capital-clean-tech-boom-biden/), wiping out billions in investments and scaring venture capitalists away for years."
+4. Transportation
 
-_More context from BVP: "[Eight lessons from the first climate tech boom and bust](https://www.bvp.com/atlas/eight-lessons-from-the-first-climate-tech-boom-and-bust)"_
-:::
+5. Buildings
 
-Climate tech can be seen as a "Clean tech Version 2.0" the 2020s.
+
+You have probably heard of clean tech before. What is it, and is it the same thing as _climate tech_?
+
+
+### What is clean tech?
+
+| Clean Tech    |
+| -------- |
+|The term “clean tech”, short for clean technology, are **technologies that reduce the environmental impact that existing technologies cause**, as well as **improve the quality of natural resources**. |
+
+
+**These clean tech technologies are focused on**:
+
+- **Reducing usage of “dirty” technologies** (coal, gas, oil, mining, transportation, manufacturing).
+- **Improving areas of natural resources**: clean water, air quality, recycling, clean energy
+
+It is important to note that “clean tech” has a negative association with a failed “Clean Tech 1.0” startup period from 2006-2011. **Learn more about this here:**
+- [How VCs can avoid another bloodbath as the clean-tech boom 2.0](https://www.technologyreview.com/2020/11/30/1012660/venture-capital-clean-tech-boom-biden/)
+- [Eight lessons from the first climate boom and bust](https://www.bvp.com/atlas/eight-lessons-from-the-first-climate-tech-boom-and-bust)
+
+#### _Also, ever heard of “green tech”?_
+
+Green tech is just **an umbrella term for climate tech and clean tech**. Climate tech and Clean tech _are_ green tech. Climate tech and Clean tech are different are simply different from one another, however.
+
 
 ## What is a climate job like?
 
@@ -126,11 +125,10 @@ You will be dealing with a lot of early stage startups.
 
 Roughly 3,000+ companies / organizations exist in our current database.
 
-:::note Most often
+Most often:
 - **Early stage startups tend to pay lower salaries** in exchange for generous equity packages.
 
 - **That said, climate startups want to attract quality talent** and hopefully understand that competitive pay is important.
-:::
 
 #### Established companies:
 
@@ -374,7 +372,7 @@ Speed and Scale has a great OKR system that is time bound and uses very specific
 
 There are [26 Slack communities listed here](https://www.climatefinance.xyz/climate-slack-communities).
 
-Some are generalized for climate job seekers, and others are specialized toward roles (climate designers) and solutions ()
+Some are generalized for climate job seekers, and others are specialized toward roles (climate designers) and solutions.
 
 **Here are 3 to start with:**
 

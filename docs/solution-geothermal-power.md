@@ -8,7 +8,7 @@ pagination_prev: solutions
 
 _Krafla, a geothermal power station in Iceland_
 
-<details>
+<!-- <details>
         <summary>List of companies working in this solution...</summary>
          <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
@@ -22,7 +22,7 @@ _Krafla, a geothermal power station in Iceland_
             
             </ul>
         </div>
-        </details>
+        </details> -->
 
 
 :::company job openings
@@ -30,6 +30,12 @@ _Krafla, a geothermal power station in Iceland_
 :::
 
 <iframe height="100px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/dbfd3ce0-8ce8-4504-9457-88dcbc0135df?dark=true&wmode=opaque" data-embed="true" allow="autoplay; fullscreen"></iframe>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameBorder="0" height="175" style={{width:'100%', maxWidth:'660px', overflow:'hidden', borderRadius:'10px'}} sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/enhanced-geothermal-power-is-finally-a-reality/id1548554104?i=1000621905679" />
+
+:::note Resources
+- [Geothermal Energy: Using the heat beneath our feet](https://www.climatetechdistillery.com/p/09-geothermal-energy) - Climate Tech Distillery
+:::
 
 ## Overview
 
