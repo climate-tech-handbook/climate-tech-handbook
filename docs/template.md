@@ -4,7 +4,7 @@ displayed_sidebar: docSidebar
 ---
 :::caution
 Heavy work in progress
-[Help us](contribute) improve this page
+[Help us](../contribute) to improve this page
 :::
 
 ## Header 1
