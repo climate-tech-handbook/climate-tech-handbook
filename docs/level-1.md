@@ -169,27 +169,24 @@ _Voluntary Carbon Markets_ started as a popular solution, but have recently been
 As we [continue writing the Handbook together](contribute), we will better be tracking news on [Solution](solutions) viability in the marketplace.
 </details>
 
----
 
-:::question
-#### How much do I need to know about climate science and politics?
-:::
-
-It depends on:
+<details>
+  <summary>**How much do I need to know about climate science and politics?**</summary>
+  
+**This depends on two things:** _The solution space and the job role_
 
 #### 1. The [Solution](solution) space
 
-For example, a solution involving the [electrical](sector-electricity) grid can get quite complicated.
+- For example, a solution involving the [electrical](sector-electricity) grid can get quite complicated. In this case, you would need to already know or learn a lot about the science and politics that falls under this solution. 
 
 
 #### 2. The job role
 
+- Some jobs and associated skills are more transferable than others.
+- For instance, if you are a software engineer or running people operations, the skills you developed in these roles are highly transferable in climate tech. However, if you work in sales or marketing, there is a larger learning curve, and you will need to learn the particular skills of the industry market you are looking to work in for climate tech.
 
-- When it comes to the role, being a software engineer or running people operations are more transferrable. 
+</details>
 
-- But, you are in sales or marketing, you need to know as much as possible about your industry market.
-
----
 
 :::question
 ####  How do I avoid greenwashing?
