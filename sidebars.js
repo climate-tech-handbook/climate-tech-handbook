@@ -11,24 +11,40 @@
 
 module.exports = {
   docSidebar: [
-    {
-      type: 'category',
-      label: 'Start Learning',
-      link: {
+  {
+    type: 'category',
+    label: 'Start Learning',
+    link: {
+      type: 'doc',
+      id: 'intro',
+    },
+    items: [
+      {
         type: 'doc',
-        id: 'intro',
+        id: 'how-to-use-the-handbook',
+        label: 'How to use the Handbook',
       },
-      items: [
-        {
-          type: 'doc',
-          id: 'how-to-use-the-handbook',
-          label: 'How to use the Handbook',
-        },
-        {
-          type: 'doc',
-          id: 'level-1',
-          label: 'Level 1',
-        },
+      {
+        type: 'category',
+        label: 'Level 1',
+        items: [
+          {
+            type: 'doc',
+            id: 'level-1',
+            label: 'Overview',
+          },
+          {
+            type: 'doc',
+            id: 'subpage-1',
+            label: 'Subpage 1',
+          },
+          {
+            type: 'doc',
+            id: 'subpage-2',
+            label: 'Subpage 2',
+          },
+        ],
+      },
         {
           type: 'doc',
           id: 'level-2',

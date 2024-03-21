@@ -286,10 +286,9 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 } */
 
 details.alert {
-  background-color: rgb(233, 233, 247);
+  background-color: rgb(238, 249, 253);
   border: none;
   border-left: 5px solid rgb(83, 83, 248); 
-  background-color: rgb(233, 233, 247);
 }
 
 details summary::before {
