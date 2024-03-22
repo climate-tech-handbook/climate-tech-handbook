@@ -223,10 +223,6 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   .footer {
     margin-top: 5rem;
   }
-
-  body {
-    background-color: white;
-  }
 }
 
 /*.theme-doc-toc-mobile {
