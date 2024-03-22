@@ -13,6 +13,7 @@
 .cardContainer:hover {
     cursor: pointer;
     transform: translateY(-5px);
+    z-index: 1;
 }
 
 .cardImg {

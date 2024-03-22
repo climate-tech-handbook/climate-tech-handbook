@@ -8,6 +8,7 @@
   font-family: 'Lato', sans-serif;
   width: 100vw;
   margin-left: -16px;
+  z-index: 2;
 }
 
 .tocCollapsibleContent > ul {
