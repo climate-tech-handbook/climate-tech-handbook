@@ -48,6 +48,7 @@ a:hover {
 html, body { /*prevent mobile scrolling horizontally*/
   max-width: 100%;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 body {
