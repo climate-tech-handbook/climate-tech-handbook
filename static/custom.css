@@ -286,18 +286,17 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 } */
 
 details.alert {
-  background-color: rgb(233, 233, 247);
+  background-color: rgb(238, 249, 253);
   border: none;
-  border-left: 5px solid rgb(83, 83, 248); 
-  background-color: rgb(233, 233, 247);
+  border-left: 5px solid rgb(0, 115, 0); 
 }
 
 details summary::before {
-  border-color: transparent transparent transparent rgb(83, 83, 248) !important;
+  border-color: transparent transparent transparent rgb(0, 115, 0)!important;
 }
 
 details > div > div {
-  border-top: 1px solid rgb(83, 83, 248) !important;
+  border-top: 1px solid rgb(16, 36, 69) !important;
 }
 
 @media screen and (max-width: 895px) {
