@@ -97,7 +97,7 @@ This will take some work but it can be the most rewarding.
     linkUrl="/event-format-lightning-talks"
     />
     <ImageCard
-    title="Outdoor Excursion"
+    title="Hackathon"
     description="Bond in a new environment"
     imageUrl="/img/climate-ski-trip.jpg"
     linkUrl="/event-format-outdoor-excursion"
@@ -110,10 +110,12 @@ This will take some work but it can be the most rewarding.
     />
 </div>
 
-## Honorable Mentions
+## Want more ideas?
 
+- Climate Community Dinner ([soapbox seattle](https://www.eventbrite.com/e/soapbox-seattle-climate-community-dinners-tickets-845064910897))
 - Speed dating
 - Founders potluck
+- Outdoor excursion
 - Weekend retreat
 - Pickleball
 

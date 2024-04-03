@@ -24,7 +24,7 @@ This is an [event guide](event-guide) for hosting a Climate Happy Hour.
 
 ## What is a 
 
-Text
+- Example: unconference ([example with Alec Turnbull](https://www.linkedin.com/posts/alecturnbull_what-does-the-new-york-climate-community-activity-7180543795996819456-dfh8))
 
 ## Header 2
 
