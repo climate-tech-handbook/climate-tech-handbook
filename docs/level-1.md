@@ -146,7 +146,7 @@ Now that we know what climate tech is, let’s dig into what the climate tech _j
 <br></br>
 | Marketable skills | Domain Knowledge |
 |       --------    |     --------     |
-|Marketable skills are skills that you bring from other jobs, such as data analysis, digital marketing, project management, UX, and more, hat can be applicable and relevant to climate jobs. | Domain knowledge is the knowledge you have relating to the specific industry of climate tech.
+|Marketable skills are skills that you bring from other jobs, such as data analysis, digital marketing, project management, UX, and more, that can be applicable and relevant to climate jobs. | Domain knowledge is the knowledge you have relating to the specific industry of climate tech.
 |If you already have marketable skills and 3+ years of tech experience, there are [plenty of jobs](https://climatetechlist.com) that have the same roles as a non-climate tech company. | If you need to gain domain knowledge on climate tech: we built the Handbook to gather the best information on [all 93 Climate Solutions](solutions) from Project Drawdown.
 
 **Need to gain experience _and_ domain knowledge?** Writing is learning. Kill two birds with one stone by **[contributing](contribute)** to The Climate Tech Handbook.
