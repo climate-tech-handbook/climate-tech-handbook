@@ -15,8 +15,40 @@ module.exports = {
       type: 'category',
       label: 'Start Learning',
       link: {
+  {
+    type: 'category',
+    label: 'Start Learning',
+    link: {
+      type: 'doc',
+      id: 'intro',
+    },
+    items: [
+      {
         type: 'doc',
         id: 'intro',
+        id: 'how-to-use-the-handbook',
+        label: 'How to use the Handbook',
+      },
+      {
+        type: 'category',
+        label: 'Level 1',
+        items: [
+          {
+            type: 'doc',
+            id: 'level-1',
+            label: 'Define Climate Tech',
+          },
+          {
+            type: 'doc',
+            id: 'subpage-1',
+            label: 'Fundamental Climate Knowledge',
+          },
+          {
+            type: 'doc',
+            id: 'subpage-2',
+            label: 'Solution Frameworks',
+          },
+        ],
       },
       items: [
         {
