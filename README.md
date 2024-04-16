@@ -51,7 +51,14 @@ git clone https://github.com/climate-tech-handbook/climate-tech-handbook.git
 cd climate-tech-handbook
 ```
 
-3. Install the dependencies:
+3. Install Node
+
+On a Mac, complete the following steps
+- Install Homebrew package manager
+- Install Node Version Manager (nvm)
+- Install Node Package Manager (npm)
+
+5. Install the dependencies:
 
 ```bash
 npm install
