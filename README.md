@@ -55,8 +55,9 @@ cd climate-tech-handbook
 
 On a Mac, complete the following steps
 - Install Homebrew package manager
-- Install Node Version Manager (nvm)
-- Install Node Package Manager (npm)
+- Install Node Version Manager (nvm) - `nvm install node`
+- Enter in your terminal: `source $(brew --prefix nvm)/nvm.sh`
+- Enter in your terminal: `nvm use 18`
 
 5. Install the dependencies:
 
