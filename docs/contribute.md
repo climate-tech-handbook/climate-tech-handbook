@@ -75,7 +75,7 @@ We need to identify misleading information and half-truths about actions that ap
 
 #### Positive skepticism
 
-Productive feedback is critical.
+Productive feedback is critical for every contributor.
 
 It is important be skeptical while displaying a respectful attitude when critiquing others.
 
