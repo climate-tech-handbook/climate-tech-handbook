@@ -116,6 +116,7 @@ This will take some work but it can be the most rewarding.
 - Speed dating
 - Founders potluck
 - Outdoor excursion
+- Film Festival
 - Weekend retreat
 - Pickleball
 
@@ -123,6 +124,7 @@ This will take some work but it can be the most rewarding.
 
 - Interactive Q&A
 - Spectrum
+- The wind blows
 
 ---
 
