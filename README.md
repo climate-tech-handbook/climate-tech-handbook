@@ -51,7 +51,16 @@ git clone https://github.com/climate-tech-handbook/climate-tech-handbook.git
 cd climate-tech-handbook
 ```
 
-3. Install the dependencies:
+3. Install Node
+
+On a Mac, complete the following steps
+- Install Homebrew package manager
+- Install Node Version Manager (nvm) - `brew install nvm`
+- Enter in your terminal: `source $(brew --prefix nvm)/nvm.sh`
+- Enter in your terminal: `nvm install 20` to install the latest Long Term Support version of Node v.20.12.2
+- Enter in your terminal: `nvm use 20` to start using version 20.12.2 of Node
+
+5. Install the dependencies:
 
 ```bash
 npm install
