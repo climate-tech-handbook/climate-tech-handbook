@@ -119,6 +119,11 @@ This will take some work but it can be the most rewarding.
 - Weekend retreat
 - Pickleball
 
+## Facilitation exercises
+
+- Interactive Q&A
+- Spectrum
+
 ---
 
 ## Acknowledgements

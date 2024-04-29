@@ -29,6 +29,10 @@ _Packing peanuts made from bioplastics (thermoplastic starch) ([Wikipedia](https
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Bioplastics)
 :::
 
+:::company Example Company
+- [Check out Shloop is The Sustainable Footwear Manufacturer of The Future](https://warminguptoclimatetech.substack.com/p/shloop-sustainable-footwear) - (Warming Up to Climate Tech)
+:::
+
 :::info Resources
 - [Great overview by Climate Tech Distillery](https://www.climatetechdistillery.com/p/19-bioplastics)
 :::
