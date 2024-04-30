@@ -220,12 +220,8 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 @media screen and (max-width: 966px) {
-  .footer {
-    margin-top: 5rem;
-  }
-
   body {
-    background-color: white;
+    background-color: #EEEEEE; 
   }
 }
 
