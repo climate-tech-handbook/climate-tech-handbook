@@ -177,7 +177,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: white;
   text-decoration: none !important;
   color: #0054FB;
-  border: 2px solid #0054FB;
+  outline: 2px solid #0054FB;
 }
 
 .navbar__link:hover {
