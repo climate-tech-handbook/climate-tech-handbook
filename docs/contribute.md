@@ -1,3 +1,7 @@
+---
+title: Contibuting.md
+---
+
 # Contribute
 
 This is your resource!
