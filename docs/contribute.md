@@ -1,5 +1,6 @@
 ---
 title: Contibuting.md
+displayed_sidebar: docSidebar
 ---
 
 # Contribute

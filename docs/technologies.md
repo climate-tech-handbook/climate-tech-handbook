@@ -1,5 +1,6 @@
 ---
 title: Technologies
+displayed_sidebar: docSidebar
 ---
 
 # Technologies
