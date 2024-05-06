@@ -24,6 +24,10 @@ async function autoSetDisplayedSidebar() {
       const frontmatterContent = fileContents.slice(frontmatterStart, frontmatterEnd);
       const frontmatter = parse(frontmatterContent);
 
+      if(frontmatter.displayed_sidebar === null){
+        continue;
+      }
+
       if (!frontmatter.displayed_sidebar) {
         frontmatter.displayed_sidebar = 'docSidebar';
         const newFrontmatterContent = `\n${Object.entries(frontmatter).map(([key, value]) => `${key}: ${isArray(value) ? '\n - '+ value.join('\n - '):value}`).join('\n')}\n`;
