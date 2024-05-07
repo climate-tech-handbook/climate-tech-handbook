@@ -1,3 +1,8 @@
+---
+title: Contibuting.md
+displayed_sidebar: docSidebar
+---
+
 # Contribute
 
 This is your resource!

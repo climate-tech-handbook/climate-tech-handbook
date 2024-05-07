@@ -1,6 +1,7 @@
 ---
 title: Climate Lightning Talks
 hide_table_of_contents: false
+displayed_sidebar: docSidebar
 ---
 
 # Seattle Climate Lightning Talks
