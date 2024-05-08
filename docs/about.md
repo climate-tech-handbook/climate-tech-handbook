@@ -2,7 +2,7 @@
 title: About the Handbook
 displayed_sidebar: docSidebar
 ---
-
+![This is the image alt text](../img/main/favicon.ico "This is the image caption")
 # About Us
 
 ![Cover Image](../static/img/offshore-wind-farm.jpg)
