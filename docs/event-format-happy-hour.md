@@ -8,16 +8,29 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## What is this page?
 
-This is an [event guide](event-guide) for hosting a Climate Happy Hour.
+This is an event guide for hosting a Climate Happy Hour.
 
-<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+[Explore other event guides here](event-guide).
+
+<!-- <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Go back to the full Event Oranizers Guide"
     description="This page is one of several event guides available"
     imageUrl="/img/women-in-climate-seattle.jpg"
     linkUrl="/event-guide"
     />
-</div>
+</div> -->
+
+:::expert Expert assistance
+Connect with [Lowell Bander](https://linkedin.com/in/lowellbander) if you need help
+:::
+
+## Primary goal - demonstrate community
+
+When people see a group photo with friendly faces, they feel welcome.
+
+By hosting a Happy Hour, you are proving that a community exists and there are others like you who want to solve the climate crisis.
+
 
 ## There are 5 steps
 
@@ -37,15 +50,17 @@ This is an [event guide](event-guide) for hosting a Climate Happy Hour.
 
 Make a list of potential venues.
 
-Consider
+Consider:
+
 - **Size** (not to small)
 
 - **Location** (easy to get to)
 
 - **Amenities** (food on site, not too noisy)
 
+:::tip
 As your list of venues grow, **Share It** for future reference with other organizers.
-
+:::
 
 Should you call the venue?
 
@@ -68,7 +83,7 @@ In Seattle - we use the [Work on Climate Slack](workonclimate.org) and post in t
 :::
 
 ## 4. Show Up
-1. Beforehand, gather any required materials. Common materials are markers and name tags, and food.
+1. Beforehand, gather any required materials. Common materials are markers and name tags.
 
 2. Arrive early on the event day to set up, address any last-minute concerns, and be ready to welcome attendees with organization and enthusiasm.
 
