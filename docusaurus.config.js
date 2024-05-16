@@ -124,13 +124,13 @@ const darkCodeTheme = themes.dracula;
                     <img src="/img/main/cth-earth-logo.png" alt="CTH Earth Logo">
                     <div class="social-links">
                       <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
-                        <img src="img/slack_icon.png" alt="Slack Icon" style="margin-right: 15px; width: 40px;"/>
+                        <img src="/img/main/slack_icon2.png" alt="Slack Icon" style="margin-right: 15px; width: 40px;"/>
                       </a>
                       <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
-                        <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon" style="margin-right: 15px;"/>
+                        <img src="/img/main/linkedin_icon2.svg" alt="LinkedIn Icon" style="margin-right: 15px;"/>
                       </a>
                       <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noreferrer noopener" aria-label="Github">
-                        <img src="img/design/icons/github-mark-black.svg" alt="Github Icon" style="width: 40px;" />
+                        <img src="/img/main/github-mark-black2.svg" alt="Github Icon" style="width: 40px;" />
                       </a>
                     </div>
                   </div>

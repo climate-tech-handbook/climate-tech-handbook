@@ -126,6 +126,8 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   display: flex;
   flex-direction: column;
   align-items: center;
+  
+  width: -moz-fit-content;
   width: fit-content;
 }
 
