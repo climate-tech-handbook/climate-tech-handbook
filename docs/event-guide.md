@@ -98,9 +98,9 @@ This will take some work but it can be the most rewarding.
     />
     <ImageCard
     title="Hackathon"
-    description="Bond in a new environment"
-    imageUrl="/img/climate-ski-trip.jpg"
-    linkUrl="/event-format-outdoor-excursion"
+    description="Build something to move the needle"
+    imageUrl="/img/hackathon.webp"
+    linkUrl="/event-format-hackathon"
     />
     <ImageCard
     title="Climate Day / Week"

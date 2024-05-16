@@ -12,14 +12,6 @@ This is an event guide for hosting a Climate Trivia Night.
 
 [Explore other event guides here](event-guide).
 
-<!-- <div style={{ display: 'flex', flexWrap: 'wrap'}}>
-    <ImageCard
-    title="Go back to the full Event Oranizers Guide"
-    description="This page is one of several event guides available"
-    imageUrl="/img/women-in-climate-seattle.jpg"
-    linkUrl="/event-guide"
-    />
-</div> -->
 
 :::expert Expert assistance
 Connect with [Jacob Caggiano](https://linkedin.com/in/jacobcaggiano) if you need help
@@ -38,17 +30,17 @@ Connect with [Jacob Caggiano](https://linkedin.com/in/jacobcaggiano) if you need
 
 1. Find a partner
 
-1. Pick a Venue
+2. Pick a Venue
 
-2. Prepare questions
+3. Prepare questions
 
-3. Create a Sharable Event
+4. Create a Sharable Event
 
-4. Share the Event
+5. Share the Event
 
-5. Show Up
+6. Put on a show
 
-6. Share the Results
+7. Share the Results
 :::
 
 ## 1. Find a partner
@@ -62,7 +54,7 @@ It's a lot easier with a partner.
 - The other person collects answers from the tables and tallies the score
 
 
-## 1. Pick a Venue
+## 2. Pick a Venue
 
 Make a list of potential venues.
 
