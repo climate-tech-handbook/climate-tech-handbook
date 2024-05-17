@@ -120,7 +120,7 @@ const darkCodeTheme = themes.dracula;
               items: [
                 {
                   html: `
-                  <div class="footer-logo-social-links">
+                  <div class=" footer-logo-social-links">
                     <img src="/img/main/cth-earth-logo.png" alt="CTH Earth Logo">
                     <div class="social-links">
                       <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
