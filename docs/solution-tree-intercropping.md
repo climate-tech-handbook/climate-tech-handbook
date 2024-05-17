@@ -7,14 +7,9 @@ pagination_prev: solutions
 
 *Intercropping Systems of Wheat ([MDPI Open Access Journals](https://www.mdpi.com/2073-4395/11/2/283))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
@@ -23,6 +18,11 @@ This a sample ChatGPT page to get the ball rolling.
             </ul>
         </div>
         </details>
+
+
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Tree+Intercropping)
+:::
 
 ## Overview
 

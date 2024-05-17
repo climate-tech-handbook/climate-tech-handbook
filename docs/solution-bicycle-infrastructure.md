@@ -7,14 +7,9 @@ pagination_prev: solutions
 ![Cover Image](https://images.unsplash.com/photo-1567745576352-e404ee640705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxCaWN5Y2xlJTIwSW5mcmFzdHJ1Y3R1cmV8ZW58MHx8fHwxNjgzNjU3ODk1&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@seanbenesh)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
@@ -63,6 +58,11 @@ This a sample ChatGPT page to get the ball rolling.
             </ul>
         </div>
         </details>
+
+
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Bicycle+Infrastructure)
+:::
 
 ## Overview
 

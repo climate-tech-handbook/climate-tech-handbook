@@ -7,13 +7,13 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 1.4–3 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::tip 1.4–3 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
 ![Biochar use cases for climate change mitigation](/../static/img/biochar-production.jpg)
 
 :::company Job openings
-#### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Carbon+Removal+Tech&p=0&remote=false)
+### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Carbon+Removal+Tech&p=0&remote=false)
 
 Then come back to learn more about this [Solution](#solutions-in-this-sector)
 
@@ -30,6 +30,12 @@ However, Project Drawdown has only assessed biochar, which is ready today and it
     description="Biochar retains most of the carbon produced by decomposing biomass."
     imageUrl="/img/biochar-kiln.jpg"
     linkUrl="../solution-biochar-production"
+    />
+    <ImageCard
+    title="Carbon Capture and Storage"
+    description="Machines that can capture CO2 emissions"
+    imageUrl="/img/ccs.jpg"
+    linkUrl="../topic-carbon-capture-and-storage"
     />
 </div>
 

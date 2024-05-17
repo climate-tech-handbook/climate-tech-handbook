@@ -10,7 +10,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 ![](/../static/img/adaptation.jpg)
 
 :::company Job openings
-#### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Climate+Adaptation&p=0&remote=false)
+### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Climate+Adaptation&p=0&remote=false)
 
 <!-- Then come back to learn more about each [Solution](#solutions-in-this-sector) -->
 

@@ -1,19 +1,18 @@
 ---
 title: Electricity
 displayed_sidebar: docSidebar
-# hide_table_of_contents: true
-
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 196.8–420.6 Gigatons will be saved from our [carbon budget](../glossary/#carbon-budget)
+:::tip 196.8–420.6 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
 ![](/../static/img/electricity.png)
 
 :::company Job openings
+
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Energy&p=0&remote=false)
 
 Then come back to learn more about a specific [Solution](#solutions-in-this-sector) in the Energy Sector
@@ -22,23 +21,30 @@ Then come back to learn more about a specific [Solution](#solutions-in-this-sect
 <!--Huge opportunity admonition-->
 
 :::caution
+
 ### Huge learning curve
 
-Be prepared to read [a lot of obscures PDFs like these](https://www.eia.gov/analysis/handbook/)
-
-#### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Energy&p=0&remote=false)
-
-Then come back to learn more about each [Solution](#solutions-in-this-sector)
-
-<!--This is the best strategy to accelerate your expertise as a top candidate-->
+Be prepared to read [a lot of obscure PDFs like these](https://www.eia.gov/analysis/handbook/)
 :::
 
 Overhauling electricity is a critical step.
 
 In addition to scaling new technologies, there are unique challenges such as:
 
- - The permitting process for new infrastructure
- - Responding to peak demand
+* The permitting process for new infrastructure
+
+* Responding to peak demand
+
+* The economics of buying and selling clean energy
+
+:::expert
+Connect with [Ahmad Faruqui](https://www.linkedin.com/in/ahmad-faruqui-0177b83/) to learn about energy economics
+:::
+## Resources:
+
+:::info
+- [Cipher News](https://ciphernews.com/topics/electricity)
+:::
 
 ## Solutions in this Sector
 
@@ -262,6 +268,7 @@ In addition to scaling new technologies, there are unique challenges such as:
     imageUrl="/img/onshore-wind-turbines.jpg"
     linkUrl="../solution-onshore-wind-turbines"
   />
+
 </div>
 
 - - -

@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Soil nutrient management ([Earth Smart Solutions](https://www.earth-smart-solutions.com/blogs/blog/soil-nutrient-management-tips))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 ## Overview
 
 * **Significant progress** in nutrient management to combat climate change.

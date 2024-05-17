@@ -1,3 +1,8 @@
+---
+title: Technologies
+displayed_sidebar: docSidebar
+---
+
 # Technologies
 
 457 total, from the UN Climate Technology Centre & Network [^unctc-n]

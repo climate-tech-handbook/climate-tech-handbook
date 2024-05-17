@@ -5,17 +5,12 @@ pagination_prev: solutions
 ---
 ![Cover Image](../static/img/clean-cooking.jpg)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 :::info "the public debate about gas stoves has [received a lot of attention](https://www.npr.org/2023/01/13/1149135773/what-you-need-to-know-about-gas-stoves-and-health-risks) lately"
 :::
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
@@ -32,6 +27,11 @@ This a sample ChatGPT page to get the ball rolling.
             </ul>
         </div>
         </details>
+
+
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Clean+Cooking)
+:::
 
 ## Overview
 

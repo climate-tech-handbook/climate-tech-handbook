@@ -10,12 +10,13 @@ authors:
 ![Cover Image](../static/img/grid-flexibility.jpg)
 *Image from the [Alliance for an Energy Efficient Economy](https://aeee.in/why-indian-grid-operators-need-to-acknowledge-demand-flexibility-for-optimal-grid-operation/) in India*
 
-:::company
+<!-- :::company
 Check out [Voltus](https://voltus.co) - a demand response software tool
-:::
+::: -->
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
@@ -36,6 +37,11 @@ Check out [Voltus](https://voltus.co) - a demand response software tool
             </ul>
         </div>
         </details>
+
+
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Grid+Flexibility)
+:::
 
 ## Overview
 
@@ -65,19 +71,6 @@ A **Virtual Power Plant (VPP)** is a network of decentralized, medium-scale, pow
 VPPs aggregate the energy supply of DERs and makes that supply available in wholesale power markets. A DER can be any internet connected device (smart thermostat, air conditioner, electric car) that is enrolled in a Demand Response program.
 
 Key contributors in the progress of these technologies are Green Mountain Power, a leader in smart meter deployment, Tesla, a prominent battery storage manufacturer, and EnerNOC, a provider of demand response services. Their efforts are instrumental in enhancing grid efficiency and reducing greenhouse gas emissions.
-
-## Leading Companies
-
-Leading companies in the VPP sector include:
-
-* [ABB](https://new.abb.com/power-generation/energy-management/optimax-solution-suite/optimax-for-virtual-power-plants)
-* [Siemens](https://press.siemens.com/global/en/pressrelease/siemens-expands-green-energy-potential-virtual-power-plants)
-* [GE](https://www.gegridsolutions.com/powerd/catalog/gridnode-der-management.htm)
-* [AutoGrid](https://www.auto-grid.com/solution/virtual-power-plant/)
-* [Enel X](https://www.enelx.com/n-a/en/home)
-* [Hitachi Ltd.](https://www.hitachienergy.com/products-and-solutions/grid-edge-solutions/our-offering/e-mesh/ems)
-* [Mitsubishi](https://www.mitsubishielectric.com/en/sustainability/management/social_contributions/energy/index.html)
-* [AGL Energy](https://www.agl.com.au/residential/energy/solar-and-batteries/solar-batteries/virtual-power-plant)
 
 ## Lessons Learned
 

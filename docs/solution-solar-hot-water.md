@@ -7,16 +7,11 @@ pagination_prev: solutions
 
 *Schematic of solar hot water system ([This Old House](https://www.thisoldhouse.com/green-home/21014968/solar-hot-water))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 Here's your text with markdown syntax:
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
@@ -67,6 +62,11 @@ Here's your text with markdown syntax:
             </ul>
         </div>
         </details>
+
+
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Solar+Hot+Water)
+:::
 
 ## Overview
 

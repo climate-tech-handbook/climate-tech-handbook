@@ -4,19 +4,9 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-:::note
-Heavy work in progress - more coming soon!
-:::
+<!-- ## Start here
 
-:::note This page will help you
-
-### One
-
-### Two
-:::
-
-<!-- <div style={{ display: 'flex', flexWrap: 'wrap'}}>
-
+### Pick your climate solution
 
   <ImageCard 
         title="Electricity"
@@ -25,46 +15,46 @@ Heavy work in progress - more coming soon!
         linkUrl="/sector-electricity"
     />
 
-  <ImageCard 
-        title="Electricity"
-        description="In order to electrify everything with zero emissions, we need to upgrade our entire infrastructure"
-        imageUrl="/img/electricity.png"
-        linkUrl="/sector-electricity"
-    />
 
-</div> -->
+Our growing database of:
 
-## Have you picked your Climate Solution?
+- Organizations
+- Communities
+- Individuals
+- Case studies
+- [Technologies](../technologies)
+- Skills
+- Job categories
+- Full [glossary](/glossary) of terms -->
 
-![Farm land](../static/img/food-agriculture-and-land-use.jpg)
-
-<a href="https://www.example.com" class="doc-button">Contribute</a>
-
-## Nicole Kelner's Google Sheet
+# Nicole Kelner's Google Sheet
 
 [Click here to view the Google Sheet](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0).
 
-Nicole crowdsourced a sheet of over 500 resources to help with your daily information diet.
-
 [![Nicole Kelner's Google Sheet](../static/img/nicoles-spreadsheet.png)](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0)
 
-## Event Guide
+# Job Boards
 
---woo!
+There are 81+ [on Nicole's sheet](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0). Try:
 
-<!-- <iframe
-  loading="lazy"
-  src="https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0"
-  scrolling="No"
-  height="600px"
-  width="100%"
-></iframe>
- -->
-<!-- <iframe
-  loading="lazy"
-  src="https://baserow.io/public/grid/F9iNqpzpbOSx1mAixwYzOaozLex-fjXn2JdUtTIc8TQ"
-  name="iFrame Name"
-  scrolling="No"
-  height="500px"
-  width="100%"
-></iframe> -->
+- [Green Jobs Board](https://www.greenjobsboard.us/)
+- [ClimateBase](https://climatebase.org)
+- [Climate Tech List](https://climatetechlist.com)
+- [Terra.do](https://terra.do/climate-jobs/job-board/)
+
+# Climate News
+
+[ClimateChangeResources.org](https://climatechangeresources.org) - is comprehensive and up to date.
+
+[![CCR News Page](/img/ccr-news-page.png)](https://climatechangeresources.org)
+
+# Slack Communities
+
+First step:
+
+<a href="https://chat.climatetechhandbook.com" class="doc-button">Join Us</a>
+<br/>
+
+Then explore the [complete list here](https://www.climatefinance.xyz/climate-slack-communities)
+
+[![Slack community logos](/img/slack-communities.png)](https://www.climatefinance.xyz/climate-slack-communities)

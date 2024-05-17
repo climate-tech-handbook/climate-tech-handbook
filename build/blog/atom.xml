@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.climatetechhandbook.com/blog</id>
+    <title>The Climate Tech Handbook Blog</title>
+    <updated>2023-08-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.climatetechhandbook.com/blog"/>
+    <subtitle>The Climate Tech Handbook Blog</subtitle>
+    <icon>https://www.climatetechhandbook.com/img/main/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to version 0.9]]></title>
+        <id>https://www.climatetechhandbook.com/blog/pre-launch</id>
+        <link href="https://www.climatetechhandbook.com/blog/pre-launch"/>
+        <updated>2023-08-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Me with my notebook at a climate event]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Me with my notebook at a climate event" src="https://www.climatetechhandbook.com/assets/images/jacob-event-reporting-dadcc568d50562fac14161ec82ffbec6.jpg" width="4080" height="3072" class="img_ev3q"></p>
+<p>Hey folks 👋  thanks for stopping by!</p>
+<p>I started The Climate Tech Handbook because I knew two things:</p>
+<ol>
+<li>I wanted to spend every second I could working on the climate emergency</li>
+<li>I wanted to see if it's actually possible to make a decent living doing it</li>
+</ol>
+<p><strong>What I found was astonishing.</strong></p>
+<p>There number of <a href="https://www.climatetechhandbook.com/resources">resources</a> out there are ASTRONOMICAL.</p>
+<p>Impossible for a single brain to handle.</p>
+<p>The other problem is that it's really hard to find an employer who is the perfect match.</p>
+<p>Even if you do, <strong>it's really hard to stand out</strong> from 500 other resumes without understanding the biggest challenges in their industry.</p>
+<hr>
+<p>So here we are, an early version 0.9 edition of The Climate Tech Handbook.</p>
+<div class="theme-admonition theme-admonition-tip alert alert--success admonition_WoCw"><div class="admonitionHeading_TMsN"><span class="admonitionIcon_Ibzs"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>My personal mission</div><div class="admonitionContent_vXIg"><p>To give you a free shortcut and help you:</p><ol>
+<li>Find the <strong><a href="https://www.climatetechhandbook.com/blog/solutions">right solution</a></strong> to work on</li>
+<li>Find the <strong>right organization</strong> solving it</li>
+<li>Make sure you <strong>want to work there</strong></li>
+<li>Land the best <strong>job offer</strong></li>
+<li>Succeed in your <strong>first 90 days</strong></li>
+</ol></div></div>
+<p>The Handbook is <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noopener noreferrer">completely open source</a> and built by a community of like-minded job seekers.</p>
+<p><a href="https://chat.climatetechhandbook.com/" target="_blank" rel="noopener noreferrer">Come hang out with us on Slack</a>, share what you know, and build your climate tech portfolio along the way!</p>]]></content>
+        <author>
+            <name>Jacob Caggiano</name>
+            <uri>https://www.jacobcaggiano.com</uri>
+        </author>
+    </entry>
+</feed>

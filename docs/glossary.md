@@ -16,7 +16,7 @@ The amount of carbon dioxide we can emit before we reach a critical tipping poin
 
 ### Carbon Class
 
-Carbon accounting - Class 1, Class 2, Class 3 - based on operations vs supply chain etc.
+Carbon accounting - Scope 1, Scope 2, Scope 3 - based on operations vs supply chain etc.
 
 ### Deep Tech
 

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_cth_wg=self.webpackChunkdocusaurus_cth_wg||[]).push([[2535],{45641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to version 0.9","permalink":"/blog/pre-launch","unlisted":false}]}')}}]);

@@ -13,7 +13,7 @@ module.exports = {
   docSidebar: [
     {
       type: 'category',
-      label: '🏁 Get Started',
+      label: 'Start Learning',
       link: {
         type: 'doc',
         id: 'intro',
@@ -26,11 +26,6 @@ module.exports = {
         },
         {
           type: 'doc',
-          id: 'level-0',
-          label: 'Level 0',
-        },
-        {
-          type: 'doc',
           id: 'level-1',
           label: 'Level 1',
         },
@@ -39,11 +34,16 @@ module.exports = {
           id: 'level-2',
           label: 'Level 2',
         },
+        {
+          type: 'doc',
+          id: 'level-3',
+          label: 'Level 3',
+        },
       ],
     },
     {
       type: 'category',
-      label: '✅ Climate Solutions',
+      label: 'Climate Solutions',
       link: {
         type: 'doc',
         id: 'solutions',
@@ -113,12 +113,12 @@ module.exports = {
     },
     {
       type: 'doc',
-      label: '🌍 Resources',
+      label: 'Resources',
       id: 'resources',
     },
     {
       type: 'doc',
-      label: '🔥 Contribute',
+      label: 'Contribute',
       id: 'contribute',
     },
   ],

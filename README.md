@@ -51,7 +51,16 @@ git clone https://github.com/climate-tech-handbook/climate-tech-handbook.git
 cd climate-tech-handbook
 ```
 
-3. Install the dependencies:
+3. Install Node
+
+On a Mac, complete the following steps
+- Install Homebrew package manager
+- Install Node Version Manager (nvm) - `brew install nvm`
+- Enter in your terminal: `source $(brew --prefix nvm)/nvm.sh`
+- Enter in your terminal: `nvm install 20` to install the latest Long Term Support version of Node v.20.12.2
+- Enter in your terminal: `nvm use 20` to start using version 20.12.2 of Node
+
+5. Install the dependencies:
 
 ```bash
 npm install
@@ -115,3 +124,11 @@ all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
+
+Custom Markdown Syntax for Image Figcaption. 
+
+![alt text](image-url.jpg "image caption on hover")
+
+In your regular Markdown page
+
+simply write out your code like this and it will give you a figcaption that activates on hover

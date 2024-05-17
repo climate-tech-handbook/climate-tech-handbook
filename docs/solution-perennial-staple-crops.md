@@ -7,14 +7,9 @@ pagination_prev: solutions
 
 *A perennial grain crop would offer a sustainable alternative to present day annual crops ([Frontiers](https://www.frontiersin.org/articles/10.3389/fpls.2022.898769/full))*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
@@ -39,6 +34,11 @@ This a sample ChatGPT page to get the ball rolling.
             </ul>
         </div>
         </details>
+
+
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Perennial+Staple+Crops)
+:::
 
 ## Overview
 

@@ -6,60 +6,78 @@ pagination_prev: solutions
 
 ![Cover Image](../static/img/high-efficiency-heat-pumps.png)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=High-Efficiency+Heat+Pumps)
 :::
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-        <div>
-            <ul>
-             
-                <li><a href="http://darcysolutions.com/">Darcy Solutions</a></li>
-            
-            </ul>
-        </div>
-        </details>
+## Understanding the Heat Pumps Industry:
 
-## Overview
+- Technology Overview:
 
-Heat pumps are a great technology to help us get off of air conditioners, which are a huge portion of greenhouse gas emissions.
+  - Types of Heat Pumps: Air-source, ground-source, and water-source heat pumps.
+  - Applications: Residential, commercial, and industrial heating and cooling.
 
-They extract heat from the air and transfer it—from indoors out for cooling, or from outdoors in for heating.
+- Industry Trends: Sustainability and efficiency, and innovation in heat pump technologies
 
-Companies and organizations actively engaged in developing high-efficiency heat pumps include Daikin, LG, Carrier, and the U.S. Department of Energy. 
 
-## Progress Made
+## Required Background & Experience:
 
-Advancements in high-efficiency heat pumps include:
-- **Variable-speed compressors**: Enhancing control over heating and cooling.
-- **Energy management systems**: Optimizing energy consumption.
-- **Intelligent controls**: Enabling demand response and building automation.
+- Educational Background:
 
-Leading entities contributing to progress are the International Renewable Energy Agency (IRENA), Renewable Energy Policy Network for the 21st Century (REN21), ClimateWorks Foundation, and Rocky Mountain Institute.
+  - Technical Roles: Degrees in mechanical engineering, electrical engineering, or HVAC (Heating, Ventilation, and Air Conditioning) technology.
+  - Sales and Marketing: Business or marketing degrees, with a focus on technical sales.
+  - Research and Development: Advanced degrees in thermodynamics, fluid mechanics, or related fields.
 
-## Lessons Learned
+- Certifications:
 
-Key lessons from high-efficiency heat pump development:
-1. **Continuous refinement**: Ongoing research is essential to unlock the technology's full potential.
-2. **Learning from successes and failures**: Previous implementations inform better future strategies.
-3. **Comprehensive solutions**: High-efficiency heat pumps are part of a larger climate change mitigation strategy.
+  - HVAC Certification
+  - BPI Air Conditioning & Heat Pump Professional certification
 
-## Challenges Ahead
+- Soft Skills: Technical acumen, problem-solving, and communication.
 
-Critical challenges faced by high-efficiency heat pump development include:
-1. **Enhancing efficiency**: Overcoming Coefficient of Performance (COP) barriers.
-2. **Scaling production**: Meeting rising global demand requires increased manufacturing capacity.
-3. **Cost reduction**: Achieving economies of scale for wider adoption.
 
-Entities actively addressing these challenges include the International Renewable Energy Agency (IRENA), European Heat Pump Association (EHPA), and ClimateWorks Foundation.
+## Where to Start:
 
-## Best Path Forward
+- Internships: HVAC Companies, Renewable Energy Companies.
+- Networking: Join groups like [ASHRAE](https://www.ashrae.org/) (American Society of Heating, Refrigerating and Air-Conditioning Engineers) or similar organizations in your country, and attend events like the [AHR Expo](https://www.ahrexpo.com/) or Renewable Energy Conferences.
+- Entry-level Positions: Climate analyst, sustainability coordinator.
 
-To effectively drive high-efficiency heat pumps' deployment for climate change mitigation:
-- **Continuous R&D**: Focus on refining technology for maximum efficiency and affordability.
-- **Public Awareness**: Educate the public about the benefits of high-efficiency heat pumps.
 
-Leading contributors in this effort include the International Renewable Energy Agency (IRENA), Renewable Energy Policy Network for the 21st Century (REN21), and the Global Alliance for Clean Cookstoves.
+## Resources for Staying Up-to-Date:
+
+- Podcasts & Newsletters:
+
+  - [HVAC School Podcast](https://hvacrschool.com/podcast/)
+  - [HPAC Engineering](https://www.hpac.com/)
+  - [ACHR News Newsletter](https://www.achrnews.com/)
+
+- Websites:
+
+  - [International Heat Pump Center (HPC)](https://heatpumpingtechnologies.org/about/)
+  - [The Heat Pump Association (HPA)](https://www.heatpumps.org.uk/)
+
+- Books:
+
+  - “[Heat Pumps](https://www.amazon.com/Heat-Pumps-Eugene-Silberstein/dp/0766819590)” by Eugene Silberstein
+  - “[Modern Geothermal HVAC Engineering and Control Applications](https://www.amazon.com/Modern-Geothermal-Engineering-Control-Applications/dp/0071792686)” by Jay Egg, Greg Cunniff, and Carl Orio
+
+- Courses:
+
+  - [ASHRAE Learning Institute](https://www.ashrae.org/professional-development/elearning-on-demand) (Heat Pump Technology)
+  - [International Ground Source Heat Pump Association](https://igshpa.org/training-events/) (IGSHPA) - Ground Source Heat Pump System Design
+  - [Engineering Institute of Technology](https://www.eit.edu.au/) - Heat Pump Planning and Design
+
+- Forums & Communities: [HVAC-Talk](https://hvac-talk.com/vbb/): Heating, Air & Refrigeration Discussion, [Reddit - HVAC Community](https://www.reddit.com/r/HVAC/), [Heating Help](https://forum.heatinghelp.com/categories/a-c-heat-pumps-refrigeration), LinkedIn groups.
+
+
+## Job Platforms & Websites:
+
+- General: LinkedIn, Indeed, Glassdoor, Handshake.
+- Heat Pumps-specific: [HVAC Agent](https://www.hvacagent.com/), [ASHRAE Job Board](https://jobs.ashrae.org/), [Energy Jobline](https://www.energyjobline.com/).
+
+
+## Career Progression & Potential Roles:
+
+- Entry-level: HVAC Technician/Heat Pump Installer, Sales Representative (Heat Pumps), Customer Support Specialist for HVAC Products.
+- Mid-level: HVAC Engineer/Heat Pump Engineer, Project Manager (HVAC/Heat Pump Projects), Sales Manager (HVAC Products).
+- Senior-level: HVAC System Designer/Senior Engineer, Operations Manager (HVAC Company), Technical Sales Director, Research and Development Manager.

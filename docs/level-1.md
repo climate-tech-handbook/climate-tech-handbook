@@ -1,218 +1,402 @@
 ---
-title: 🕹️ Welcome to Level 1
+title: 🕹️ Level 1
 displayed_sidebar: docSidebar
 pagination_label: 🕹️ Level 1
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
+import sslogo from '/img/speed-and-scale-logo.jpg';
+import ddlogo from '../static/img/project-drawdown-logo.png';
+import cthlogo from '/img/main/cth-earth-logo.png';
 
-![video game pic](../static/img/level-1-mario.jpg)
-## Definition of LEVEL 1
+![video game pic](/img/climate-tech-level-1-mario.jpg)
 
 
-:::info Level 0
-**Stay here if you**:
 
-- Understand the basics from [Level 0](level-0)
+## ⛳️ Introduction to Level 1
 
-- You're committed to working on climate and need to hone in on a [Solution](#pick-your-climate-solution)
+**Welcome to Level 1!** You are in the right place if you are _brand new to climate action_, and need a _basic overview of terms_ as well as some _questions_ you probably want answered!
 
-- You need to build a solid [Information Diet](#start-your-information-diet) into your weekly routine 
+
+
+#### Learning Objectives
+
+:::note Learning Objectives:
+
+- Be able to **define climate tech**.
+- Gain **fundamental climate knowledge**.
+- Browse **solution frameworks**.
+- Consider joining a **core community**.
+
 :::
-
-### Wrong level?
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
-    title="Back to Level 0"
-    description="You still need the basics"
-    imageUrl="/img/climate-tech-level-0-mario.jpg"
-    linkUrl="/level-0"
+    title="Skip to Level 2"
+    description="If you are familiar with the basics, but need to hone in on a climate solution"
+    imageUrl="/img/level-2-mario.jpg"
+    linkUrl="../level-2"
     />
     <ImageCard
-    title="Skip to Level 2"
-    description="You already picked your climate solution"
-    imageUrl="/img/level-2-mario.jpg"
-    linkUrl="/level-2"
+    title="Skip to Level 3"
+    description="If you are actively working on a climate solution and need to advance faster"
+    imageUrl="/img/level-3-mario.jpg"
+    linkUrl="../level-3"
     />
 </div>
+<br/>
 
-## Lesson Start
+_In Level 1_, you will read up on climate definitions, and it is _recommended_ that you read some of the articles that are linked in this level for a comprehensive background.
 
-![business cat](/img/business-cat.jpg)
+## What is Climate Tech?
 
-:::note Lesson Overview
-### In this lesson you will:
-- Pick a climate solution to research
+The term "climate tech", short for climate technology, is **used in two related ways.** There is a _broad_ definition and a _Silicon Valley-style industry_ definition.
 
-- Build your daily and weekly information diet
+| Broad Definition   | Industry Definition |
+|    --------        |      -------        |
+|Climate Tech is **any form of technology, physical or digital**, that will help people implement climate change.|Climate Tech is a **recent financial movement to invest in startup companies** that are focused on a solution to the climate emergency.
 
-- Build your profile and networking strategy
+**They are used interchangeably at times**, but it is only a matter of one referring to a movement and the other being a physical thing that jump started the movement. The broad definition of climate tech is what we are mostly going to be using in this mini-course.
+
+**These climate technologies are focused on:**
+- _reducing GHG_ (Greenhouse gasses - gasses in the earth’s atmosphere that trap heat) _emissions_
+
+
+
+**The main sources of GHG emissions are divided into the following sectors, or subcategories**, which we will go more in depth with later on in this course:
+
+1. Electricity
+
+2. Food, Agriculture, and Land Use
+
+3. Industry
+
+4. Transportation
+
+5. Buildings
+
+
+You have probably heard of clean tech before. What is it, and is it the same thing as _climate tech_?
+
+
+#### What is clean tech?
+
+| Clean Tech |
+| -------- |
+|The term “clean tech”, short for clean technology, are **technologies that reduce the environmental impact that existing technologies cause**, as well as **improve the quality of natural resources**. |
+
+
+**These clean tech technologies are focused on**:
+
+- **Reducing usage of “dirty” technologies** (coal, gas, oil, mining, transportation, manufacturing).
+- **Improving areas of natural resources**: clean water, air quality, recycling, clean energy
+
+It is important to note that “clean tech” has a negative association with a failed “Clean Tech 1.0” startup period from 2006-2011. **Learn more about this here:**
+- [How VCs can avoid another bloodbath as the clean-tech boom 2.0](https://www.technologyreview.com/2020/11/30/1012660/venture-capital-clean-tech-boom-biden/)
+- [Eight lessons from the first climate boom and bust](https://www.bvp.com/atlas/eight-lessons-from-the-first-climate-tech-boom-and-bust)
+
+#### _Also, ever heard of “green tech”?_
+
+Green tech is just **an umbrella term for climate tech and clean tech**. Climate tech and Clean tech _are_ green tech. Climate tech and Clean tech are different are simply different from one another, however.
+
+
+## What is a climate job like?
+
+<!--questions about IT tech, deep tech, hard tech, and trade work-->
+
+Now that we know what climate tech is, let’s dig into what the climate tech _job_ is!
+
+#### **Click each drop-down menu below** to read through each frequently asked question about climate jobs.
+
+<details>
+  <summary>**How well does it pay?**</summary>
+  
+**This depends on one thing: whether the job involves working with an early stage startup, an established company, or a government agency.**
+
+| Startups 								| Established companies | Government jobs |
+| -------- 								| --------              |--------         |
+|Tend to be paid **lower** salaries					|Tend to be paid **higher** salaries |**Lower salaries**, but offer good health care and pensions
+|More startups to choose from (**Roughly 3,000+ companies and organizations** to choose from our database!).|You can work for bigger companies once you rack up **experience** and/or have great **networking skills**! | There can be a **higher level of job security, predictability, and transparency** compared to a fast moving startup environment.|
+</details>
+
+<details>
+  <summary>**How can I use my voice as an employee?**</summary>
+  
+**You can change the direction of the current company you work for to one that is involved in solving the climate crisis.**
+
+[Project Drawdown](https://drawdown.org/sites/default/files/210920_Drawdown_AtWork_06.pdf) is a framework and guide you can use to not only educate yourself on ways you can help the climate through your actions at work, but how to leverage your climate actions to involve your colleagues and employer.
+
+[Climate Voice](https://climatevoice.org/) hooks you up with tools to educate yourself on how to unlock corporate influence for climate, host events for Climate Voice to speak at your company or university, and an employee guide on how to advocate for the climate at your workplace.
+
+[Work for Climate](http://workforclimate.org) is another resource that offers courses where you can learn climate literacy skills, join webinars and expert talks on the inclusion of climate at work, as well as access to playbooks on topics such as Energy and Emissions.
+
+</details>
+
+<!-- Check for PDF updates periodically -->
+
+
+
+<details>
+  <summary>**How do I learn the necessary skills?**</summary>
+  
+**You can get a climate job based on:**
+
+1. **Marketable skills**
+2. **Domain knowledge**
+
+<br></br>
+| Marketable skills | Domain Knowledge |
+|       --------    |     --------     |
+|Marketable skills are skills that you bring from other jobs, such as data analysis, digital marketing, project management, UX, and more, hat can be applicable and relevant to climate jobs. | Domain knowledge is the knowledge you have relating to the specific industry of climate tech.
+|If you already have marketable skills and 3+ years of tech experience, there are [plenty of jobs](https://climatetechlist.com) that have the same roles as a non-climate tech company. | If you need to gain domain knowledge on climate tech: we built the Handbook to gather the best information on [all 93 Climate Solutions](solutions) from Project Drawdown.
+
+**Need to gain experience _and_ domain knowledge?** Writing is learning. Kill two birds with one stone by **[contributing](contribute)** to The Climate Tech Handbook.
+</details>
+
+
+<details>
+  <summary>**How secure are these jobs?**</summary>
+  
+**It varies by job category and climate solution.**
+
+**Depending on the job category**--whether it is a startup, established company, or a government job, security varies. Here is a [Fact Sheet](https://www.eesi.org/files/FactSheet_Climate_Jobs_2024.pdf) that details the demand for climate jobs, and which sectors have been steadily on the rise in the United States.
+
+**Depending on the climate solution**--whether it is a more established solution or an early one, job security varies. 
+
+_For instance_, the highest anticipated growth are in automotive, power generation, and electrical efficiency.  <!--citation. MCJ Podcast??, add links to solution pages-->
+
+_Voluntary Carbon Markets_ started as a popular solution, but have recently been hit by a round of layoffs, due to public criticism on overstated benefits.
+
+As we [continue writing the Handbook together](contribute), we will better be tracking news on [Solution](solutions) viability in the marketplace.
+</details>
+
+
+<details>
+  <summary>**How much do I need to know about climate science and politics?**</summary>
+  
+**This depends on two things:** _The solution space and the job role_
+
+#### 1. The [Solution](solution) space
+
+- For example, a solution involving the [electrical](sector-electricity) grid can get quite complicated. In this case, you would need to already know or learn a lot about the science and politics that falls under this solution. 
+
+
+#### 2. The job role
+
+- Some jobs and associated skills are more transferable than others.
+- For instance, if you are a software engineer or running people operations, the skills you developed in these roles are highly transferable in climate tech. However, if you work in sales or marketing, there is a larger learning curve, and you will need to learn the particular skills of the industry market you are looking to work in for climate tech.
+
+</details>
+
+<details>
+  <summary>**How do I avoid greenwashing?**</summary>
+  
+**Greenwashing** occurs when a company or product is presented as being more environmentally friendly than they actually are. Some examples of this can include ["embellishing claims about product ingredients, recycling efforts, carbon emissions reductions, or overall commitment to sustainability."](https://www.greenhive.io/blog/greenwashing-examples)
+
+[Tech Target](https://www.techtarget.com/sustainability/post/4-tips-to-avoid-greenwashing-with-authentic-commitment) provides a guide on how to avoid greenwashing.
+
+[CNN Underscored](https://www.cnn.com/cnn-underscored/home/what-is-greenwashing) also dissects ways to avoid greenwashing, as well as how to identify it in the first place.
+
+- Read and support journalism outlets such as [DeSmog](https://www.desmog.com//), [Grist](grist.org), [Inside Climate News](https://insideclimatenews.org/), [Climate Desk](climatedesk.org), [Drilled](https://drilled.media), and more.
+<!--Link to Resources, and Media Sector-->
+
+- [Tell us your findings on Slack](contribute) and we'll report on it!
+</details>
+
+
+---
+
+## Fundamental Climate Knowledge
+
+:::info If you already know this
+Skip to:
+- [Solution Frameworks](#solution-frameworks)
+
+- [Core Communities](#core-communities)
+
+- [Skill Requirements](#skill-requirements)
 :::
+###
 
-## Pick your climate solution
+#### The 2015 Paris Agreement:
 
-You may be tempted to apply for any open roles, regardless of their industry domain.
+The bottom line is that we are supposed to keep the global average temperature down to **1.5 degrees celsius**.
 
-**This is not recommended.**
+This would allow us to avoid [the most catastrophic impacts](https://www.npr.org/2021/11/08/1052198840/1-5-degrees-warming-climate-change).
 
-You should try to narrow down your focus to a specific solution.
+To do so, **we need to cut greenhouse pollution down 50% by 2030 and 100% by 2050.**
 
-:::note Why pick a specific solution?
-This is a critical step for you to:
-1. **Manage your time** -  research top challenges that you are uniquely positioned to solve
+By 2050 we need to be at "net zero".
 
-2. **Build your network** - offer something to contribute for a specific community
-:::
+#### 1.5 degrees versus 2 degrees celsius:
+
+Reaching our 2030 goal is not likely.
+
+However, we still have a chance of keeping the global average temperature near 2 degrees celsius within the next 23 years.
+
+<iframe
+src="https://ourworldindata.org/grapher/total-ghg-emissions?tab=chart&country=~OWID_WRL" loading="lazy"
+width="100%"
+height="600px"
+></iframe>
+
+#### Our carbon budget:
+
+There are many different calculations.
+
+![carbon budget hourglass](../static/img/carbon-budget.jpg)
+
+One [budget from the Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en/research/co2-budget.html) states:
+
+- The world is emitting roughly 42.2 gigatons of greenhouse pollution per year.
+
+- **We have roughly 995 gigatons left if we want some likelihood of staying below 2C.**
+
+- We have [250 gigatons of CO2 left](https://www.washingtonpost.com/climate-environment/2023/06/08/carbon-budget-study-climate-change/) to stay below 1.5 degrees, roughly 5 years.
+
+The global standard comes from the United Nations [Intergovernmental Panel on Climate Change](https://www.ipcc.ch) (IPCC).
+
+
+#### Common myths:
+
+[SkepticalScience.com maintains a good list](https://skepticalscience.com/argument.php) counter-arguments to over 200 climate myths.
+
+One of the [most important myths to debunk](https://upgrader.gapminder.org/q/85) is the belief that global temperatures will decline as greenhouse emissions go down.
+
+This implies that we can partially reduce emissions and keep global temperatures at a stable level.
+
+In reality, carbon dioxide persists for [hundreds of years](https://www.epa.gov/ghgemissions/overview-greenhouse-gases#CO2-references)
+
+**We need to cut emissions completely** to stop any further damage.
+
+Partial cuts will not work. 
+
+---
 
 ## Solution Frameworks
 
-In [Level 0](level-0) you learned about the two primary frameworks:
+Time for the good news. We have solutions!
 
-- [Project Drawdown](level-0#project-drawdown)
+![forest and river](../static/img/climate-solutions.png)
 
-- [Speed and Scale](level-0#speed-and-scale)
+#### Project Drawdown
 
-They are all listed in The Handbook under our [Solutions Page](Solutions).
+<img src={ddlogo} width="500"/>
 
-<ImageCard
-  title="Climate Solutions"
-  description="An overview of all 12 sectors and 93 climate solutions"
-  imageUrl="/img/aigen-robotics.png"
-  linkUrl="/solutions"
-/>
+[Project Drawdown](https://drawdown.org) is a non-profit organization that created a list of the 93 top climate solutions.
 
-### Where to begin?
+The list comes from a global coalition of leading scientists.
 
-Take a moment to browse, and then come back to this page to plan your Information Diet.
+They calculated and ranked the highest likelihood of reducing greenhouse pollution based on available solutions today.
 
+Examples include:
 
+- Reducing food waste
 
-### What to look for
+- Alternatives to meat
 
-- **Job openings** - every [Solutions](solutions) page has a link to job openings by that particular Solution or Sector.
+- Alternative refrigerants
 
-- **Transferrable Skills** - some [Solutions](solutions) are very software specific and easier to transfer over from a similar IT role.
+- Family planning
 
-<!-- ??climate papa article. -->
-
-- **Industry risk** - some industries are better established, like electric vehicles and solar. Other solutions are earlier stage or have more volatility such as carbon markets.
-
-- **Co-benefits** - climate change is not our only ecological emergency. We also have a biodiversity crisis. Some solutions offer multiple benefits, such as land conservation and regenerative agricultural which can solve more than one problem. We must also incorporate solutions that intersect with other social challenges like poverty and inequity.
-
-<!-- ### Example Trends
-
-- **Electric vehicles** - 
-
-- **Electric utilities** - 
-
-- **Solar** - 
-
-- **Heat Pumps** -
-
-- **Hydrogren** - 
-
-- **Food and Agriculture**
-
-These are just a few examples to get you thinking. -->
-
-:::tip don't overthink it
-Climate tech is the next industrial revolution.
-
-**Every single thing we do has to be completely transformed.**
-
-It's more important that you start on something immediately and not spin your wheels too much.
-
+:::note
+The Handbook's [Solution Page](solutions) is mostly based off of Project Drawdown.
 :::
 
-## Start your Information Diet
-:::note What is that?
-Your daily and weekly routine.
+#### Speed and Scale
 
-You'll need 2-10 hours per week to find a [Solution](solutions) and stay up to speed on the latest news.
+<img src={sslogo} width="300"/>
+
+[Created by venture capitalist John Doerr](https://speedandscale.com), this framework has both similarities and differences with Drawdown.
+
+Rather than a big list of 93 Solutions ranked by gigaton reduction, the Speed and Scale framework uses Doerr's popular [OKR system](https://en.wikipedia.org/wiki/Objectives_and_key_results) for measuring "objective key results."
+
+:::note OKR Tracker
+Here is Speed and Scale's [official OKR Tracker](https://speedandscale.com/tracker/)
 :::
 
-### Resource page
-
-Our complete set of resources are listed on our [Resources page](resources).
-
-Read below for guidance so you aren't overwhelemed.
-
-<div style={{ display: 'flex', flexWrap: 'wrap'}}>
-
-<ImageCard
-  title="Resources"
-  description="Newsletters, podcasts, media coverage, and other materials."
-  imageUrl="/img/healthy-lifestyle.jpg"
-  linkUrl="/resources"
-/>
-</div>
-
-### Speed and Scale - OKR Tracker
-
-The Speed and Scale website has an [OKR Tracker](https://speedandscale.com/tracker/).
-
-OKR = Objective Key Results.
-
-This is a curated news feed to track progress on particular solution.
-
-**Examples:**
-
-- Farm [soil health](https://speedandscale.com/okrs/3-0-fix-food/3-1-farm-soils/), and alternative [fertilizers](https://speedandscale.com/okrs/3-0-fix-food/3-2-fertilizers/).
-
-- [Alternative Cement](https://speedandscale.com/okrs/5-0-clean-up-industry/5-2-cement/)
-
-- [Policy battles](https://speedandscale.com/okrs/7-0-win-politics-and-policy/)
-
-### Newsletters and Podcasts
-
-There are many to choose from on our [Resources Page](resources).
-
-**Examples:**
-
-- [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) with Shayle Kahn
-
-- The [My Climate Journey Podcast](https://www.mcjcollective.com/media/podcast)
-
-- [Volts](https://volts.wtf) (Electricity focused)
-
-:::tip
-Find specific episodes _within_ a podcast that pertain to your solution.
-
-Also, look for episodes featuring founders from your Top 10 list of companies.
+:::question
+#### Which framework to use?
 :::
 
-**Examples:**
+Both are valuable and are not mutually exlusive.
 
-- You want to learn about electricity challenges: listen to an episode like ["Navigating the electrification gauntlet"](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann/navigating-the-electrification-gauntlet).
+Project Drawdown has some more granular solutions, while Speed and Scale has larger categories.
 
-- You want to understand decarbonizing steel: [listen to an episode featuring the founder of Electra](https://www.mcjcollective.com/my-climate-journey-podcast/electra), and add them to your Top 10 company list.
+Speed and Scale has a great OKR system that is time bound and uses very specific metrics to track progress.
+
+---
+
+## Core Communities
+
+There are [26 Slack communities listed here](https://www.climatefinance.xyz/climate-slack-communities).
+
+Some are generalized for climate job seekers, and others are specialized toward roles (climate designers) and solutions.
+
+**Here are 3 to start with:**
+
+---
+
+#### The Climate Tech Handbook
+
+<img src={cthlogo} width="300"/>
+
+Our community is designed for people who want to level up their portfolio.
+
+We're building the handbook together to show off our skills and knowledge.
+
+<a href="https://chat.climatetechhandbook.com" class="doc-button">Join our Slack</a>
+
+<br/>
+
+#### Work on Climate
+
+https://workonclimate.org
+
+![Work on Climate logo](/img/woc-logo.jpg)
+
+The largest Slack community for climate work.
+
+25,000+ members
 
 
+#### MCJ Collective
 
-### Topics within a community
+https://mcjcollective.com
 
-The [Work on Climate Slack community](workonclimate.org) has channels based on topics and locations.
+![MCJ Collective logo](/img/mcjcollective-logo.png)
 
-:::info Example topics and locations
-- [#learn-built-environment](https://app.slack.com/client/T017M28BLSG/C033K3U1ZQR)
+This one costs $10 per month, but is well worth it.
 
-- [#learn-food-waste](https://workonclimate.slack.com/messages/C01K3JV2LNQ)
+Work on Climate is very heavy toward job seekers, while MCJ also has a strong startup / investor community.
 
-- [#meet-seattle](https://workonclimate.slack.com/archives/C02EXRJPS66)
+The MCJ Collective are investors themselves.
+
+MCJ stands for My Climate Journey
+
+:::podcast
+They have a [great podcast here](https://www.mcjcollective.com/media/podcast)
 :::
+
+Networking strategies will be covered further in [Level 2](level-2).
+
+---
 
 ## You did it!
 
-You should now have some ideas on where to source your Information Diet and build a study habit for 2-10 hours per week.
-
-Now on to the FINAL level:
+Now on to the next level:
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
     <ImageCard
     title="Start Level 2"
-    description="Pick your TOP 10 companies"
+    description="Time to pick your climate solution"
     imageUrl="/img/level-2-mario.jpg"
     linkUrl="/level-2"
+    />
+    <ImageCard
+    title="Skip to Level 3"
+    description="If you are actively working on a climate solution and need to advance faster"
+    imageUrl="/img/level-3-mario.jpg"
+    linkUrl="/level-3"
     />
 </div>
 

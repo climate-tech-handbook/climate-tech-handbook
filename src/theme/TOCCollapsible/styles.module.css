@@ -1,0 +1,30 @@
+.tocCollapsible {
+  background-color: #ebe3e5;
+  /* border-radius: var(--ifm-global-radius); */
+  margin: 1rem 0;
+  width: 100%;
+  position: sticky;
+  top: 0;
+  font-family: 'Lato', sans-serif;
+  width: 100vw;
+  margin-left: -16px;
+}
+
+.tocCollapsibleContent > ul {
+  border-left: none;
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+  padding: 0.2rem 0;
+  font-size: 15px;
+}
+
+.tocCollapsibleContent ul li {
+  margin: 0.4rem 0.8rem;
+}
+
+.tocCollapsibleContent a {
+  display: block;
+}
+
+.tocCollapsibleExpanded {
+  transform: none;
+}

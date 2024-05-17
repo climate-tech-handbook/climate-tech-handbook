@@ -1,3 +1,8 @@
+---
+title: Contibuting.md
+displayed_sidebar: docSidebar
+---
+
 # Contribute
 
 This is your resource!
@@ -5,6 +10,13 @@ This is your resource!
 We can make it better together.
 
 ![Climate tech handbook team](../static/img/climate-tech-handbook-team-zoom.png)
+
+## Ways to contribute
+
+* Submit content
+* Improve our code and design
+* Financially support the project
+* Provide advice and expertise
 
 ## How to contribute
 
@@ -19,11 +31,16 @@ Come [hang out on Slack](https://chat.climatetechhandbook.com)
 ## Ways to contribute
 
 * Submit content
+
 * Improve our code and design
+
 * Financially support the project
+
 * Provide advice and expertise
 
 <!--insert logos-->
+
+<a href="https://checkout.square.site/merchant/QT27FKBWCRT2B/checkout/YJPPOLBCIENMGHKMMCTLKYBE" class="doc-button">Donate</a>
 
 ---
 
@@ -37,7 +54,7 @@ To have the best handbook possible, we need three things:
 
 2) **Strong** [Community](#strong-community)
 
-3) **Measureable** [Impact](#measureable-impact)
+3) **Measurable** [Impact](#measurable-impact)
 
 ---
 
@@ -63,7 +80,7 @@ We need to identify misleading information and half-truths about actions that ap
 
 #### Positive skepticism
 
-Productive feedback is critical.
+Productive feedback is critical for every contributor.
 
 It is important be skeptical while displaying a respectful attitude when critiquing others.
 

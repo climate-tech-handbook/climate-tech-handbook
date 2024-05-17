@@ -1,12 +1,13 @@
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const themes = require('prism-react-renderer').themes;
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (
   module.exports = {
     title: "The Climate Tech Handbook",
-    tagline: "Find a career you love solving the climate crisis",
+    tagline: "solving the climate crisis.",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
     onBrokenLinks: "ignore",
@@ -17,6 +18,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     plugins: [
       require.resolve('docusaurus-lunr-search'),
       require.resolve('docusaurus-plugin-image-zoom'),
+      './custom-plugins/auto-set-displayed-sidebar.js',      
     ],
 
     presets: [
@@ -32,8 +34,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             showLastUpdateAuthor: false,
             showLastUpdateTime: true,
             admonitions: {
-              tag: ':::',
-              keywords: ['note', 'tip', 'info', 'caution', 'danger', 'question', 'podcast', 'newsletter', 'company', 'contribute', 'book'],
+              keywords: ['note', 'tip', 'warning', 'important', 'info', 'caution', 'danger', 'question', 'podcast', 'newsletter', 'company', 'contribute', 'book', 'expert'],
             }
           },
           blog: {
@@ -52,7 +53,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
     customFields: {
       statement:
-        "Learn how to",
+        "Find a career you love",
     },
 
     themeConfig:
@@ -72,17 +73,17 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         //     },
         // },
         navbar: {
-          title: "Climate Tech Handbook",
-          // logo: {
-          //   alt: "CTH Earth Logo",
-          //   src: "img/main/cth-earth-logo.png",
-          // },
+          // title: "Climate Tech Handbook",
+          logo: {
+            alt: "CTH Earth Logo",
+            src: "img/main/cth-earth-logo.png",
+          },
           items: [
             {
               type: "doc",
               docId: "intro",
               position: "right",
-              label: "Get Started",
+              label: "Start Learning",
             },
             {
               type: "doc",
@@ -116,20 +117,56 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           style: "dark",
           links: [
             {
-              title: "Social",
               items: [
                 {
                   html: `
-                    </a>
-                    <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
-                      <img src="img/slack_icon.png" alt="Slack Icon" style="margin-right: 8px; width: 40px;"/>
-                    </a>
-                    <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
-                      <img src="img/design/icons/linkedin_icon.svg" alt="LinkedIn Icon" style="margin-right: 8px;"/>
-                    </a>
-                    <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noreferrer noopener" aria-label="Github">
-                      <img src="img/design/icons/github-mark-white.svg" alt="Github Icon" style="width: 40px;" />
+                  <div class="footer-logo-social-links">
+                    <img src="/img/main/cth-earth-logo.png" alt="CTH Earth Logo">
+                    <div class="social-links">
+                      <a href="https://chat.climatetechhandbook.com" target="_blank" rel="noreferrer noopener" aria-label="Slack">
+                        <img src=" /img/main/slack_icon2.png" alt="Slack Icon" style="margin-right: 15px; width: 40px;"/>
+                      </a>
+                      <a href="https://www.linkedin.com/company/climate-tech-handbook/" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
+                        <img src=" /img/main/linkedin_icon2.svg" alt="LinkedIn Icon" style="margin-right: 15px;"/>
+                      </a>
+                      <a href="https://github.com/climate-tech-handbook" target="_blank" rel="noreferrer noopener" aria-label="Github">
+                        <img src=" /img/main/github-mark-black2.svg" alt="Github Icon" style="width: 40px;" />
+                      </a>
+                    </div>
+                  </div>
+
+
                   `,
+                },
+              ],
+            },
+            {
+              title: "Start Learning",
+              items: [
+                {
+                  label: "Mini Course",
+                  to: "/level-1",
+                },
+                {
+                  label: "Resource Library",
+                  to: "/resources",
+                },
+                {
+                  label: "Glossary",
+                  to: "/glossary",
+                },
+                {
+                  label: "Technologies",
+                  to: "/technologies"
+                },
+              ],
+            },
+            {
+              title: "Solutions",
+              items: [
+                {
+                  label: "All Climate Solutions",
+                  to: "/solutions",
                 },
               ],
             },
@@ -151,49 +188,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               items: [
                 {
                   label: "Blog",
-                  href: "/blog",
-                },
-              ],
-            },
-            {
-              title: "Resources",
-              items: [
-                {
-                  label: "Resource Library",
-                  to: "/resources",
-                },
-                {
-                  label: "Career Guide",
-                  to: "/career-guide",
-                },
-                {
-                  label: "Glossary",
-                  to: "/glossary",
-                },
-              ],
-            },
-            {
-              title: "Climate Solutions",
-              items: [
-                {
-                  label: "Electricity",
-                  to: "/sector-electricity",
-                },
-                {
-                  label: "Food, Agriculture, & Land Use",
-                  to: "/sector-food-agriculture-and-land-use",
-                },
-                {
-                  label: "Industry",
-                  to: "/sector-industry",
-                },
-                {
-                  label: "Transportation",
-                  to: "/sector-transportation",
-                },
-                {
-                  label: "Additional Sectors",
-                  to: "/solutions",
+                  to: "/blog",
+                  position: "right",
                 },
               ],
             },
@@ -210,6 +206,11 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           defaultMode: "light",
           disableSwitch: true,
           respectPrefersColorScheme: false,
+        },
+
+        tableOfContents: {
+          minHeadingLevel: 2,
+          maxHeadingLevel: 2,
         },
       }),
   }

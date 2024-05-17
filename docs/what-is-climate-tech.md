@@ -1,5 +1,6 @@
 ---
 order: 900
+displayed_sidebar: docSidebar
 ---
 
 # What is "climate tech"?

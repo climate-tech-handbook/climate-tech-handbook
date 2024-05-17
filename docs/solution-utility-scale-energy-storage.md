@@ -14,6 +14,7 @@ This a sample ChatGPT page to get the ball rolling.
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
@@ -75,6 +76,11 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Utility-Scale+Energy+Storage)
+:::
+
 ## Overview
 
 Advancements in Utility-Scale Energy Storage are driving climate change reversal through key technologies:
@@ -87,8 +93,6 @@ Leading Innovators:
 
 - **Tesla:** Powerwall for home energy storage from solar panels.
 - **SunPower:** Solar energy storage system.
-- **LG**
-- **Samsung**
 
 ## Progress Made
 

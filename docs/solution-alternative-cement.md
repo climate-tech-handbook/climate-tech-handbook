@@ -6,12 +6,6 @@ pagination_prev: solutions
 
 ![Cement Factory](../static/img/cement-factory.jpg)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <iframe
   height="100px"
   width="100%"
@@ -23,9 +17,9 @@ This a sample ChatGPT page to get the ball rolling.
   allow="autoplay; fullscreen"
 ></iframe>
 
-
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
@@ -44,6 +38,16 @@ This a sample ChatGPT page to get the ball rolling.
             </ul>
         </div>
         </details>
+
+
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Cement)
+:::
+
+:::info Resources 
+- [A Look at Industry](https://climatedrift.substack.com/p/a-look-at-industry) - Climate Drift
+- [Carbon-Neutral Cement: Decarbonizing the main building material to eliminate 8% of global CO2 emissions](https://www.climatetechdistillery.com/p/carbon-neutral-cement) - Climate Tech Distillery
+:::
 
 ## Overview
 

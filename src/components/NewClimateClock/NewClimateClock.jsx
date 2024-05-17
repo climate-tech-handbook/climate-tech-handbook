@@ -13,57 +13,37 @@ export default function NewClimateClock({ countDown }) {
         <main className={clsx(styles.clockMain)}>
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.years}</div>
-            <div className="label">Years</div>
-          </div>
-
-          <span> : </span>
-
-          <div className={clsx(styles.section)}>
-            <div className={clsx(styles.number)}>{countDown.months}</div>
-            <div className="label">Mon</div>
+            <div className={clsx(styles.label)}>Years</div>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.days}</div>
-            <span className="label">Day</span>
+            <span className={clsx(styles.label)}>Days</span>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.hours}</div>
-            <span className="label">Hrs</span>
+            <span className={clsx(styles.label)}>Hours</span>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.minutes}</div>
-            <span className="label">Min</span>
+            <span className={clsx(styles.label)}>Minutes</span>
           </div>
 
           <span> : </span>
 
           <div className={clsx(styles.section)}>
             <div className={clsx(styles.number)}>{countDown.seconds}</div>
-            <span className="label">Sec</span>
+            <span className={clsx(styles.label)}>Seconds</span>
           </div>
 
-          <span className={clsx(styles.hideMilliseconds)}> : </span>
-
-          <div className={clsx(styles.section, styles.hideMilliseconds)}>
-            <div className={clsx(styles.number, styles.milliseconds)}>{countDown.milliseconds}</div>
-            <span className="label">Ms</span>
-          </div>
-
-          {/* <span> : </span>
-
-          <div className={clsx(styles.section)}>
-            <div className={clsx(styles.number)}>{countDown.milliseconds}</div>
-            <span className="label">ms</span>
-          </div> */}
         </main>
       </div>
     </div>

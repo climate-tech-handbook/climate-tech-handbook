@@ -9,6 +9,7 @@ import { BiNews } from 'react-icons/bi'
 import { IoMdBusiness } from 'react-icons/io'
 import { BiDonateHeart } from 'react-icons/bi'
 import { BsBook } from 'react-icons/bs'
+import { IoPersonOutline } from "react-icons/io5";
 
 function NoteIcon() {
   return (
@@ -114,6 +115,15 @@ function BookIcon() {
   return (
     <BsBook
       title="Book Icon"
+      style=""
+    />
+  )
+}
+
+function ExpertIcon() {
+  return (
+    <IoPersonOutline
+      title="Expert Icon"
       style=""
     />
   )
@@ -243,7 +253,19 @@ const AdmonitionConfigs = {
         book
       </Translate>
     )
-  }
+  },
+  expert: {
+    infimaClassName: 'expert',
+    iconComponent: ExpertIcon,
+    label: (
+      <Translate
+        // id="theme.admonition.expert"
+        description='The default label used for the Expert admonition (:::expert)'
+      >
+        expert
+      </Translate>
+    )
+  }  
 };
 // Legacy aliases, undocumented but kept for retro-compatibility
 const aliases = {
@@ -300,6 +322,7 @@ export default function Admonition(props) {
   const isCompanyAdmonition = type === 'company';
   const isContributeAdmonition = type === 'contribute';
   const isBookAdmonition = type === 'book';
+  const isExpertAdmonition = type === 'expert';
 
   const admonitionClassName = clsx(
     ThemeClassNames.common.admonition,
@@ -315,6 +338,7 @@ export default function Admonition(props) {
       [styles.company]: isCompanyAdmonition,
       [styles.contribute]: isContributeAdmonition,
       [styles.book]: isBookAdmonition,
+      [styles.expert]: isExpertAdmonition,
     }
   );
   return (

@@ -6,16 +6,11 @@ pagination_prev: solutions
 
 ![Cover Image](../static/img/biochar-kiln.jpg)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://www.vnews.com/Biochar-Demonstration-Offers-Alternative-to-Burn-Piles-46911424))
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
@@ -27,11 +22,18 @@ _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://ww
         </div>
         </details>
 
+
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biochar+Production)
+:::
+
 ## Overview
 
 Biochar retains most of the carbon produced by decomposing biomass.
 
 Significant progress has been made toward efficient biochar production methods, carbon capture and storage, and emission-reducing agricultural practices. Organizations like the Biochar Industry Consortium, International Biochar Initiative, Carbon Sequestration Leadership Forum, and Climate Change Mitigation Initiative have been at the forefront of this solution.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zFX1mOsg36w?si=H_P0WZ7XFclD1Nvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Progress Made
 

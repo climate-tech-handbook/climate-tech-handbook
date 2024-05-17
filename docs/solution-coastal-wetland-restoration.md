@@ -8,12 +8,6 @@ pagination_prev: solutions
 
 _Image of [NOAA’s Largest Wetland Restoration Project Underway in Louisiana](https://www.fisheries.noaa.gov/feature-story/noaas-largest-wetland-restoration-project-underway-louisiana)_
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 ## Overview
 
 - **Coastal Wetland Restoration**: Using wetlands against climate change.

@@ -30,8 +30,8 @@
 }
 
 .question {
-  border-left: 5px solid red;
-  background-color: rgb(245, 233, 235);
+  border-left: 5px solid var(--ifm-color-info-dark);
+  background-color: var(    --ifm-color-info-contrast-background);
 }
 
 .note {
@@ -59,6 +59,11 @@
 }
 
 .book {
+  border-left: 5px solid paleturquoise;
+  background-color: rgb(238, 247, 247);
+}
+
+.expert {
   border-left: 5px solid paleturquoise;
   background-color: rgb(238, 247, 247);
 }

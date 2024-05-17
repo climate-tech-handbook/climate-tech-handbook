@@ -1,31 +1,27 @@
 .heroBanner {
-  /* background-image: url("~@site/static/img/design/hp-hero.png"); */
-  background-image: url("~@site/static/img/design/windmill-hero.png");
+  background-image: url("~@site/static/img/design/windmill-hero.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
-  height: 80vh;
-  font-family: "Roboto";
-  font-style: normal;
+  background-position: bottom;
+  height: 75vh;
   padding: 4rem 0;
   position: relative;
   overflow: hidden;
 }
 
-.overlay { /*Overlay color with 50% opacity */
+.overlay {
   content: "";
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 80vh;
-  background-color: rgba(0, 0, 0, 0.4); 
+  background-color: rgba(0, 0, 0, 0.15); 
 }
 
 .headerContainer {
   display: flex;
   flex-direction: column;
-  /* gap: 2rem; */
   align-items: flex-start;
 }
 
@@ -34,49 +30,48 @@
 }
 
 .headerStatement {
-  font-size: 1.5rem;
-  text-transform: uppercase;
-  font-weight:400;
-  letter-spacing: .1rem; /* adjusts the kerning */
-  max-width: 60%;
-  line-height: 150%;
+  font-family: 'Lato', sans-serif;
+  font-size: 3rem;
+  font-weight: 800;
   z-index: 10;
+  line-height: 105%;
+  align-self: center;
 }
 
 .headerSubtitle {
-  text-transform: uppercase;
-  font-size: 4rem;
-  font-weight: 500;
-  letter-spacing: .1rem; /* adjusts the kerning */
-  width: auto;
-  line-height: 130%;
-  max-width: 75%;
-  margin-bottom: 40px;
+  font-family: 'Lato', sans-serif;
+  font-size: 4.5rem;
+  font-weight: 800;
   z-index: 10;
+  line-height: 105%;
+  align-self: center;
+  text-align: center;
+
+  margin-bottom: 40px;
 }
 
 .cthLink {
-  background-color: #be4721;
-  border: 2px solid var(--ifm-color-secondary);
-  color: white !important;
-  border-radius: 10px;
+  font-family: 'Lato', sans-serif;
   font-size: 1.25rem;
-  font-weight: bold;
-  height: 60px;
+  font-weight: 600;
+  background-color: #FD6F02;
+  color: #2A2C2D !important;
   display: flex;
   align-items: center; /* Center vertically */
   justify-content: center; /* Center horizontally */
-  width: 30%;
-  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  height: 50px;
+  width: 9.5rem;
   z-index: 10;
-  border-radius: 10px;
+  border-radius: 30px;
+  align-self: center;
+  /* box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25); */
 }
 
 .cthLink:hover {
   transition: ease-in-out 0.25s;
-  color: var(--ifm-color-secondary) !important;
-  background: white;
-  border: 2px solid var(--ifm-color-secondary);
+  color: #FD6F02 !important;
+  background: rgba(0, 0, 0, 0.1);
+  border: 2px solid #FD6F02;
   text-decoration: none;
 }
 

@@ -9,12 +9,6 @@ pagination_prev: solutions
 
 <!--EndFragment-->
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 ## Overview
 
 In the past decade, there has been increasing interest in tropical forest restoration as a means to reduce greenhouse gas emissions and help reverse climate change. Breakthrough technologies such as satellite mapping and remote sensing have been developed that have made it possible to more accurately assess the extent of forest degradation and deforestation. These technologies have also helped to identify potential areas for restoration.

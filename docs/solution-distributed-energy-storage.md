@@ -6,21 +6,19 @@ pagination_prev: solutions
 
 ![Distributed Energy Storage diagram](../static/img/distributed-energy-storage.jpg)
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
+:::contribute Community
+[Join DER Task Force](https://dertaskforce.com/) on Slack
 :::
 
-_Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distributed-energy-resources)_
-
 :::tip Resources
+ - [Reading guide](https://miro.com/app/board/uXjVNd1IcnU=/)
  - [Intercalation Station](https://intercalationstation.substack.com) -  a battery specific newsletter
  - [InDERmediate](https://www.indermediate.com/) podcast -  move up your clean energy knowledge from beginner to intermediate level
 :::
 
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
@@ -59,6 +57,11 @@ _Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distribute
             </ul>
         </div>
         </details>
+
+
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Energy+Storage)
+:::
 
 ## Overview
 
@@ -110,3 +113,5 @@ Continued development of distributed energy storage to mitigate climate change r
 2. **Public Awareness:** Highlighting benefits.
 3. **Government Incentives:** Encouraging adoption.
 4. **Business Model Innovation:** New approaches for storage.
+
+_Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distributed-energy-resources)_

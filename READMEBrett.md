@@ -1,10 +1,4 @@
-
-added this to the footer "social-links"
-width: -moz-fit-content;
-
-and moved the image file to the same area that the "Earth.svg" is.   it never 
-disappeared like the others did. so it liked that path better. And I changed the name of all three images and added a 2 to the end. In case the cache was playing games with itself.  Sometimes I do that with images to correct issues.   You have to change the name of the image sometimes if they get played with too much.
-
-
- launch this and test to see if the issue still comes up.
- 
+I  made a build folder and put it on Render.com and it works fine on all browsers.  
+We can try it on Netlify now to test ,  Thats about all I can do until we see if it works.
+I cant get the old develop  branch to work its from 9 months ago and the update might have messed it up  from 3 months ago.   So that needs work.  
+I think it is the way netlify is interpreting something, it probably has the image confused.  Try it now after I moved them around and changed the name by adding a 2 to the end. That little trick by changing the name works often for me on other things. I just moved them because I know that that other path is working fine for the image above them.   Test to see. while we figure out the deploy branch in the near future.

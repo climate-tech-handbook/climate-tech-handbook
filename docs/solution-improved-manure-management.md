@@ -7,12 +7,6 @@ pagination_prev: solutions
 
 *Learn about manure management from the [University of Minnesota Extension](https://extension.umn.edu/livestock-operations/manure-management)*
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 ## Overview
 
 * The **EPA’s Agricultural Waste Management Field Handbook** provides comprehensive guidelines for efficient manure management, emphasizing its benefits, the available management systems, and their design and operation. It also details manure nutrients and their environmental significance.

@@ -7,14 +7,9 @@ pagination_prev: solutions
 ![Cover Image](../static/img/electric-aircraft.jpg)
 _Image Credit: [Financial Times](https://www.ft.com/content/a9dc81d2-725e-11e9-bf5c-6eeb837566c5)_
 
-:::info [Help us track this Solution](contribute)
-This a sample ChatGPT page to get the ball rolling.
-
-[Click here to contribute content and feedback](contribute)
-:::
-
 <details>
         <summary>List of companies working in this solution...</summary>
+         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
         <div>
             <ul>
              
@@ -66,11 +61,31 @@ This a sample ChatGPT page to get the ball rolling.
         </div>
         </details>
 
+
+:::company job openings
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Efficient+Aviation)
+:::
+
 ## Overview
 
 - **Efficient Aviation**: Focuses on technology to reverse climate change.
 - **Breakthrough Technologies**: Efficient engines and fuel-efficient airplanes.
 - Collaboration with companies and organizations to reduce emissions.
+
+### Sustainable Aviation Fuel
+
+Introduction:
+
+<iframe 
+  allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" 
+  frameBorder="0" 
+  height="175" 
+  style={{width:'100%', maxWidth:'660px', overflow:'hidden', borderRadius:'10px'}} 
+  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+  src="https://embed.podcasts.apple.com/gb/podcast/episode-29-sustainable-aviation-fuel/id1544729925?i=1000630920514"
+/>
+
+[Boeing's project](https://sustainabilitytogether.aero/)
 
 ## Progress Made
 

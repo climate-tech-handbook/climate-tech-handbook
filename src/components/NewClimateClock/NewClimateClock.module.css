@@ -1,65 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Raleway:wght@500;700&display=swap');
+
 .clock {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   align-self: center;
-
-  background: #ffffff;
-  box-shadow: 12px 12px 28px rgba(0, 0, 0, 0.2);
+  background: #F9F2F3;
   border-radius: 20px;
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
-  padding-top: 20px;
-  padding-bottom: 20px;
-
-  /* z-index: 9999; */
-
+  padding: 1.25rem 2.5rem;
   position: absolute;
   top: -5rem;
-
   text-align-last: center;
-
   width: 100%;
   max-width: 75vw;
-
   text-align: center;
 }
+.clock {
+  animation: openClock 2.5s;
+}
 
-@media screen and (min-width: 1440px){
-  .clock{
-    max-width: 800px;
+@keyframes openClock {
+  0% {
+    display: none;
+  }
+
+  100% {
+    display: none;
   }
 }
 
-@media screen and (max-width: 966px) {
-  .clock {
-    max-width: 90vw;
-    overflow: auto;
-    margin-top: 20px;
-  }
-
-  .clockMain {
-    /* max-width: 100vw; */
-    width: fit-content;
-    block-size: fit-content;  
-    /* font-size: 1em; */
-    /* overflow: hidden; */
-  }
-
-  .countdown {
-    gap: 0.2rem;
-  }
-
-  html, body { /*prevent mobile scrolling horizontally*/
-    max-width: 100%;
-    overflow-x: hidden;
-  }
-    
-}
-  /* .hideMilliseconds {
-    display: none !important;
-  } */
 .countdown {
   gap: 1rem;
   display: flex;
@@ -68,63 +38,107 @@
   width: 100%;
 }
 
-/* Not currently using the temp and c02 scripts */
-
-/* .gTemp {
-  display: flex;
-  flex-direction: column;
-} */
-
-/* .ceeOhTwo {
-  display: flex;
-  flex-direction: column;
-} */
-
 .clockHeader {
-  color: var(--ifm-color-secondary);
-  font-family: 'Oswald', sans-serif;
-  font-size: 1.5rem;
-  margin-bottom: 0px; 
-}
-
-.clockText {
-  color: black;
-  /* font-size: large; */
+  color: #26282A;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  margin-bottom: 20px; 
 }
 
 .clockMain {
-  /* display: none; */
   display: flex;
-  /* border: 2px solid red; */
   justify-content: space-around;
-  align-items: baseline;
+  align-items: center;
   width: 100%;
-  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 20px;
 }
 
 .clockMain > span {
-  text-align: center;
-  justify-content: center;
-  font-weight: 700;
-  /* letter-spacing: 0.2rem; */
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 2rem;
+  margin: 21px 0;
 }
 
 .number {
-  font-weight: 700;
-  width:25px; /* prevents ms stuttering */
+  font-family: 'Roboto', sans-serif; 
+  font-weight: 900;
+  font-size: 2rem;
+  width: 25px; /* prevents ms stuttering */
   display: flex;
   justify-content: center;
   margin: 0 auto;
-}
-
-.milliseconds{
-  width:40px; /* prevents millisecond stuttering */
+  color: #26282A;
+  line-height: 35.8px;
+  padding-bottom: 5px;
 }
 
 .section {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
   letter-spacing: 0.01rem;
+  color: #26282A;
+  font-size: 1rem;
+  color: #26282A;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
 }
 
+@media screen and (min-width: 1440px){
+  .clock{
+    max-width: 800px;
+  }
+}
+
+/* Displays clock details for mobile view */
+@media screen and (max-width: 966px) {
+  .clock {
+    max-width: 90vw;
+    overflow: auto;
+    margin-top: 20px;
+  }
+
+  .clockMain {
+    block-size: fit-content;  
+    overflow: auto;
+  }
+
+  .countdown {
+    gap: 0.2rem;
+  }
+
+  html, body { /*prevent mobile scrolling horizontally*/
+    overflow-x: hidden;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .clockHeader {
+    font-size: 1.5rem;
+  }
+  
+  .clock {
+    padding: 1.25rem;
+  }
+  
+  .section {
+    font-size: 0.75rem;
+  }
+  
+  .clockMain > span {
+    font-size: 1rem;
+  }
+
+  .number {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .clock {
+    padding: 1rem 0.5rem;
+  }
+}
