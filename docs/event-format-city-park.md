@@ -12,14 +12,7 @@ This is an event guide for hosting a City Park event.
 
 [Explore other event guides here](event-guide).
 
-<!-- <div style={{ display: 'flex', flexWrap: 'wrap'}}>
-    <ImageCard
-    title="Go back to the full Event Oranizers Guide"
-    description="This page is one of several event guides available"
-    imageUrl="/img/women-in-climate-seattle.jpg"
-    linkUrl="/event-guide"
-    />
-</div> -->
+[Here is an example Outdoor Social](https://lu.ma/og2o9jut) from Climate Designers Seattle.
 
 :::expert Expert assistance
 Connect with [Lowell Bander](https://linkedin.com/in/lowellbander) if you need help
@@ -46,7 +39,7 @@ By hosting a Happy Hour, you are proving that a community exists and there are o
 5. Share the Results
 :::
 
-## 1. Pick a Venue
+## Pick a Venue
 
 Make a list of potential venues.
 
@@ -68,7 +61,7 @@ If your not expecting a large turnout and don't need a special area for your gro
 That said, it never hurts to inquire about making a reservation for your desired event date(s). 
 
 
-## 2. Create a Sharable Event
+## Create a Sharable Event
 Use a tool such as [Luma](https://lu.ma) to craft a sharable event. Ensure the climate theme and any other goals or activities are clear.
 
 You may want to advertise any games, icebreakers, or other attractive things to expect.
@@ -83,14 +76,14 @@ You may want to advertise any games, icebreakers, or other attractive things to 
 <br></br>For example: "The Wind Blows for the built environment" or "The Wind Blows for alternatives to meat" or "The Wind Blows for forest tech"
 ::: 
 
-## 3. Share the Event!
+## Share the Event!
 Utilize various marketing channels such as social media platforms, email newsletters, and your personal network to spread the word. Encourage others to share the event.
 
 :::tip
 In Seattle - we use the [Work on Climate Slack](workonclimate.org) and post in the #meet-seattle channel  
 :::
 
-## 4. Show Up
+## Show Up
 1. Beforehand, gather any required materials. Common materials are markers and name tags, and food.
 
 2. Arrive early on the event day to set up, address any last-minute concerns, and be ready to welcome attendees with organization and enthusiasm.
@@ -99,5 +92,5 @@ In Seattle - we use the [Work on Climate Slack](workonclimate.org) and post in t
 Take a big group photo!
 :::
 
-## 5. Share the Results!
+## Share the Results!
 After the event, utilize social media to share the highlights with those who attended and those who missed out. Sharing the results not only celebrates the success of the event but also encourages future engagement and participation.
