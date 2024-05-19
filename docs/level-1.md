@@ -213,7 +213,7 @@ Skip to:
 
 - [Core Communities](#core-communities)
 
-- [Skill Requirements](#skill-requirements)
+- [Skill Requirements](./career-guide.md#evaluate-your-skills-and-experience)
 :::
 ###
 
