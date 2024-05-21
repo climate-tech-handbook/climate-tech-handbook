@@ -22,8 +22,13 @@ Connect with [Lowell Bander](https://linkedin.com/in/lowellbander) if you need h
 
 When people see a group photo with friendly faces, they feel welcome.
 
-By hosting a Happy Hour, you are proving that a community exists and there are others like you who want to solve the climate crisis.
+By hosting a City Park event, you are proving that a community exists and there are others like you who want to solve the climate crisis.
 
+:::tip
+It doesn't have to be a park.
+
+[Here's an example of a bike ride](https://lu.ma/9wmgdncx)
+:::
 
 ## There are 5 steps
 

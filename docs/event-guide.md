@@ -115,7 +115,7 @@ This will take some work but it can be the most rewarding.
 - Climate Community Dinner ([Example - Soapbox Seattle](https://www.eventbrite.com/e/soapbox-seattle-climate-community-dinners-tickets-845064910897))
 - Speed networking - ([Example - Climate Mayhem / Indigo Slate](https://lu.ma/co.work-may2024))
 - Founders potluck
-- Outdoor excursion
+- Outdoor excursion ([bike ride example](https://lu.ma/9wmgdncx))
 - Film Festival
 - Weekend retreat
 - Pickleball
