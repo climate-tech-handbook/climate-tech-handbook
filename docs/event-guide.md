@@ -113,18 +113,68 @@ This will take some work but it can be the most rewarding.
 ## Want more ideas?
 
 - Climate Community Dinner ([Example - Soapbox Seattle](https://www.eventbrite.com/e/soapbox-seattle-climate-community-dinners-tickets-845064910897))
+
 - Speed networking - ([Example - Climate Mayhem / Indigo Slate](https://lu.ma/co.work-may2024))
+
 - Founders potluck
+<<<<<<< Updated upstream
 - Outdoor excursion ([bike ride example](https://lu.ma/9wmgdncx))
+=======
+
+- Outdoor excursion
+
+- Karaoke - ([Example - Cool Climate Collective / Pachamama Ventures](https://lu.ma/casual-climate-karaoke))
+
+>>>>>>> Stashed changes
 - Film Festival
+
 - Weekend retreat
+
 - Pickleball
 
-## Facilitation exercises
+## Facilitation / Ice Breakers
 
 - Interactive Q&A
+
 - Spectrum
+
 - The wind blows
+
+### Interactive Q&A
+
+Someone announces a question they have, for example, something about their job search.
+
+- Everyone who has the same question, moves to form a single "QUESTION LINE". 
+
+- Everyone who has an answer to share, moves to a second "ANSWER LINE" directly across the QUESTION LINE.
+
+- People from the ANSWER LINE take turns sharing their insightful answers to the QUESTION LINE
+
+### The Wind Blows
+
+This is designed for like-minded people to figure out who they want to connect with.
+
+- People take turns saying "The Wind Blows For _______" (then fill in the blank with something 
+about your identity).
+
+- For example: "The Wind Blows for the built environment" or "The Wind Blows for alternatives to 
+meat" or "The Wind Blows for forest tech"
+
+### Spectrum
+
+This is designed to spark conversation from a diverse set of perspectives.
+
+- The group designates a "spectrum" line that goes from one side of the room to the other
+
+- People will be standing on various points of the line, depending on their opinion about a certain topic
+
+- On one end of the line, you have the "Completely Agree" section, and on the opposite end, the "Completely Disagree" section.
+
+- Someone reads out an opinion statement and allows a few seconds for everyone to walk along the spectrum and stand where they feel best represents their own personal view
+
+An example opinion statement would be: "**selling carbon credits on the free market is the best way to incentivize emission reductions, compared to regulation like a carbon tax**"
+
+People then can share their view and elaborate on why they feel that way, based on where they stand along the spectrum.
 
 ---
 

@@ -12,6 +12,8 @@ This is an event guide for hosting a Climate Trivia Night.
 
 [Explore other event guides here](event-guide).
 
+**[Steal our Assets](#steal-our-assets)**
+
 
 :::expert Expert assistance
 Connect with [Jacob Caggiano](https://linkedin.com/in/jacobcaggiano) if you need help
@@ -23,27 +25,34 @@ Connect with [Jacob Caggiano](https://linkedin.com/in/jacobcaggiano) if you need
 
 - By forming teams with people who don't know each other, a shared bond emerges when trying to solve questions together.
 
+## Steal our Assets
 
-## There are 5 steps
+:::info Steal our assets!
+- [Here is a Question/Answer doc](https://docs.google.com/document/d/1ogwhL3Nl58cWYa9huKiK22fT2PcZ643FpIKJKK-7YJQ/edit?usp=sharing)
 
-:::note The 5 Steps
+- [Here is a collaboration doc](https://docs.google.com/document/d/1FYEpgfQfA04HfZodVXsQG9r3EhzLJcVDDDqyoD0Nftc/edit?usp=sharing) - between 3 Seattle Organizers
+
+_Go to File > Make a Copy_
+:::
+
+## There are 6 steps
+
+:::note The 6 Steps
 
 1. Find a partner
 
-2. Pick a Venue
+2. Pick a venue
 
 3. Prepare questions
 
-4. Create a Sharable Event
+4. Promote the event
 
-5. Share the Event
+5. Put on a show
 
-6. Put on a show
-
-7. Share the Results
+6. Share the results
 :::
 
-## 1. Find a partner
+## STEP ONE: Find a partner
 
 It's a lot easier with a partner. 
 
@@ -54,7 +63,7 @@ It's a lot easier with a partner.
 - The other person collects answers from the tables and tallies the score
 
 
-## 2. Pick a Venue
+## STEP TWO: Pick a Venue
 
 Make a list of potential venues.
 
@@ -92,7 +101,21 @@ The best way to pay for prizes is to **find a sponsor**.
 - Make your pitch in the company's interest by giving thanking them and allowing them to announce something before the panel starts.
 If a venue requires a reservation fee, you may have luck requesting a waiver in support of the climate change community.
 
-It's good to build a relationship with venues for future events.
+
+:::info Nuture your sponsors
+It's great to have a reliable sponsor for future events.
+
+If you nurture the relationship, other community organizers who need sponsors can benefit.
+
+This is a fantastic way to grow your local ecosystem
+:::
+
+### Prize ideas
+
+- Gift cards
+
+- Organic apple cider and chocolates
+
 
 ### Audio amplification
 
@@ -104,46 +127,44 @@ Find a bar that has hosted previous events with audio. For example:
 
 - Stand up comedy
 
-## 2. Prepare in advance
+## STEP THREE: Prepare questions
 
-### Coming up with questions
+### Question ideas and formats
 
 - **Balance difficulty** - not too easy and not too difficult
 
-- **Topics**
+- **Topics** - you can pick a central theme or try to mix it up. Some examples:
 
-- Use slides and multimedia
+  - [Climate Solutions](solutions) - e.g. Built Environment, Transportation, Agriculture
+  - Emission guess - e.g. "what has more emissions, cement or jet fuel?"
+  - Policies - name the legislation that opened up new funding and tax credits 
+
+- **Formats** - Use slides and multimedia. For example:
+
+  - Images: display a picture of a cute exotic animal and try to name them
+  - Sound: pay 30 seconds of a song related to nature and guess the name 
+  - Alphabet soup: solve the acronym (IPCC, CHIP, COP, IRA, BIL)
 
 
-:::info Steal our questions!
-[Here is the link]
-:::
 
-
-## 2. Create a Sharable Event
+## STEP FOUR: Create a Sharable Event
 Use a tool such as [Luma](https://lu.ma) to craft a sharable event. Ensure the climate theme and any other goals or activities are clear.
 
-## 3. Share the Event!
 Utilize various marketing channels such as social media platforms, email newsletters, and your personal network to spread the word. Encourage others to share the event.
 
 :::tip
 In Seattle - we use the [Work on Climate Slack](workonclimate.org) and post in the #meet-seattle channel  
 :::
 
-## 4. Show Up
+## STEP FIVE: Show Up
 1. Beforehand, gather any required materials. Common materials are markers and name tags.
 
 2. Arrive early on the event day to set up, address any last-minute concerns, and be ready to welcome attendees with organization and enthusiasm.
 
-### Prize ideas
-
-- Gift cards
-
-- Organic apple cider and chocolates
 
 :::info Remember
 Take a big group photo!
 :::
 
-## 5. Share the Results!
+## STEP SIX: Share the Results!
 After the event, utilize social media to share the highlights with those who attended and those who missed out. Sharing the results not only celebrates the success of the event but also encourages future engagement and participation.

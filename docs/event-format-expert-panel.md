@@ -12,9 +12,6 @@ This is an event guide for hosting a Climate Expert Panel.
 
 [Explore other event guides here](event-guide).
 
-<!-- :::book Example
-Here's a short writeup about the --x
-::: -->
 
 :::expert Expert assistance
 Connect with [Lowell Bander](https://linkedin.com/in/lowellbander) if you need help
@@ -26,6 +23,9 @@ Connect with [Lowell Bander](https://linkedin.com/in/lowellbander) if you need h
 
 - Help build valuable connections
 
+:::book Example
+[Here's a short writeup and video](https://www.linkedin.com/pulse/quick-takeaways-from-canary-medias-live-event-seattle-jacob-caggiano) from a panel in Seattle
+:::
 
 ## There are 5 steps
 
@@ -41,7 +41,7 @@ Connect with [Lowell Bander](https://linkedin.com/in/lowellbander) if you need h
 5. Share the Results
 :::
 
-## 1. Pick a Venue
+## STEP ONE: Pick a Venue
 
 Make a list of potential venues.
 
@@ -84,17 +84,17 @@ Catering ideas can be something simple like bahn mi sandwichies (include vegetar
 
 - Consider diversity - your panel should have various backgrounds, perspectives, and not be entirely men.
 
-## 2. Create a Sharable Event
+## STEP TWO: Create a Sharable Event
 Use a tool such as [Luma](https://lu.ma) to craft a sharable event. Ensure the climate theme and any other goals or activities are clear.
 
-## 3. Share the Event!
+## STEP THREE: Share the Event!
 Utilize various marketing channels such as social media platforms, email newsletters, and your personal network to spread the word. Encourage others to share the event.
 
 :::tip
 In Seattle - we use the [Work on Climate Slack](workonclimate.org) and post in the #meet-seattle channel  
 :::
 
-## 4. Show Up
+## STEP FOUR: Show Up
 1. Beforehand, gather any required materials. Common materials are markers and name tags.
 
 2. Arrive early on the event day to set up, address any last-minute concerns, and be ready to welcome attendees with organization and enthusiasm.
@@ -103,5 +103,5 @@ In Seattle - we use the [Work on Climate Slack](workonclimate.org) and post in t
 Take a big group photo!
 :::
 
-## 5. Share the Results!
+## STEP FIVE: Share the Results!
 After the event, utilize social media to share the highlights with those who attended and those who missed out. Sharing the results not only celebrates the success of the event but also encourages future engagement and participation.
