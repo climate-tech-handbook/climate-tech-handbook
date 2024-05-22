@@ -1,95 +1,57 @@
 ---
-title: Event Format - Happy Hour
+title: Event Format - Hackathon
 displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-![Climate Happy Hour group](/img/seattle-climate-tech-meetup.jpg)
+![People working at a hackathon](/img/hackathon.webp)
 
 ## What is this page?
 
-This is an event guide for hosting a Climate Happy Hour.
+This is an event guide for hosting a Climate Hackathon.
 
 [Explore other event guides here](event-guide).
 
-<!-- <div style={{ display: 'flex', flexWrap: 'wrap'}}>
-    <ImageCard
-    title="Go back to the full Event Oranizers Guide"
-    description="This page is one of several event guides available"
-    imageUrl="/img/women-in-climate-seattle.jpg"
-    linkUrl="/event-guide"
-    />
-</div> -->
 
 :::expert Expert assistance
-Connect with [Lowell Bander](https://linkedin.com/in/lowellbander) if you need help
+Connect with [Jacob Caggiano](https://linkedin.com/in/lowellbander) if you need help
 :::
 
-## Primary goal - demonstrate community
+## Primary goal - demonstrate new possibilities
 
-When people see a group photo with friendly faces, they feel welcome.
+- A hackathon can show what happens when a concept is taken to the next level
 
-By hosting a Happy Hour, you are proving that a community exists and there are others like you who want to solve the climate crisis.
+- It's great for job seekers who want to network and prove their talent
+
+- It's great for companies that want to share open data and make more use of it
 
 
-## There are 5 steps
+## Instructions
 
-:::note The 5 Steps
-1. Pick a Venue
+Read through the [The 10 Step Hackathon Guide](https://opensource.com/article/23/2/hackathon-guide) from opensource.com.
 
-2. Create a Sharable Event
+## Try a Virtual Hackathon
 
-3. Share the Event
+They are easier to organize:
 
-4. Show Up
+- No venue is required
 
-5. Share the Results
-:::
+- Attendees can show up from home
 
-## 1. Pick a Venue
+- Demos are easier and the audience can easily give feedback and participate over Zoom's chat function
 
-Make a list of potential venues.
+- Demos are simple to record and share after the event along with slides
 
-Consider:
+## Example: Bayou Energy
 
-- **Size** (not to small)
+[Bayou Energy](https://bayou.energy) is a startup that provides utility data through an API.
 
-- **Location** (easy to get to)
+They organized a [Utility Data Hackathon](https://blog.bayou.energy/blog/utility-data-hackathon-wrap-up-december-2023), which is a perfect fit.
 
-- **Amenities** (food on site, not too noisy)
+By opening up a valuable source of free data, participants could easily generate new innovative applications in a short period of time.
 
-:::tip
-As your list of venues grow, **Share It** for future reference with other organizers.
-:::
+Here is an example demo from the first place winner, "Grid Link", a robo advisor for Energy Markets.
 
-Should you call the venue?
+[See the rest of the hackathon demos and slides here](https://blog.bayou.energy/blog/utility-data-hackathon-wrap-up-december-2023).
 
-If your not expecting a large turnout and don't need a special area for your group, this may not be necessary.
-
-That said, it never hurts to inquire about making a reservation for your desired event date(s). 
-
-If a venue requires a reservation fee, you may have luck requesting a waiver in support of the climate change community.
-
-It's good to build a relationship with venues for future events.
-
-## 2. Create a Sharable Event
-Use a tool such as [Luma](https://lu.ma) to craft a sharable event. Ensure the climate theme and any other goals or activities are clear.
-
-## 3. Share the Event!
-Utilize various marketing channels such as social media platforms, email newsletters, and your personal network to spread the word. Encourage others to share the event.
-
-:::tip
-In Seattle - we use the [Work on Climate Slack](workonclimate.org) and post in the #meet-seattle channel  
-:::
-
-## 4. Show Up
-1. Beforehand, gather any required materials. Common materials are markers and name tags.
-
-2. Arrive early on the event day to set up, address any last-minute concerns, and be ready to welcome attendees with organization and enthusiasm.
-
-:::info Remember
-Take a big group photo!
-:::
-
-## 5. Share the Results!
-After the event, utilize social media to share the highlights with those who attended and those who missed out. Sharing the results not only celebrates the success of the event but also encourages future engagement and participation.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/imZK_xOeTSk?si=ico8iKm-exRYVWfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,16 +10,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 This is an event guide for hosting a Climate Happy Hour.
 
-[Explore other event guides here](event-guide).
-
-<!-- <div style={{ display: 'flex', flexWrap: 'wrap'}}>
-    <ImageCard
-    title="Go back to the full Event Oranizers Guide"
-    description="This page is one of several event guides available"
-    imageUrl="/img/women-in-climate-seattle.jpg"
-    linkUrl="/event-guide"
-    />
-</div> -->
+**[Explore other event guides here](event-guide).**
 
 :::expert Expert assistance
 Connect with [Lowell Bander](https://linkedin.com/in/lowellbander) if you need help
