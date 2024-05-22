@@ -117,15 +117,11 @@ This will take some work but it can be the most rewarding.
 - Speed networking - ([Example - Climate Mayhem / Indigo Slate](https://lu.ma/co.work-may2024))
 
 - Founders potluck
-<<<<<<< Updated upstream
-- Outdoor excursion ([bike ride example](https://lu.ma/9wmgdncx))
-=======
 
-- Outdoor excursion
+- Outdoor excursion ([bike ride example](https://lu.ma/9wmgdncx))
 
 - Karaoke - ([Example - Cool Climate Collective / Pachamama Ventures](https://lu.ma/casual-climate-karaoke))
 
->>>>>>> Stashed changes
 - Film Festival
 
 - Weekend retreat
