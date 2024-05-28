@@ -18,3 +18,12 @@ Currently, hydrofluorocarbons (HFCs) are the most commonly used refrigerant. Tho
 
 ## Progress Made
 
+TK
+
+## Challenges Ahead
+
+Several burgeoning technologies can improve how energy is supplied for refrigeration and for how it is implemented. However, there are drawbacks to each of these technologies–not the least of which many are new and experimental. They would need improvements to work, especially on a mass scale. 
+
+For example, absorption, a process that uses two fluids and heat input (rather than electricity) to produce a cooling effect, can use ammonia as one of its refrigerants. However, an absorption unit can overheat. Once this happens, the unit cannot be fixed and must be replaced. 
+
+Food retailers are currently reluctant to switch from systems that use HFCs to alternative refrigerants. They cite leakage and performance issues as problems as well as a rocky transition due to the Covid-19 pandemic. The pandemic created supply chain issues, and there is an increase in refrigeration demand along with quality control loss and technician shortages.
