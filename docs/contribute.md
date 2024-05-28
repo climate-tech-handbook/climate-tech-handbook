@@ -1,3 +1,8 @@
+---
+title: Contibuting.md
+displayed_sidebar: docSidebar
+---
+
 # Contribute
 
 This is your resource!
@@ -6,12 +11,6 @@ We can make it better together.
 
 ![Climate tech handbook team](../static/img/climate-tech-handbook-team-zoom.png)
 
-## Ways to contribute
-
-* Submit content
-* Improve our code and design
-* Financially support the project
-* Provide advice and expertise
 
 ## How to contribute
 

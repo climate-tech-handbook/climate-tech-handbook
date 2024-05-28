@@ -126,6 +126,8 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   display: flex;
   flex-direction: column;
   align-items: center;
+  
+  width: -moz-fit-content;
   width: fit-content;
 }
 
@@ -177,7 +179,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: white;
   text-decoration: none !important;
   color: #0054FB;
-  border: 2px solid #0054FB;
+  outline: 2px solid #0054FB;
 }
 
 .navbar__link:hover {
@@ -220,12 +222,8 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 
 @media screen and (max-width: 966px) {
-  .footer {
-    margin-top: 5rem;
-  }
-
   body {
-    background-color: white;
+    background-color: #EEEEEE; 
   }
 }
 

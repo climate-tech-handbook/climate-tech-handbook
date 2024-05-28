@@ -16,6 +16,19 @@
   max-width: 75vw;
   text-align: center;
 }
+.clock {
+  animation: openClock 2.5s;
+}
+
+@keyframes openClock {
+  0% {
+    display: none;
+  }
+
+  100% {
+    display: none;
+  }
+}
 
 .countdown {
   gap: 1rem;

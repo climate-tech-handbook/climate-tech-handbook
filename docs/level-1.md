@@ -213,7 +213,7 @@ Skip to:
 
 - [Core Communities](#core-communities)
 
-- [Skill Requirements](#skill-requirements)
+- [Skill Requirements](./career-guide.md#evaluate-your-skills-and-experience)
 :::
 ###
 
@@ -318,7 +318,7 @@ Here is Speed and Scale's [official OKR Tracker](https://speedandscale.com/track
 #### Which framework to use?
 :::
 
-Both are valuable and are not mutually exlusive.
+Both are valuable and are not mutually exclusive.
 
 Project Drawdown has some more granular solutions, while Speed and Scale has larger categories.
 
