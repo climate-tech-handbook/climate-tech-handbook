@@ -1,6 +1,7 @@
 ---
 title: Climate Lightning Talks
 hide_table_of_contents: false
+displayed_sidebar: docSidebar
 ---
 
 # Seattle Climate Lightning Talks
@@ -13,7 +14,7 @@ As part of [PNW Climate Week 2023](https://pnwclimateweek.org), the Handbook hos
 
 :::tip Links
 [Link to Slides](https://docs.google.com/presentation/d/1Oc0tDsuZSJp7bNwp7FhtjWg462LAzKKZxTGxOJNnj9c/edit) | [YouTube Playlist](https://www.youtube.com/watch?v=cGGT8nTTzqw&list=PL8LDuQz9b_8TGlTZPcAVyBH7VBu0xull8)
-:::tip
+:::
 
 ## We need a Climate Tech Handbook - Jacob Caggiano
 

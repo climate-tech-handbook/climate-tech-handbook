@@ -1,5 +1,6 @@
 ---
 visibility: hidden
+displayed_sidebar: docSidebar
 ---
 
 # Parking Lot

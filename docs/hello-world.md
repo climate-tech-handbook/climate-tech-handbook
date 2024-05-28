@@ -1,10 +1,11 @@
 ---
 date: 2023-01-31
-tags:
-  - launch
-  - software
-authors:
-  - alexmayberry
+tags: 
+ - launch
+ - software
+authors: 
+ - alexmayberry
+displayed_sidebar: docSidebar
 ---
 
 # Hello (Climate Tech Blogging) world!

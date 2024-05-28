@@ -1,5 +1,6 @@
 ---
 title: How to use the Handbook
+displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
