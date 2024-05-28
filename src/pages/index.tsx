@@ -81,11 +81,6 @@ export default function Home(): JSX.Element {
         </div>
 
         <div className={clsx(styles.homecardContainer)}>
-          <HomeCard
-            title="About Us"
-            linkUrl="/about"
-            icon="IoEarth"
-          />
             
           <HomeCard
             title="Courses"
@@ -98,6 +93,12 @@ export default function Home(): JSX.Element {
             linkUrl="/solutions"
             icon="MdWindPower"
           />
+          <HomeCard
+            title="About Us"
+            linkUrl="/about"
+            icon="IoEarth"
+          />
+          
         </div>
       </main>   
   
