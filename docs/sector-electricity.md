@@ -54,6 +54,7 @@ Connect with [Ahmad Faruqui](https://www.linkedin.com/in/ahmad-faruqui-0177b83/)
     description="Large-scale energy storage for storing excess renewable energy and meeting peak demand."
     imageUrl="/img/utility-scale-energy-storage.jpg"
     linkUrl="solution-utility-scale-energy-storage"
+    tag='storage'
   />
   <ImageCard
     title="Distributed Energy Storage"
