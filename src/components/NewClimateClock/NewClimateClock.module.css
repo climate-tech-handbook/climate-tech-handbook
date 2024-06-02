@@ -17,16 +17,14 @@
   text-align: center;
 }
 .clock {
-  animation: openClock 2.5s;
+  animation: openClock 3s;
 }
-
 @keyframes openClock {
   0% {
-    display: none;
-  }
-
-  100% {
-    display: none;
+      visibility: hidden;
+    }
+    100% {
+      visibility: hidden;
   }
 }
 
@@ -98,7 +96,10 @@
   }
 
   .clockMain {
-    block-size: fit-content;  
+   
+    block-size: -moz-fit-content; /* Add support for Firefox 41+ */
+    block-size: -webkit-fill-available; /* Add support for Samsung Internet 5.0+ */
+    block-size: fit-content;
     overflow: auto;
   }
 
