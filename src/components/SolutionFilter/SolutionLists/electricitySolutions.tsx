@@ -1,4 +1,5 @@
 // An array of objects containing electricity solutions image card information.
+// TODO - Create a new interface for Solution objects
 
 const electricitySolutions = [
     {

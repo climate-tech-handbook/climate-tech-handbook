@@ -10,6 +10,7 @@ interface CardProps {
     description: string;
     imageUrl: string;
     linkUrl: string;
+    tag?: any[];
 }
 
 const ImageCard: React.FC<CardProps> = ({
@@ -51,7 +52,7 @@ const ImageCard: React.FC<CardProps> = ({
                     > <AiOutlineArrowRight />
                     </Link>
                 </p>
-                
+
             </div>
         </div>
     )

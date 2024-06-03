@@ -4,8 +4,11 @@ import { Chip } from "@mui/material";
 
 const SolutionFilter: React.FC<{ solutions: any[] }> = ({ solutions }) => {
 
-    
+    const tags: string[] = []
 
+    const findTags = () => {
+        
+    }
 
 
     const renderSolutionGrid = () => {
