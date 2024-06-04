@@ -1,12 +1,14 @@
 import React, {useState} from "react";
 import ImageCard from "../ImageCard/ImageCard";
 import { Chip } from "@mui/material";
+//TODO - use MUI Stack to create container for chips
 
-
+//TODO - Create solution interface to include in solutions array for type checking
 const SolutionFilter: React.FC<{ solutions: any[] }> = ({ solutions }) => {
 
+    const [selectedTags, setSelectedTags] = useState<string[]>([]);
+
     const uniqueTags: string[] = [];
-    const selectedTags = new Set<string>();
 
     const findTags = () => {
         solutions.forEach((solution) => {
@@ -19,14 +21,17 @@ const SolutionFilter: React.FC<{ solutions: any[] }> = ({ solutions }) => {
     };
 
     //TODO - update tags function to add or remove tags from the selectedTags set - WORKS
-    const updateTags = (tag) => {
-        if (selectedTags.has(tag)) {
-            selectedTags.delete(tag);
+    const updateTags = (tag: string) => {
+        if (selectedTags.includes(tag)) {
+            setSelectedTags(selectedTags.filter((t) => t !== tag));
         } else {
-            selectedTags.add(tag);
+            setSelectedTags([...selectedTags, tag]);
         }
+        console.log(selectedTags);
     };
 
+
+    //TODO - conditionally style chips based on dynamic prop (determine which one) (classes?)
     const renderFilterChips = () => {
         findTags();
 
@@ -40,9 +45,22 @@ const SolutionFilter: React.FC<{ solutions: any[] }> = ({ solutions }) => {
         ));
     };
 
+    const renderFilteredGrid = () => {
+        const filteredSolutions = solutions.filter((solution) => {
+            return solution.tags.some((tag) => selectedTags.includes(tag));
+        });
 
-    //TODO - update grid function to filter solutions based on selected tags
-    const renderSolutionGrid = () => {
+        return filteredSolutions.map((solution) => (
+            <ImageCard
+                title={solution.title}
+                description={solution.description}
+                imageUrl={solution.imageUrl}
+                linkUrl={solution.linkUrl}
+            />
+        ));
+    };
+
+    const renderAllSolutions = () => {
         return solutions.map((solution) => (
             <ImageCard
                 title={solution.title}
@@ -59,9 +77,9 @@ const SolutionFilter: React.FC<{ solutions: any[] }> = ({ solutions }) => {
                 {renderFilterChips()}
             </div>
             <div className="solution-grid" style={{display:"flex", flexWrap:"wrap"}}>
-            {renderSolutionGrid()}</div>
+                {selectedTags.length ? renderFilteredGrid() : renderAllSolutions()}
+            </div>
         </div>
-
         )
 };
 
