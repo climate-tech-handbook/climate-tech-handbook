@@ -32,12 +32,12 @@ function escapeHTML(text) {
 }
 
 function parseExistingItems(content, summaryTitle) {
-  const regex = new RegExp(`(?<=<summary>${escapeHTML(summaryTitle)}</summary>[\\s\\S]*?<ul>)([\\s\\S]*?)(?=<\\/ul>)`, 'g');
+  const regex = new RegExp(`(?<=:::info ${escapeHTML(summaryTitle)}\\n)([\\s\\S]*?)(?=:::)`, 'g');
   const existingItemsMatch = content.match(regex);
   const existingItemsSet = new Set();
   if (existingItemsMatch) {
     existingItemsMatch.forEach(block => {
-      (block.match(/<li>[\s\S]*?<\/li>/g) || []).forEach(item => {
+      (block.match(/<a href="([^"]*)">[\s\S]*?<\/a>/g) || []).forEach(item => {
         const matchHref = item.match(/href="([^"]*)"/);
         if (matchHref) existingItemsSet.add(matchHref[1]);
       });
@@ -50,7 +50,7 @@ function addNewItems(existingItemsSet, newItems) {
   return newItems.filter(item => {
     const matchHref = item.match(/href="([^"]*)"/);
     return matchHref && !existingItemsSet.has(matchHref[1]);
-  }).map(item => `<li>${item}</li>`).join('');
+  }).map(item => `- ${item}`).join('\n');
 }
 
 function updateMarkdownFile(markdownFilePath, marker, summaryTitle, newItems) {
@@ -63,12 +63,12 @@ function updateMarkdownFile(markdownFilePath, marker, summaryTitle, newItems) {
         const existingItemsSet = parseExistingItems(content, summaryTitle);
         const itemsToAdd = addNewItems(existingItemsSet, newItems);
         if (itemsToAdd.length > 0) {
-          let blockToAdd = itemsToAdd.split('\n').map(item => `\n    ${item}`).join('');
-          let existingBlockRegex = new RegExp(`(${escapeHTML(summaryTitle)}[\\s\\S]*?<ul>)([\\s\\S]*?)(<\\/ul>)`, 'g');
+          let blockToAdd = itemsToAdd.split('\n').map(item => `\n${item}`).join('');
+          let existingBlockRegex = new RegExp(`(:::info ${escapeHTML(summaryTitle)}\\n)([\\s\\S]*?)(:::)`, 'g');
           if (existingBlockRegex.test(content)) {
-            content = content.replace(existingBlockRegex, `$1$2${blockToAdd}\n    $3`);
+            content = content.replace(existingBlockRegex, `$1$2${blockToAdd}\n$3`);
           } else {
-            blockToAdd = `<details>\n<summary>${summaryTitle}</summary>\n<div>\n    <ul>${blockToAdd}\n    </ul>\n</div>\n</details>\n\n`;
+            blockToAdd = `:::info ${summaryTitle}\n${blockToAdd}\n:::\n\n`;
             content = content.slice(0, index) + blockToAdd + content.slice(index);
           }
 
