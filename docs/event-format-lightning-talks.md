@@ -194,5 +194,5 @@ Take tons of photos:
 - A group photo with presenters and organizers together
 :::
 
-## 5. Share the Results!
+## STEP FIVE: Share the Results!
 After the event, utilize social media to share the highlights with those who attended and those who missed out. Sharing the results not only celebrates the success of the event but also encourages future engagement and participation.
