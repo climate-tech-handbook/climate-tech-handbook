@@ -8,45 +8,15 @@ pagination_prev: solutions
 
 _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-to-retrofit/)_
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://veerhousevoda.com">Veerhouse Voda</a></li>
-            
-                <li><a href="https://blokable.com">Blokable</a></li>
-            
-                <li><a href="https://dandelionenergy.com">Dandelion</a></li>
-            
-                <li><a href="https://75f.io">75f</a></li>
-            
-                <li><a href="https://hempitecture.com">Hempitecture</a></li>
-            
-                <li><a href="https://www.brainboxai.com/">Brainbox Ai</a></li>
-            
-                <li><a href="https://www.e8angels.com/">E8 Angels</a></li>
-            
-                <li><a href="https://carbicrete.com">Carbicrete</a></li>
-            
-                <li><a href="https://www.plantprefab.com/">Plant Prefab</a></li>
-            
-                <li><a href="https://katerra.com">Katerra</a></li>
-            
-                <li><a href="https://soletairpower.fi">Soletair Power</a></li>
-            
-                <li><a href="https://warminguptoclimatetech.substack.com">Warming Up To Climate Tech</a></li>
-            
-                <li><a href="https://renewpower.in">Renew Power</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Building+Retrofitting)
+:::
+
+:::book Resources
+
+- <li><a href="https://climatedrift.substack.com/p/a-look-at-building-companies">A Look at Building Companies - Climate Drift</a></li>
+- <li><a href="https://www.climatetechdistillery.com/p/27-retrofitting">Retrofitting - Climate Tech Distillery</a></li>
 :::
 
 ## Overview
