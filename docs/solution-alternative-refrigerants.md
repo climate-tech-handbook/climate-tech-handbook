@@ -4,65 +4,30 @@ displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
 ![Cover Image](../static/img/co2-refrigeration.jpg)
+#
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://DyeCoo.com">Dyecoo</a></li>
-            
-                <li><a href="https://ccccx.net">C4x Green Carbon</a></li>
-            
-                <li><a href="https://www.c16bio.com/">C16 Biosciences</a></li>
-            
-                <li><a href="https://arviatechnology.com">Arvia Technology</a></li>
-            
-                <li><a href="https://atomocoffee.com">Atomo Molecular Coffee</a></li>
-            
-                <li><a href="https://www.solugentech.com/">Solugen</a></li>
-            
-                <li><a href="https://nan">Ecoware</a></li>
-            
-            </ul>
-        </div>
-        </details>
+# Alternative Refrigerants
 
 
-:::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Refrigerants)
-:::
+
+
+Refrigerants are a major contributor to greenhouse gases. This article outlines the changes companies are making to both move to greener alternatives to refrigerate our food, homes, and businesses. Honeywell International, Diakin Industries, and more are helping the world move to greener systems.
 
 ## Overview
 
-* **Alternative Refrigerants**: Significant progress in developing environmentally-friendly alternatives such as CO2 and ammonia (NH3).
-* **Benefits of CO2 & NH3**: Both are naturally occurring, non-toxic, non-flammable, and ozone-friendly.
-* **Industry Leaders**: Daikin Industries (Japanese) and Honeywell International (American) are pioneering in CO2 and NH3-based refrigerant systems.
+As the earth warms, air conditioning is becoming more of a necessity to combat heat waves. But the refrigerants used in home, commercial, industrial, and transportation air conditioning systems are a major contributor to global warming. Refrigerants are also used in refrigerators and in units that transport food to keep it cold. They're even used as solvents and in fire protection. 
+
+Currently, hydrofluorocarbons (HFCs) are the most commonly used refrigerant. Though they last only 15 years or less in the atmosphere, they are a major cause of greenhouse gas. The most commonly used HFCs have a capacity 3,000 times greater than carbon dioxide (CO2) to warm the atmosphere. As more people use air conditioning to battle the heat, the more HFCs will be used. The use of refrigerants is expected to grow by 10-15% per year. 
 
 ## Progress Made
 
-* **CO2 Refrigeration**: Low GWP, non-toxic, and non-flammable. Already in use in commercial and industrial sectors.
-* **NH3 Refrigeration**: Similar advantages as CO2 and growing in application.
-* **Man-made Gases**: HFCs, HCFCs, and FCs, all with high GWP, are being phased out under the Montreal Protocol.
-
-## Lessons Learned
-
-* **Low GWP Preference**: Refrigerants with lower GWP have been more successful.
-* **Safety Concerns**: Flammable refrigerants have had safety issues; ammonia has associated health risks; carbon dioxide also has safety concerns.
-* **Top Advocates**: United Nations Environment Programme (UNEP), International Institute for Sustainable Development (IISD), World Bank, and International Energy Agency (IEA) lead in advocating and implementing alternative refrigerants.
+New refrigerants, commonly referred to as A2L refrigerants for their low toxicity and less flammable properties, are on the horizon. The Environmental Protection Agency (EPA) will require HVAC systems and heat pumps manufactured after January 1, 2025 use A2L refrigerants. Companies all over the United States are preparing for the change.
 
 ## Challenges Ahead
 
-* **High Initial Costs**: A significant barrier for many potential adopters.
-* **Infrastructure Lacking**: The absence of a robust infrastructure to support alternative refrigerants hinders their adoption.
-* **Awareness Issues**: General unawareness among individuals and organizations can limit the uptake of these alternatives.
+Several burgeoning technologies can improve how energy is supplied for refrigeration and for how it is implemented. However, there are drawbacks to each of these technologies–not the least of which many are new and experimental. They would need improvements to work, especially on a mass scale. 
 
-## Best Path Forward
+For example, absorption, a process that uses two fluids and heat input (rather than electricity) to produce a cooling effect, can use ammonia as one of its refrigerants. However, an absorption unit can overheat. Once this happens, the unit cannot be fixed and must be replaced. 
 
-* **R&D Investments**: Pour more resources into refining and making the technology more cost-efficient.
-* **Public Education**: Raise awareness about the benefits of alternative refrigerants.
-* **Incentives for Businesses**: Provide benefits to businesses that switch to alternative refrigerants.
-* **Industry Giants' Role**: Companies like Honeywell, DuPont, and Chemours should continue their pioneering work, share insights, and drive industry standards.
-
-*Image from [ES Magazine](https://www.esmagazine.com/articles/101759-tracking-the-evolution-of-industrial-refrigerants)*
+Food retailers are currently reluctant to switch from systems that use HFCs to alternative refrigerants. They cite leakage and performance issues as problems as well as a rocky transition due to the Covid-19 pandemic. The pandemic created supply chain issues, and there is an increase in refrigeration demand along with quality control loss and technician shortages.
