@@ -3,14 +3,14 @@ title: Alternative Refrigerants
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
-![Cover Image](../static/img/co2-refrigeration.jpg)
-
-
-:::company
-#### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Refrigerants)
-:::
 
 Refrigerants are a major contributor to greenhouse gases. This article outlines the changes companies are making to both move to greener alternatives to refrigerate our food, homes, and businesses. Honeywell International, Diakin Industries, and more are helping the world move to greener systems.
+
+![Cover Image](../static/img/co2-refrigeration.jpg)
+
+:::company Jobs
+#### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Refrigerants)
+:::
 
 ## Overview
 
