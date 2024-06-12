@@ -8,6 +8,10 @@ pagination_prev: solutions
 
 # Alternative Refrigerants
 
+
+  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Refrigerants)
+
+
 Refrigerants are a major contributor to greenhouse gases. This article outlines the changes companies are making to both move to greener alternatives to refrigerate our food, homes, and businesses. Honeywell International, Diakin Industries, and more are helping the world move to greener systems.
 
 ## Overview
@@ -18,7 +22,7 @@ Currently, hydrofluorocarbons (HFCs) are the most commonly used refrigerant. Tho
 
 ## Progress Made
 
-TK
+New refrigerants, commonly referred to as A2L refrigerants for their low toxicity and less flammable properties, are on the horizon. The Environmental Protection Agency (EPA) will require HVAC systems and heat pumps manufactured after January 1, 2025 use A2L refrigerants. Companies all over the United States are preparing for the change.
 
 ## Challenges Ahead
 
