@@ -17,7 +17,7 @@
   text-align: center;
 }
 .clock {
-  animation: openClock 3s;
+  animation: openClock 2.5s;
 }
 @keyframes openClock {
   0% {
