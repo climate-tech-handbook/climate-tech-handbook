@@ -10,7 +10,7 @@ interface CardProps {
     description: string;
     imageUrl: string;
     linkUrl: string;
-    tag?: any[];
+    tags?: any[];
 }
 
 const ImageCard: React.FC<CardProps> = ({
