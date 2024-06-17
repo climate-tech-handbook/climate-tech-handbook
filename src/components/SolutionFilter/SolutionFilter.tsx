@@ -1,15 +1,17 @@
 import React, {useState} from "react";
 import ImageCard from "../ImageCard/ImageCard";
 import { Chip } from "@mui/material";
+import cslx from "clsx";
+import styles from "./SolutionFilter.module.css";
 //TODO - use MUI Stack to create container for chips
 
-//TODO - Create solution interface to include in solutions array for type checking
+//TODO - Create solution interface to include in solutions array for type checking?
 const SolutionFilter: React.FC<{ solutions: any[] }> = ({ solutions }) => {
 
     const [selectedTags, setSelectedTags] = useState<string[]>([]);
-
     const uniqueTags: string[] = [];
 
+    // Finds all unique tags in the solutions array.
     const findTags = () => {
         solutions.forEach((solution) => {
             solution.tags.forEach((tag: string) => {
@@ -20,31 +22,37 @@ const SolutionFilter: React.FC<{ solutions: any[] }> = ({ solutions }) => {
         });
     };
 
-    //TODO - update tags function to add or remove tags from the selectedTags set - WORKS
+    // Updates the selected tags based on the tag that was clicked.
     const updateTags = (tag: string) => {
         if (selectedTags.includes(tag)) {
             setSelectedTags(selectedTags.filter((t) => t !== tag));
         } else {
             setSelectedTags([...selectedTags, tag]);
         }
-        console.log(selectedTags);
     };
 
-
-    //TODO - conditionally style chips based on dynamic prop (determine which one) (classes?)
+    // Renders all of the menu options based on the passed in solutions.
     const renderFilterChips = () => {
         findTags();
-
         return uniqueTags.map((tag) => (
             <Chip
-                label={tag}
+                label={tag[0].toUpperCase() + tag.slice(1)}
                 onClick={() => {
                     updateTags(tag);
+                }}
+                color={selectedTags.includes(tag) ? "success" : "default"}
+                className={cslx(styles.solutionFilterChip)}
+                sx={{
+                    fontSize: "14px",
+                    width: "100%",
+                    height: "37px",
+                    borderRadius: "10px",
                 }}
             />
         ));
     };
 
+    // Renders the grid of solutions based on the selectedTags array.
     const renderFilteredGrid = () => {
         const filteredSolutions = solutions.filter((solution) => {
             return solution.tags.some((tag) => selectedTags.includes(tag));
@@ -60,6 +68,7 @@ const SolutionFilter: React.FC<{ solutions: any[] }> = ({ solutions }) => {
         ));
     };
 
+    // Renders all of the solutions in the solutions array.
     const renderAllSolutions = () => {
         return solutions.map((solution) => (
             <ImageCard
@@ -73,10 +82,10 @@ const SolutionFilter: React.FC<{ solutions: any[] }> = ({ solutions }) => {
 
     return (
         <div>
-            <div>
+            <div className={cslx(styles.solutionFilterMenu)}>
                 {renderFilterChips()}
             </div>
-            <div className="solution-grid" style={{display:"flex", flexWrap:"wrap"}}>
+            <div style={{display:"flex", flexWrap:"wrap"}}>
                 {selectedTags.length ? renderFilteredGrid() : renderAllSolutions()}
             </div>
         </div>

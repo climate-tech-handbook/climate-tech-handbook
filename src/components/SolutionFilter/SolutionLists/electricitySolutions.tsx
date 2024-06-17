@@ -1,6 +1,6 @@
-// An array of objects containing electricity solutions image card information.
 // TODO - Create a new interface for Solution objects
 
+// An array of objects containing electricity solutions image card information.
 const electricitySolutions = [
     {
         title: "Utility-Scale Energy Storage",
