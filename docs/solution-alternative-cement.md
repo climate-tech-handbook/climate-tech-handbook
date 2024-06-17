@@ -17,36 +17,17 @@ pagination_prev: solutions
   allow="autoplay; fullscreen"
 ></iframe>
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://li.me">Lime</a></li>
-            
-                <li><a href="https://novacem.com">Novacem</a></li>
-            
-                <li><a href="https://carbonupcycling.com">Carbon Upcycling</a></li>
-            
-                <li><a href="https://www.opus-12.com">Opus 12</a></li>
-            
-                <li><a href="https://carboncure.com">Carboncure</a></li>
-            
-                <li><a href="https://watershedmaterials.com/">Watershed</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Cement)
 :::
 
-:::info Resources 
+:::book Resources 
 - [A Look at Industry](https://climatedrift.substack.com/p/a-look-at-industry) - Climate Drift
 - [Carbon-Neutral Cement: Decarbonizing the main building material to eliminate 8% of global CO2 emissions](https://www.climatetechdistillery.com/p/carbon-neutral-cement) - Climate Tech Distillery
+- <li><a href="https://climatedrift.substack.com/p/a-look-at-industry">A Look at Industry</a></li>
+- <li><a href="https://www.climatetechdistillery.com/p/carbon-neutral-cement">#04 Carbon-Neutral Cement</a></li>
+- <li><a href="https://warminguptoclimatetech.substack.com/p/reducing-industrial-emissions-steel-cement">Reducing Industrial Emissions: Steel and Cement</a></li>
 :::
 
 ## Overview
