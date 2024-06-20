@@ -96,24 +96,25 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 @media (max-width: 1100px) {
   .navbar__item {
-   font-size: .7rem;
+   font-size: .9rem;
+   margin-inline:-.6rem;
   }
 }
 @media (min-width: 1280px) {
   .navbar__item {
-   font-size: 1.7rem;
+   font-size: 1.5rem;
   }
 }
 @media (min-width: 1500px) {
   .navbar__item {
    margin-inline: 2rem;
-   font-size: 1.2rem;
+   font-size: 1.7rem;
   }
 }
 @media (min-width: 1800px) {
   .navbar__item {
    margin-inline: 4rem;
-   font-size:1.4rem ;
+   font-size:1.7rem ;
   }
 }
 
