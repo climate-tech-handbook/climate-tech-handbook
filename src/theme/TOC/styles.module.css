@@ -3,7 +3,7 @@
   overflow-y: auto;
   position: sticky;
   top: calc(var(--ifm-navbar-height) + 1rem);
-   
+ 
 }
 
 @media (max-width: 996px) {

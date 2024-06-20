@@ -34,6 +34,7 @@ export default function TOCItems({
   useTOCHighlight(tocHighlightConfig);
 
   return (
+    <div style={{border: '2px solid black'}}>
     <TOCItemTree
       toc={tocTree}
       className={className}
@@ -42,5 +43,6 @@ export default function TOCItems({
       collapsed={collapsed}
       {...props}
     />
+    </div>
   );
 }
