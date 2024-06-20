@@ -215,6 +215,16 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   outline: 2px solid #0054FB;
 }
 
+@media screen and (max-width: 593px) {
+  .contribute-button {
+    display: none;
+  }
+}
+@media screen and (max-width: 996px) {
+  .contribute-button {
+    margin-right: 12rem;
+  }
+}
 .navbar__link:hover {
   transition: ease-in-out 0.25s;
   text-decoration: underline;
