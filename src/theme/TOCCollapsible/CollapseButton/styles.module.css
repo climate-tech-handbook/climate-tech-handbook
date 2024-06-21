@@ -21,8 +21,25 @@
 .tocCollapsibleButtonExpanded::after {
   transform: none;
 }
+.tocSpan {
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: var(--ifm-menu-link-color);
+  
 
+}
+.tocSpan:hover{
+  
+  color:#8dba80 ;
 
+}
+.tocLeft {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
 @media screen and (max-width: 996px){
   .tocCollapsibleButton {
     height: 3rem;
