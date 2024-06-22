@@ -306,3 +306,10 @@ details > div > div {
     width: 100%;
   }
 }
+@media screen and (max-width: 560px) {
+  .iframe-Hackathon { 
+    width: 100%;
+    height: 100%;
+  }
+}
+
