@@ -40,13 +40,16 @@ const SolutionFilter: React.FC<{ solutions: any[] }> = ({ solutions }) => {
                 onClick={() => {
                     updateTags(tag);
                 }}
-                color={selectedTags.includes(tag) ? "success" : "default"}
                 className={cslx(styles.solutionFilterChip)}
                 sx={{
                     fontSize: "14px",
                     width: "100%",
                     height: "37px",
+                    fontWeight:"500",
                     borderRadius: "10px",
+                    color: selectedTags.includes(tag) ? "#FFF4F3" : "#AF1107",
+                    backgroundColor: selectedTags.includes(tag) ? "#AF1107" : "#FFF4F3",
+                    border: "1px solid #AF1107",
                 }}
             />
         ));
