@@ -6,6 +6,25 @@ pagination_prev: solutions
 
 ![Cement Factory](../static/img/cement-factory.jpg)
 
+:::company job openings
+  ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Cement)
+  #### Example Companies
+  - [Terra CO2 Technologies](https://terraco2.com/)
+  - [Brimstone](https://www.brimstone.energy/)
+  - [CarbonBuilt](https://carbonbuilt.com/)
+  - [Sublime Systems](https://sublime-systems.com/)
+  - [Fortera](https://forteraglobal.com/)
+  - [Prometheus Materials](https://prometheusmaterials.com/home/)
+:::
+## Deeper Dive
+:::book Resources 
+- [A Look at Industry](https://climatedrift.substack.com/p/a-look-at-industry) - Climate Drift
+- [Carbon-Neutral Cement: Decarbonizing the main building material to eliminate 8% of global CO2 emissions](https://www.climatetechdistillery.com/p/carbon-neutral-cement) - Climate Tech Distillery
+- <li><a href="https://www.climatetechdistillery.com/p/carbon-neutral-cement">#04 Carbon-Neutral Cement</a></li>
+- <li><a href="https://warminguptoclimatetech.substack.com/p/reducing-industrial-emissions-steel-cement">Reducing Industrial Emissions: Steel and Cement</a></li>
+:::
+
+:::podcast MCJ Podcast Episode
 <iframe
   height="100px"
   width="100%"
@@ -16,23 +35,21 @@ pagination_prev: solutions
   data-embed="true"
   allow="autoplay; fullscreen"
 ></iframe>
-
-
-:::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Cement)
-:::
-
-:::book Resources 
-- [A Look at Industry](https://climatedrift.substack.com/p/a-look-at-industry) - Climate Drift
-- [Carbon-Neutral Cement: Decarbonizing the main building material to eliminate 8% of global CO2 emissions](https://www.climatetechdistillery.com/p/carbon-neutral-cement) - Climate Tech Distillery
-- <li><a href="https://climatedrift.substack.com/p/a-look-at-industry">A Look at Industry</a></li>
-- <li><a href="https://www.climatetechdistillery.com/p/carbon-neutral-cement">#04 Carbon-Neutral Cement</a></li>
-- <li><a href="https://warminguptoclimatetech.substack.com/p/reducing-industrial-emissions-steel-cement">Reducing Industrial Emissions: Steel and Cement</a></li>
+<!--         <details>
+        <summary>List of companies working in this solution...</summary>
+        <div>
+            <ul>
+                <li><a href="https://kickstarter.com/projects/karmi…">Karmic Bikes</a></li>
+                            <li><a href="https://ojoelectric.com">Ojo</a></li>
+            </ul>
+        </div>
+        </details> -->
+<!-- _View list of all podcast episodes_ -->
 :::
 
 ## Overview
 
-The progress that has been made in developing Alternative Cement to reverse climate change is significant. New technologies have been developed that have contributed to the reduction of greenhouse gas emissions. These technologies include:
+The progress that has been made in developing Alternative Cement to reverse climate change is significant. New technologies being developed include:
 
 - Carbon capture and storage: This technology captures carbon dioxide emissions from cement production and stores them underground, preventing them from entering the atmosphere.
 
@@ -101,7 +118,6 @@ The best path forward for the continued development and implementation of Altern
 Some companies and organizations that have been at the forefront of this solution include the CarbonCure Technologies, the International Energy Agency, and the World Bank.
 
 ---
-displayedSidebar: docSidebar
 
 Photo by <a href="https://unsplash.com/@worldsbetweenlines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Hendry</a> on <a href="https://unsplash.com/photos/6xeDIZgoPaw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
