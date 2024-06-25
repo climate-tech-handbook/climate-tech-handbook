@@ -27,17 +27,17 @@ module.exports = {
         {
           type: 'doc',
           id: 'level-1',
-          label: 'Level 1',
+          label: 'Course Level 1',
         },
         {
           type: 'doc',
           id: 'level-2',
-          label: 'Level 2',
+          label: 'Course Level 2',
         },
         {
           type: 'doc',
           id: 'level-3',
-          label: 'Level 3',
+          label: 'Course Level 3',
         },
       ],
     },
