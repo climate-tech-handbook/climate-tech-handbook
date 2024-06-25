@@ -54,4 +54,4 @@ Here is an example demo from the first place winner, "Grid Link", a robo advisor
 
 [See the rest of the hackathon demos and slides here](https://blog.bayou.energy/blog/utility-data-hackathon-wrap-up-december-2023).
 
-<iframe class='iframe-Hackathon'  width="560" height="315" src="https://www.youtube.com/embed/imZK_xOeTSk?si=ico8iKm-exRYVWfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe    width="560" height="315" src="https://www.youtube.com/embed/imZK_xOeTSk?si=ico8iKm-exRYVWfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
