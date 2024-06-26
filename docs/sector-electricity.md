@@ -3,6 +3,8 @@ title: Electricity
 displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
+import SolutionFilter from '../src/components/SolutionFilter/SolutionFilter';
+import electricitySolutions from '../src/components/SolutionFilter/SolutionLists/electricitySolutions';
 
 ## Sector Overview
 
@@ -58,7 +60,12 @@ In addition to scaling new technologies, there are unique challenges such as:
 
 ## Solutions in this Sector
 
-<div style={{ display: 'flex', flexWrap: 'wrap' }}>
+<SolutionFilter
+  solutions= {electricitySolutions}
+/>
+
+<!-- Old Solutions Format -->
+<!-- <div style={{ display: 'flex', flexWrap: 'wrap' }}>
   <ImageCard
     title="Utility-Scale Energy Storage"
     description="Large-scale energy storage for storing excess renewable energy and meeting peak demand."
@@ -279,7 +286,7 @@ In addition to scaling new technologies, there are unique challenges such as:
     linkUrl="../solution-onshore-wind-turbines"
   />
 
-</div>
+</div> -->
 
 - - -
 
