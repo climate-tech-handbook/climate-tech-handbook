@@ -11,22 +11,12 @@
   padding: 1.25rem 2.5rem;
   position: absolute;
   top: -5rem;
-  text-align-last: center;
+  text-align:center;
   width: 100%;
   max-width: 75vw;
   text-align: center;
 }
-.clock {
-  animation: openClock 2.5s;
-}
-@keyframes openClock {
-  0% {
-      visibility: hidden;
-    }
-    100% {
-      visibility: hidden;
-  }
-}
+
 
 .countdown {
   gap: 1rem;
