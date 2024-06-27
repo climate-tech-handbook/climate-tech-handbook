@@ -102,21 +102,11 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 }
 @media (min-width: 1280px) {
   .navbar__item {
-   font-size: 1.5rem;
+   font-size: 1.2rem;
   }
 }
-@media (min-width: 1500px) {
-  .navbar__item {
-   margin-inline: 2rem;
-   font-size: 1.5rem;
-  }
-}
-@media (min-width: 1800px) {
-  .navbar__item {
-   margin-inline: 4rem;
-   font-size:1.5rem ;
-  }
-}
+
+
 
 
 .navbar__brand {
