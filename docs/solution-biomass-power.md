@@ -3,10 +3,9 @@ title: Biomass Power
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
-
 ![Cover Image](../static/img/biomass-power-plant.jpg)
 
-_SICET, Biomass power plant in Ospitale di Cadore, Italy._
+*SICET, Biomass power plant in Ospitale di Cadore, Italy.*
 
 <details>
         <summary>List of companies working in this solution...</summary>
@@ -24,9 +23,10 @@ _SICET, Biomass power plant in Ospitale di Cadore, Italy._
         </div>
         </details>
 
-
 :::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biomass+Power)
+
+#### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biomass+Power)
+
 :::
 
 ## Overview
@@ -35,8 +35,8 @@ Significant strides have been made in **developing biomass power** over the last
 
 ## Progress Made
 
-- Development of breakthrough technologies like **cellulosic ethanol** and **algae-based biofuels**.
-- **Interface, Inc.** and **Novozymes**: Pioneers in scalable biomass power solutions.
+* Development of breakthrough technologies like **cellulosic ethanol** and **algae-based biofuels**.
+* **Interface, Inc.** and **Novozymes**: Pioneers in scalable biomass power solutions.
 
 ## Lessons Learned
 
@@ -48,9 +48,9 @@ Significant strides have been made in **developing biomass power** over the last
 
 ## Challenges Ahead
 
-- **Higher cost** compared to traditional fossil fuels.
-- **Limited infrastructure** for biomass power.
-- Need for **further research** to enhance biomass power efficiency.
+* **Higher cost** compared to traditional fossil fuels.
+* **Limited infrastructure** for biomass power.
+* Need for **further research** to enhance biomass power efficiency.
 
 Leading contributors in biomass power development include:
 
@@ -74,3 +74,7 @@ Continued advancement of **Biomass Power** to counteract climate change requires
 3. Ensuring **affordability** of the technology.
 
 Leading entities in this endeavor include **Green Mountain Power**, **Enviva**, **Poet**, and **Abengoa**.
+
+
+
+Demo
