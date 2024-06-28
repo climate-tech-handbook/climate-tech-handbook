@@ -2,14 +2,20 @@
 title: 🕹️ Level 1
 displayed_sidebar: docSidebar
 pagination_label: 🕹️ Level 1
+caption: the caption that should show up beneath the image
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 import sslogo from '/img/speed-and-scale-logo.jpg';
 import ddlogo from '../static/img/project-drawdown-logo.png';
 import cthlogo from '/img/main/cth-earth-logo.png';
 
+<!-- ---
+caption: "Level One Mario"
+--- -->
 ![video game pic](/img/climate-tech-level-1-mario.jpg)
-
+<!-- ![Level One Mario](/img/climate-tech-level-1-mario.jpg) -->
+<!-- Jacob's idea, results in error of 'could not parse expression with acorn: -->
+<!-- ![video game pic{caption="caption that explains the pic"}](/img/climate-tech-level-1-mario.jpg) -->
 
 
 ## ⛳️ Introduction to Level 1

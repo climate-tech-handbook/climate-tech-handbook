@@ -4,6 +4,15 @@ const darkCodeTheme = themes.dracula;
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
+// Define the function to generate image with caption
+const generateImageWithCaption = (src, alt, caption) => {
+  return `
+    <figure>
+      <img src="${src}" alt="${alt}" />
+      <figcaption>${caption}</figcaption>
+    </figure>
+  `;
+};
 (
   module.exports = {
     title: "The Climate Tech Handbook",
@@ -72,6 +81,22 @@ const darkCodeTheme = themes.dracula;
         //     dark: 'rgb(50, 50, 50)'
         //     },
         // },
+        customMarkdown: (md) => {
+          md.renderer.rules.image = (tokens, idx, options, env, self) => {
+            const token = tokens[idx];
+            const srcIndex = token.attrIndex('src');
+            const altIndex = token.attrIndex('alt');
+            const src = token.attrs[srcIndex][1];
+            const alt = token.attrs[altIndex][1];
+    
+            // Check if there's a caption in the frontmatter
+            const frontMatter = token.meta.frontMatter;
+            const caption = frontMatter && frontMatter.caption ? frontMatter.caption : '';
+    
+            // Generate the image with caption
+            return generateImageWithCaption(src, alt, caption);
+          };
+        },
         navbar: {
           // title: "Climate Tech Handbook",
           logo: {
