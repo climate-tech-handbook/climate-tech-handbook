@@ -20,7 +20,7 @@ As part of [PNW Climate Week 2023](https://pnwclimateweek.org), the Handbook hos
 
 Watch climate anxiety turn into...😮 climate positivity !?
 
-<iframe   width="560" height="315" src="https://www.youtube-nocookie.com/embed/cGGT8nTTzqw?si=bfK_TXqcRDgyhuv_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cGGT8nTTzqw?si=bfK_TXqcRDgyhuv_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 ## Climate Risk and Policy - Sam Shugart
 
@@ -28,7 +28,7 @@ Our climate is changing - why aren't we?
 
 Sam Shugart lays down years of graduate level policy research into a 5 minute distillation.
 
-<iframe   width="560" height="315" src="https://www.youtube-nocookie.com/embed/_TptvxMf31A?si=1jTlKjxSCU64XgFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_TptvxMf31A?si=1jTlKjxSCU64XgFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 
 ## How can micro-organisms help us solve macro-problems? - Erin Wilson, PhD
@@ -42,7 +42,7 @@ Are we ready to harvest the incredible power of **methane eating bacteria** and 
 
 Big businesses like Amazon can afford to go electric, but how do small and medium sized fleets Start Learning?
 
-<iframe   width="560" height="315" src="https://www.youtube-nocookie.com/embed/dfmFU57anAA?si=tskqvh9Uev3Cxh8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dfmFU57anAA?si=tskqvh9Uev3Cxh8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 
 ## Fermented Proteins are Almost Ready - Larry D Gussin
@@ -58,7 +58,7 @@ What other options do we have?
 
 Reducing the toll of food waste is the number one action the world can take to reduce greenhouse pollution.
 
-<iframe   width="560" height="315" src="https://www.youtube-nocookie.com/embed/00ohRL6QUsY?si=0xDvU7dpyJIaZLXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/00ohRL6QUsY?si=0xDvU7dpyJIaZLXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 ## Escape the Chamber: Why pro-climate companies should leave the coal stained armpit also known as the US Chamber of Commerce and lead on climate policy - Drew Wilkinson
 
@@ -73,7 +73,7 @@ A Scooby Doo investigation into misleading tactics by large corporations who pre
 
 Why? So they don't have to update their building standards and deal with local legislation,  which would force them to do their part in solving climate pollution.
 
-<iframe   width="560" height="315" src="https://www.youtube-nocookie.com/embed/mXdaOrNeA_0?si=MmR3Tqwa7zoevqOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mXdaOrNeA_0?si=MmR3Tqwa7zoevqOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 Public civic data for the win!
 
