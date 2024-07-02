@@ -73,11 +73,13 @@ const darkCodeTheme = themes.dracula;
         //     },
         // },
         navbar: {
+          
           // title: "Climate Tech Handbook",
           logo: {
             alt: "CTH Earth Logo",
             src: "img/main/cth-earth-logo.png",
           },
+          
           items: [
             {
               type: "doc",

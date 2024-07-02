@@ -72,19 +72,42 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   display: flex;
   align-items: center; /* Center vertically */
   justify-content: center; /* Center horizontally */
+  margin-bottom: 0;
+  
 }
 
 .navbar__logo {
   height: 3rem;
 }
-
+ 
 .navbar__item {
   font-family: 'Lato', sans-serif;
   color: #2A2C2D;
-  font-size: 1.1rem;
   font-weight: 600;
+  
   padding: 0px 30px;
+  
+ }
+ @media (max-width: 996px) {
+  .navbar__item {
+    display: none;
+   
+  }
 }
+@media (max-width: 1100px) {
+  .navbar__item {
+   font-size: .9rem;
+   margin-inline:-.6rem;
+  }
+}
+@media (min-width: 1280px) {
+  .navbar__item {
+   font-size: 1.2rem;
+  }
+}
+
+
+
 
 .navbar__brand {
   color: var(--ifm-color-primary);
@@ -182,6 +205,16 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   outline: 2px solid #0054FB;
 }
 
+@media screen and (max-width: 593px) {
+  .contribute-button {
+    display: none;
+  }
+}
+@media screen and (max-width: 996px) {
+  .contribute-button {
+    margin-right: 12rem;
+  }
+}
 .navbar__link:hover {
   transition: ease-in-out 0.25s;
   text-decoration: underline;
@@ -194,11 +227,7 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   color: #26282A;
 }
 
-@media (max-width: 1100px) {
-  .navbar__item {
-    display: none;
-  }
-}
+
 
 @media (max-width: 425px) {
   .search-bar {
