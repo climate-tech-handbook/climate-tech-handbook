@@ -64,7 +64,7 @@ pagination_prev: solutions
 
 ## Progress Made
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XdkskowAHkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe   width="560" height="315" src="https://www.youtube.com/embed/XdkskowAHkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Food design technologies are revolutionizing plant-based options, enhancing taste and aroma. Advancements like extrudable fat technology, introducing new food resources, and climate-first supply chain technologies are transforming the way we eat. Embracing these innovations allows us to make sustainable choices for a healthier future.
 

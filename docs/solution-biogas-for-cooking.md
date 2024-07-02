@@ -3,7 +3,7 @@ title: Biogas for Cooking
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ORsAEiT5bdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe   width="560" height="315" src="https://www.youtube-nocookie.com/embed/ORsAEiT5bdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 *Demo from the [Biogas Handbook](https://turnwasteintoenergy.com/product/biogas-handbook-step-by-step-guide/)*
 

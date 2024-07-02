@@ -306,3 +306,21 @@ details > div > div {
     width: 100%;
   }
 }
+/* @media screen and (max-width: 560px) {
+  .youTubeVideo { 
+    width: 100%;
+    height: 100%;
+    
+     }
+}
+  */
+
+  
+  /* Apply a media query to adjust the width for smaller screens */
+  @media (max-width: 580px) {
+    iframe[src*="https://www.youtube"] {
+        width: 100%;
+        height: 100%;
+     
+    }
+}
