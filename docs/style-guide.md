@@ -30,6 +30,12 @@ Until we get this formalized, please use the following as guidelines:
 ## Admonitions
 * "Information diet"
 
+## Grammar
+
+- Comma: Use the Oxford comma. That is, when you are listing three things or more, use a comma after each item in the list, and use a comma before "and."
+- Percent: Use the percent sign (%) rather than "percent," especially in numerical lists.
+- United States: Use "United States" for use as a noun. Use "U.S." for use as an adjective.
+
 ## Word choice & branding
 
 "The Handbook"
