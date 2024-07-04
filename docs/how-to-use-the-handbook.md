@@ -61,7 +61,7 @@ This is a community supported open source project. Contributing to an open sourc
 
 _You can also help us financially through a small donation._
 
-<a href="contribute" class="doc-button">Contribute</a>
+<a href="/contribute" class="doc-button">Contribute</a>
 
 <br/>
 
@@ -74,19 +74,19 @@ _You can also help us financially through a small donation._
     title="Level 1"
     description="You're brand new. A basic overview of terms and common questions"
     imageUrl="/img/climate-tech-level-1-mario.jpg"
-    linkUrl="level-1"
+    linkUrl="/level-1"
     />
 <ImageCard
     title="Level 2"
     description="You're ready to hone in on your climate solution"
     imageUrl="/img/level-2-mario.jpg"
-    linkUrl="level-2"
+    linkUrl="/level-2"
     />
     <ImageCard
     title="Level 3"
     description="You have a solution but need to stand out in your job search"
     imageUrl="/img/level-3-mario.jpg"
-    linkUrl="level-3"
+    linkUrl="/level-3"
     />
 </div>
 
