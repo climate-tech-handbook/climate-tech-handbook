@@ -7,6 +7,8 @@ Heavy work in progress
 [Help us](contribute) improve this page
 :::
 
+Example companies [sourced from this article](https://www.breakthroughenergy.org/news/critical-minerals-innovation/).
+
 ## Site Identification & Exploration:
 
 * [GeologicAI](https://www.geologicai.com/) builds high-end core scanning solutions which include sensors, Digital Core Table, and modelling capabilities. Their AI-powered tools allow geologists access to accurate, high-quality data, streamlining workflows and making the process of analyzing and interpreting more time-efficient and accessible.
