@@ -15,7 +15,12 @@ Electric cars are becoming increasingly popular as people look for ways to reduc
   - [EdgeEnergy](https://www.edgeenergyev.com/)
   - [Zoox](https://zoox.com/)
   - [Alpha Grid](http://www.alphagrid.ai/)
+:::
 
+:::book Intro reading
+- <li><a href="https://warminguptoclimatetech.substack.com/p/challenges-and-opportunities-of-electric">Challenges and Opportunities of Electric Vehicles</a></li>
+- <li><a href="https://climatedrift.substack.com/p/a-look-at-transportation-companies">A Look at Transportation Companies</a></li>
+- <li><a href="https://climatedrift.substack.com/p/climate-hype-curve-transportation">Climate Hype Curve: Transportation - Part 1</a> and [Part 2](https://www.climatedrift.com/p/climate-hype-curve-transportation-e62)</li>
 :::
 
 ## Overview
