@@ -6,23 +6,14 @@ pagination_prev: solutions
 
 ![Abandoned farm](../static/img/abandoned-farm.jpg)
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://nan">Control Desert</a></li>
-            
-                <li><a href="https://dendra.io">Dendra Systems</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
-
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Abandoned+Farmland+Restoration)
+:::
+
+:::book More info:
+- [Project Drawdown: Abandoned Farmland Restoration](https://drawdown.org/solutions/abandoned-farmland-restoration)
+- [Earth.org: How Abandoned Farmland Restoration Could Help Feed Future Generations](https://earth.org/abandoned-farmland-restoration/)
+- [Nature.com: Rewilding Abandoned Farmland](https://www.nature.com/articles/s44185-022-00009-9)
 :::
 
 ## Overview
