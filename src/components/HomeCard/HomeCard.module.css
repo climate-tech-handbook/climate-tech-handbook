@@ -9,6 +9,7 @@
   margin: 1rem 0;
   background-color: rgb(249, 242, 243);
   border-radius: 20px;
+ 
 }
 
 .cardText {
@@ -60,12 +61,12 @@
 } */
 
 @media screen and (max-width: 966px) {
-  .cardContainer {
+   .cardContainer {
     margin: 2rem 0;
-    width: 40vw;
+    width: 4 0vw;
     height: 30vh;
     padding: 10rem;
-  }
+  }  
 
   .cardLink:first-child .cardContainer {
     margin-top: 0;
@@ -90,3 +91,11 @@
     padding: 10rem;
   } */
 }
+@media screen and (max-width: 450px) {
+  .cardContainer {
+   margin: 2rem 0;
+   width: 4 0vw;
+   height: 30vh;
+   padding: 8rem;
+ };
+ }
