@@ -4,40 +4,26 @@ displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
 
+Electric cars are becoming increasingly popular as people look for ways to reduce their environmental impact. There are a number of different technologies that are being developed to make electric cars more efficient and reduce their emissions.
+
 ![Cover Image](../static/img/electric-car.jpg)
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://pod-point.com">Pod Point</a></li>
-            
-                <li><a href="https://boostedboards.com">Boosted</a></li>
-            
-                <li><a href="https://transition-one.fr">Transition One</a></li>
-            
-                <li><a href="https://zeroavia.com">Zeroavia</a></li>
-            
-                <li><a href="https://echiontech.com">Echion Tech</a></li>
-            
-                <li><a href="https://www.proterra.com">Proterra</a></li>
-            
-                <li><a href="https://riversimple.com">River Simple</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
-
 :::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Cars)
+  ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Cars)
+  #### Example Companies
+  - [ev.energy](https://ev.energy/)
+  - [EdgeEnergy](https://www.edgeenergyev.com/)
+  - [Zoox](https://zoox.com/)
+  - [Alpha Grid](http://www.alphagrid.ai/)
+:::
+
+:::book Intro reading
+- <li><a href="https://warminguptoclimatetech.substack.com/p/challenges-and-opportunities-of-electric">Challenges and Opportunities of Electric Vehicles</a></li>
+- <li><a href="https://climatedrift.substack.com/p/a-look-at-transportation-companies">A Look at Transportation Companies</a></li>
+- <li><a href="https://climatedrift.substack.com/p/climate-hype-curve-transportation">Climate Hype Curve: Transportation - Part 1</a> and [Part 2](https://www.climatedrift.com/p/climate-hype-curve-transportation-e62)</li>
 :::
 
 ## Overview
-
-Electric cars are becoming increasingly popular as people look for ways to reduce their environmental impact. There are a number of different technologies that are being developed to make electric cars more efficient and reduce their emissions.
 
 One of the biggest breakthroughs has been in the development of better batteries. Lithium-ion batteries are much more efficient than the lead-acid batteries that were previously used in electric cars. This means that electric cars can travel further on a single charge, making them more practical for people to use on a daily basis.
 
