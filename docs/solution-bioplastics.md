@@ -8,22 +8,6 @@ pagination_prev: solutions
 
 _Packing peanuts made from bioplastics (thermoplastic starch) ([Wikipedia](https://commons.wikimedia.org/wiki/File:St%C3%A4rke-Packstoff_P%C3%B6mpel_CG.jpg))_
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="http://fullcyclebioplastics.com/">Full Cycle Bioplastics</a></li>
-            
-                <li><a href="http://mangomaterials.com/">Mango Materials</a></li>
-            
-                <li><a href="http://www.visolisbio.com/">Visolis</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Bioplastics)

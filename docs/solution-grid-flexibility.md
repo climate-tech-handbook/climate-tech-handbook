@@ -14,30 +14,6 @@ authors:
 Check out [Voltus](https://voltus.co) - a demand response software tool
 ::: -->
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://Joyride.city">Joyridecity</a></li>
-            
-                <li><a href="https://sympower.net">Sympower</a></li>
-            
-                <li><a href="https://predictiveanalyticsworldclimate.com">Predictive Analytics World Climate</a></li>
-            
-                <li><a href="https://tempusenergy.com">Tempus Energy</a></li>
-            
-                <li><a href="https://firstlightfusion.com">First Light Fusion</a></li>
-            
-                <li><a href="https://abundanceinvestment.com">Abundance Investment</a></li>
-            
-                <li><a href="https://JupiterIntel.com">Jupiter Intelligence</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Grid+Flexibility)

@@ -6,20 +6,6 @@ pagination_prev: solutions
 
 ![Cover Image](../static/img/dynamic-glass.jpg)
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://sonnen.de">Sonnen</a></li>
-            
-                <li><a href="https://ubiquitous.energy">Ubiquitous Energy</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Dynamic+Glass)

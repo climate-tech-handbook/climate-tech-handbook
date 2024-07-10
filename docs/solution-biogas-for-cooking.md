@@ -7,18 +7,6 @@ pagination_prev: solutions
 
 *Demo from the [Biogas Handbook](https://turnwasteintoenergy.com/product/biogas-handbook-step-by-step-guide/)*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.airprotein.com/">Air Protein</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biogas+for+Cooking)

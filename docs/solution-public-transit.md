@@ -7,34 +7,6 @@ pagination_prev: solutions
 
 *Public Transit ([Calmatters](https://calmatters.org/commentary/2022/07/restoring-a-sense-of-safety-could-boost-public-transit-ridership/))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://urbansharing.com">Urban Sharing</a></li>
-            
-                <li><a href="https://magicbus.io">Magic Bus</a></li>
-            
-                <li><a href="https://bird.co">Bird</a></li>
-            
-                <li><a href="https://www.flixbus.com/">Flixbus</a></li>
-            
-                <li><a href="https://www.trafi.com/">Trafi</a></li>
-            
-                <li><a href="https://company.moovit.com">Moovit</a></li>
-            
-                <li><a href="https://novabus.com/index.html">Nova Bus</a></li>
-            
-                <li><a href="https://nan">Skip Scooters</a></li>
-            
-                <li><a href="https://optimoroute.com/">Optimo Route</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Public+Transit)

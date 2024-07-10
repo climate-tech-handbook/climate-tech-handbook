@@ -7,18 +7,6 @@ pagination_prev: solutions
 
 *Recycled Metals ([Zore's Recycling](https://www.zoresrecycling.com/blog/3-categories-of-metal-that-can-be-recycled/))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://impossiblediamond.com/">Impossible Diamond</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Recycled+Metals)

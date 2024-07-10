@@ -7,36 +7,6 @@ pagination_prev: solutions
 
 *Smart Thermostat Control Design w/ Rapid IoT vs Traditional AC system Control Design ([NXP](https://www.nxp.com/company/blog/build-a-smart-thermostat-control-unit-in-minutes:BL-BUILD-SMART-THERMOSTAT-CONTROL-UNIT))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://ohmconnect.com">Ohmconnect</a></li>
-            
-                <li><a href="https://nan">Yale Center For Business And The Environment</a></li>
-            
-                <li><a href="https://treau.cool">Treau</a></li>
-            
-                <li><a href="https://getmysa.com/">Mysa Smart Thermostats</a></li>
-            
-                <li><a href="https://globalthermostat.com/about-global-thermostat/">Global Thermostat</a></li>
-            
-                <li><a href="https://tado.com">Tado</a></li>
-            
-                <li><a href="http://www.ecosync.energy">Ecosync</a></li>
-            
-                <li><a href="https://www.climacell.co/">Climacell</a></li>
-            
-                <li><a href="https://breezi.io">Breezi</a></li>
-            
-                <li><a href="https://climatepapa.com/">Climate Papa</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Smart+Thermostats)

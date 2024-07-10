@@ -13,60 +13,6 @@ Meet people in the *[#learn-food-waste](https://workonclimate.slack.com/messages
 [ReFED](https://refed.org/) is a good resource to understand food waste solutions
 :::
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.bluehorizon.com/">Blue Horizon</a></li>
-            
-                <li><a href="https://smartersorting.com">Smarter Sorting</a></li>
-            
-                <li><a href="https://ju.st">Just</a></li>
-            
-                <li><a href="https://afreshtechnologies.com">Afresh</a></li>
-            
-                <li><a href="https://zume.com">Zume</a></li>
-            
-                <li><a href="https://smartive.eu">Smartive</a></li>
-            
-                <li><a href="https://globechain.com">Globechain</a></li>
-            
-                <li><a href="https://madewithmotif.com">Motif</a></li>
-            
-                <li><a href="https://www.freightfarms.com">Freight Farms</a></li>
-            
-                <li><a href="https://mimicalab.com">Mimica</a></li>
-            
-                <li><a href="https://www.misfitsmarket.com">Misfits Market</a></li>
-            
-                <li><a href="https://pollenity.com">Pollenity</a></li>
-            
-                <li><a href="https://www.fordays.com/">For Days</a></li>
-            
-                <li><a href="https://karma.life">Karma</a></li>
-            
-                <li><a href="https://nan">Spoiler Alert</a></li>
-            
-                <li><a href="https://impossiblefoods.com/recipes/">Impossible Foods</a></li>
-            
-                <li><a href="https://thenuwardrobe.com">Nu Wardrobe</a></li>
-            
-                <li><a href="https://agrovisio.com">Agrovisio</a></li>
-            
-                <li><a href="https://www.imperfectfoods.com">Imperfect Foods</a></li>
-            
-                <li><a href="https://hisbe.co.uk">Hisbe</a></li>
-            
-                <li><a href="https://shopthrilling.com/">Thrilling</a></li>
-            
-                <li><a href="https://graphicpkgeurope.com">Graphic Packaging International</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Reduced+Food+Waste)

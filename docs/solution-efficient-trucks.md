@@ -6,58 +6,6 @@ pagination_prev: solutions
 
 ![Cover Image](../static/img/fuel-efficient-trucks.jpg)
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://propelfuels.com/">Propel Fuels</a></li>
-            
-                <li><a href="https://econcretetech.com">Econcrete</a></li>
-            
-                <li><a href="https://normative.io/en">Normative</a></li>
-            
-                <li><a href="https://fiskerinc.com">Fisker</a></li>
-            
-                <li><a href="https://greenfuels.co.uk">Green Fuels</a></li>
-            
-                <li><a href="https://nan">Ree Automotive</a></li>
-            
-                <li><a href="https://climateneutral.org">Climateneutral</a></li>
-            
-                <li><a href="https://crwd.ly/rens19">Rens</a></li>
-            
-                <li><a href="https://torkmotors.com">Tork Motors</a></li>
-            
-                <li><a href="https://www.carbfix.com/">Carbfix</a></li>
-            
-                <li><a href="https://nan">Work On Climate</a></li>
-            
-                <li><a href="https://safi.ai">Safi Analytics</a></li>
-            
-                <li><a href="https://voltatrucks.com">Volta Trucks</a></li>
-            
-                <li><a href="https://nan">Terra.do</a></li>
-            
-                <li><a href="https://rivian.com">Rivian</a></li>
-            
-                <li><a href="https://bollingermotors.com/">Bollinger Motors</a></li>
-            
-                <li><a href="https://www.verdox.com/">Verdox</a></li>
-            
-                <li><a href="https://climateview.global">Climate View</a></li>
-            
-                <li><a href="https://nan">Cambridge Industries</a></li>
-            
-                <li><a href="https://tevva.com">Tevva</a></li>
-            
-                <li><a href="https://arcolaenergy.com">Arcola Energy</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Efficient+Trucks)

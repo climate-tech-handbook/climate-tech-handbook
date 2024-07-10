@@ -8,64 +8,6 @@ pagination_prev: solutions
 
 _Methane capture process ([EPA](https://archive.epa.gov/climatechange/kids/solutions/technologies/methane.html))_
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://helloinspire.com">Inspire</a></li>
-            
-                <li><a href="https://ranmarine.io">Ranmarine / Wasteshark</a></li>
-            
-                <li><a href="https://compology.com">Compology</a></li>
-            
-                <li><a href="https://www.world-energy.org/article/26764.html">Energy Storage Solutions Consortium</a></li>
-            
-                <li><a href="https://nan">Climate Town</a></li>
-            
-                <li><a href="https://tmrow.com">Tomorrow</a></li>
-            
-                <li><a href="https://www.climeworks.com/">Climeworks</a></li>
-            
-                <li><a href="https://nori.com/">Nori</a></li>
-            
-                <li><a href="https://seabenergy.com">Seab</a></li>
-            
-                <li><a href="https://projectwren.com">Wren</a></li>
-            
-                <li><a href="https://TheThingsCloud.com">Thingscloud</a></li>
-            
-                <li><a href="https://www.techstars.com/sustainability-program/">Techstars Sustainability Accelerator</a></li>
-            
-                <li><a href="https://otherlab.com">Otherlab</a></li>
-            
-                <li><a href="https://www.co2concrete.com/">Co2concrete</a></li>
-            
-                <li><a href="https://nan">Prometheus Fuel</a></li>
-            
-                <li><a href="https://nan">Solar Energy Industries Association</a></li>
-            
-                <li><a href="https://carbonengineering.com/">Carbon Engineering</a></li>
-            
-                <li><a href="https://nan">Carbon Codex</a></li>
-            
-                <li><a href="https://ambercycleinc.com">Ambercycle</a></li>
-            
-                <li><a href="https://lanzatech.com">Lanzatech</a></li>
-            
-                <li><a href="https://nan">Bloomberg Green</a></li>
-            
-                <li><a href="https://nan">World Economic Forum</a></li>
-            
-                <li><a href="https://circularcarbon.org">Circular Carbon Network</a></li>
-            
-                <li><a href="https://www.kiverdi.com/">Kiverdi</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Landfill+Methane+Capture)

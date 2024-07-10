@@ -7,62 +7,6 @@ pagination_prev: solutions
 ![Cover Image](https://images.unsplash.com/photo-1609220136736-443140cffec6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxGYW1pbHklMjBQbGFubmluZyUyMGFuZCUyMEVkdWNhdGlvbnxlbnwwfHx8fDE2ODM2NTg3ODA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@nate_dumlao)
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.bloomberg.org/">Bloomberg Philanthropies</a></li>
-            
-                <li><a href="https://extendfertility.com">Extend Fertility</a></li>
-            
-                <li><a href="https://bloomlife.com/">Bloomlife</a></li>
-            
-                <li><a href="https://www.o.school">O.school</a></li>
-            
-                <li><a href="https://civiceagle.com">Civic Eagle</a></li>
-            
-                <li><a href="https://www.mavenclinic.com">Maven Clinic</a></li>
-            
-                <li><a href="https://thepillclub.com">The Pill Club</a></li>
-            
-                <li><a href="https://www.washingtonpost.com/climate-environment/">Washington Post - Climate Coverage</a></li>
-            
-                <li><a href="https://axelspace.com/en">Axelspace</a></li>
-            
-                <li><a href="https://kindbody.com">Kindbody</a></li>
-            
-                <li><a href="https://afripads.com">Afripads</a></li>
-            
-                <li><a href="https://nan">Modern Fertility</a></li>
-            
-                <li><a href="https://primecoalition.org/">Prime</a></li>
-            
-                <li><a href="https://asktia.com">Tia</a></li>
-            
-                <li><a href="https://nan">Capital For Climate (c4c)</a></li>
-            
-                <li><a href="https://nan">Airminers Academy</a></li>
-            
-                <li><a href="https://ducky.eco">Ducky</a></li>
-            
-                <li><a href="https://glowing.com">Glow</a></li>
-            
-                <li><a href="https://www.futurefamily.com/">Future Family</a></li>
-            
-                <li><a href="https://isonohealth.com/demos">Isonohealth</a></li>
-            
-                <li><a href="https://girlswhocode.com">Girls Who Code</a></li>
-            
-                <li><a href="https://www.wearepossible.org/">Possible</a></li>
-            
-                <li><a href="https://everymothercounts.org">Every Mother Counts</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Family+Planning+and+Education)

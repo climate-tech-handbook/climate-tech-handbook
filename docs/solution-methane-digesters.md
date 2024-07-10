@@ -7,20 +7,6 @@ pagination_prev: solutions
 
 *Methane digester working process ([Farm Credit](https://www.findfarmcredit.com/landscapes-articles/methane-digesters-101))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://nan">Eco-fuel Africa</a></li>
-            
-                <li><a href="https://www.kitro.ch/">Kitro</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Methane+Digesters)

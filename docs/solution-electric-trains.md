@@ -8,20 +8,6 @@ pagination_prev: solutions
 
 _Siemens battery-electric train ([Green Car Reports](https://www.greencarreports.com/news/1127629_battery-powered-electric-trains-will-soon-bring-cleaner-air-especially-in-europe))_
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://kickstarter.com/projects/karmi…">Karmic Bikes</a></li>
-            
-                <li><a href="https://ojoelectric.com">Ojo</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Trains)

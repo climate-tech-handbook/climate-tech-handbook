@@ -7,34 +7,6 @@ pagination_prev: solutions
 
 *Micro-wind turbines on the roof ([Castleton University](https://www.castleton.edu/news-media/article/castleton-is-first-to-add-micro-wind-turbine-technology/))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://ewindsolutions.com">Ewind Solutions</a></li>
-            
-                <li><a href="https://makanipower.com/">Makani</a></li>
-            
-                <li><a href="https://VORTEXBLADELESS.COM">Vortex Bladeless</a></li>
-            
-                <li><a href="https://kps.energy">Kite Power Systems</a></li>
-            
-                <li><a href="https://accioenergy.com">Accio Energy</a></li>
-            
-                <li><a href="https://upriseenergy.com">Uprise Energy</a></li>
-            
-                <li><a href="https://energyweb.org">Energy Web</a></li>
-            
-                <li><a href="https://americanwindinc.com">American Wind</a></li>
-            
-                <li><a href="https://nan">Climate Tech Vc</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Micro+Wind+Turbines)

@@ -11,22 +11,6 @@ pagination_prev: solutions
 [Click here to contribute content and feedback](contribute)
 :::
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.xtelligent.io/">Xtligent</a></li>
-            
-                <li><a href="https://canoo.com">Canoo</a></li>
-            
-                <li><a href="https://www.ridecabin.com">Cabin</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Carpooling)

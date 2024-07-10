@@ -16,48 +16,6 @@ pagination_prev: solutions
  - [InDERmediate](https://www.indermediate.com/) podcast -  move up your clean energy knowledge from beginner to intermediate level
 :::
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.coord.com/">Coord</a></li>
-            
-                <li><a href="https://nwenergy.org/">Northwest Energy Coalition</a></li>
-            
-                <li><a href="http://ChooseEnergy.com">Choose Energy</a></li>
-            
-                <li><a href="https://nan">Distributed Energy</a></li>
-            
-                <li><a href="https://powerledger.io">Power Ledger</a></li>
-            
-                <li><a href="https://kiva.org/startgood">Kiva</a></li>
-            
-                <li><a href="https://lo3energy.com">Lo3 Energy</a></li>
-            
-                <li><a href="https://OmegaGrid.com">Omega Grid</a></li>
-            
-                <li><a href="https://nan">Lition Ag</a></li>
-            
-                <li><a href="https://verv.energy">Verv</a></li>
-            
-                <li><a href="https://www.electron.org.uk/">Electron</a></li>
-            
-                <li><a href="https://www.enbala.com">Enbala</a></li>
-            
-                <li><a href="https://enervee.com/">Enervee</a></li>
-            
-                <li><a href="https://Blocpower.io">Blocpower</a></li>
-            
-                <li><a href="http://blocpower.io/">Bloc Power</a></li>
-            
-                <li><a href="https://energiagroup.com">Energia Group</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Energy+Storage)

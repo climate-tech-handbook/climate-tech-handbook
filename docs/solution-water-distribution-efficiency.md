@@ -9,22 +9,6 @@ import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagin
 
 *Smart City Water Management ([SOFTEQ](https://www.softeq.com/blog/smart-water-management-using-iot-real-world-examples))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://waterotor.com">Waterotor Energy Technologies</a></li>
-            
-                <li><a href="https://www.fathom.global/">Fathom</a></li>
-            
-                <li><a href="https://emrgy.com">Emrgy</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Water+Distribution+Efficiency)

@@ -7,42 +7,6 @@ pagination_prev: solutions
 ![Cover Image](https://images.unsplash.com/photo-1673969694073-23681e038413?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxFbGVjdHJpYyUyMEJpY3ljbGVzfGVufDB8fHx8MTY4MzY1ODY2MA&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@eveloelectricbikes)
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://linearlabsinc.com">Linear Labs</a></li>
-            
-                <li><a href="https://charge.us">Charge</a></li>
-            
-                <li><a href="https://workhorse.com">Workhorse Group</a></li>
-            
-                <li><a href="https://www.jump.com/">Jump</a></li>
-            
-                <li><a href="https://spin.pm">Spin</a></li>
-            
-                <li><a href="https://actonglobal.com">Acton</a></li>
-            
-                <li><a href="https://atherenergy.com">Ather Energy</a></li>
-            
-                <li><a href="https://nan">Rad Power Bikes</a></li>
-            
-                <li><a href="https://cowboy.com">Cowboy</a></li>
-            
-                <li><a href="https://jauntmotors.com">Jaunt</a></li>
-            
-                <li><a href="https://viriciti.com">Viriciti</a></li>
-            
-                <li><a href="https://evrnu.com">Evrnu</a></li>
-            
-                <li><a href="https://arrival.com/">Arrival</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Bicycles)

@@ -9,20 +9,6 @@ Image Credit: [Unsplash](https://unsplash.com/@introspectivedsgn)
 
 Sure, here's a concise summary in bullet points:
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://phononic.com">Phononic</a></li>
-            
-                <li><a href="https://thermondo.de">Thermondo</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Insulation)

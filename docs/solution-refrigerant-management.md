@@ -7,18 +7,6 @@ pagination_prev: solutions
 
 *Regulating and reducing halocarbon refrigerant use to slow climate change ([MIT Science Policy Review](https://sciencepolicyreview.org/2020/08/institutions-and-governments-can-slow-climate-change-by-regulating-and-reducing-halocarbon-refrigerant-use/))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.isdglobal.org/disinformation/climate-disinformation/">Climate Disinformation - Institute For Strategic Dialog</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Refrigerant+Management)

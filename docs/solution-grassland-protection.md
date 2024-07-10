@@ -6,18 +6,6 @@ pagination_prev: solutions
 ![Cover Image](https://images.unsplash.com/photo-1680251006645-f81372dee3bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0NDYzODh8MHwxfHNlYXJjaHwxfHxHcmFzc2xhbmQlMjBQcm90ZWN0aW9ufGVufDB8fHx8MTY4MzY1ODkwMg&ixlib=rb-4.0.3&q=80&w=1080)
 Image Credit: [Unsplash](https://unsplash.com/@ries_bosch)
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://carbon-neutrality.global/">Carbon Neutrality Coalition</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Grassland+Protection)

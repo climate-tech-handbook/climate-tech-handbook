@@ -35,15 +35,7 @@ pagination_prev: solutions
   data-embed="true"
   allow="autoplay; fullscreen"
 ></iframe>
-<!--         <details>
-        <summary>List of companies working in this solution...</summary>
-        <div>
-            <ul>
-                <li><a href="https://kickstarter.com/projects/karmi…">Karmic Bikes</a></li>
-                            <li><a href="https://ojoelectric.com">Ojo</a></li>
-            </ul>
-        </div>
-        </details> -->
+<!--         extract -->
 <!-- _View list of all podcast episodes_ -->
 :::
 

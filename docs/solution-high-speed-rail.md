@@ -8,24 +8,6 @@ pagination_prev: solutions
 
 _Image from the California High-Speed Rail Authority_
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://lilium.com">Lilium</a></li>
-            
-                <li><a href="https://hyperloop-one.com">Hyperloop One</a></li>
-            
-                <li><a href="https://hyperloop.global">Hyperloop Transportation Technologies</a></li>
-            
-                <li><a href="https://einride.tech/news/einride-o…">Einride</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=High-Speed+Rail)

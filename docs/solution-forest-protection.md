@@ -6,24 +6,6 @@ pagination_prev: solutions
 ![Cover Image](../static/img/forest-protection.jpg)
 *Image Credit: [Euractiv](https://www.euractiv.com/section/energy-environment/opinion/seven-steps-to-curb-deforestation-and-enhance-forest-protection-looking-beyond-eu-only-solutions/)*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.carbonstreaming.com/">Carbon Streaming</a></li>
-            
-                <li><a href="https://www.thecapture.club/">Club Capture</a></li>
-            
-                <li><a href="https://www.naturalcapitalpartners.com/">Natural Capital Partners</a></li>
-            
-                <li><a href="https://lowercarboncapital.com/">Lower Carbon Capital</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Forest+Protection)

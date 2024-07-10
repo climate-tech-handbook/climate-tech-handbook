@@ -7,20 +7,6 @@ pagination_prev: solutions
 
 *Example of an oscillating water column and an OTEC power plant ([U.S. Government Accountability Office](https://www.gao.gov/products/gao-21-533sp))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://sinnpower.com/imprint">Sinn Power</a></li>
-            
-                <li><a href="https://www.joindrift.com">Drift Power</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Ocean+Power)
