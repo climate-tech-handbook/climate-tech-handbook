@@ -35,7 +35,7 @@ Sam Shugart lays down years of graduate level policy research into a 5 minute di
 
 Are we ready to harvest the incredible power of **methane eating bacteria** and other tiny miracles?
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9J692Yf6j7w?si=vdCfZA9xwSlBl6dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe  width="560" height="315" src="https://www.youtube-nocookie.com/embed/9J692Yf6j7w?si=vdCfZA9xwSlBl6dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 
 ## Accelerating fleets to zero emissions - Paul Bloom, Climate Solutions
@@ -51,7 +51,7 @@ We've hit exciting progress on lab grown meat, but unfortunately, it is still ma
 
 What other options do we have?
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Wodv1Bb7pIg?si=5rqn676skyLBPH4r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe    width="560" height="315" src="https://www.youtube-nocookie.com/embed/Wodv1Bb7pIg?si=5rqn676skyLBPH4r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 
 ## Why does food waste happen? - Katherine Sizov, Founder and CEO of Strella
@@ -64,7 +64,7 @@ Reducing the toll of food waste is the number one action the world can take to r
 
 Drew is armed and ready to help us [Escape The Chamber](https://escapethechamber.org).
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VFaUpjZajFo?si=AWTyE9JIjaVJC4Q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe  width="560" height="315" src="https://www.youtube-nocookie.com/embed/VFaUpjZajFo?si=AWTyE9JIjaVJC4Q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 
 ## Who owns Downtown Seattle? - Linnea May, 350 Seattle
@@ -82,16 +82,16 @@ Public civic data for the win!
 
 We are quickly approaching an era when the people that can most afford energy don't have to pay for it and those that can least afford it are paying the most.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4ogfpf6-8QY?si=HCmZ7kuDUjnuohEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe    width="560" height="315" src="https://www.youtube-nocookie.com/embed/4ogfpf6-8QY?si=HCmZ7kuDUjnuohEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 ## The Case for Changing Consumer Culture - Vicki Shaw, Community Gearbox
 
 Vicki makes the case for why we should invest in consumer behavior shifts to combat climate change, and gives some insight into how we might do this through a community-rooted keystone habit.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gnhubdadV5E?si=QJiHriSyyLzKdUmC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe    width="560" height="315" src="https://www.youtube-nocookie.com/embed/gnhubdadV5E?si=QJiHriSyyLzKdUmC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 
 ## Building a sustainable and profitable business by selling less - Sailesh Chutani
 
 Former Logitech CTO presents a compelling case for businesses to transform their model of infinite growth into something that is both profitable and long lasting.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bzQwnc8fKn0?si=RbfozWzq5k0tNNrD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+<iframe    width="560" height="315" src="https://www.youtube-nocookie.com/embed/bzQwnc8fKn0?si=RbfozWzq5k0tNNrD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>

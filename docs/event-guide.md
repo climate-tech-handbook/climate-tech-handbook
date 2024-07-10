@@ -1,6 +1,7 @@
 ---
 title: Climate Event Organizers Guide
 displayed_sidebar: docSidebar
+hide_table_of_contents: true
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
@@ -33,6 +34,14 @@ Check to see if there are existing events and organizations you are not aware of
 - Local channels in various [Slack Communities](/level-1#core-communities), for example `#meet-seattle` in the [Work on Climate Slack](https://workonclimate.org)
 - General climate change meetups - 350.org chapter, green drinks, etc.
 - You can also search through Eventbrite, Meetup.com, Luma, and other sites for things about climate change
+
+:::contribute Climate Week
+More and more US cities are hosting [Climate Week](event-format-climate-day-or-week) events
+- [Climate Week NYC](https://www.climateweeknyc.org/)
+- [SF Climate Week](https://www.sfclimateweek.org/)
+- [PNW Climate Week](https://www.pnwclimateweek.org/)
+- [Houston Energy & Climate Week](https://climateweekhouston.com/)
+:::
 
 ## Event Guides
 

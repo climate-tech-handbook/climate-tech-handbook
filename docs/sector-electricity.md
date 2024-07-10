@@ -8,7 +8,8 @@ import electricitySolutions from '../src/components/SolutionFilter/SolutionLists
 
 ## Sector Overview
 
-:::tip 196.8–420.6 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
+:::tip Impact Goal
+196.8–420.6 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
 ![](/../static/img/electricity.png)
@@ -40,12 +41,21 @@ In addition to scaling new technologies, there are unique challenges such as:
 * The economics of buying and selling clean energy
 
 :::expert
-Connect with [Ahmad Faruqui](https://www.linkedin.com/in/ahmad-faruqui-0177b83/) to learn about energy economics
+- Connect with [Ahmad Faruqui](https://www.linkedin.com/in/ahmad-faruqui-0177b83/) to learn about energy economics
 :::
 ## Resources:
 
 :::info
 - [Cipher News](https://ciphernews.com/topics/electricity)
+- [Volts](https://volts.wtf)
+- [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) - with [Shayle Kann](https://www.linkedin.com/in/shaylekann)
+:::
+
+## Example Communities:
+
+:::contribute Join
+- DER Task Force: [on Slack](https://dertaskforce.slack.com/join/shared_invite/zt-21a4npous-I6REKJMdbpLNeRJT5RM2RA#/shared-invite/email) and their [Website](https://www.dertaskforce.com/p/resources)
+- Solar Punk [on Reddit]((https://www.reddit.com/r/solarpunk/))
 :::
 
 ## Solutions in this Sector
@@ -280,7 +290,7 @@ Connect with [Ahmad Faruqui](https://www.linkedin.com/in/ahmad-faruqui-0177b83/)
 
 - - -
 
-:::info [Help us track this Sector](contribute)
+:::contribute Help us track this Sector
 
 [Click here to contribute content and feedback](contribute)
 :::

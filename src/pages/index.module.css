@@ -3,6 +3,16 @@
  * and scoped locally.
  */
 
+@media screen and (max-width: 400px) {
+  }
+ .bodyWrapper {
+  position: relative;
+  width: screen;
+  height: screen;
+ overflow: hidden;
+ }
+   
+
 .mainBody {
   display: flex;
   flex-direction: column;

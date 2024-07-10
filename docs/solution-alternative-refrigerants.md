@@ -9,7 +9,7 @@ Refrigerants are a major contributor to greenhouse gases. This article outlines 
 ![Cover Image](../static/img/co2-refrigeration.jpg)
 
 :::company Jobs
-#### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Refrigerants)
+### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Refrigerants)
 :::
 
 ## Overview
