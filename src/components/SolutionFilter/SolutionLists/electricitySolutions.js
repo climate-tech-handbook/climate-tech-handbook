@@ -6,21 +6,21 @@ const electricitySolutions = [
         title: "Utility-Scale Energy Storage",
         description: "Large-scale energy storage for storing excess renewable energy and meeting peak demand.",
         imageUrl: "/img/utility-scale-energy-storage.jpg",
-        linkUrl: "solution-utility-scale-energy-storage",
+        linkUrl: "../solution-utility-scale-energy-storage",
         tags: ['storage']
     },
     {
         title: "Distributed Energy Storage",
         description: "Local energy storage systems that store and supply renewable energy to nearby consumers.",
         imageUrl: "/img/distributed-energy-storage.jpg",
-        linkUrl: "solution-distributed-energy-storage",
+        linkUrl: "../solution-distributed-energy-storage",
         tags: ['storage']
     },
     {
         title: "Microgrids",
         description: "Localized power grids that operate independently or in conjunction with the main grid.",
         imageUrl: "/img/microgrids.jpg",
-        linkUrl: "solution-microgrids",
+        linkUrl: "../solution-microgrids",
         tags: ['building']
     },
     {
