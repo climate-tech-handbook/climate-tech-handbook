@@ -52,6 +52,7 @@ export default function Home(): JSX.Element {
   }
 
   return (
+    <div  className={clsx(styles.bodyWrapper)}> 
     <Layout
       title={`${siteConfig.title}`}
       description="Get up to speed on climate tech as quickly as possible"
@@ -103,6 +104,6 @@ export default function Home(): JSX.Element {
       </main>   
   
     </Layout>
-
+   </div>
   );
 }
