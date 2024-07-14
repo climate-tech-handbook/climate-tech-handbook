@@ -27,7 +27,6 @@ These systems can disconnect from the main grid during disruptions and continue 
 
 ## Lessons Learned: 
   - Microgrids offer reliability, emissions reduction, customization, but require meticulous planning and coordination.
-  - Leading organizations and companies provide valuable insights and resources for successful microgrid implementation.
 
 ## Challenges Ahead: 
   - Lack of standardization among microgrid types hinders comparison and choice, and high upfront costs challenge widespread adoption.
