@@ -1,7 +1,11 @@
 import requests
-import json
+import os
+from dotenv import load_dotenv
 
-PERPLEXITY_API_KEY = "your_api_key_here"
+# Load environment variables from .env file
+load_dotenv()
+
+PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY")
 
 def call_perplexity_api(prompt):
     url = 'https://api.perplexity.ai/chat/completions'
