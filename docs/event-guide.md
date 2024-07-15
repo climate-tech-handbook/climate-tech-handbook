@@ -34,7 +34,7 @@ Check to see if there are existing events and organizations you are not aware of
 - Local channels in various [Slack Communities](/level-1#core-communities), for example `#meet-seattle` in the [Work on Climate Slack](https://workonclimate.org)
 - Email newsletters and Substacks - like [the one for Seattle](https://seattle.climatetechcities.com) 
 - General climate change meetups - 350.org chapter, green drinks, etc.
-- You can also search through Eventbrite, Meetup.com, Luma, and other sites for things about climate change
+- You can also search through event sites like Eventbrite and Meetup.com for things about climate change
 
 <!-- :::contribute Climate Week
 More and more US cities are hosting [Climate Week](event-format-climate-day-or-week) events
