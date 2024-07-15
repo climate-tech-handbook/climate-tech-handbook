@@ -41,6 +41,8 @@ More and more US cities are hosting [Climate Week](event-format-climate-day-or-w
 - [SF Climate Week](https://www.sfclimateweek.org/)
 - [PNW Climate Week](https://www.pnwclimateweek.org/)
 - [Houston Energy & Climate Week](https://climateweekhouston.com/)
+
+Bookmark them on your calendar
 :::
 
 ## Event Guides
@@ -137,13 +139,17 @@ This will take some work but it can be the most rewarding.
 
 - Pickleball
 
-## Facilitation / Ice Breakers
+## Facilitation / Icebreakers
 
 - Interactive Q&A
 
 - Spectrum
 
 - The wind blows
+
+:::note Check Out
+More "[Icebreakers that don't suck](https://niviachanta.com/articles/icebreakers-that-dont-suck-in-2024)" from Soapbox Project
+:::
 
 ### Interactive Q&A
 
