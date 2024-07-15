@@ -30,12 +30,13 @@ This guide will help you host events on a scale of easy happy hours to a full on
 Check to see if there are existing events and organizations you are not aware of.
 
 - [Climate Tech Cities](https://www.climatetechcities.com/)
-- [MCJ Events Calendar on Luma](https://lu.ma/u/mcj)
+- [MCJ Events Calendar](https://lu.ma/u/mcj), [Climate Draft Events Calendar](https://lu.ma/climatedraft-community)
 - Local channels in various [Slack Communities](/level-1#core-communities), for example `#meet-seattle` in the [Work on Climate Slack](https://workonclimate.org)
+- Email newsletters and Substacks - like [the one for Seattle](https://seattle.climatetechcities.com) 
 - General climate change meetups - 350.org chapter, green drinks, etc.
 - You can also search through Eventbrite, Meetup.com, Luma, and other sites for things about climate change
 
-:::contribute Climate Week
+<!-- :::contribute Climate Week
 More and more US cities are hosting [Climate Week](event-format-climate-day-or-week) events
 - [Climate Week NYC](https://www.climateweeknyc.org/)
 - [SF Climate Week](https://www.sfclimateweek.org/)
@@ -43,7 +44,7 @@ More and more US cities are hosting [Climate Week](event-format-climate-day-or-w
 - [Houston Energy & Climate Week](https://climateweekhouston.com/)
 
 Bookmark them on your calendar
-:::
+::: -->
 
 ## Event Guides
 
