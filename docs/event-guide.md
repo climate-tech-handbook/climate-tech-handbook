@@ -126,19 +126,24 @@ This will take some work but it can be the most rewarding.
 
 - Climate Community Dinner ([Example - Soapbox Seattle](https://www.eventbrite.com/e/soapbox-seattle-climate-community-dinners-tickets-845064910897))
 
-- Speed networking - ([Example - Climate Mayhem / Indigo Slate](https://lu.ma/co.work-may2024))
+- Speed networking - (Example: [Climate Mayhem / Indigo Slate](https://lu.ma/co.work-may2024)))
 
 - Founders potluck
 
-- Outdoor excursion ([bike ride example](https://lu.ma/9wmgdncx))
+- Community barbecue
 
-- Karaoke - ([Example - Cool Climate Collective / Pachamama Ventures](https://lu.ma/casual-climate-karaoke))
+- Outdoor excursion (Example [Bike Ride](https://lu.ma/9wmgdncx))
 
-- Film Festival
+- Karaoke - (Examples: [Snocap / 9zero](https://www.linkedin.com/feed/update/urn:li:activity:7217987708512522240/), or [Cool Climate Collective / Pachamama Ventures](https://lu.ma/casual-climate-karaoke)) 
+
+- Film Festival - [Climate Film Festival](https://www.climatefilmfest.com/)
 
 - Weekend retreat
 
+- Activity Workshop (Example: [Circular Spring](https://lu.ma/q2vkpzob))
+
 - Pickleball
+
 
 ## Facilitation / Icebreakers
 
@@ -195,3 +200,5 @@ People then can share their view and elaborate on why they feel that way, based 
 - [MCJ Guide](https://docs.google.com/document/d/1wRzbTbouCaz_gdQ6bW7qaDNa1gk8M3pJkuTjJoYbPk8/edit#)
 
 - [Lowell's Guide](https://www.notion.so/Organizing-a-Climate-Meetup-2c7005194d4b4c6f954231668432f7b3?pvs=4)
+
+- [PNW Climate Week's Guide](https://www.notion.so/native/seattleclimatetech/Event-Hosting-Guide-2b41e3659d1948eca04ae04b67c831a3?deepLinkOpenNewTab=true)

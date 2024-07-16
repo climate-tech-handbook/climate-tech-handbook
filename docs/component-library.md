@@ -77,16 +77,24 @@ test
 
 ## Podcast embed
 
+**Apple Podcast**
+
+_Switch the src URL for your desired podcast_
+
 <iframe 
   allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" 
   frameBorder="0" 
   height="175" 
   style={{width:'100%', maxWidth:'660px', overflow:'hidden', borderRadius:'10px'}} 
   sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
-  src="https://player.simplecast.com/48f461ac-a9c3-4c9e-8288-207b588d8a60?dark=true&wmode=opaque"
+  src="https://embed.podcasts.apple.com/us/podcast/ai-weather-forecasts-for-climate-adaptation-with-dr/id1756820585?i=1000661965880"
 />
 
+**Other Podcast**
+
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameBorder="0" height="175" style={{width:'100%', maxWidth:'660px', overflow:'hidden', borderRadius:'10px'}} sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://player.simplecast.com/c0a97991-908c-49ab-a4d5-f2002f6b163b?dark=true&wmode=opaque" />
+
+
 
 ## YouTube embed
 
