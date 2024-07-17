@@ -1,5 +1,5 @@
 ---
-title: Climate Event Organizers Guide
+title: Climate Event Organizing Guide
 displayed_sidebar: docSidebar
 hide_table_of_contents: true
 ---
@@ -130,7 +130,7 @@ This will take some work but it can be the most rewarding.
 
 - Speed networking - (Example: [Climate Mayhem / Indigo Slate](https://lu.ma/co.work-may2024)))
 
-- Founders potluck
+- Founders potluck - [Example here](https://www.linkedin.com/posts/lowellbander_2-climate-founders-pt-2-double-dinner-activity-7155006039308800000-1Ypb) / Use this [template for organizing](https://docs.google.com/document/d/1YKJHdfkSpy05rnoUU68t5xb_qbzBJlPEYIW-cOmB4xg/edit)
 
 - Community barbecue
 
@@ -140,9 +140,11 @@ This will take some work but it can be the most rewarding.
 
 - Film Festival - [Climate Film Festival](https://www.climatefilmfest.com/)
 
-- Weekend retreat
+- Weekend retreat - [Summer Backpacking Example](https://docs.google.com/document/d/1-10Qu_WDmTDQufkggIO6QOrkSZ8Qu8RrO-TWo4mcGng/edit?usp=sharing) / or a Winter Cabin
 
 - Activity Workshop (Example: [Circular Spring](https://lu.ma/q2vkpzob))
+
+- Minute Motifs ([Example here](https://www.linkedin.com/posts/jacobcaggiano_pnwclimateweek-activity-7216904462840258561-pLzG): it's like a lightning talk, but more people participate and it's only 1 minute 1 slide)
 
 - Pickleball
 
