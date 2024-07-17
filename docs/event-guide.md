@@ -124,7 +124,7 @@ This will take some work but it can be the most rewarding.
 
 ## Want more ideas?
 
-- Climate Community Dinner ([Example - Soapbox Seattle](https://www.eventbrite.com/e/soapbox-seattle-climate-community-dinners-tickets-845064910897))
+- Climate Community Dinner ([Example - Soapbox Seattle](https://lu.ma/xnpail55))
 
 - Speed networking - (Example: [Climate Mayhem / Indigo Slate](https://lu.ma/co.work-may2024)))
 
