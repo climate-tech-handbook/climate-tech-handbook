@@ -126,6 +126,8 @@ This will take some work but it can be the most rewarding.
 
 - Climate Community Dinner ([Example - Soapbox Seattle](https://lu.ma/xnpail55))
 
+- Game Night - Play [Daybreak](https://daybreakgame.org/) it is execllent
+
 - Speed networking - (Example: [Climate Mayhem / Indigo Slate](https://lu.ma/co.work-may2024)))
 
 - Founders potluck
