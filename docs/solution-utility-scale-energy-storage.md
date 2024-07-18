@@ -3,7 +3,7 @@ title: Utility-Scale Energy Storage
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
-![](/../static/img/utility-scale-energy-storage.jpg)
+![image of large battery unit](/../static/img/utility-scale-energy-storage.jpg)
 
 *Solar PV and Wind energy Storage ([NREL](https://www.nrel.gov/news/program/2021/grid-scale-storage-us-storage-capacity-could-grow-five-fold-by-2050.html))*
 
