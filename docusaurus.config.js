@@ -18,7 +18,13 @@ const darkCodeTheme = themes.dracula;
     plugins: [
       require.resolve('docusaurus-lunr-search'),
       require.resolve('docusaurus-plugin-image-zoom'),
-      './custom-plugins/auto-set-displayed-sidebar.js',      
+      './custom-plugins/auto-set-displayed-sidebar.js',
+      [
+        './custom-plugins/botsonic.js',
+        {
+          botsonicToken: "122fc084-8514-4948-bf90-cc4de5f806ee",
+        },
+      ],
     ],
 
     presets: [
@@ -54,6 +60,7 @@ const darkCodeTheme = themes.dracula;
     customFields: {
       statement:
         "Find a career you love",
+      botsonicToken: "122fc084-8514-4948-bf90-cc4de5f806ee",
     },
 
     themeConfig:
