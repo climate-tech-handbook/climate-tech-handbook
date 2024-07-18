@@ -1,10 +1,11 @@
 ---
 title: Event Format - Minute Motifs
 displayed_sidebar: docSidebar
+hide_table_of_contents: true
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-![Climate Lightning Talks in Seattle](/img/climate-lightning-talks.jpg)
+![Climate Lightning Talks in Seattle](/img/minute-motifs-seattle.jpg)
 
 ## What is this page?
 
@@ -25,6 +26,10 @@ They are very similar to [Lightning Talks](event-format-lightning-talks) but:
 2. **Many more presenters**, due to the very short 1 minute presentation time
 
 3. **Designed for networking**, because so many cool ideas are shared
+
+## Example Motifs & Slides
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRTrY8bdKUpnlIQKW2vQRycJh3uUs4PdvCZ-ETd6j_NTzAkzUjNrCc_wOlGpWXrtRuZE-KsNj0FDGZ1/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Steal our Assets
 :::info Steal our assets

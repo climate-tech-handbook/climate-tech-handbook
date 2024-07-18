@@ -36,7 +36,7 @@ Some notable Climate Weeks:
 
 and virtual events like [Climate Career Week](https://www.climatecareerweek.org/)
 
-:::info Assets
+:::info Steal These Assets
 - [Set up Notion workspace like this](https://www.notion.so/native/seattleclimatetech/PNW-Climate-Week-2024-49f06d99a199415fb8a3b955bb42efbe) to keep things organized
 - Make a private Slack Channel in the [Work on Climate](https://workonclimate.org) Slack Community to wrangle people 
 :::
