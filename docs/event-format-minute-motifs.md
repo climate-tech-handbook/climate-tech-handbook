@@ -3,9 +3,7 @@ title: Event Format - Minute Motifs
 displayed_sidebar: docSidebar
 hide_table_of_contents: false
 ---
-import ImageCard from '../src/components/ImageCard/ImageCard';
-
-![Climate Lightning Talks in Seattle](/img/minute-motifs-seattle.jpg)
+![Image of speaker giving minute motif in Seattle](/img/minute-motifs-seattle.jpg)
 
 ## What is this page?
 
