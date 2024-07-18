@@ -9,6 +9,14 @@ Heavy work in progress
 
 ## Header 1
 
+[Climate Change AI](https://www.climatechange.ai/) is a global non-profit that catalyzes impactful work at the intersection of climate change and machine learning.
+
+### Criticism of AI
+
+Former Microsoft employees [reveal their years-long internal struggle](https://grist.org/accountability/microsoft-employees-spent-years-fighting-the-tech-giants-oil-ties-now-theyre-speaking-out/) to pressure the tech giant to end its partnerships with fossil fuel companies, highlighting the tension between corporate climate commitments and profitable oil industry contracts.
+
+This podcast episode from Climate Stack:
+
 <iframe 
   allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" 
   frameBorder="0" 
