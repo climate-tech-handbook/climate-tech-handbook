@@ -4,9 +4,11 @@ displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
 
-# Reduced Food Waste: A Critical Climate Solution
+# Reduced Food Waste
 
-Reducing food waste is one of the most impactful opportunities for cutting greenhouse gas emissions globally—surpassing the potential of restoring forests, insulating buildings, and driving electric vehicles.
+Reducing food waste is the NUMBER ONE recommended climate solution from Project Drawdown.
+
+The total [emissions from the food system rise to ~34%](https://www.nature.com/articles/s43016-021-00225-9) when considering emissions associated with food waste rotting in landfills plus cooking, refrigerating, processing, transporting, and packaging food. That makes food the single largest emitting economic sector – larger than power generation, industry, transportation, or buildings.
 
 ![Food waste illustration](/../static/img/reduced-food-waste.png)
 
@@ -30,6 +32,11 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 - Food waste in landfills produces methane, a potent greenhouse gas with 25 times the global warming potential of CO2 ([EPA](https://www.epa.gov/ghgemissions/overview-greenhouse-gases)).
 - Wasted food also represents a significant loss of water, land, and energy resources used in production.
 
+![Drawdown food waste chart](/img/drawdown-food-waste-chart.jpg)
+:::book More info
+- [ReFED](https://refed.org/): is an up to date resource on food waste solutions
+- [Project Drawdown - food waste](https://drawdown.org/news/insights/fixing-foods-big-climate-problem) overview
+:::
 ## Solutions by Sector
 
 ### Production

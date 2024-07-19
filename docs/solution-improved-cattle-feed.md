@@ -9,7 +9,7 @@ pagination_prev: solutions
 
 
 :::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Improved+Cattle+Feed)
+### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Improved+Cattle+Feed)
 :::
 
 ## Overview
@@ -41,10 +41,3 @@ pagination_prev: solutions
 * Amplify public awareness about the advantages of Improved Cattle Feed.
 * Collaborate with governments to establish incentives for farmers.
 * Form alliances with NGOs and institutions for broadened promotion and support.
-
-  **In the Vanguard of the Solution**:
-
-  * **Cargill**: Invested significantly in R&D of Improved Cattle Feed.
-  * **Monsanto**: Introduced an incentive program for farmers.
-  * **National Cattlemen's Beef Association**: Engaging with governmental bodies for supportive policies.
-  * **World Wildlife Fund**: Collaborating with farmers, especially in developing countries, to promote the technology.

@@ -3,15 +3,9 @@ title: Utility-Scale Energy Storage
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
-![](/../static/img/utility-scale-energy-storage.jpg)
+![image of large battery unit](/../static/img/utility-scale-energy-storage.jpg)
 
 *Solar PV and Wind energy Storage ([NREL](https://www.nrel.gov/news/program/2021/grid-scale-storage-us-storage-capacity-could-grow-five-fold-by-2050.html))*
-
-:::info [Help us track this Solution](../../contribute)
-This a sample ChatGPT page to get the ball rolling.
-[Contribute content and feedback](contribute)
-:::
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Utility-Scale+Energy+Storage)
