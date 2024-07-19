@@ -35,20 +35,25 @@ John Oliver's segment on carbon credits highlights some of the controversies sur
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6p8zAbFKpW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Rebuttal in Time Magazine](https://time.com/6323461/carbon-credits-greenwashing/)
+### Rebuttal in Time Magazine
+Bronson Griscom argues that ["Most Companies Buying Carbon Credits Are Not Greenwashing"](https://time.com/6323461/carbon-credits-greenwashing/)
 
 ### Oliver's Claims
 
-<!-- - **Most carbon offsets available on the market don't reliably reduce emissions** - [Source](https://youtu.be/6p8zAbFKpW0)
-- **Offsets are now the backbone of the environmental policies of many of the biggest polluters** - [Source](https://youtu.be/6p8zAbFKpW0)
-- **BP's misleading explanation of carbon offsets** - [Source](https://youtu.be/6p8zAbFKpW0)
-- **Carbon offsets can be compared to buying a diamond watch to offset infidelity** - [Source](https://youtu.be/6p8zAbFKpW0)
-- **Carbon offsets might be making climate change worse** - [Source](https://youtu.be/6p8zAbFKpW0)
-- **Example of a forest carbon offset project that failed to deliver promised benefits** - [Source](https://youtu.be/6p8zAbFKpW0)
-- **Carbon offsets can create perverse incentives, such as paying to not cut down trees that were never at risk** - [Source](https://youtu.be/6p8zAbFKpW0)
-- **Companies using carbon offsets to claim carbon neutrality without reducing their actual emissions** - [Source](https://youtu.be/6p8zAbFKpW0)
-- **The need for better regulation and standards for carbon offsets** - [Source](https://youtu.be/6p8zAbFKpW0)
- -->
+- **Most carbon offsets don't reliably reduce emissions** - [Carbon offsets don’t reliably reduce emissions](https://www.sierraclub.org/sierra/do-carbon-offsets-really-work)
+- **Offsets are now the backbone of environmental policies for many major polluters** - [Offsets are the backbone of environmental policies](https://www.theguardian.com/environment/2023/sep/19/do-carbon-credit-reduce-emissions-greenhouse-gases)
+- **JP Morgan's carbon neutrality claim is questionable** - [JP Morgan's carbon neutrality claim](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe)
+- **The Nature Conservancy sold questionable offsets to Disney** - [Nature Conservancy's offsets to Disney](https://www.theguardian.com/environment/2023/jan/18/revealed-forest-carbon-offsets-biggest-provider-worthless-verra-aoe)
+- **Airport offset programs may support questionable projects** - [Airport offset programs](https://www.sierraclub.org/sierra/do-carbon-offsets-really-work)
+- **Short-term forest protection (e.g., 1 year) provides little climate benefit** - [Short-term forest protection](https://www.technologyreview.com/2023/11/30/1084104/the-university-of-california-has-all-but-dropped-carbon-offsets-and-thinks-you-should-too/)
+- **Forest-based offsets are vulnerable to wildfires** - [Forest-based offsets vulnerable to wildfires](https://cnr.ncsu.edu/news/2024/01/forest-carbon-offsets-dont-always-work/)
+- **Ryanair's offsetting scheme covered only 0.01% of their 2019 emissions** - [Ryanair's offsetting scheme](https://www.theguardian.com/environment/2023/sep/19/do-carbon-credit-reduce-emissions-greenhouse-gases)
+- **Carbon offset registries have low standards and lack accountability** - [Carbon offset registries' low standards](https://time.com/6264772/study-most-carbon-credits-are-bogus/)
+- **Many wind turbine offset projects in India would have been built anyway** - [Wind turbine offset projects in India](https://www.theguardian.com/environment/2023/sep/19/do-carbon-credit-reduce-emissions-greenhouse-gases)
+- **Some offset projects can harm local communities** - [Offset projects harming local communities](https://www.theguardian.com/environment/2023/sep/19/do-carbon-credit-reduce-emissions-greenhouse-gases)
+- **There isn't enough land on Earth for every company to fulfill net-zero pledges through tree planting** - [Not enough land for net-zero pledges](https://www.technologyreview.com/2023/11/30/1084104/the-university-of-california-has-all-but-dropped-carbon-offsets-and-thinks-you-should-too/)
+- **The current offset system prioritizes profits over science** - [Offset system prioritizes profits over science](https://www.theguardian.com/environment/2023/sep/19/do-carbon-credit-reduce-emissions-greenhouse-gases)
+
 
 ## Worst examples of greenwashing
 
