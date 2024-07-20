@@ -7,8 +7,10 @@ pagination_prev: solutions
 
 
 :::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Microgrids)
+### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Microgrids)
+Keep an eye on groups like the [Solar Energy Industry Association](https://www.seia.org)
 :::
+
 
 ## Overview:
 
