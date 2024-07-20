@@ -4,12 +4,18 @@ displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
 
-![Distributed Energy Storage diagram](../static/img/distributed-energy-storage.jpg)
-
 Distributed Energy Storage is a crucial component in the transition to a cleaner, more resilient energy system. By storing energy locally and using it when needed, we can reduce reliance on large, centralized power plants and better integrate renewable energy sources.
+
+![Distributed Energy Storage diagram](../static/img/distributed-energy-storage.jpg)
 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Energy+Storage)
+#### Example Companies
+- [Tesla](https://www.tesla.com/powerwall) - Powerwall for home energy storage
+- [Stem](https://www.stem.com/) - AI-driven energy storage solutions
+- [Fluence](https://fluenceenergy.com/) - Advanced energy storage technology and services
+- [sonnen](https://sonnenusa.com/) - Residential and commercial energy storage systems
+- [Enphase](https://enphase.com/energy-storage) - Integrated solar and storage solutions
 :::
 
 :::contribute Community
@@ -80,13 +86,6 @@ To accelerate the adoption and impact of distributed energy storage:
 4. **Workforce Development**: Invest in training programs to build a skilled workforce for installation and maintenance of storage systems.
 5. **Community Engagement**: Educate the public about the benefits of distributed energy storage and its role in the clean energy transition.
 
-:::company Example Companies
-- [Tesla](https://www.tesla.com/powerwall) - Powerwall for home energy storage
-- [Stem](https://www.stem.com/) - AI-driven energy storage solutions
-- [Fluence](https://fluenceenergy.com/) - Advanced energy storage technology and services
-- [sonnen](https://sonnenusa.com/) - Residential and commercial energy storage systems
-- [Enphase](https://enphase.com/energy-storage) - Integrated solar and storage solutions
-:::
 
 :::info Learn More
 - [Energy Storage Association](https://energystorage.org/)
