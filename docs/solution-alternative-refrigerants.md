@@ -11,11 +11,11 @@ Alternative refrigerants are crucial for reducing greenhouse gas emissions from 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Refrigerants)
 #### Example Companies
-- [Honeywell](https://www.honeywell.com) - Developing low-GWP refrigerants like Solstice®
-- [Daikin Industries](https://www.daikin.com) - Investing in natural refrigerants such as ammonia and CO2
-- [Chemours](https://www.chemours.com) - Producing Opteon™ low-GWP refrigerants
-- [Trane Technologies](https://www.tranetechnologies.com) - Developing sustainable HVAC solutions
-- [Carrier](https://www.carrier.com) - Innovating in energy-efficient cooling systems
+- [Honeywell](https://www.honeywell.com) - Developing low-GWP refrigerants like Solstice® to reduce environmental impact.
+- [Daikin Industries](https://www.daikin.com) - Investing in natural refrigerants such as ammonia and CO2, which have lower GWPs.
+- [Chemours](https://www.chemours.com) - Producing Opteon™ low-GWP refrigerants for various applications.
+- [Trane Technologies](https://www.tranetechnologies.com) - Developing sustainable HVAC solutions with low-GWP refrigerants.
+- [Carrier](https://www.carrier.com) - Innovating in energy-efficient cooling systems using alternative refrigerants.
 :::
 
 ## Overview
@@ -76,25 +76,33 @@ Drawdown refrigerants chart
 - Increased adoption of natural refrigerants such as CO2, ammonia, and hydrocarbons.
 - Improved energy efficiency in cooling systems, reducing overall emissions.
 
+## Lessons Learned
+
+1. **Low-Carbon Cement**: It is possible to create low-carbon cement that significantly reduces greenhouse gas emissions.
+2. **Alternative Materials**: Using industrial waste products can create more sustainable cement.
+3. **Energy Efficiency**: Adapting manufacturing processes to use less energy and water further reduces environmental impact.
+4. **Versatility**: Alternative cement can be used in various applications, including concrete, mortar, and grout.
+5. **Early Development**: The technology is still in its early stages, and there is room for improvement.
+
 ## Challenges Ahead
 
-1. High costs associated with transitioning to alternative refrigerants.
-2. Technical challenges in retrofitting existing systems.
-3. Safety concerns with some alternative refrigerants (e.g., flammability of hydrocarbons).
-4. Limited availability of trained technicians for new refrigerant technologies.
+1. **Cost**: Alternative cements are typically more expensive than traditional Portland cement.
+2. **Infrastructure**: Different manufacturing processes and equipment are required.
+3. **Standards**: Lack of universally accepted standards for alternative cements.
+4. **Performance**: Predicting the performance of alternative cements in concrete can be challenging.
 
 ## Best Path Forward
 
-1. Accelerate research and development of low-GWP refrigerants and cooling technologies.
-2. Implement supportive policies and financial incentives for the adoption of alternative refrigerants.
-3. Improve technician training programs to ensure safe handling of new refrigerants.
-4. Enhance refrigerant recovery and recycling infrastructure to minimize emissions from existing systems.
-5. Promote international cooperation through agreements like the Kigali Amendment to the Montreal Protocol.
+1. **Research and Development**: Increase investment in R&D for alternative cement technology.
+2. **Industry Collaboration**: Work with cement producers to promote adoption.
+3. **Environmental Studies**: Conduct more studies on the environmental benefits of alternative cement.
+4. **Policy Support**: Work with policymakers to create incentives for using alternative cement.
+5. **Public Awareness**: Increase public awareness of the benefits of alternative cement.
 
 :::info Learn More
-- [Project Drawdown - Alternative Refrigerants](https://drawdown.org/solutions/alternative-refrigerants)
-- [EPA - Significant New Alternatives Policy (SNAP) Program](https://www.epa.gov/snap)
-- [International Institute of Refrigeration](https://iifiir.org/)
+- [Project Drawdown - Alternative Cement](https://drawdown.org/solutions/alternative-cement)
+- [EPA - Overview of Greenhouse Gases](https://www.epa.gov/ghgemissions/overview-greenhouse-gases)
+- [European Commission - F-Gas Regulation](https://ec.europa.eu/clima/policies/f-gas_en)
 :::
 
-*Image credit: Refrigeration Technology ([Honeywell](https://www.honeywell.com))*
+*Image credit: Cement Factory ([Patrick Hendry](https://unsplash.com/@worldsbetweenlines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
