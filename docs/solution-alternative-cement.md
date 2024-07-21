@@ -19,7 +19,6 @@ Alternative cement technologies are essential for reducing the carbon footprint 
 - [Prometheus Materials](https://prometheusmaterials.com/home/) - Develops bio-cement using microorganisms to create sustainable building materials.
 :::
 
-
 ## Overview
 
 The production of cement is a major source of greenhouse gas emissions, accounting for approximately 8% of global emissions. As the world looks to reduce its emissions in order to reverse climate change, the development of alternative cements has been a major focus.
@@ -33,7 +32,7 @@ The production of cement is a major source of greenhouse gas emissions, accounti
 :::book Resources 
 - [A Look at Industry](https://climatedrift.substack.com/p/a-look-at-industry) - Climate Drift
 - [Carbon-Neutral Cement: Decarbonizing the main building material to eliminate 8% of global CO2 emissions](https://www.climatetechdistillery.com/p/carbon-neutral-cement) - Climate Tech Distillery
-- [Reducing Industrial Emissions: Steel and Cement](https://warminguptoclimatetech.substack.com/p/reducing-industrial-emissions-steel-cement)
+- [Reducing Industrial Emissions: Steel and Cement](https://warminguptoclimatetech.substack.com/p/reducing-industrial-emissions-steel-cement) - Warming up to Climate Tech
 :::
 
 :::podcast MCJ Podcast Episode
