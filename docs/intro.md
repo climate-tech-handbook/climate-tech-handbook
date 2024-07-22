@@ -19,7 +19,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 - We are _5 years_ from reaching a global temperature of **1.5 degrees Celsius (or 2.7 degrees Fahrenheit)**. 
 - We need to _reduce greenhouse pollution_ by **50% before 2030 and 100% by 2050**.
-- We are already experiencing _millions of deaths per year_ and **billions of economic damages thus far**. Each year this number is increasing.
+- We are already experiencing _millions of deaths per year_ and **billions of economic damages thus far**. Each year this number is increasing (this is being tracked by [Yale Climate Connections](https://yaleclimateconnections.org)).
 
 #### ![Partly Cloudy](../static/img/partlycloudy.png) Despite this, though, there is still hope. Currently:
 

@@ -7,34 +7,6 @@ pagination_prev: solutions
 
 *15 minutes of walkable city ([Yes Magazine](https://www.yesmagazine.org/economy/2021/05/05/15-minute-city-walk))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://maymobility.com">May Mobility</a></li>
-            
-                <li><a href="https://human-horizons.com/en">Human Horizons</a></li>
-            
-                <li><a href="https://volocopter.com">Volocopter</a></li>
-            
-                <li><a href="https://voiscooters.com">Voi</a></li>
-            
-                <li><a href="https://sidewalklabs.com/">Sidewalk Labs</a></li>
-            
-                <li><a href="https://www.sidewalkinfra.com/">Sidewalk Infrastructure Partners</a></li>
-            
-                <li><a href="https://transpod.com">Transpod</a></li>
-            
-                <li><a href="https://culdesac.com/">Culdesac</a></li>
-            
-                <li><a href="https://replicahq.com/">Replica</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Walkable+Cities)

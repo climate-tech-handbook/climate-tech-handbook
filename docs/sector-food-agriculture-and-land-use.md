@@ -17,6 +17,12 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
 
+#### Example Companies:
+- [Yard Stick](https://www.useyardstick.com/)
+- [Regrow Ag](https://regrow.ag/)
+- [Aigen](https://www.aigen.io)
+
+
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
 

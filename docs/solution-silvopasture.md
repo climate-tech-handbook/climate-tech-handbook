@@ -7,18 +7,6 @@ pagination_prev: solutions
 
 *An example layout of a silvopasture system ([Silvopasture Systems](https://woodlandstewards.osu.edu/sites/woodlands/files/imce/Silvopasture%20-%20Roger%20Williams.pdf))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://apisprotect.com">Apsis Protect</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Silvopasture)

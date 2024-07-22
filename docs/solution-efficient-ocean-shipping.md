@@ -7,24 +7,6 @@ pagination_prev: solutions
 ![Cover Image](../static/img/efficient-ocean-shipping.png)
 _Image Credit: [Marine Insight](https://www.marineinsight.com/maritime-law/energy-efficiency-design-index/)_
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://convoy.com">Convoy</a></li>
-            
-                <li><a href="https://4ocean.com">4ocean</a></li>
-            
-                <li><a href="https://nan">Boundary Layer</a></li>
-            
-                <li><a href="https://nautiluslabs.co">Nautilus Labs</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Efficient+Ocean+Shipping)

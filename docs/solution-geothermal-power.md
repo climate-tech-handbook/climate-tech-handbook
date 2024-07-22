@@ -8,21 +8,7 @@ pagination_prev: solutions
 
 _Krafla, a geothermal power station in Iceland_
 
-<!-- <details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://nan">Climate Now</a></li>
-            
-                <li><a href="https://earth-ai.com">Earth Ai</a></li>
-            
-                <li><a href="https://altarockenergy.com">Altarock</a></li>
-            
-            </ul>
-        </div>
-        </details> -->
+<!-- extract -->
 
 
 :::company job openings

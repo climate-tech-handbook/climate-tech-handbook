@@ -4,114 +4,93 @@ displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
 
+Distributed Energy Storage is a crucial component in the transition to a cleaner, more resilient energy system. By storing energy locally and using it when needed, we can reduce reliance on large, centralized power plants and better integrate renewable energy sources.
+
 ![Distributed Energy Storage diagram](../static/img/distributed-energy-storage.jpg)
 
-:::contribute Community
-[Join DER Task Force](https://dertaskforce.com/) on Slack
-:::
-
-:::tip Resources
- - [Reading guide](https://miro.com/app/board/uXjVNd1IcnU=/)
- - [Intercalation Station](https://intercalationstation.substack.com) -  a battery specific newsletter
- - [InDERmediate](https://www.indermediate.com/) podcast -  move up your clean energy knowledge from beginner to intermediate level
-:::
-
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.coord.com/">Coord</a></li>
-            
-                <li><a href="https://nwenergy.org/">Northwest Energy Coalition</a></li>
-            
-                <li><a href="http://ChooseEnergy.com">Choose Energy</a></li>
-            
-                <li><a href="https://nan">Distributed Energy</a></li>
-            
-                <li><a href="https://powerledger.io">Power Ledger</a></li>
-            
-                <li><a href="https://kiva.org/startgood">Kiva</a></li>
-            
-                <li><a href="https://lo3energy.com">Lo3 Energy</a></li>
-            
-                <li><a href="https://OmegaGrid.com">Omega Grid</a></li>
-            
-                <li><a href="https://nan">Lition Ag</a></li>
-            
-                <li><a href="https://verv.energy">Verv</a></li>
-            
-                <li><a href="https://www.electron.org.uk/">Electron</a></li>
-            
-                <li><a href="https://www.enbala.com">Enbala</a></li>
-            
-                <li><a href="https://enervee.com/">Enervee</a></li>
-            
-                <li><a href="https://Blocpower.io">Blocpower</a></li>
-            
-                <li><a href="http://blocpower.io/">Bloc Power</a></li>
-            
-                <li><a href="https://energiagroup.com">Energia Group</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
-
 :::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Energy+Storage)
+### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Energy+Storage)
+#### Example Companies
+- [Tesla](https://www.tesla.com/powerwall) - Powerwall for home energy storage
+- [Stem](https://www.stem.com/) - AI-driven energy storage solutions
+- [Fluence](https://fluenceenergy.com/) - Advanced energy storage technology and services
+- [sonnen](https://sonnenusa.com/) - Residential and commercial energy storage systems
+- [Enphase](https://enphase.com/energy-storage) - Integrated solar and storage solutions
+:::
+
+:::contribute Community
+- [Join DER Task Force](https://dertaskforce.com/) on Slack
+- Participate in [Energy Storage Association](https://energystorage.org/) events and working groups
+:::
+
+:::book Resources
+- [Intercalation Station](https://intercalationstation.substack.com) - A battery-specific newsletter
+- [InDERmediate](https://www.indermediate.com/) podcast - Move up your clean energy knowledge from beginner to intermediate level
+- [Energy Storage News](https://www.energy-storage.news/) - Latest updates in energy storage technology and markets
+- [DER Reading Guide](https://miro.com/app/board/uXjVNd1IcnU=/) - Comprehensive study material on Distributed Energy Resources
 :::
 
 ## Overview
 
-Through the use of distributed energy storage, energy can be stored locally and used when needed, reducing the need for large, centralized power plants that emit greenhouse gases.
+Distributed Energy Storage systems allow for the local storage and use of energy, reducing the need for large, centralized power plants that emit greenhouse gases. These systems play a crucial role in integrating renewable energy sources and improving grid stability.
 
-Breakthrough Technologies:
+## Solutions by Sector
 
-- **Lithium-ion Batteries:** Efficient for large energy storage.
-- **Solar PV Panels:** Efficient and cost-effective solar power.
-- **Wind Turbines:** Efficient wind power.
+### Residential
+- **Home Battery Systems**: Devices like Tesla's Powerwall and LG Chem's RESU store solar energy for use during peak times or outages.
+- **Smart Home Integration**: Systems that integrate with home automation to optimize energy use and storage.
 
-Leading Innovators:
+### Commercial and Industrial
+- **On-Site Energy Storage**: Large-scale battery systems for businesses to manage energy use and reduce peak demand charges.
+- **Microgrids**: Localized grids that can operate independently from the main grid, providing resilience and stability.
 
-- **Tesla:** Powerwall for home energy storage.
-- **SunPower:** Solar panel system with built-in battery.
-- **Vestas:** Wind turbine development.
+### Utility-Scale
+- **Grid-Scale Batteries**: Large installations like those by Fluence and Tesla that provide grid services such as frequency regulation and load balancing.
+- **Pumped Hydro Storage**: Using excess energy to pump water uphill, which can be released to generate electricity when needed.
 
 ## Progress Made
 
-Significant progress in distributed energy storage includes:
+Significant advancements have been made in distributed energy storage:
 
-- **Efficient Solar PV Panels:** Lower cost and accessibility.
-- **Efficient Wind Turbines:** More accessible wind power.
-- **Efficient Electric Vehicles:** Reduced transportation emissions.
+1. **Lithium-ion Battery Improvements**: Increased efficiency and reduced costs have made large-scale energy storage more viable.
+2. **Smart Grid Integration**: Advanced software and control systems allow for better coordination between storage systems and the grid.
+3. **Renewable Energy Coupling**: Improved integration of storage with solar PV and wind power systems.
+4. **Vehicle-to-Grid (V2G) Technology**: Electric vehicles are being used as mobile energy storage units, providing grid services when not in use.
+
+## Case Studies
+
+1. **Hornsdale Power Reserve, Australia**: Known as the "Tesla Big Battery," this project has significantly improved grid stability and reduced energy costs in South Australia ([Tesla](https://www.tesla.com/megapack)).
+2. **Brooklyn Microgrid, USA**: A community microgrid project that allows residents to trade solar energy locally, enhancing energy resilience and sustainability ([LO3 Energy](https://lo3energy.com/)).
 
 ## Lessons Learned
 
-Of course, here's the summary of the "Lessons Learned" section in bullet points:
-
-- **Siting and Sizing:** Proper siting and sizing of Distributed Energy Resources (DER) is crucial. Well-placed and appropriately sized DER systems yield benefits like improved power quality, grid stability, and resilience.
-
-- **Integration Compatibility:** Integrating DER into the grid should align with existing infrastructure. Technical, economic, and policy considerations, including grid connection and operations, are essential for successful integration.
-
-- **Balancing Benefits and Costs:** Evaluating both benefits and costs is vital. Benefits include improved power quality, reliability, and grid stability. However, costs, including capital, operational, and integration costs, should be considered as well.
+1. **Importance of Policy Support**: Supportive policies and regulations are crucial for the widespread adoption of distributed energy storage.
+2. **Value Stacking**: Maximizing the value of storage systems by providing multiple services (e.g., peak shaving, frequency regulation, backup power).
+3. **Locational Benefits**: Proper siting of storage systems can provide significant grid benefits and defer costly infrastructure upgrades.
+4. **Safety Considerations**: Ensuring proper safety protocols and standards for battery storage systems, especially in residential settings.
 
 ## Challenges Ahead
 
-The major challenges that remain in the development and implementation of Distributed Energy Storage to reverse climate change are:
-
-1. **High Storage Tech Cost:** Hinders widespread adoption.
-2. **Lack of Comprehensive Plan:** Tailoring solutions to needs.
-3. **Continuous R&D:** Enhancing performance and affordability.
+1. **Cost Reduction**: While prices have decreased, further cost reductions are needed for widespread adoption.
+2. **Long-Duration Storage**: Developing cost-effective solutions for storing energy over longer periods (days to weeks).
+3. **Raw Material Supply**: Ensuring a sustainable and ethical supply chain for battery materials.
+4. **Recycling Infrastructure**: Developing efficient recycling processes for end-of-life batteries.
 
 ## Best Path Forward
 
-Continued development of distributed energy storage to mitigate climate change requires:
+To accelerate the adoption and impact of distributed energy storage:
 
-1. **R&D Investment:** Technology enhancement and affordability.
-2. **Public Awareness:** Highlighting benefits.
-3. **Government Incentives:** Encouraging adoption.
-4. **Business Model Innovation:** New approaches for storage.
+1. **Continued R&D Investment**: Focus on improving energy density, longevity, and new storage technologies.
+2. **Supportive Policies**: Governments should implement policies that recognize the full value of energy storage, including grid services and environmental benefits.
+3. **Standardization**: Develop industry-wide standards for performance, safety, and interoperability.
+4. **Workforce Development**: Invest in training programs to build a skilled workforce for installation and maintenance of storage systems.
+5. **Community Engagement**: Educate the public about the benefits of distributed energy storage and its role in the clean energy transition.
 
-_Image from [Synapse Energy](https://www.synapse-energy.com/expertise/distributed-energy-resources)_
+
+:::info Learn More
+- [Energy Storage Association](https://energystorage.org/)
+- [International Renewable Energy Agency (IRENA) - Electricity Storage](https://www.irena.org/energytransition/Power-Sector-Transformation/Electricity-Storage)
+- [U.S. Department of Energy - Energy Storage Grand Challenge](https://www.energy.gov/energy-storage-grand-challenge/energy-storage-grand-challenge)
+:::
+
+_Image credit: [Synapse Energy](https://www.synapse-energy.com/expertise/distributed-energy-resources)_

@@ -11,32 +11,6 @@ pagination_prev: solutions
 Learn more from [The Business Network for Offshore Wind](https://www.offshorewindus.org/), a 501(c)(3) nonprofit advocate.
 :::
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://eco-drone.org">Ecodrone</a></li>
-            
-                <li><a href="https://nefino.de/">Nefino</a></li>
-            
-                <li><a href="https://ecomarinepower.com">Eco Marine Power</a></li>
-            
-                <li><a href="https://xshore.com">X Shore</a></li>
-            
-                <li><a href="https://minesto.com">Minesto</a></li>
-            
-                <li><a href="https://ampyxpower.com">Ampyx Power</a></li>
-            
-                <li><a href="https://www.saildrone.com/">Saildrone</a></li>
-            
-                <li><a href="https://equinor.com">Equinor</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Offshore+Wind+Turbines)

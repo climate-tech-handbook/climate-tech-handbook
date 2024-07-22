@@ -7,34 +7,6 @@ pagination_prev: solutions
 
 *Telepresence's carbon footprint ([Awabot](https://awabot.com/en/telepresence-robot-carbon-footprint/))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://x.company">X, The Moonshot Factory</a></li>
-            
-                <li><a href="https://www.g2vp.com/">G2vp</a></li>
-            
-                <li><a href="https://interface.com">Interface</a></li>
-            
-                <li><a href="https://www.usv.com/">Usv</a></li>
-            
-                <li><a href="https://nan">Climate Jobs List</a></li>
-            
-                <li><a href="https://drone-hopper.com">Dronehopper</a></li>
-            
-                <li><a href="https://www.byton.com/">Byton</a></li>
-            
-                <li><a href="https://bit.ly/abvme">A Billion Veg</a></li>
-            
-                <li><a href="https://ehang.com/index.html">Ehang</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Telepresence)

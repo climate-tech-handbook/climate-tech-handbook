@@ -7,23 +7,9 @@ pagination_prev: solutions
 
 *Frank Mitloehner, UC Davis professor and air quality specialist, is researching feed alternatives, such as seaweed, that reduce methane from cow burps.* ([UC Davis](https://www.ucdavis.edu/food/news/making-cattle-more-sustainable))
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.mootral.com/">Mootral</a></li>
-            
-                <li><a href="https://www.perfectdayfoods.com/">Perfect Day</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Improved+Cattle+Feed)
+### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Improved+Cattle+Feed)
 :::
 
 ## Overview
@@ -55,10 +41,3 @@ pagination_prev: solutions
 * Amplify public awareness about the advantages of Improved Cattle Feed.
 * Collaborate with governments to establish incentives for farmers.
 * Form alliances with NGOs and institutions for broadened promotion and support.
-
-  **In the Vanguard of the Solution**:
-
-  * **Cargill**: Invested significantly in R&D of Improved Cattle Feed.
-  * **Monsanto**: Introduced an incentive program for farmers.
-  * **National Cattlemen's Beef Association**: Engaging with governmental bodies for supportive policies.
-  * **World Wildlife Fund**: Collaborating with farmers, especially in developing countries, to promote the technology.

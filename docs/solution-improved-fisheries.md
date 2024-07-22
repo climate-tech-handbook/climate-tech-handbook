@@ -6,26 +6,6 @@ pagination_prev: solutions
 
 ![Cover Image](../static/img/improved-fisheries.jpg)
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://bureo.co/">Bureo</a></li>
-            
-                <li><a href="https://pelagicdata.com">Pelagic Data Systems</a></li>
-            
-                <li><a href="https://ethic.investments/">Ethic Investments</a></li>
-            
-                <li><a href="https://nan">Climate Draft</a></li>
-            
-                <li><a href="https://froglabs.ai">Froglabs</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Improved+Fisheries)

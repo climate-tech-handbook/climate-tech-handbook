@@ -6,44 +6,6 @@ pagination_prev: solutions
 ![Cover Image](../static/img/aquaculture.jpg)
 *Image credit: [foodtank.com](https://foodtank.com/news/2021/07/new-report-shows-sustainability-in-global-aquaculture/)*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://bit.ly/2xJas4f">One Earth Designs</a></li>
-            
-                <li><a href="https://quentic.com">Quentic</a></li>
-            
-                <li><a href="https://dishcraft.com/">Dishcraft Robotics</a></li>
-            
-                <li><a href="https://growup.org.uk">Growup Urgan Farms</a></li>
-            
-                <li><a href="https://catalinasearanch.com">Catalina Sea Ranch</a></li>
-            
-                <li><a href="https://katif.com/">Katif</a></li>
-            
-                <li><a href="https://efishery.com">Efishery</a></li>
-            
-                <li><a href="https://docktodish.com">Dock To Dish</a></li>
-            
-                <li><a href="https://thejackfruitcompany.com">The Jackfruit Co</a></li>
-            
-                <li><a href="https://www.xpertsea.com">Xpertsea</a></li>
-            
-                <li><a href="https://www.novonutrients.com/">Novonutrients</a></li>
-            
-                <li><a href="https://EthoCapital.com">Etho Capital</a></li>
-            
-                <li><a href="https://finlessfoods.com">Finless Foods</a></li>
-            
-                <li><a href="https://lovethewild.com">Love The Wild</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Improved+Aquaculture)

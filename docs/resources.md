@@ -28,7 +28,7 @@ Our growing database of:
 - Job categories
 - Full [glossary](/glossary) of terms -->
 
-## Nicole Kelner's Google Sheet
+# Nicole Kelner's Google Sheet
 
 [Click here to view the Google Sheet](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0).
 
@@ -36,11 +36,13 @@ Our growing database of:
 
 ## Job Boards
 
-There are 81+ [on Nicole's sheet](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0). Try:
-
+There are 81+ job boards [on Nicole's sheet](https://docs.google.com/spreadsheets/d/1QzarGBkRUvTSx8qu92O0d3zJ6XkblfyyMONSPUsoLgs/edit#gid=0). Try:
 - [Green Jobs Board](https://www.greenjobsboard.us/)
+
 - [ClimateBase](https://climatebase.org)
+
 - [Climate Tech List](https://climatetechlist.com)
+
 - [Terra.do](https://terra.do/climate-jobs/job-board/)
 
 ## Climate News

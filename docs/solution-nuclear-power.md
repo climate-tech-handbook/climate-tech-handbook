@@ -7,36 +7,6 @@ pagination_prev: solutions
 
 *Nuclear power plant diagram ([Britannica](https://www.britannica.com/technology/nuclear-power))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://moltexenergy.com">Moltex Energy</a></li>
-            
-                <li><a href="https://modernelectron.com">Modern Electron</a></li>
-            
-                <li><a href="https://vestas.com">Vestas</a></li>
-            
-                <li><a href="https://www.nitricity.co">Nitricity</a></li>
-            
-                <li><a href="https://cfs.energy">Commonwealth Fusion Systems</a></li>
-            
-                <li><a href="https://tritium.com.au">Tritium</a></li>
-            
-                <li><a href="https://nan">Nuscale Power</a></li>
-            
-                <li><a href="https://nan">Terrapower</a></li>
-            
-                <li><a href="https://surechill.com">Sure Chill</a></li>
-            
-                <li><a href="https://syntheticgenomics.com">Synthetic Genomics</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Nuclear+Power)

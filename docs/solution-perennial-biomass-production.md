@@ -7,20 +7,6 @@ pagination_prev: solutions
 
 *Annuals vs. Perennials ([Medium)](https://medium.com/@emilycritelli/perennial-biomass-production-reshaping-climate-by-reshaping-bio-energy-a-renewable-resource-eb668ca9a7ca)*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.indigoag.com/">Indigo Ag</a></li>
-            
-                <li><a href="https://nan">Holganix</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Perennial+Biomass+Production)

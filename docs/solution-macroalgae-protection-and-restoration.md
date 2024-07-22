@@ -7,20 +7,6 @@ pagination_prev: solutions
 
 *Expanding macroalgae to respond to climate change ([The Proceedings of the National Academy of Sciences ](https://www.pnas.org/doi/10.1073/pnas.2121705119))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://nan">Bayou With Love</a></li>
-            
-                <li><a href="https://algamafoods.com">Algama</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Macroalgae+Protection+and+Restoration)

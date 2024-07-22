@@ -7,20 +7,6 @@ pagination_prev: solutions
 
 *Environmental protection of LED lighting ([Solar Electric Power Company](https://www.sepco-solarlighting.com/blog/the-advantages-of-led-lights-for-the-environment))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://glowee.fr">Glowee</a></li>
-            
-                <li><a href="https://vitalvio.com">Vital Vio</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=LED+Lighting)

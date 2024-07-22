@@ -4,27 +4,27 @@ displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
 
-![Cover Image](../static/img/biochar-kiln.jpg)
-
 _Biochar helps farmers get more life out of dead plants_ ([vnews.com](https://www.vnews.com/Biochar-Demonstration-Offers-Alternative-to-Burn-Piles-46911424))
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://geltor.com/">Geltor</a></li>
-            
-                <li><a href="https://www.carboculture.com/">Carbo Culture</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
+![Cover Image](../static/img/biochar-kiln.jpg)
 
 :::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biochar+Production)
+  ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biochar+Production)
+  #### Example Companies and Organizations:
+  - [Carbo Culture](https://carboculture.com/)
+  - [The Bioeconomy Institute Carbon Removal](https://www.biorenew.iastate.edu/) $1 million XPrize winning team that developed a small lab-scale pyrolyzer, a machine that performers the pyrolysis reaction,  that sequesters carbon dioxide through biochar and produces bio-oil. The Institute also has a larger machine for biochar production at the BioCentury Research Farm outside Ames, Iowa.
+:::
+
+:::podcast Podcast Episodes
+- [Startup Series: Carbo Culture](https://player.simplecast.com/10b86d33-6c0b-467c-91d1-2cced2ac2d58?dark=true&wmode=opaque) — MCJ Collective
+- <li><a href="https://embed.podcasts.apple.com/us/podcast/from-biowaste-to-biogold/id1593204897?i=1000565755759">From biowaste to “biogold”</a></li>
+:::
+
+:::book Additional Articles
+
+- <li><a href="https://climatedrift.substack.com/p/the-guide-to-the-carbon-removal-hype">The Guide to the Carbon Removal Hype</a></li>
+- <li><a href="https://climatedrift.substack.com/p/scaling-up-for-the-carbon-challenge">Scaling Up for the Carbon Challenge: Going from Micro to Massive</a></li>
+- <li><a href="https://climatedrift.substack.com/p/a-look-at-carbon-removal">A Look at Carbon Removal</a></li>
 :::
 
 ## Overview

@@ -7,26 +7,6 @@ pagination_prev: solutions
 
 *Injecting CO2 into the Deep Ocean ([U.S. Naval Institute](https://www.usni.org/magazines/proceedings/2021/july/burial-sea-injecting-co2-deep-ocean))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.soalliance.org/">Sustainable Ocean Alliance</a></li>
-            
-                <li><a href="https://bluefront.org">Blue Frontier</a></li>
-            
-                <li><a href="https://www.sofarocean.com/">Sofar</a></li>
-            
-                <li><a href="https://www.saltwater.com/">Saltwater</a></li>
-            
-                <li><a href="https://theoceancleanup.com">The Ocean Cleanup</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Seafloor+Protection)

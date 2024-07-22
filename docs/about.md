@@ -21,7 +21,7 @@ To build the world's most **accessible**, yet **comprehensive**, resource for an
 
 The Climate Tech Handbook is here to serve:
 
-1. [Job seekers](../career-guide) in Climate Tech
+1. [Job seekers](intro) in Climate Tech
 
 2. Startup funders, founders, and leaders
 

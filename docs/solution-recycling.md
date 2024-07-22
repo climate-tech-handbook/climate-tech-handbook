@@ -7,24 +7,6 @@ pagination_prev: solutions
 
 *Classified recycling ([Heritage](https://www.heritage-enviro.com/news/general-recycling-the-basics/))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.ubqmaterials.com/">Ubq Materials</a></li>
-            
-                <li><a href="https://www.reverseresources.net">Reverse Resources</a></li>
-            
-                <li><a href="https://www.amprobotics.com/">Amp Robotics</a></li>
-            
-                <li><a href="https://madeofair.com">Made Of Air</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Recycling)

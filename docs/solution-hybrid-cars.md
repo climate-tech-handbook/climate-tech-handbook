@@ -6,50 +6,6 @@ pagination_prev: solutions
 
 ![Cover Image](../static/img/hybrid-car.jpg)
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://getcruise.com">Cruise</a></li>
-            
-                <li><a href="https://scoot.co">Scoot</a></li>
-            
-                <li><a href="https://driveseres.com">Seres</a></li>
-            
-                <li><a href="https://h55.ch">H55</a></li>
-            
-                <li><a href="https://nan">Chargeway</a></li>
-            
-                <li><a href="https://nan">Cell Propulsion</a></li>
-            
-                <li><a href="https://www.evgo.com">Evgo</a></li>
-            
-                <li><a href="https://xstreamtrucking.com">Xstreamtrucking</a></li>
-            
-                <li><a href="https://neuronev.co">Neuron Ev</a></li>
-            
-                <li><a href="https://nan">Leafy Ke</a></li>
-            
-                <li><a href="https://lucidmotors.com">Lucid Motors</a></li>
-            
-                <li><a href="https://www.atlismotorvehicles.com/">Atlis</a></li>
-            
-                <li><a href="https://www.tesla.com">Tesla</a></li>
-            
-                <li><a href="http://www.amplypower.com">Amply Power</a></li>
-            
-                <li><a href="https://www.envoythere.com/">Envoy</a></li>
-            
-                <li><a href="https://gorevel.com">Revel</a></li>
-            
-                <li><a href="https://motivps.com">Motiv Power Systems</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Hybrid+Cars)

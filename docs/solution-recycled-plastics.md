@@ -7,22 +7,6 @@ pagination_prev: solutions
 
 *Plastic Recycling Process ([Suez](https://www.suez.co.uk/en-gb/our-offering/communities-and-individuals/education-tools-and-resources/what-happens-to-waste/recycling/plastic))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://ironroots.com">Iron Roots</a></li>
-            
-                <li><a href="https://recyclingtechnologies.co.uk">Recycling Technologies</a></li>
-            
-                <li><a href="https://thegreatbubblebarrier.com/en/">The Great Bubble Barrier</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Recycled+Plastics)

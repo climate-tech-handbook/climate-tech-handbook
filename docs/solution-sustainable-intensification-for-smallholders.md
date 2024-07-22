@@ -7,34 +7,6 @@ pagination_prev: solutions
 
 *Schematic diagram of a smallholder farming system ([British Ecological Society](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10295))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://nan">Khethworks</a></li>
-            
-                <li><a href="https://infarm.com">Infarm</a></li>
-            
-                <li><a href="https://alescalife.com">Alesca Life</a></li>
-            
-                <li><a href="https://AeroFarms.com">Aerofarms</a></li>
-            
-                <li><a href="https://squarerootsgrow.com">Square Roots</a></li>
-            
-                <li><a href="https://80acresfarms.com">80 Acres Famrs</a></li>
-            
-                <li><a href="http://plenty.ag">Plenty</a></li>
-            
-                <li><a href="https://farm.one">Farm One</a></li>
-            
-                <li><a href="https://nan">Sunculture</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Sustainable+Intensification+for+Smallholders)

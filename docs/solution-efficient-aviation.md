@@ -7,60 +7,6 @@ pagination_prev: solutions
 ![Cover Image](../static/img/electric-aircraft.jpg)
 _Image Credit: [Financial Times](https://www.ft.com/content/a9dc81d2-725e-11e9-bf5c-6eeb837566c5)_
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://skyven.co">Skyven Technologies</a></li>
-            
-                <li><a href="https://airbus-sv.com">A3</a></li>
-            
-                <li><a href="https://aclima.io">Aclima</a></li>
-            
-                <li><a href="http://www.jobyaviation.com/">Joby Aviation</a></li>
-            
-                <li><a href="https://www.hybridairvehicles.com/">Hybrid Air Vehicles</a></li>
-            
-                <li><a href="https://emitwise.com">Emitwise</a></li>
-            
-                <li><a href="https://airlabs.com">Airlabs</a></li>
-            
-                <li><a href="https://terrafugia.com">Terrafugia</a></li>
-            
-                <li><a href="https://magniX.aero">Magnix</a></li>
-            
-                <li><a href="https://zunum.aero">Zunum Aero</a></li>
-            
-                <li><a href="https://opener.aero">Opener Aero</a></li>
-            
-                <li><a href="https://ellipsis-environmental.com">Ellipsis Environmental</a></li>
-            
-                <li><a href="https://skai.co">Alaka’i Technologies</a></li>
-            
-                <li><a href="https://ampaire.com">Ampaire</a></li>
-            
-                <li><a href="https://weflywright.com">Wright Electric</a></li>
-            
-                <li><a href="https://wisk.aero">Wisk</a></li>
-            
-                <li><a href="https://www.b-t.energy">Breakthrough Energy</a></li>
-            
-                <li><a href="https://eviation.co">Eviation</a></li>
-            
-                <li><a href="https://breezometer.com">Breezometer</a></li>
-            
-                <li><a href="https://elroyair.com">Elroy Air</a></li>
-            
-                <li><a href="https://aeroseal.com">Aeroseal</a></li>
-            
-                <li><a href="https://nan">Canary Media</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Efficient+Aviation)

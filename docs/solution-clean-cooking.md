@@ -8,26 +8,6 @@ pagination_prev: solutions
 :::info "the public debate about gas stoves has [received a lot of attention](https://www.npr.org/2023/01/13/1149135773/what-you-need-to-know-about-gas-stoves-and-health-risks) lately"
 :::
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.shiru.com/">Shiru</a></li>
-            
-                <li><a href="https://terramera.com">Terramera</a></li>
-            
-                <li><a href="https://terviva.com">Terviva</a></li>
-            
-                <li><a href="https://www.bellwethercoffee.com/">Bellwether Coffee</a></li>
-            
-                <li><a href="https://praktidesign.com">Prakti</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Clean+Cooking)

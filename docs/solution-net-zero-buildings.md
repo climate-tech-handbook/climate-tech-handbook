@@ -6,26 +6,6 @@ pagination_prev: solutions
 
 ![Cover Image](../static/img/net-zero-buildings.jpg)
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://cleanchoiceenergy.com">Cleanchoice Energy</a></li>
-            
-                <li><a href="https://bettervest.com/home?r=56fe666…">Bettervest</a></li>
-            
-                <li><a href="https://bulb.co.uk">Bulb</a></li>
-            
-                <li><a href="https://www.evolvemyenergy.com/">Evolve Energy</a></li>
-            
-                <li><a href="https://www.blueprintpower.com/">Blue Print Power</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Net+Zero+Buildings)

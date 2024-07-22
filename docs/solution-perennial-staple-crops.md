@@ -7,34 +7,6 @@ pagination_prev: solutions
 
 *A perennial grain crop would offer a sustainable alternative to present day annual crops ([Frontiers](https://www.frontiersin.org/articles/10.3389/fpls.2022.898769/full))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://wiserg.com">Wiserg</a></li>
-            
-                <li><a href="https://www.atlasai.co/">Atlas Ai</a></li>
-            
-                <li><a href="https://brightfarms.com">Brightfarms</a></li>
-            
-                <li><a href="https://traptic.com">Traptic</a></li>
-            
-                <li><a href="https://boweryfarming.com/">Bowery</a></li>
-            
-                <li><a href="http://www.beeflow.co/en/">Beeflow</a></li>
-            
-                <li><a href="https://beehero.io">Beehero</a></li>
-            
-                <li><a href="https://nan">Farmshelf</a></li>
-            
-                <li><a href="https://gothamgreens.com">Gotham Greens</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Perennial+Staple+Crops)

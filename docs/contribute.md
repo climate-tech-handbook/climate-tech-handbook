@@ -16,7 +16,7 @@ We can make it better together.
 
 ### Slack
 
-Come [hang out on Slack](https://chat.climatetechhandbook.com) 
+Come [hang out on Slack](https://chat.climatetechhandbook.com) and introduce yourself
 
 ### GitHub
 

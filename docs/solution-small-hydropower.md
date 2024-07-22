@@ -9,20 +9,6 @@ pagination_prev: solutions
 
 Of course, I understand. Here's the summary of your article on small hydropower with the beginning words of each bullet in bold, as requested:
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.cloudtostreet.info/">Cloud To Street</a></li>
-            
-                <li><a href="https://nuscalepower.com">Lucid Energy</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Small+Hydropower)

@@ -7,26 +7,6 @@ pagination_prev: solutions
 
 *Waste-to-Energy ( [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/waste-energy-controversial-power-generation-incineration))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://thewastetransformers.com">The Waste Transformers</a></li>
-            
-                <li><a href="https://sierraenergy.com">Sierra Energy</a></li>
-            
-                <li><a href="http://takachar.mystrikingly.com/">Takachar</a></li>
-            
-                <li><a href="https://capricornpower.com.au">Capricorn Power</a></li>
-            
-                <li><a href="https://www.bloomenergy.com">Bloom Energy</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Waste+to+Energy)

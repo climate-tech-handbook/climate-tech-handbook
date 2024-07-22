@@ -5,62 +5,12 @@ pagination_prev: solutions
 ---
 ![A microgrid comprises three basic components: an energy generator, a storage unit, and a controller to manage energy flow and usage.](/../static/img/microgrids.jpg)
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://scalemicrogridsolutions.com">Scale Microgrids</a></li>
-            
-                <li><a href="https://electrify.asia">Electrify</a></li>
-            
-                <li><a href="https://next-kraftwerke.com">Next Kraftwerke</a></li>
-            
-                <li><a href="https://www.newenergynexus.com">New Energy Nexus</a></li>
-            
-                <li><a href="https://energyrenaissance.com.au">Energy Renaissance</a></li>
-            
-                <li><a href="https://www.ensemble.energy/">Ensemble Energy</a></li>
-            
-                <li><a href="https://camus.energy/">Camus</a></li>
-            
-                <li><a href="https://constructisllc.com">Constructis</a></li>
-            
-                <li><a href="https://carnegiece.com">Carnegie Clean Energy</a></li>
-            
-                <li><a href="https://sparkmeter.io">Sparkmeter</a></li>
-            
-                <li><a href="https://www.bioliteenergy.com/">Biolite</a></li>
-            
-                <li><a href="https://Watch LIVE">Uniti</a></li>
-            
-                <li><a href="https://bboxx.com">Bboxx</a></li>
-            
-                <li><a href="https://voltacharging.com">Volta Charging</a></li>
-            
-                <li><a href="https://www.weavegrid.com">Weavegrid</a></li>
-            
-                <li><a href="https://angaza.com">Angaza</a></li>
-            
-                <li><a href="https://gridcomm-plc.com">Gridcomm</a></li>
-            
-                <li><a href="https://acciona.com">Acciona Energy</a></li>
-            
-                <li><a href="https://otovo.no">Otovo</a></li>
-            
-                <li><a href="https://generalfusion.com">General Fusion</a></li>
-            
-                <li><a href="https://www.energypolicy.columbia.edu/">Columbia University - Center On Global Energy Policy</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Microgrids)
+### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Microgrids)
+Keep an eye on groups like the [Solar Energy Industry Association](https://www.seia.org)
 :::
+
 
 ## Overview:
 
@@ -79,7 +29,6 @@ These systems can disconnect from the main grid during disruptions and continue 
 
 ## Lessons Learned: 
   - Microgrids offer reliability, emissions reduction, customization, but require meticulous planning and coordination.
-  - Leading organizations and companies provide valuable insights and resources for successful microgrid implementation.
 
 ## Challenges Ahead: 
   - Lack of standardization among microgrid types hinders comparison and choice, and high upfront costs challenge widespread adoption.

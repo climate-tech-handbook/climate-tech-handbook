@@ -1,6 +1,7 @@
 ---
-title: Climate Event Organizers Guide
+title: Climate Event Organizing Guide
 displayed_sidebar: docSidebar
+hide_table_of_contents: true
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
@@ -29,10 +30,21 @@ This guide will help you host events on a scale of easy happy hours to a full on
 Check to see if there are existing events and organizations you are not aware of.
 
 - [Climate Tech Cities](https://www.climatetechcities.com/)
-- [MCJ Events Calendar on Luma](https://lu.ma/u/mcj)
+- [MCJ Events Calendar](https://lu.ma/u/mcj), [Climate Draft Events Calendar](https://lu.ma/climatedraft-community)
 - Local channels in various [Slack Communities](/level-1#core-communities), for example `#meet-seattle` in the [Work on Climate Slack](https://workonclimate.org)
+- Email newsletters and Substacks - like [the one for Seattle](https://seattle.climatetechcities.com) 
 - General climate change meetups - 350.org chapter, green drinks, etc.
-- You can also search through Eventbrite, Meetup.com, Luma, and other sites for things about climate change
+- You can also search through event sites like Eventbrite and Meetup.com for things about climate change
+
+<!-- :::contribute Climate Week
+More and more US cities are hosting [Climate Week](event-format-climate-day-or-week) events
+- [Climate Week NYC](https://www.climateweeknyc.org/)
+- [SF Climate Week](https://www.sfclimateweek.org/)
+- [PNW Climate Week](https://www.pnwclimateweek.org/)
+- [Houston Energy & Climate Week](https://climateweekhouston.com/)
+
+Bookmark them on your calendar
+::: -->
 
 ## Event Guides
 
@@ -112,29 +124,42 @@ This will take some work but it can be the most rewarding.
 
 ## Want more ideas?
 
-- Climate Community Dinner ([Example - Soapbox Seattle](https://www.eventbrite.com/e/soapbox-seattle-climate-community-dinners-tickets-845064910897))
+- Climate Community Dinner ([Example - Soapbox Seattle](https://lu.ma/xnpail55))
 
-- Speed networking - ([Example - Climate Mayhem / Indigo Slate](https://lu.ma/co.work-may2024))
+- Game Night - Play [Daybreak](https://daybreakgame.org/) it is execllent
 
-- Founders potluck
+- Speed networking - (Example: [Climate Mayhem / Indigo Slate](https://lu.ma/co.work-may2024)))
 
-- Outdoor excursion ([bike ride example](https://lu.ma/9wmgdncx))
+- Founders potluck - [Example here](https://www.linkedin.com/posts/lowellbander_2-climate-founders-pt-2-double-dinner-activity-7155006039308800000-1Ypb) / Use this [template for organizing](https://docs.google.com/document/d/1YKJHdfkSpy05rnoUU68t5xb_qbzBJlPEYIW-cOmB4xg/edit)
 
-- Karaoke - ([Example - Cool Climate Collective / Pachamama Ventures](https://lu.ma/casual-climate-karaoke))
+- Community barbecue
 
-- Film Festival
+- Outdoor excursion (Example [Bike Ride](https://lu.ma/9wmgdncx))
 
-- Weekend retreat
+- Karaoke - (Examples: [Snocap / 9zero](https://www.linkedin.com/feed/update/urn:li:activity:7217987708512522240/), or [Cool Climate Collective / Pachamama Ventures](https://lu.ma/casual-climate-karaoke)) 
+
+- Film Festival - [Climate Film Festival](https://www.climatefilmfest.com/)
+
+- Weekend retreat - [Summer Backpacking Example](https://docs.google.com/document/d/1-10Qu_WDmTDQufkggIO6QOrkSZ8Qu8RrO-TWo4mcGng/edit?usp=sharing) / or a Winter Cabin
+
+- Activity Workshop (Example: [Circular Spring](https://lu.ma/q2vkpzob))
+
+- [Minute Motifs](event-format-minute-motifs) - ([Example here](https://www.linkedin.com/posts/jacobcaggiano_pnwclimateweek-activity-7216904462840258561-pLzG): it's like a lightning talk, but more people participate and it's only 1 minute 1 slide)
 
 - Pickleball
 
-## Facilitation / Ice Breakers
+
+## Facilitation / Icebreakers
 
 - Interactive Q&A
 
 - Spectrum
 
 - The wind blows
+
+:::note Check Out
+More "[Icebreakers that don't suck](https://niviachanta.com/articles/icebreakers-that-dont-suck-in-2024)" from Soapbox Project
+:::
 
 ### Interactive Q&A
 
@@ -179,3 +204,5 @@ People then can share their view and elaborate on why they feel that way, based 
 - [MCJ Guide](https://docs.google.com/document/d/1wRzbTbouCaz_gdQ6bW7qaDNa1gk8M3pJkuTjJoYbPk8/edit#)
 
 - [Lowell's Guide](https://www.notion.so/Organizing-a-Climate-Meetup-2c7005194d4b4c6f954231668432f7b3?pvs=4)
+
+- [PNW Climate Week's Guide](https://www.notion.so/native/seattleclimatetech/Event-Hosting-Guide-2b41e3659d1948eca04ae04b67c831a3?deepLinkOpenNewTab=true)

@@ -10,30 +10,6 @@ pagination_prev: solutions
 
 *The actual plant layout in the agroforestry land use ([MDPI Open Access Journals](https://www.mdpi.com/2073-445X/9/9/327#fig_body_display_land-09-00327-f005))*
 
-<details>
-        <summary>List of companies working in this solution...</summary>
-         <em>Note: this is an experimental AI feature. Accuracy and completeness are a work in progress</em>
-        <div>
-            <ul>
-             
-                <li><a href="https://www.flypollination.com/">Olombria</a></li>
-            
-                <li><a href="https://www.tortugaagtech.com/">Tortuga Agtech</a></li>
-            
-                <li><a href="https://osbeehives.com">Osbeehives</a></li>
-            
-                <li><a href="https://agrivi.com">Agrivi</a></li>
-            
-                <li><a href="https://adoptapony.com">Pony</a></li>
-            
-                <li><a href="https://aguainc.com">Agua Inc</a></li>
-            
-                <li><a href="https://www.planet.com/">Planet</a></li>
-            
-            </ul>
-        </div>
-        </details>
-
 
 :::company job openings
   #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Multistrata+Agroforestry)
