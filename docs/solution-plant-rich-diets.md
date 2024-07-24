@@ -30,6 +30,12 @@ With the potential to reduce **78.33 Gigatons** from our 1050.91 Gigaton Drawdow
 :::
 
 ## Overview
+:::book Great articles
+- [We need to talk about Mushrooms](https://climatedrift.substack.com/p/we-need-to-talk-about-mushrooms) - Climate Drift
+- [The Complete Guide to Alternative-Proteins](https://climatedrift.substack.com/p/the-complete-guide-to-alternative) - Climate Drift
+:::
+
+
 
 - By reducing worldwide cattle numbers, we can achieve immediate climate gains due to methane's short half-life. Additionally, industrial livestock reduction prevents destruction of biodiverse habitats that are ideal [land sinks](../sector-land-sinks).
 - Beef is more [resource-intensive](https://www.wri.org/insights/6-pressing-questions-about-beef-and-climate-change-answered) than other meats, and animal-based foods require more resources than plant-based foods.

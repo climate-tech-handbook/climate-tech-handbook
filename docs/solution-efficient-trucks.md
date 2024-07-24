@@ -12,6 +12,11 @@ pagination_prev: solutions
 :::
 
 ## Overview
+:::book Great articles
+- [Climate Hype Curve: Transportation - Part 3](https://climatedrift.substack.com/p/climate-hype-curve-transportation-0ff) - Climate Drift
+:::
+
+
 
 Breakthrough Technologies: Electric trucks, aerodynamic designs, fuel-efficient engines.
 Key Players: Tesla, Nikola Motors, Rivian, Daimler, Cummins.

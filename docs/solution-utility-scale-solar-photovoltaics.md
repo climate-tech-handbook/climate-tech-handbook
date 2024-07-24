@@ -15,6 +15,14 @@ Certainly, here's the overview section with a definition of utility-scale PV:
 :::
 
 ## Overview
+:::book Great articles
+- [The Companies of Residential Solar: Part 2](https://climatedrift.substack.com/p/the-companies-of-residential-solar-6a0) - Climate Drift
+- [How Solar got cheap](https://climatedrift.substack.com/p/how-solar-got-cheap) - Climate Drift
+- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-ef4) - Climate Drift
+- [Perovskite: A cheaper, more efficient and sustainable material for solar cells](https://www.climatetechdistillery.com/p/24-perovskite) - Climate Tech Distillery
+:::
+
+
 
 **Utility-Scale Solar Photovoltaics (PV)** refers to large-scale solar power generation that involves the installation of solar panels in significant quantities to produce electricity for utility grids. This approach stands as a crucial tool in the battle against climate change. By harnessing sunlight and converting it into electricity, utility-scale solar PV can generate substantial energy capacities that contribute to reducing greenhouse gas emissions.
 

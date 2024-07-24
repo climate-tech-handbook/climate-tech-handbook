@@ -13,6 +13,11 @@ pagination_prev: solutions
 :::
 
 ## Overview
+:::book Great articles
+- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-6ba) - Climate Drift
+:::
+
+
 
 The progress that has been made in developing recycling to reduce climate change is significant. One example of a breakthrough technology that has been developed is called pyrolysis. Pyrolysis is a process that breaks down organic matter into useful products without producing any emissions. This technology has been used to recycle plastics and other materials into fuel, chemicals, and other useful products. Companies and organizations such as ExxonMobil and the U.S. Environmental Protection Agency have been at the forefront of developing and promoting recycling technologies.
 

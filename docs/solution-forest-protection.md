@@ -12,6 +12,12 @@ pagination_prev: solutions
 :::
 
 ## Overview
+:::book Great articles
+- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-579) - Climate Drift
+- [Wildfires: Using climate tech to prevent them, detect them and stop them](https://www.climatetechdistillery.com/p/20-wildfires) - Climate Tech Distillery
+:::
+
+
 
 * Significant advancements in **forest protection** to combat climate change.
 * Development of technologies for **capture and storage of carbon dioxide emissions** from industrial sectors.

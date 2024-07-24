@@ -25,6 +25,11 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
+:::book Great articles
+- [A Look at Food & Agriculture](https://climatedrift.substack.com/p/a-look-at-food-and-agriculture) - Climate Drift
+:::
+
+
 
 The Food, Agriculture, and Land Use sector is essential in the worldwide effort to combat climate change.
 

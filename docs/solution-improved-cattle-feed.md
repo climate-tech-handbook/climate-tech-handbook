@@ -13,6 +13,11 @@ pagination_prev: solutions
 :::
 
 ## Overview
+:::book Great articles
+- [Lab-grown Meat is not a Climate Change Solution](https://climatedrift.substack.com/p/lab-grown-meat-is-not-a-climate-solution) - Climate Drift
+:::
+
+
 
 * Improved Cattle Feed plays a pivotal role in the endeavor to mitigate climate change.
 * **Anaerobic Digestion** and **Synthetic Biology** have emerged as breakthroughs in generating renewable energy and reducing the demand for conventional cattle feed.

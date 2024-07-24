@@ -15,6 +15,12 @@ import PodcastPagination from '/../src/components/PodcastPagination/PodcastPagin
 :::
 
 ## Overview
+:::book Great articles
+- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-ef4) - Climate Drift
+- [Water Distribution: A big source of water and energy waste](https://www.climatetechdistillery.com/p/29-water-distribution) - Climate Tech Distillery
+:::
+
+
 
 Water Distribution Efficiency involves using innovative methods to achieve the same goals with less water consumption. This technology encompasses strategies like drought-resistant plants, xeriscaping, rainwater harvesting, greywater recycling, and low-flow plumbing fixtures. Such approaches curtail the reliance on municipal water sources, subsequently reducing energy demands for pumping and treatment, thus contributing to climate change mitigation. Key players in this field include the **Alliance for Water Efficiency**, the **Environmental Protection Agency (EPA)**, the **Natural Resources Defense Council (NRDC)**, and the **WateReuse Association**.
 

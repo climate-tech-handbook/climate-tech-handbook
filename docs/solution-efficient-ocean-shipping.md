@@ -13,6 +13,11 @@ _Image Credit: [Marine Insight](https://www.marineinsight.com/maritime-law/energ
 :::
 
 ## Overview
+:::book Great articles
+- [Climate Hype Curve: Transportation - Part 2](https://climatedrift.substack.com/p/climate-hype-curve-transportation-e62) - Climate Drift
+:::
+
+
 
 - **Breakthrough Technologies**: Efficient ship engines, wind power for propulsion.
 - **Reducing Greenhouse Gas Emissions**: Focus on making ocean shipping more efficient.

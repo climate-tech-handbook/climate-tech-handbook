@@ -13,6 +13,11 @@ pagination_prev: solutions
 :::
 
 ## Overview
+:::book Great articles
+- [Carbon Offset Explained - Part 2](https://climatedrift.substack.com/p/carbon-offset-explained-part-2) - Climate Drift
+:::
+
+
 
 The Montreal Protocol, which was originally signed in 1987 and amended in 1990, has been successful in reducing the production and consumption of chlorofluorocarbons (CFCs), which are greenhouse gases that contribute to climate change. The Montreal Protocol has phased out the production of CFCs and other harmful chemicals, and has helped to reduce the global warming potential of refrigerants by 95%. In addition, the Protocol has resulted in the destruction of over 6,000 metric tons of CFCs, which is the equivalent of removing 1.5 million cars from the road.
 

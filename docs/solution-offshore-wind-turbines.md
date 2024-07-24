@@ -17,6 +17,11 @@ Learn more from [The Business Network for Offshore Wind](https://www.offshorewin
 :::
 
 ## Overview
+:::book Great articles
+- [Offshore Wind: The untapped potential or harnessing the wind at sea](https://www.climatetechdistillery.com/p/05-offshore-wind) - Climate Tech Distillery
+:::
+
+
 
 Innovations like floating turbines and subsea cabling have emerged. Companies such as Vestas, GE, and Siemens have spearheaded these advancements.
 

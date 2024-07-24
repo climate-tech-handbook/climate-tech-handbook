@@ -24,6 +24,11 @@ _Krafla, a geothermal power station in Iceland_
 :::
 
 ## Overview
+:::book Great articles
+- [Geothermal Energy: Using the heat beneath our feet](https://www.climatetechdistillery.com/p/09-geothermal-energy) - Climate Tech Distillery
+:::
+
+
 
 Geothermal power, a renewable energy source, taps into the Earth's core heat to generate electricity. One significant breakthrough is "enhanced geothermal systems" (EGS) which involve artificially enhancing geothermal reservoirs by injecting water into hot rock formations, often utilizing hydraulic fracturing (fracking). EGS boosts energy extraction, making large-scale power generation feasible. Notable companies include AltaRock Energy, Davenport Newberry Holdings, and Ormat Technologies.
 

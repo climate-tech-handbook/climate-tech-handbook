@@ -16,6 +16,11 @@ pagination_prev: solutions
 :::
 
 ## Overview
+:::book Great articles
+- [Vertical Farms: Growing food more sustainably](https://www.climatetechdistillery.com/p/15-vertical-farms) - Climate Tech Distillery
+:::
+
+
 
 Multistrata agroforestry is a type of agroforestry that involves growing trees and crops in layers. This type of agroforestry has been shown to reverse climate change by reducing greenhouse gas emissions.
 

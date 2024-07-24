@@ -13,6 +13,12 @@ pagination_prev: solutions
 :::
 
 ## Overview
+:::book Great articles
+- [Nuclear Fusion: The holy grail of clean energy](https://www.climatetechdistillery.com/p/14-nuclear-fusion) - Climate Tech Distillery
+- [The Recent Nuclear Fusion Breakthrough](https://warminguptoclimatetech.substack.com/p/the-recent-nuclear-fusion-breakthrough) - Warming Up to Climate Tech
+:::
+
+
 
 **Nuclear power** stands out as a clean and efficient means of generating electricity, free from greenhouse gas emissions. Recent strides in technology, such as **small modular reactors (SMRs)**, have yielded more cost-effective and environmentally friendly options. Operating nuclear plants have curtailed over 2.5 billion metric tons of CO2 emissions, akin to taking 500 million cars off the road. Globally, over 450 reactors supply about 10% of electricity.
 

@@ -13,6 +13,11 @@ _Image Credit: [Financial Times](https://www.ft.com/content/a9dc81d2-725e-11e9-b
 :::
 
 ## Overview
+:::book Great articles
+- [Sustainable Aviation Fuel (SAF): No longer feeling guilty about traveling by plane](https://www.climatetechdistillery.com/p/17-sustainable-aviation-fuel-saf) - Climate Tech Distillery
+:::
+
+
 
 - **Efficient Aviation**: Focuses on technology to reverse climate change.
 - **Breakthrough Technologies**: Efficient engines and fuel-efficient airplanes.

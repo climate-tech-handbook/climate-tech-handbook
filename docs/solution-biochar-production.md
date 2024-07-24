@@ -21,6 +21,13 @@ Biochar production is a promising solution for carbon sequestration and soil imp
 :::
 
 ## Overview
+:::book Great articles
+- [The Guide to the Carbon Removal Hype](https://climatedrift.substack.com/p/the-guide-to-the-carbon-removal-hype) - Climate Drift
+- [Scaling Up for the Carbon Challenge: Going from Micro to Massive](https://climatedrift.substack.com/p/scaling-up-for-the-carbon-challenge) - Climate Drift
+- [A Look at Carbon Removal](https://climatedrift.substack.com/p/a-look-at-carbon-removal) - Climate Drift
+:::
+
+
 
 Biochar is a carbon-rich material produced by heating organic matter in a low-oxygen environment, a process called pyrolysis. It retains most of the carbon produced by decomposing biomass, effectively sequestering it for long periods when added to soil.
 

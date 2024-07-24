@@ -81,3 +81,9 @@ pagination_prev: solutions
 - Entry-level: HVAC Technician/Heat Pump Installer, Sales Representative (Heat Pumps), Customer Support Specialist for HVAC Products.
 - Mid-level: HVAC Engineer/Heat Pump Engineer, Project Manager (HVAC/Heat Pump Projects), Sales Manager (HVAC Products).
 - Senior-level: HVAC System Designer/Senior Engineer, Operations Manager (HVAC Company), Technical Sales Director, Research and Development Manager.
+
+:::book Great articles
+- [Air-Source Heat Pumps: Moving air heat to stay warm or cool](https://www.climatetechdistillery.com/p/18-air-source-heat-pumps) - Climate Tech Distillery
+- [Home Electrification Fights Climate Change](https://warminguptoclimatetech.substack.com/p/home-electrification-fights-climate-change) - Warming Up to Climate Tech
+:::
+

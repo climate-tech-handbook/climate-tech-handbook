@@ -24,6 +24,13 @@ Bioplastics are made from renewable sources and offer a sustainable alternative 
 :::
 
 ## Overview
+:::book Great articles
+- [Bioplastics: Solving the huge plastic pollution problem](https://www.climatetechdistillery.com/p/19-bioplastics) - Climate Tech Distillery
+- [Shloop is The Sustainable Footwear Manufacturer of The Future](https://warminguptoclimatetech.substack.com/p/shloop-sustainable-footwear) - Warming Up to Climate Tech
+- [Fabulose’s New Vegan Leather is Climate Friendly and Durable](https://warminguptoclimatetech.substack.com/p/fabuloses-new-vegan-leather-is-climate) - Warming Up to Climate Tech
+:::
+
+
 
 - **Bioplastics** are made from renewable sources such as corn and sugar cane, replacing fossil fuel-based plastics.
 - They are **recyclable**, **compostable**, and help curb landfill emissions.

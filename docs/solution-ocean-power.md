@@ -15,6 +15,11 @@ Ocean power harnesses the energy from ocean waves, tides, and temperature differ
 :::
 
 ## Overview
+:::book Great articles
+- [Tidal Power: A source of accessible, natural and consistent clean energy](https://www.climatetechdistillery.com/p/13-tidal-power) - Climate Tech Distillery
+:::
+
+
 
 Ocean Power technology has made significant progress in recent years, particularly in the development of Wave Energy Converters (WECs) and Tidal Energy Converters (TECs). These devices extract energy from ocean waves and tides, respectively, and convert it into electricity. 
 

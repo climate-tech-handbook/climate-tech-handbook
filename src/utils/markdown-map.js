@@ -49,7 +49,7 @@ function groupBySolutionOrSector(articles) {
 function appendMarkdown(groupedArticles) {
   for (let [key, { prefix, markdownLinks }] of Object.entries(groupedArticles)) {
     let fileName = `../../docs/${prefix}-${key.toLowerCase().replace(/\s+/g, '-')}.md`; // Adjust the path as necessary
-    let newContent = `\n:::newsletter Newsletters\n${markdownLinks.join('\n')}\n:::\n\n`;
+    let newContent = `\n:::book Great articles\n${markdownLinks.join('\n')}\n:::\n\n`;
     try {
       // Read the existing content of the file
       let fileContent = fs.readFileSync(fileName, 'utf8');

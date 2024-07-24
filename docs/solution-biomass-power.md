@@ -20,6 +20,11 @@ Biomass power is an essential renewable energy source that converts organic mate
 :::
 
 ## Overview
+:::book Great articles
+- [The True Efficacy of Carbon Removal Technology](https://warminguptoclimatetech.substack.com/p/the-true-efficacy-of-carbon-removal) - Warming Up to Climate Tech
+:::
+
+
 
 Biomass power converts organic materials such as agricultural waste, wood chips, and other biomass into electricity and heat through various processes. This renewable energy source helps reduce greenhouse gas emissions and provides a sustainable alternative to fossil fuels.
 

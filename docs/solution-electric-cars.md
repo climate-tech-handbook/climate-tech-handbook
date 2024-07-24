@@ -18,6 +18,15 @@ Electric cars are becoming increasingly popular as people look for ways to reduc
 :::
 
 ## Overview
+:::book Great articles
+- [A Look at Transportation Companies](https://climatedrift.substack.com/p/a-look-at-transportation-companies) - Climate Drift
+- [Climate Hype Curve: Transportation - Part 1](https://climatedrift.substack.com/p/climate-hype-curve-transportation) - Climate Drift
+- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-ef4) - Climate Drift
+- [Electric Buses: A more accessible, scalable and sustainable alternative to electric cars](https://www.climatetechdistillery.com/p/25-electric-buses) - Climate Tech Distillery
+- [Challenges and Opportunities of Electric Vehicles](https://warminguptoclimatetech.substack.com/p/challenges-and-opportunities-of-electric) - Warming Up to Climate Tech
+:::
+
+
 
 Electric cars are a key solution to reducing greenhouse gas emissions from the transportation sector. Advances in battery technology, charging infrastructure, and vehicle design have made electric vehicles (EVs) more accessible and practical for everyday use.
 

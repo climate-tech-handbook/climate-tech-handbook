@@ -14,6 +14,11 @@ _Methane capture process ([EPA](https://archive.epa.gov/climatechange/kids/solut
 :::
 
 ## Overview
+:::book Great articles
+- [Carbon Offsets Explained: Part 3](https://climatedrift.substack.com/p/carbon-offsets-explained-part-3) - Climate Drift
+:::
+
+
 
 Landfill gas-to-energy (LFGE) facilities use landfill gas (LFG) – a mix of methane and carbon dioxide – to generate electricity or heat. This reduces greenhouse gas emissions by displacing fossil fuels and minimizing methane release. Recent advancements include more efficient destruction of methane and anaerobic digesters.
 

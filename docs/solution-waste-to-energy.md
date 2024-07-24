@@ -13,6 +13,11 @@ pagination_prev: solutions
 :::
 
 ## Overview
+:::book Great articles
+- [Carbon Capture Utilization (CCU): Using CO2 from the air instead of fossil fuels to make products](https://www.climatetechdistillery.com/p/07-carbon-capture-utilization-ccu) - Climate Tech Distillery
+:::
+
+
 
 The progression in Waste to Energy (WtE) to counter climate change has been substantial. Innovations have led to efficient conversion of waste into energy, contributing to a reduction in greenhouse gas emissions. Leading this endeavor are entities like Waste to Energy Solutions, Inc. and the U.S. Environmental Protection Agency.
 

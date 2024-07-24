@@ -8,6 +8,11 @@ pagination_prev: solutions
 *Benefits of tree-based restoration ([Nature](https://www.nature.org/content/dam/tnc/nature/en/documents/Business_of_Planting_Trees_Report.pdf))*
 
 ## Overview
+:::book Great articles
+- [The Guide to the Carbon Removal Hype - Part 2](https://climatedrift.substack.com/p/the-guide-to-the-carbon-removal-hype-b6f) - Climate Drift
+:::
+
+
 
 There has been significant progress made in developing tree plantations (on degraded land) to reverse climate change. Breakthrough technologies such as satellite mapping and drone mapping have been developed and have contributed to the reduction of greenhouse gas emissions. Companies and organizations such as GreenTrees, TerraReforestation, and Reforestum have been at the forefront of this solution.
 

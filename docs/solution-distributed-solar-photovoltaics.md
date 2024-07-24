@@ -13,6 +13,15 @@ Image Credit: [Unsplash](https://unsplash.com/@rgaleriacom)
 :::
 
 ## Overview
+:::book Great articles
+- [The Companies of Residential Solar](https://climatedrift.substack.com/p/the-companies-of-residential-solar) - Climate Drift
+- [A guide to Residential Solar](https://climatedrift.substack.com/p/a-guide-to-residential-solar) - Climate Drift
+- [The S-Curve Chronicles](https://climatedrift.substack.com/p/the-s-curve-chronicles) - Climate Drift
+- [Agrivoltaics: A double harvest for farmers: Food and solar energy](https://www.climatetechdistillery.com/p/02-agrivoltaics) - Climate Tech Distillery
+- [How to Decarbonize the Global Electric Grid](https://warminguptoclimatetech.substack.com/p/how-to-decarbonize-the-global-electric-grid) - Warming Up to Climate Tech
+:::
+
+
 
 **Distributed Solar Photovoltaics (DSPV):** Also known as rooftop solar, DSPV refers to the technology that harnesses sunlight using photovoltaic cells installed on various surfaces, such as rooftops of homes, businesses, and community buildings. These systems convert sunlight directly into electricity, contributing to the reduction of greenhouse gas emissions. DSPV has experienced significant progress with breakthrough technologies and innovative companies driving its development.
 
