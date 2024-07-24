@@ -63,9 +63,16 @@ function appendMarkdown(groupedArticles) {
         let insertionPoint = overviewPosition + '## Overview'.length;
         updatedContent = fileContent.slice(0, insertionPoint) + newContent + fileContent.slice(insertionPoint);
       } else if (jobOpeningsPosition !== -1) {
-        // Insert the new content after ':::company Job openings'
-        let insertionPoint = jobOpeningsPosition + ':::company Job openings'.length;
-        updatedContent = fileContent.slice(0, insertionPoint) + newContent + fileContent.slice(insertionPoint);
+        // Find the end of the ":::company Job openings" section
+        let endOfJobOpeningsSection = fileContent.indexOf(':::', jobOpeningsPosition + ':::company Job openings'.length);
+        if (endOfJobOpeningsSection !== -1) {
+          // Insert the new content after the ":::company Job openings" section
+          let insertionPoint = endOfJobOpeningsSection + ':::'.length;
+          updatedContent = fileContent.slice(0, insertionPoint) + newContent + fileContent.slice(insertionPoint);
+        } else {
+          // If the end of the section is not found, append at the end
+          updatedContent = fileContent + newContent;
+        }
       } else {
         // If neither '## Overview' nor ':::company Job openings' are found, append at the end
         updatedContent = fileContent + newContent;
