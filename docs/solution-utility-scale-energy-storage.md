@@ -15,10 +15,7 @@ pagination_prev: solutions
 :::book Great articles
 - [10 Essential Books on Climate Solutions](https://climatedrift.substack.com/p/top-10-climate-frameworks-to-win) - Climate Drift
 - [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions) - Climate Drift
-- [Green Hydrogen: A really versatile clean fuel that will be key to decarbonize the economy](https://www.climatetechdistillery.com/p/green-hydrogen) - Climate Tech Distillery
 :::
-
-
 
 Advancements in Utility-Scale Energy Storage are driving climate change reversal through key technologies:
 

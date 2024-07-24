@@ -10,6 +10,7 @@ displayed_sidebar: docSidebar
 
 :::note Go in depth
 - [Hydrogen Explained - Climate Drift](https://www.climatedrift.com/p/hydrogen-explained-part-1)
+- [Green Hydrogen: A really versatile clean fuel that will be key to decarbonize the economy](https://www.climatetechdistillery.com/p/green-hydrogen) - Climate Tech Distillery
 - [The Big Guide to Hydrogen - Ben James](https://climate.benjames.io/hydrogen/)
 - [News on hydrogen](https://www.canarymedia.com/articles/hydrogen) - Canary Media
 - [Green Hydrogen Tracker](https://speedandscale.com/okrs/9-0-innovate/9-3-green-hydrogen/) - Speed and Scale
