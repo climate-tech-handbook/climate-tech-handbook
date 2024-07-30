@@ -3,55 +3,93 @@ title: Tree Intercropping
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
-![Wheat-Pea intercropping increased water use efficiency ](/../static/img/tree-intercropping.jpg)
+
+Tree intercropping is a type of agroforestry where trees and crops are grown together in the same space. This practice can help reverse climate change by reducing greenhouse gas emissions and improving soil health.
+
+![Wheat-Pea intercropping increased water use efficiency](/../static/img/tree-intercropping.jpg)
 
 *Intercropping Systems of Wheat ([MDPI Open Access Journals](https://www.mdpi.com/2073-4395/11/2/283))*
 
-
 :::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Tree+Intercropping)
+### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Tree+Intercropping)
+#### Example Companies
+- [Propagate Ventures](https://www.propagateventures.com) - Provides agroforestry project development and financing.
+- [Silvopasture Systems](https://www.silvopasture.org) - Specializes in integrating trees with livestock and crops.
+- [Agroforestry Group](https://www.agroforestrygroup.com) - Develops sustainable tree intercropping systems.
+- [Terramera](https://www.terramera.com) - Uses technology to improve crop health and reduce chemical use.
+- [Farmers Edge](https://www.farmersedge.ca) - Offers precision agriculture solutions to optimize farming practices.
 :::
 
 ## Overview
 
-Tree intercropping is a type of agroforestry in which trees and crops are grown together in the same space. This practice can help to reverse climate change by reducing greenhouse gas emissions and improving soil health.
+Tree intercropping is a type of agroforestry where trees and crops are grown together in the same field. This practice can help reverse climate change by reducing greenhouse gas emissions and improving soil health. Breakthrough technologies for tree intercropping include precision agriculture techniques, drip irrigation systems, and the development of drought- and heat-tolerant tree species.
 
-Some of the breakthrough technologies that have been developed for tree intercropping include precision agriculture techniques, which allow farmers to more accurately target their tree planting and crop production. This has led to increased yields and reduced deforestation.
-
-Other technologies that have been developed include drip irrigation systems, which help to conserve water and reduce the need for fossil fuels for irrigation. Additionally, new tree species have been developed that are more tolerant to drought and heat, which helps to reduce the impact of climate change on agriculture.
-
-Some of the companies and organizations that have been at the forefront of developing tree intercropping include the World Agroforestry Centre, the Food and Agriculture Organization of the United Nations, and the World Wildlife Fund.
+:::info Learn More
+- [Agroforestry Practices](https://www.worldagroforestry.org/our-research/agroforestry-practices) - World Agroforestry
+- [Tree Intercropping Systems](https://www.fao.org/agroforestry/en/) - Food and Agriculture Organization of the United Nations
+:::
 
 ## Progress Made
 
-Tree intercropping is a type of agroforestry in which trees and crops are grown together in the same field. This practice can help to reverse climate change by reducing greenhouse gas emissions in a number of ways. For example, trees can provide shade and windbreaks for crops, which can help to reduce evapotranspiration and water use. In addition, trees can help to improve soil health and fertility, which can increase crop yields and reduce the need for chemical fertilizers.
+Significant advancements have been made in tree intercropping technology:
 
-A number of companies and organizations have been at the forefront of developing tree intercropping as a solution to climate change. One example is the World Agroforestry Centre (ICRAF), which is a research institute that has been working to promote agroforestry around the world. Another example is the Green Climate Fund (GCF), which is a fund established by the United Nations to help developing countries reduce their greenhouse gas emissions.
+1. **Precision Agriculture**: Techniques that allow farmers to accurately target tree planting and crop production.
+2. **Drip Irrigation Systems**: Help conserve water and reduce the need for fossil fuels for irrigation.
+3. **Drought- and Heat-Tolerant Tree Species**: Developed to reduce the impact of climate change on agriculture.
+
+## Solutions by Sector
+
+### Agricultural Production
+- **Precision Agriculture**: Using GPS and sensors to optimize tree planting and crop management.
+- **Agroforestry Systems**: Integrating trees with crops to improve soil health and biodiversity.
+- **Organic Farming**: Combining tree intercropping with organic farming practices to reduce chemical use.
+
+**Case Studies:**
+1. **Propagate Ventures, USA**: Provides agroforestry project development and financing, helping farmers integrate trees into their cropping systems ([Propagate Ventures](https://www.propagateventures.com)).
+2. **Silvopasture Systems, USA**: Specializes in integrating trees with livestock and crops, enhancing productivity and sustainability ([Silvopasture Systems](https://www.silvopasture.org)).
+3. **Agroforestry Group, Malaysia**: Develops sustainable tree intercropping systems to improve soil health and increase yields ([Agroforestry Group](https://www.agroforestrygroup.com)).
+
+### Water Management
+- **Drip Irrigation**: Delivering water directly to plant roots to reduce water waste.
+- **Rainwater Harvesting**: Collecting and storing rainwater for use during dry periods.
+- **Soil Moisture Conservation**: Techniques like mulching to retain soil moisture.
+
+**Case Studies:**
+1. **Terramera, Canada**: Uses technology to improve crop health and reduce chemical use, integrating tree intercropping with advanced irrigation systems ([Terramera](https://www.terramera.com)).
+2. **Farmers Edge, Canada**: Offers precision agriculture solutions to optimize farming practices, including water management ([Farmers Edge](https://www.farmersedge.ca)).
+3. **Driptech, India**: Provides affordable drip irrigation systems for smallholder farmers, enhancing water efficiency in tree intercropping systems ([Driptech](https://www.driptech.com)).
+
+### Soil Health
+- **Composting**: Converting organic waste into nutrient-rich soil amendments.
+- **Cover Cropping**: Planting crops to cover the soil between main crop seasons.
+- **Biochar Application**: Using biochar to enhance soil fertility and carbon sequestration.
+
+**Case Studies:**
+1. **Agroforestry Research Trust, UK**: Researches and promotes tree intercropping systems that improve soil health and biodiversity ([Agroforestry Research Trust](https://www.agroforestry.co.uk)).
+2. **Biochar in Kenya**: Application of biochar in tree intercropping systems has improved soil fertility and increased crop yields ([World Agroforestry](https://www.worldagroforestry.org)).
+3. **Composting in Brazil**: Integrating composting with tree intercropping has enhanced soil health and reduced chemical fertilizer use ([Embrapa](https://www.embrapa.br)).
 
 ## Lessons Learned
 
-Some of the key lessons that have been learned in the development and implementation of Tree Intercropping to reverse climate change include the importance of:
+Key lessons from tree intercropping development:
 
-1. Proper species selection - it is important to select tree species that are well-suited to the local climate and soil conditions in order to maximise the carbon sequestration potential of the trees.
-2. Adequate spacing between trees - trees need to be spaced properly in order to optimise growth and carbon sequestration.
-3. Regular monitoring and maintenance - tree intercrops need to be regularly monitored and maintained in order to ensure their continued efficacy.
-
-These lessons have been learned through a combination of scientific research and practical experience. Several companies and organizations have been at the forefront of tree intercropping research and implementation, including the World Agroforestry Centre (ICRAF) and the International Union of Forest Research Organizations (IUFRO).
-
-Progress has been made in developing and implementing tree intercropping as a climate change mitigation measure, but there is still much work to be done. In particular, further research is needed to improve our understanding of how different tree species interact with each other and with the local environment, and to develop more efficient and effective tree intercropping systems.
+1. **Proper Species Selection**: Selecting tree species well-suited to the local climate and soil conditions is crucial.
+2. **Adequate Spacing**: Trees need to be spaced properly to optimize growth and carbon sequestration.
+3. **Regular Monitoring and Maintenance**: Tree intercrops need regular monitoring and maintenance to ensure continued efficacy.
 
 ## Challenges Ahead
 
-One of the major challenges that remain in the development and implementation of Tree Intercropping to reverse climate change is the lack of knowledge and awareness about the technology. There is a need to educate farmers and other stakeholders about the potential benefits of tree intercropping in order to encourage its adoption. Additionally, tree intercropping requires land, which may be a limiting factor in its adoption, particularly in densely populated areas. Another challenge is the lack of suitable tree species for intercropping, which limits the potential benefits that can be achieved. Finally, tree intercropping is a long-term solution and requires patience and commitment from farmers in order to be successful.
-
-Organizations such as the World Agroforestry Centre (ICRAF) and the Food and Agriculture Organization of the United Nations (FAO) have been working to promote the adoption of tree intercropping as a tool for climate change mitigation and adaptation. In 2013, ICRAF launched the Global Campaign for Agroforestry to increase awareness about the potential of agroforestry to address global challenges such as climate change, food security, and poverty. The FAO has also published a number of resources on tree intercropping, including a factsheet, guidelines, and case studies.
+1. **Knowledge and Awareness**: Educating farmers and stakeholders about the benefits of tree intercropping is essential.
+2. **Land Availability**: Tree intercropping requires land, which may be limited in densely populated areas.
+3. **Suitable Tree Species**: Developing suitable tree species for intercropping is necessary to maximize benefits.
+4. **Long-Term Commitment**: Tree intercropping is a long-term solution that requires patience and commitment from farmers.
 
 ## Best Path Forward
 
-The best path forward for the continued development and implementation of Tree Intercropping to effectively mitigate the effects of climate change is to continue to research and develop the technology so that it can be adopted on a large scale. Steps that need to be taken to ensure that this technology is effective include:
+1. **Public Awareness**: Increase awareness of the benefits of tree intercropping through education and outreach.
+2. **Government and Organizational Support**: Work with governments and organizations to promote the adoption of tree intercropping.
+3. **Research and Development**: Conduct more research to improve the effectiveness of tree intercropping.
 
-1. Increasing public awareness of the benefits of tree intercropping
-2. Working with governments and organizations to promote the adoption of tree intercropping
-3. Conducting more research to improve the effectiveness of tree intercropping
+Prominent supporters include Propagate Ventures, Silvopasture Systems, and Agroforestry Group.
 
-Some companies and organizations that have been at the forefront of this solution include the World Agroforestry Centre, the Food and Agriculture Organization of the United Nations, and the United States Department of Agriculture.
+*Image credit: [MDPI Open Access Journals](https://www.mdpi.com/2073-4395/11/2/283)*

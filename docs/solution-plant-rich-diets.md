@@ -53,6 +53,10 @@ Here are the [latest technology developments](https://gfi.org/science/the-scienc
 * Plant- and fungi-based meat (PBM): Plant ingredients undergo sourcing, processing, and formulation stages to replace functional components in animal products through R&D.
 * Recreate products have a low background flavor: The goal is to maintain a low background flavor in products without overpowering the subtler tastes of conventional meat or seafood.
 
+:::note Lab-grown meat skepticism
+- [Lab-grown Meat is not a Climate Change Solution](https://climatedrift.substack.com/p/lab-grown-meat-is-not-a-climate-solution) - Climate Drift
+:::
+
 ## Solutions by Sector
 
 ### Production

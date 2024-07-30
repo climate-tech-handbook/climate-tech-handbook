@@ -13,13 +13,14 @@ displayed_sidebar: docSidebar
 
 :::company Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Research+%26+Education&p=0&remote=false)
-
+:::
 
 While health and education may not directly influence the physical mechanisms of climate change, they can contribute to building resilience, promoting sustainable practices, and fostering informed decision-making.
 
 Examples:
 
 * Reduce, reuse, repair & recycle
+
 * Low-carbon lifestyle
 
 ## Solutions in this Sector

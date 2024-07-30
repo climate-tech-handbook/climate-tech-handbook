@@ -21,9 +21,7 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 :::
 
 ## Overview
-:::book Great articles
-- [Followup Friday - Edition 1](https://climatedrift.substack.com/p/followup-friday-edition-1) - Climate Drift
-- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-579) - Climate Drift
+:::book Great Resource
 - [Food Waste: Fixing the world's dumbest issue](https://www.climatetechdistillery.com/p/23-food-waste) - Climate Tech Distillery
 :::
 
