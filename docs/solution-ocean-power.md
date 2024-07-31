@@ -15,7 +15,7 @@ Ocean power harnesses the energy from ocean waves, tides, and temperature differ
 :::
 
 ## Overview
-:::book Great articles
+:::book Resource
 - [Tidal Power: A source of accessible, natural and consistent clean energy](https://www.climatetechdistillery.com/p/13-tidal-power) - Climate Tech Distillery
 :::
 

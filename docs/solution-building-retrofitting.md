@@ -21,8 +21,8 @@ _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-
 
 ## Overview
 :::book Great articles
-- [A Look at Building Companies](https://climatedrift.substack.com/p/a-look-at-building-companies) - Climate Drift
 - [Retrofitting: The forgotten part of making buildings green](https://www.climatetechdistillery.com/p/27-retrofitting) - Climate Tech Distillery
+- [A Look at Building Companies](https://climatedrift.substack.com/p/a-look-at-building-companies) - Climate Drift
 :::
 
 

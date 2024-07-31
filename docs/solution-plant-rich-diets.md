@@ -31,7 +31,7 @@ With the potential to reduce **78.33 Gigatons** from our 1050.91 Gigaton Drawdow
 
 ## Overview
 :::book Great articles
-- [We need to talk about Mushrooms](https://climatedrift.substack.com/p/we-need-to-talk-about-mushrooms) - Climate Drift
+<!-- - [We need to talk about Mushrooms](https://climatedrift.substack.com/p/we-need-to-talk-about-mushrooms) - Climate Drift -->
 - [The Complete Guide to Alternative-Proteins](https://climatedrift.substack.com/p/the-complete-guide-to-alternative) - Climate Drift
 :::
 

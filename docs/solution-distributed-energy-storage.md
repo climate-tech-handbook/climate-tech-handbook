@@ -31,13 +31,13 @@ Distributed Energy Storage is a crucial component in the transition to a cleaner
 :::
 
 ## Overview
-:::book Great articles
+<!-- :::book Great articles
 - [Beyond the Hype](https://climatedrift.substack.com/p/beyond-the-hype) - Climate Drift
 - [How to use Toasters and Bricks to reduce 25% of global emissions - Part 2](https://climatedrift.substack.com/p/how-to-use-toasters-and-bricks-to-aaa) - Climate Drift
 - [How to use Toasters and Bricks to reduce 25% of global emissions - Part 1](https://climatedrift.substack.com/p/how-to-use-toasters-and-bricks-to) - Climate Drift
 - [Direct Air Capture (DAC): One of the fastest growing carbon removal technologies](https://www.climatetechdistillery.com/p/01-direct-air-capture-dac) - Climate Tech Distillery
 :::
-
+ -->
 
 
 Distributed Energy Storage systems allow for the local storage and use of energy, reducing the need for large, centralized power plants that emit greenhouse gases. These systems play a crucial role in integrating renewable energy sources and improving grid stability.

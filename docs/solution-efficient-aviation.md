@@ -23,7 +23,7 @@ Efficient aviation technologies aim to reduce the environmental impact of air tr
 
 This includes breakthrough technologies such as efficient engines, fuel-efficient airplanes, and sustainable aviation fuels (SAF).
 
-:::book Great articles
+:::book Resource
 - [Sustainable Aviation Fuel (SAF): No longer feeling guilty about traveling by plane](https://www.climatetechdistillery.com/p/17-sustainable-aviation-fuel-saf) - Climate Tech Distillery
 - [Boeing's Sustainability Together Project](https://sustainabilitytogether.aero/)
 :::

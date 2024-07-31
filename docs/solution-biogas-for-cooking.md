@@ -26,6 +26,12 @@ Biogas for cooking is a sustainable solution that converts organic waste into cl
 - **Greenhouse Gas Reduction**: Replaces traditional fuels, leading to fewer greenhouse gas emissions.
 - **Leaders in Biogas Promotion**: Biogas industry, United Nations, World Bank.
 
+:::podcast More podcast episodes
+- One
+- Two
+- Three
+:::
+
 ## Progress Made
 
 Significant advancements in biogas technology have led to reduced greenhouse gas emissions and increased adoption of biogas systems:

@@ -22,8 +22,7 @@ Water distribution efficiency involves using innovative methods to achieve the s
 :::
 
 ## Overview
-:::book Great articles
-- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-ef4) - Climate Drift
+:::book Resource
 - [Water Distribution: A big source of water and energy waste](https://www.climatetechdistillery.com/p/29-water-distribution) - Climate Tech Distillery
 :::
 

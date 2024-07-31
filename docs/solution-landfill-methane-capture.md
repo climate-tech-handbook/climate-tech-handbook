@@ -25,7 +25,6 @@ Landfill methane capture is a crucial technology for reducing greenhouse gas emi
 Landfill gas-to-energy (LFGE) facilities use landfill gas (LFG) – a mix of methane and carbon dioxide – to generate electricity or heat. This reduces greenhouse gas emissions by displacing fossil fuels and minimizing methane release.
 
 :::info Learn More
-- [Carbon Offsets Explained: Part 3](https://climatedrift.substack.com/p/carbon-offsets-explained-part-3) - Climate Drift
 - [EPA - Landfill Methane Outreach Program](https://www.epa.gov/lmop)
 - [Global Methane Initiative - Landfill Methane](https://www.globalmethane.org/sectors/landfill/index.aspx)
 :::

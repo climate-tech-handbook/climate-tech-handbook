@@ -14,9 +14,9 @@ hide_table_of_contents: false
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
 :::book Great articles
-- [Key Takeaways from IEA's new Net Zero Guide - Part 2](https://climatedrift.substack.com/p/key-takeaways-from-ieas-new-net-zero-406) - Climate Drift
-- [Key Takeaways from IEA's new Net Zero Guide - Part 1](https://climatedrift.substack.com/p/key-takeaways-from-ieas-new-net-zero) - Climate Drift
 - [The Inflation Reduction Act - Reducing Inflation or Increasing Climate Funding?](https://warminguptoclimatetech.substack.com/p/the-inflation-reduction-act-reducing) - Warming Up to Climate Tech
+- [Key Takeaways from IEA's new Net Zero Guide - Part 1](https://climatedrift.substack.com/p/key-takeaways-from-ieas-new-net-zero) - Climate Drift
+- [Key Takeaways from IEA's new Net Zero Guide - Part 2](https://climatedrift.substack.com/p/key-takeaways-from-ieas-new-net-zero-406) - Climate Drift
 :::
 
 
