@@ -19,6 +19,9 @@ Alternative refrigerants are crucial for reducing greenhouse gas emissions from 
 :::
 
 ## Overview
+:::book Resource
+- [Path to 100% Green Hydrogen](https://warminguptoclimatetech.substack.com/p/green-hydrogen) - Warming Up to Climate Tech
+:::
 
 As global temperatures rise, the demand for air conditioning and refrigeration is increasing. However, the refrigerants used in these systems are major contributors to global warming. Currently, hydrofluorocarbons (HFCs) are the most commonly used refrigerants, with a global warming potential (GWP) up to 3,000 times greater than carbon dioxide (CO2).
 
@@ -29,8 +32,6 @@ The use of refrigerants is expected to grow by 10-15% per year, making the trans
 - HFCs are short-lived in the atmosphere but have a very high GWP.
 - Refrigerants in landfills produce potent greenhouse gases.
 - The production and disposal of refrigerants also contribute to environmental pollution.
-
-Drawdown refrigerants chart
 
 :::book More info
 - [Project Drawdown - Alternative Refrigerants](https://drawdown.org/solutions/alternative-refrigerants) overview page
@@ -78,31 +79,28 @@ Drawdown refrigerants chart
 
 ## Lessons Learned
 
-1. **Low-Carbon Cement**: It is possible to create low-carbon cement that significantly reduces greenhouse gas emissions.
-2. **Alternative Materials**: Using industrial waste products can create more sustainable cement.
-3. **Energy Efficiency**: Adapting manufacturing processes to use less energy and water further reduces environmental impact.
-4. **Versatility**: Alternative cement can be used in various applications, including concrete, mortar, and grout.
-5. **Early Development**: The technology is still in its early stages, and there is room for improvement.
+1. **Regulatory Compliance**: Navigating complex regulations and standards is crucial for the adoption of alternative refrigerants.
+2. **Training and Education**: Technicians and engineers need proper training to handle and implement new refrigerants safely.
+3. **System Compatibility**: Ensuring that existing systems can be retrofitted or are compatible with new refrigerants.
+4. **Public Awareness**: Increasing awareness about the environmental benefits and safety of alternative refrigerants.
+5. **Research and Development**: Continuous R&D is essential to improve the performance and cost-effectiveness of alternative refrigerants.
 
 ## Challenges Ahead
 
-1. **Cost**: Alternative cements are typically more expensive than traditional Portland cement.
-2. **Infrastructure**: Different manufacturing processes and equipment are required.
-3. **Standards**: Lack of universally accepted standards for alternative cements.
-4. **Performance**: Predicting the performance of alternative cements in concrete can be challenging.
+1. **Cost**: Alternative refrigerants can be more expensive than traditional HFCs.
+2. **Infrastructure**: Developing the necessary infrastructure for the production, distribution, and recycling of alternative refrigerants.
+3. **Performance**: Ensuring that alternative refrigerants perform as well as or better than traditional refrigerants in various applications.
+4. **Safety**: Addressing safety concerns associated with the use of natural refrigerants, such as flammability and toxicity.
+5. **Market Adoption**: Encouraging widespread adoption of alternative refrigerants in both developed and developing markets.
 
 ## Best Path Forward
 
-1. **Research and Development**: Increase investment in R&D for alternative cement technology.
-2. **Industry Collaboration**: Work with cement producers to promote adoption.
-3. **Environmental Studies**: Conduct more studies on the environmental benefits of alternative cement.
-4. **Policy Support**: Work with policymakers to create incentives for using alternative cement.
-5. **Public Awareness**: Increase public awareness of the benefits of alternative cement.
+1. **Policy Support**: Implement policies and regulations that incentivize the use of low-GWP refrigerants.
+2. **Industry Collaboration**: Foster collaboration between manufacturers, policymakers, and industry stakeholders to promote the adoption of alternative refrigerants.
+3. **Public Awareness**: Increase public awareness about the environmental and economic benefits of alternative refrigerants.
+4. **Research and Development**: Invest in R&D to improve the performance, safety, and cost-effectiveness of alternative refrigerants.
+5. **Training and Education**: Provide comprehensive training programs for technicians and engineers to ensure safe and effective implementation of alternative refrigerants.
 
-:::info Learn More
-- [Project Drawdown - Alternative Cement](https://drawdown.org/solutions/alternative-cement)
-- [EPA - Overview of Greenhouse Gases](https://www.epa.gov/ghgemissions/overview-greenhouse-gases)
-- [European Commission - F-Gas Regulation](https://ec.europa.eu/clima/policies/f-gas_en)
-:::
+Prominent supporters include Honeywell, Daikin Industries, Chemours, Trane Technologies, and Carrier.
 
-*Image credit: Cement Factory ([Patrick Hendry](https://unsplash.com/@worldsbetweenlines?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+*Image credit: [Clean Energy Wire](https://www.cleanenergywire.org/factsheets/waste-energy-controversial-power-generation-incineration)*

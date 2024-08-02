@@ -20,6 +20,12 @@ _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-
 :::
 
 ## Overview
+:::book Great articles
+- [Retrofitting: The forgotten part of making buildings green](https://www.climatetechdistillery.com/p/27-retrofitting) - Climate Tech Distillery
+- [A Look at Building Companies](https://climatedrift.substack.com/p/a-look-at-building-companies) - Climate Drift
+:::
+
+
 
 Building retrofitting involves enhancing existing buildings to be more energy-efficient and reduce their carbon impact, achieved through methods such as insulation, energy-efficient windows, and upgraded heating/cooling systems. Technological advances, such as energy-efficient windows and aerogel insulation, have driven progress in this field.
 

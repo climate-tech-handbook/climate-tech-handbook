@@ -25,7 +25,7 @@ Each solution comes with a calculated number of greenhouse emissions that need t
 ## **Pick a climate solution below, organized by sector.**
 
 ## These are the Big 5 sectors
-
+    
 ### Emission reduction:
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>
 

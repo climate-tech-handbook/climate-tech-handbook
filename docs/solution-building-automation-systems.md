@@ -31,6 +31,12 @@ Building Automation Systems (BAS) are crucial for optimizing energy use and redu
 :::
 
 ## Overview
+:::book Great articles
+- [The Easiest Path For Companies To Reach Net Zero](https://warminguptoclimatetech.substack.com/p/easiest-path-for-companies-to-reach-net-zero) - Warming Up to Climate Tech
+- [Ai to Combat Climate Change](https://warminguptoclimatetech.substack.com/p/ai-to-combat-climate-change) - Warming Up to Climate Tech
+:::
+
+
 
 Building Automation Systems (BAS) integrate various building systems to optimize energy use, enhance comfort, and improve operational efficiency. These systems use sensors, controllers, and software to monitor and manage HVAC, lighting, security, and other building functions.
 

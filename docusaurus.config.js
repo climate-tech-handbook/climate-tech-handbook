@@ -212,6 +212,13 @@ const darkCodeTheme = themes.dracula;
           minHeadingLevel: 2,
           maxHeadingLevel: 2,
         },
+        announcementBar: {
+          id: 'announcement-bar',
+          content: 'Check out our new <a target="_blank" rel="noopener noreferrer" href="/event-guide">Climate Event Organizing Guide!</a>',
+          backgroundColor: '#fafbfc',
+          textColor: '#091E42',
+          isCloseable: true,
+        },        
       }),
   }
 );

@@ -24,6 +24,13 @@ Grid flexibility refers to the capability of the electric grid to accommodate di
 :::
 
 ## Overview
+:::book Great articles
+- [A guide to Virtual Power Plants (VPP)](https://climatedrift.substack.com/p/a-guide-to-virtual-power-plants-vpp) - Climate Drift
+- [Smart Grids: The green transition requires an updated grid](https://www.climatetechdistillery.com/p/22-smart-grids) - Climate Tech Distillery
+- [How to Decarbonize the Global Electric Grid](https://warminguptoclimatetech.substack.com/p/how-to-decarbonize-the-global-electric-grid) - Warming Up to Climate Tech
+:::
+
+
 
 Grid flexibility is essential for integrating renewable energy sources and maintaining grid stability. It involves technologies and strategies that allow the grid to dynamically adapt to changes in energy supply and demand, improving efficiency and resilience.
 
