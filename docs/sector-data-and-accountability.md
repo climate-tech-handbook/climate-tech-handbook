@@ -1,7 +1,7 @@
 ---
 title: Data and Accountability
 displayed_sidebar: docSidebar
-# hide_table_of_contents: true
+hide_table_of_contents: false
 ---
 
 ## Sector Overview

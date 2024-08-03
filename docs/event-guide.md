@@ -1,7 +1,7 @@
 ---
 title: Climate Event Organizing Guide
 displayed_sidebar: docSidebar
-hide_table_of_contents: true
+hide_table_of_contents: false
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
