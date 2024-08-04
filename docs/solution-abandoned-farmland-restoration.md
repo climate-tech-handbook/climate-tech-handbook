@@ -4,16 +4,14 @@ displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
 
-# Abandoned Farmland Restoration
-
-![Abandoned farm](../static/img/abandoned-farm.jpg)
-
 Restoring abandoned farmland offers significant potential for mitigating climate change by sequestering carbon and improving biodiversity. This solution involves reclaiming and revitalizing formerly cultivated lands that have been left unused.
+
+![Abandoned farmland being restored](../static/img/abandoned-farm.jpg)
 
 :::company Job Opportunities
 [Explore job postings on Climatebase](https://climatebase.org/jobs?l=&q=abandoned+farmland+restoration&p=0&remote=false)
 
-**Companies working on Abandoned Farmland Restoration**
+**Example Companies / Organizations**
 - [The Nature Conservancy](https://www.nature.org/) - Global conservation organization working on land and water preservation
 - [Ecosystem Restoration Camps](https://ecosystemrestorationcamps.org/) - Non-profit focused on restoring degraded landscapes worldwide
 - [Commonland](https://www.commonland.com/) - Organization dedicated to large-scale landscape restoration

@@ -24,11 +24,19 @@ Clean cooking technologies, such as solar cookers and biomass cookstoves, are pi
 
 Clean cooking technologies are essential for reducing greenhouse gas emissions and improving public health. These technologies include solar cookers, improved biomass cookstoves, and biogas digesters, which provide eco-friendly alternatives to traditional cooking methods.
 
-:::info Learn More
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+Cut the gas and oil used for heating and cooking by half by 2040
+
+Use their [news tracking tool](https://speedandscale.com/okrs/2-0-decarbonize-the-grid/2-6-heating-and-cooking/) to track progress
+:::
+
+## Learn More
 - [Global Alliance for Clean Cookstoves](https://cleancookingalliance.org)
 - [WHO - Clean Household Energy Solutions Toolkit](https://www.who.int/airpollution/household/clean-cooking-toolkit)
 - [Clean Cooking Catalog](https://catalog.cleancookstoves.org)
-:::
+
 
 ## Progress Made
 

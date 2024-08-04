@@ -18,6 +18,10 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 
 :::company job openings
 ### [View open jobs in Reduced Food Waste](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Reduced+Food+Waste)
+#### Example Companies:
+- [Mill](https://www.mill.com) - Consumer food dehydrator and accompanying processing service to reclaim residential food waste as chicken feed.
+- [Afresh](https://www.afresh.com) - Uses AI to reduce food waste and increase profits in the fresh food supply chain.
+- [Apeel Sciences](https://www.apeelsciences.com) - Develops plant-derived shelf life extension technology to reduce food waste.
 :::
 
 ## Overview

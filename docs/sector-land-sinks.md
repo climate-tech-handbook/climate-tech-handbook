@@ -7,7 +7,14 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 248.2–392.7 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
+:::info Goals
+Critical benchmarks from **Speed & Scale**
+
+**By 2030** 30% of the earth’s lands are protected
+
+**By 2050** 50% of the earth’s lands are protected
+
+Use their [news tracking tool](https://speedandscale.com/okrs/4-0-protect-nature/4-3-lands/) to track progress
 :::
 
 ![](/../static/img/land-sinks.jpg)

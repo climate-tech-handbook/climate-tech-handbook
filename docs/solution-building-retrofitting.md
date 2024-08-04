@@ -10,7 +10,12 @@ _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-
 
 
 :::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Building+Retrofitting)
+### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Building+Retrofitting)
+
+#### Example Companies
+
+- [enVerid Systems](https://enverid.com) - enVerid provides indoor air quality and HVAC energy-saving technologies for commercial buildings.
+- [Enerbrain](https://www.enerbrain.com) - Enerbrain turns wasteful buildings into smarter, healthier & more sustainable ones with an innovative IoT energy retrofit solution.
 :::
 
 :::book Resources

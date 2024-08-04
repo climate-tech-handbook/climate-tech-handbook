@@ -20,6 +20,15 @@ Utility-scale energy storage involves large-scale storage systems that capture e
 - [LG Chem](https://www.lgchem.com) - Manufactures advanced battery storage solutions for utility-scale applications.
 :::
 
+<!-- <details> 
+<summary>
+Full list of companies
+</summary>
+- one
+- two
+- three
+</details> -->
+
 ## Overview
 
 Advancements in utility-scale energy storage are driving climate change reversal through key technologies:
@@ -27,6 +36,14 @@ Advancements in utility-scale energy storage are driving climate change reversal
 - **Battery Storage**: Storing energy for homes, businesses, and utilities, reducing reliance on fossil fuels.
 - **Solar PV Storage**: Capturing solar energy for use during cloudy periods, reducing fossil fuel dependency.
 - **Wind Energy Storage**: Storing wind energy for use during calm periods, lessening fossil fuel use.
+
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+$10 per kWh cost for long-duration electricity storage (14–30 days)
+
+Use their [news tracking tool](https://speedandscale.com/okrs/2-0-decarbonize-the-grid/2-3-storage/) to track progress
+:::
 
 ## Progress Made
 

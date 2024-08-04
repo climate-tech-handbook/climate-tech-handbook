@@ -13,6 +13,7 @@ Aquaculture, the cultivation of fish, shellfish, and other aquatic life, has see
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Improved+Aquaculture)
 #### Example Companies
+- [Upward Farms](https://www.upwardfarms.com) - Grows high ecological and quality standard leafy greens and fish using indoor vertical farming technology.
 - [AquaBounty Technologies](https://www.aquabounty.com) - Develops genetically engineered salmon for faster growth and sustainability.
 - [Global Aquaculture Alliance](https://www.aquaculturealliance.org) - Promotes sustainable aquaculture practices worldwide.
 - [World Wildlife Fund (WWF)](https://www.worldwildlife.org) - Advocates for sustainable aquaculture through various initiatives.

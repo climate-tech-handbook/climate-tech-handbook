@@ -12,12 +12,13 @@ Forest protection is a critical strategy for mitigating climate change, preservi
 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Forest+Protection)
-#### Example Companies
+#### Example Companies / Organizations
 - [The Nature Conservancy](https://www.nature.org/) - Global conservation organization working on forest protection and restoration.
 - [World Wildlife Fund](https://www.worldwildlife.org/) - International organization focusing on wildlife conservation and forest protection.
 - [Rainforest Alliance](https://www.rainforest-alliance.org/) - Works to conserve biodiversity and ensure sustainable livelihoods through forest protection.
 - [Conservation International](https://www.conservation.org/) - Protects nature and its biodiversity through various conservation projects.
 - [Forest Stewardship Council](https://fsc.org/) - Promotes responsible management of the world's forests.
+- [Better Place Forests](https://www.betterplaceforests.com) - Creates conservation spreading forests for people who choose cremation, providing permanently protected memorial trees.
 :::
 
 ## Overview

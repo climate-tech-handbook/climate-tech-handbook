@@ -12,7 +12,8 @@ Nutrient management involves the efficient use of fertilizers and soil amendment
 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Nutrient+Management)
-#### Example Organizations
+#### Example Companies / Organizations
+- [Regrow](https://www.regrow.ag) - Software platform for agronomy and scenario planning with monitoring, reporting, and verification to improve nutrient management.
 - [The Climate Corporation](https://climate.com) - Provides digital tools for precision agriculture.
 - [Yara International](https://www.yara.com) - Develops fertilizers and crop nutrition solutions.
 - [The Fertilizer Institute](https://www.tfi.org) - Advocates for the responsible use of fertilizers.

@@ -17,6 +17,7 @@ Alternative cement technologies are essential for reducing the carbon footprint 
 - [Sublime Systems](https://sublime-systems.com/) - Innovates in electrochemical cement production to reduce emissions.
 - [Fortera](https://forteraglobal.com/) - Converts CO2 into a key ingredient for sustainable cement.
 - [Prometheus Materials](https://prometheusmaterials.com/home/) - Develops bio-cement using microorganisms to create sustainable building materials.
+- [Biomason](https://biomason.com) - Biomason is a developer of a building materials technology that employs natural microorganisms to grow bio cement in ambient temperatures.
 :::
 
 ## Overview

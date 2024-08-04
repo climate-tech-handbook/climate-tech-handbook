@@ -6,15 +6,16 @@ pagination_prev: solutions
 
 Building Automation Systems (BAS) are crucial for optimizing energy use and reducing emissions in buildings. By integrating various systems such as heating, ventilation, air conditioning (HVAC), lighting, and security, BAS can significantly enhance energy efficiency and occupant comfort.
 
+These systems use sensors, controllers, and software to monitor and manage building systems.
+
 ![Building Automation systems diagram](../static/img/building-automation.png)
 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Building+Automation+Systems)
 #### Example Companies
+- [SmartAC.com](https://smartac.com) - SmartAC.com is digitizing the HVAC industry to perfect the experience of home comfort.
+- [Bluon](https://bluon.com) - Bluon is a mobile app & support platform utilized by one third of all HVAC techs in the U.S.
 - [Johnson Controls](https://www.johnsoncontrols.com) - Leading provider of BAS solutions.
-- [Siemens](https://new.siemens.com/global/en/products/buildings.html) - Offers a range of smart building technologies.
-- [Honeywell](https://buildings.honeywell.com) - Develops advanced building automation systems.
-- [Schneider Electric](https://www.se.com/ww/en/work/solutions/building-automation-and-control.jsp) - Specializes in energy management and automation solutions.
 - [Trane Technologies](https://www.trane.com/commercial/north-america/us/en.html) - Provides innovative HVAC and BAS solutions.
 :::
 
@@ -29,16 +30,6 @@ Building Automation Systems (BAS) are crucial for optimizing energy use and redu
 - [Building Automation Monthly](https://buildingautomationmonthly.com) - Newsletter on BAS trends and best practices.
 - [ASHRAE Journal](https://www.ashrae.org/resources--publications/periodicals/ashrae-journal) - Technical articles on HVAC and building automation.
 :::
-
-## Overview
-:::book Great articles
-- [The Easiest Path For Companies To Reach Net Zero](https://warminguptoclimatetech.substack.com/p/easiest-path-for-companies-to-reach-net-zero) - Warming Up to Climate Tech
-- [Ai to Combat Climate Change](https://warminguptoclimatetech.substack.com/p/ai-to-combat-climate-change) - Warming Up to Climate Tech
-:::
-
-
-
-Building Automation Systems (BAS) integrate various building systems to optimize energy use, enhance comfort, and improve operational efficiency. These systems use sensors, controllers, and software to monitor and manage HVAC, lighting, security, and other building functions.
 
 ## Solutions by Sector
 

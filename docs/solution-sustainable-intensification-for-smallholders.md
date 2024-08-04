@@ -12,8 +12,10 @@ Sustainable intensification for smallholders involves increasing agricultural pr
 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Sustainable+Intensification+for+Smallholders)
-#### Example Organizations
+#### Example Companies/Organizations
 - [International Rice Research Institute (IRRI)](https://www.irri.org) - Develops rice varieties and sustainable farming practices.
+- [Freight Farms](https://www.freightfarms.com) - Offers high-volume crop production units made from upcycled shipping containers to support farming in any climate.
+- [Intelligent Growth Solutions](https://www.intelligentgrowthsolutions.com) - Provides power, lighting, and communications platforms in controlled environments to support smallholder farming.
 - [World Wildlife Fund (WWF)](https://www.worldwildlife.org) - Promotes sustainable agriculture and conservation.
 - [The Climate Corporation](https://climate.com) - Provides digital tools for precision agriculture.
 - [One Acre Fund](https://oneacrefund.org/) - Supplies smallholder farmers with financing and training.

@@ -24,6 +24,8 @@ With the potential to reduce **78.33 Gigatons** from our 1050.91 Gigaton Drawdow
 #### Example Companies
 - [Beyond Meat](https://www.beyondmeat.com) - Produces plant-based meat alternatives that replicate the taste and texture of animal meat.
 - [Impossible Foods](https://impossiblefoods.com) - Develops plant-based substitutes for meat products.
+- [Air Protein](https://www.airprotein.com) - Produces sustainable protein from elements found in the air.
+- [Clara Foods](https://www.clarafoods.com) - Creates chickenless egg proteins without the use of animals.
 - [Oatly](https://www.oatly.com) - Specializes in oat-based dairy alternatives.
 - [Just Egg](https://www.ju.st) - Creates plant-based egg substitutes.
 - [Miyoko's Creamery](https://miyokos.com) - Produces vegan dairy products like cheese and butter.

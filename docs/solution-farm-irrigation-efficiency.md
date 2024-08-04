@@ -13,6 +13,7 @@ Farm irrigation efficiency technologies aim to optimize water use in agriculture
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Farm+Irrigation+Efficiency)
 #### Example Companies
 - [Aquaspy](https://www.aquaspy.com) - Develops soil moisture sensors and irrigation management solutions.
+- [N-drip](https://www.ndrip.com) - Develops gravity micro-irrigation systems to reduce water use in agriculture.
 - [Netafim](https://www.netafim.com) - Specializes in precision irrigation systems.
 - [Jain Irrigation](https://www.jains.com) - Provides advanced irrigation technologies and solutions.
 - [Lindsay Corporation](https://www.lindsay.com) - Offers irrigation systems and water management solutions.

@@ -8,7 +8,16 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 6.3-10 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
+Coastal and ocean sinks can absorb and sequester large amounts of carbon dioxide from the atmosphere, also known as "blue carbon".
+
+:::info Goals
+Critical benchmarks from **Speed & Scale**
+
+**By 2030** 30% of the earth’s oceans are protected
+
+**By 2050** 50% of the earth’s oceans are protected
+
+Use their [news tracking tool](https://speedandscale.com/okrs/4-0-protect-nature/4-2-oceans/) to track progress
 :::
 
 ![](/../static/img/coastal-and-ocean-sinks.png)
@@ -20,8 +29,6 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
-
-Coastal and ocean sinks can absorb and sequester large amounts of carbon dioxide from the atmosphere, also known as "blue carbon".
 
 <!-- :::info Job Board
 [Nature Tech](https://naturetech.io/) - specifically for nature based solutions
