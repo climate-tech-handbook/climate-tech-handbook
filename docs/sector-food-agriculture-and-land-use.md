@@ -5,10 +5,16 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
+At least 25% of all emission sources come from food, agriculture, or land use practices.
+
+Fixing this sector has multiple benefits beyond solving the climate crisis.
+
+We can also reduce food waste to solve hunger, restore biodiversity to prevent further extinction, and improve mental as examples.
+
 ## Sector Overview
 
-:::tip 226.5–312 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
-:::
+<!-- :::tip 226.5–312 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
+::: -->
 
 ![](/../static/img/food-agriculture-and-land-use.jpg)
 
@@ -28,12 +34,6 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 :::book Resource
 - [A Look at Food & Agriculture](https://climatedrift.substack.com/p/a-look-at-food-and-agriculture) - Climate Drift
 :::
-
-
-
-The Food, Agriculture, and Land Use sector is essential in the worldwide effort to combat climate change.
-
-Beyond decreasing its emissions, it also presents opportunities for carbon capture and enhancing resilience to climate-related impacts.
 
 ## Resources:
 

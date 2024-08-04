@@ -13,9 +13,11 @@ displayed_sidebar: docSidebar
 :::company Job openings
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Media+%26+Journalism&p=0&remote=false)
 
--
+#### Companies:
 
--
+- Carbon Direct
+
+- Watershed
 
 -
 
