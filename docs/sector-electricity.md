@@ -6,11 +6,16 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
+Overhauling electricity is a critical step, and tends to be the primary climate tech focus.
+
 :::tip Impact Goal
 196.8–420.6 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
-![](/../static/img/electricity.png)
+![power line](/../static/img/electricity.png)
+
+<!-- 
+![drawdown chart](/../static/img/drawdown-chart.png) -->
 
 :::company Job openings
 
@@ -18,17 +23,6 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 Then come back to learn more about a specific [Solution](#solutions-in-this-sector) in the Energy Sector
 :::
-
-<!--Huge opportunity admonition-->
-
-:::caution
-
-### Huge learning curve
-
-Be prepared to read [a lot of obscure PDFs like these](https://www.eia.gov/analysis/handbook/)
-:::
-
-Overhauling electricity is a critical step.
 
 In addition to scaling new technologies, there are unique challenges such as:
 
@@ -38,12 +32,21 @@ In addition to scaling new technologies, there are unique challenges such as:
 
 * The economics of buying and selling clean energy
 
-:::expert
-- Connect with [Ahmad Faruqui](https://www.linkedin.com/in/ahmad-faruqui-0177b83/) to learn about energy economics
+<!--Huge opportunity admonition-->
+
+:::caution huge learning curve
+
+Be prepared to read [a lot of obscure PDFs like these](https://www.eia.gov/analysis/handbook/)
 :::
+
+<!-- :::expert
+- Connect with [Ahmad Faruqui](https://www.linkedin.com/in/ahmad-faruqui-0177b83/) to learn about energy economics
+::: -->
 ## Resources:
 
-:::info
+Great news sites and podcasts:
+
+:::tip try 
 - [Cipher News](https://ciphernews.com/topics/electricity)
 - [Volts](https://volts.wtf)
 - [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) - with [Shayle Kann](https://www.linkedin.com/in/shaylekann)

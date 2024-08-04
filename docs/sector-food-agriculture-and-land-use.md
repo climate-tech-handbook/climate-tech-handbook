@@ -27,19 +27,12 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 - [Yard Stick](https://www.useyardstick.com/)
 - [Regrow Ag](https://regrow.ag/)
 - [Aigen](https://www.aigen.io)
-
-
-<!--This is the best strategy to accelerate your expertise as a top candidate-->
-:::
-:::book Resource
-- [A Look at Food & Agriculture](https://climatedrift.substack.com/p/a-look-at-food-and-agriculture) - Climate Drift
 :::
 
 ## Resources:
-
-:::info
-- [A Look at Food & Agriculture](https://www.climatedrift.com/p/a-look-at-food-and-agriculture?utm_source=%2Fsearch%2Fagriculture&utm_medium=reader2)
-- [The Complete Guide to Alternative-Proteins](https://www.climatedrift.com/p/the-complete-guide-to-alternative?utm_source=%2Fsearch%2Fagriculture&utm_medium=reader2)
+:::book great articles
+- [A Look at Food & Agriculture](https://climatedrift.substack.com/p/a-look-at-food-and-agriculture) - Climate Drift
+- [The Complete Guide to Alternative-Proteins](https://www.climatedrift.com/p/the-complete-guide-to-alternative?utm_source=%2Fsearch%2Fagriculture&utm_medium=reader2) - Climate Drift
 :::
 
 ## Solutions in this Sector

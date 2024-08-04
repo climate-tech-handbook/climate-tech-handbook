@@ -5,9 +5,12 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
+Buildings account for nearly 40% of global energy consumption and around one-third of global greenhouse gas emissions, mainly due to the use of fossil fuels for heating, cooling, and electricity. 
+
 ## Sector Overview
 
-:::tip 72-144.3 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
+:::tip Impact Goal
+72-144.3 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
 ![](/../static/img/buildings.jpg)
@@ -27,8 +30,6 @@ Meet people in the *[#learn-built-environment](https://app.slack.com/client/T017
 :::expert
 Connect with [Connor Dillon](https://www.linkedin.com/in/connorjdillon/) to understand building code adoption
 :::
-
-Buildings account for nearly 40% of global energy consumption and around one-third of global greenhouse gas emissions, mainly due to the use of fossil fuels for heating, cooling, and electricity. 
 
 ## Resources:
 

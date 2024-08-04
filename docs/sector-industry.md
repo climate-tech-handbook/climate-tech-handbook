@@ -7,7 +7,12 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 143.4–166 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
+We need to transform every industry across the globe to be free of greenhouse pollution.
+
+Below are the primary industries that cause the most emissions and make the best targets for early impact.
+
+:::tip Impact Goal
+143.4–166 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
 :::
 
 ![](/../static/img/industry.jpg)
@@ -18,18 +23,9 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
 :::
 
-:::newsletter Newsletters
+:::newsletter a great newsletter
 - [Industry Decarbonization](https://industrydecarbonization.com/)
-- [Survival Club](https://survival.club)
 :::
-
-The industry sector can contribute to low-carbon innovation, by developing and manufacturing technologies necessary for the energy transition, such as batteries, wind turbines, and solar panels.
-
-Examples:
-
-* Improving energy efficiency
-* Adopting low-carbon technologies
-* Transitioning to a circular economy
 
 ## Solutions in this Sector
 
