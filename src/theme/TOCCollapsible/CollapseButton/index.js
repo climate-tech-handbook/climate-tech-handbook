@@ -68,8 +68,8 @@ export default function TOCCollapsibleCollapseButton({collapsed, toc, ...props})
       )}>
         <div className={clsx(styles.tocLeft)}>
           <IoMenuOutline />
-          {/* <span> {renderTitle()} </span> Not Working */}
-          <span>Table of Contents </span>
+        
+          
         </div>
     </button>
   );
