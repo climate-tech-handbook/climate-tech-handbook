@@ -1,3 +1,12 @@
+
+.title{
+  color: blue;
+  font-size: 30px;
+  position: fixed;
+  z-index: 888;
+}
+
+
 .tocCollapsibleButton {
   font-size: inherit;
   display: flex;
@@ -5,7 +14,7 @@
   align-items: center;
   padding: 0.4rem 0.8rem;
   width: 100%;
-  z-index: 9999;
+  z-index: 5;
 }
 
 .tocCollapsibleButton::after {
