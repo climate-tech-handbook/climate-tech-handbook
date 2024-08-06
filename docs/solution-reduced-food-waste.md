@@ -71,8 +71,28 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 4. **Home Composting Solutions**: [Mill](https://mill.com) offers a special household compost bin that turns food waste into livestock feed.
 
 5. **Waste-to-Energy**: [Generate Upcycle](https://generateupcycle.com/) uses anaerobic digestion to convert food waste into renewable energy and organic fertilizers.
+### Company Profile - [Too Good To Go](https://www.toogoodtogo.com/en-us)
 
-## Case Studies
+**Solution**: List and sell unsold food in “Surprise Bags” through an app for local users to collect in-store at designated times. Surprise Bags are sold at 25-50% of their contents’ original retail value
+
+**Benefits**:
+	- Businesses: Unlock revenue from unsold food and attract new customers
+	- Customers: Save money on food purchases
+	- Environment: Reduce food waste and contribute to sustainability
+
+**Innovation**: 
+- Too Good To Go continues to innovate by expanding its partnerships with independent stores and supporting local businesses, with a passion for community, environmentalism, and good food.
+- Collaborating with schools and universities to put protecting our planet at the fore front of education
+ - Introducing new features to enhance user experience and engagement 
+    
+**Metrics and Impact:** 
+    
+- In 2023, over 21 million new users have registered
+- Too Good To Go has partnered with other 72 thousand new active stores
+- Saved over 121,686,720 meals since 2016
+- Saved over 14,562.6 tons CO2e from 2020-2022
+
+## Additional Case Studies
 
 1. **South Korea's Food Waste Reduction**: Implemented a pay-as-you-throw system, reducing food waste by 10% in its first year ([World Economic Forum](https://www.weforum.org/agenda/2019/01/south-korea-recycling-food-waste/)).
 

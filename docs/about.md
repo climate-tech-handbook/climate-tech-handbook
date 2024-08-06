@@ -14,7 +14,7 @@ Every day there is news about which technologies are succeeding, which are faili
 
 ## Our Mission
 
-To build the world's most **accessible**, yet **comprehensive**, resource for anyone using technology to address our climate emergency.
+To build the world's most **accessible**, yet **comprehensive**, resource for anyone who wants to work on technology to address our climate emergency.
 
 
 ## Our Vision

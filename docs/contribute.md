@@ -34,7 +34,7 @@ Come [hang out on Slack](https://chat.climatetechhandbook.com) and introduce you
 
 <!--insert logos-->
 
-<a href="https://checkout.square.site/merchant/QT27FKBWCRT2B/checkout/YJPPOLBCIENMGHKMMCTLKYBE" class="doc-button">Donate</a>
+<a href="https://checkout.square.site/merchant/QT27FKBWCRT2B/checkout/YJPPOLBCIENMGHKMMCTLKYBE" class="doc-button" target="_blank" rel="noopener noreferrer">Donate</a>
 
 ---
 
