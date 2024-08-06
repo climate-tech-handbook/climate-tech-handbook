@@ -19,8 +19,12 @@ Alternative refrigerants are crucial for reducing greenhouse gas emissions from 
 :::
 
 ## Overview
-:::book Resource
-- [Path to 100% Green Hydrogen](https://warminguptoclimatetech.substack.com/p/green-hydrogen) - Warming Up to Climate Tech
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+Commit and enforce the end of hydrofluorocarbons (HFCs)
+
+Use their [news tracking tool](https://speedandscale.com/okrs/7-0-win-politics-and-policy/7-6-refrigerants/) to track progress
 :::
 
 As global temperatures rise, the demand for air conditioning and refrigeration is increasing. However, the refrigerants used in these systems are major contributors to global warming. Currently, hydrofluorocarbons (HFCs) are the most commonly used refrigerants, with a global warming potential (GWP) up to 3,000 times greater than carbon dioxide (CO2).

@@ -9,6 +9,9 @@ displayed_sidebar: docSidebar
 - Applications: Electric vehicles, renewable energy storage, portable electronics, and industrial applications.
 - Market Trends: Growth driven by EVs, energy storage systems, and advancements in battery technology.
 
+:::Great Resource
+[Daniel Potter's article](https://blog.terra.do/couldnt-we-all-use-more-storage/)
+:::
 
 ## Required Background & Experience:
 

@@ -38,6 +38,14 @@ Significant advancements have been made in refrigerant management:
 2. **GreenChill Program**: EPA initiative helping grocery stores reduce refrigerant emissions.
 3. **Low-GWP Refrigerants**: Development of refrigerants with lower global warming potential.
 
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+Commit and enforce the end of hydrofluorocarbons (HFCs)
+
+Use their [news tracking tool](https://speedandscale.com/okrs/7-0-win-politics-and-policy/7-6-refrigerants/) to track progress
+:::
+
 ## Solutions by Sector
 
 ### Commercial Refrigeration
