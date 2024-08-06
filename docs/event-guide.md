@@ -1,7 +1,7 @@
 ---
 title: Climate Event Organizing Guide
 displayed_sidebar: docSidebar
-hide_table_of_contents: true
+hide_table_of_contents: false
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
@@ -130,7 +130,7 @@ This will take some work but it can be the most rewarding.
 
 - Speed networking - (Example: [Climate Mayhem / Indigo Slate](https://lu.ma/co.work-may2024)))
 
-- Founders potluck - [Example here](https://www.linkedin.com/posts/lowellbander_2-climate-founders-pt-2-double-dinner-activity-7155006039308800000-1Ypb) / Use this [template for organizing](https://docs.google.com/document/d/1YKJHdfkSpy05rnoUU68t5xb_qbzBJlPEYIW-cOmB4xg/edit)
+- Founders potluck - [Example here](https://www.linkedin.com/posts/lowellbander_2-climate-founders-pt-2-double-dinner-activity-7155006039308800000-1Ypb) / Use this [template for organizing](https://docs.google.com/document/d/1YKJHdfkSpy05rnoUU68t5xb_qbzBJlPEYIW-cOmB4xg/edit), and [this template](https://docs.google.com/spreadsheets/d/1F3x5Ye-3T6Lx660BLhGTgTiqkIpVYQhIvP8UY01JzeI/view) to coordinate the potluck
 
 - Community barbecue
 

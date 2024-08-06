@@ -3,52 +3,91 @@ title: Small Hydropower
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
+
+Small hydropower refers to hydroelectric power plants with a capacity of up to 10 megawatts. These systems can provide clean, renewable energy for local communities while minimizing environmental impacts compared to large-scale hydropower projects.
+
 ![In a basic Micro Hydro Power Plant (MHPP), water is extracted directly from its natural course, driven downhill via a penstock, and led into a powerhouse for power generation.](/../static/img/small-hydropower.png)
 
 *Scheme of a typical Micro-Hydro Power Plants ([MDPI Open Access Journals](https://www.mdpi.com/1996-1073/12/5/878))*
 
-Of course, I understand. Here's the summary of your article on small hydropower with the beginning words of each bullet in bold, as requested:
-
-
 :::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Small+Hydropower)
+### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Small+Hydropower)
+#### Example Organizations
+- [International Hydropower Association (IHA)](https://www.hydropower.org/) - Promotes sustainable hydropower development globally.
+- [Small Hydropower Association (SHPA)](https://www.small-hydro.com/) - Advocates for small hydropower development and policy support.
+- [International Renewable Energy Agency (IRENA)](https://www.irena.org/) - Supports countries in their transition to sustainable energy futures.
 :::
 
 ## Overview
 
-**Small Hydropower** development has notably contributed to greenhouse gas emission reduction through innovations like **micro-hydro turbines**. These efficient turbines find applications in diverse settings, including remote villages lacking grid power. Examples also include using hydropower for irrigation and electricity generation, both mitigating reliance on fossil fuels. Leading in small hydropower development are organizations such as the **International Renewable Energy Agency (IRENA)**, the **United Nations Development Programme (UNDP)**, and the **World Bank**.
+Small hydropower development has contributed to greenhouse gas emission reduction through innovations like micro-hydro turbines. These efficient systems can provide power in diverse settings, including remote villages lacking grid access.
+
+:::info Learn More
+- [Hydropower: The most used source of renewable energy](https://www.climatetechdistillery.com/p/16-hydropower) - Climate Tech Distillery
+- [IRENA - Small Hydropower](https://www.irena.org/costs/Power-Generation-Costs/Hydropower)
+- [World Small Hydropower Development Report](http://www.smallhydroworld.org/)
+:::
 
 ## Progress Made
 
-- **Development of small hydropower plants** for electricity generation.
-- **U.S. Department of Energy**, the **National Renewable Energy Laboratory**, and the **Electric Power Research Institute**: Pioneering contributors to the reduction of greenhouse gas emissions through clean electricity.
- 
+Significant advancements have been made in small hydropower technologies:
+
+1. **Micro-Hydro Turbines**: Development of efficient, small-scale turbines for local power generation.
+2. **Run-of-River Systems**: Low-impact hydropower systems that don't require large reservoirs.
+3. **Fish-Friendly Turbines**: Innovations to reduce impacts on aquatic ecosystems.
+
+## Solutions by Sector
+
+### Rural Electrification
+- **Off-Grid Systems**: Providing electricity to remote communities.
+- **Hybrid Systems**: Combining small hydropower with other renewables for reliable power.
+- **Productive Use Applications**: Powering local industries and agriculture.
+
+**Case Studies:**
+1. **Bhussa Micro-Hydro Project, Nepal**: 15 kW system providing electricity to 240 households ([UNDP](https://www.undp.org/nepal/projects/micro-hydro-project)).
+2. **Sarhad Rural Support Programme, Pakistan**: Network of micro-hydro plants serving over 365,000 people ([SRSP](https://srsp.org.pk/srsp-hydel-program/)).
+3. **Tungu-Kabiri Micro-Hydro Project, Kenya**: 18 kW community-owned project powering local businesses ([Practical Action](https://practicalaction.org/our-work/projects/micro-hydro-power-in-kenya/)).
+
+### Grid-Connected Systems
+- **Small-Scale Hydropower Plants**: Feeding clean energy into national grids.
+- **Retrofitting Existing Infrastructure**: Adding power generation to non-powered dams.
+- **Pumped Storage**: Using small-scale systems for energy storage.
+
+**Case Studies:**
+1. **Rothes CoRDe Ltd, Scotland**: 2 MW small hydro plant integrated with a whisky distillery ([Dulas](https://www.dulas.org.uk/case-studies/rothes-corde-small-hydro/)).
+2. **Fox River Locks, USA**: Retrofitting navigation locks for power generation ([Eagle Creek Renewable Energy](https://www.eaglecreekre.com/facilities/operating-facilities/fox-river-locks)).
+3. **Linthal 2015, Switzerland**: 1,000 MW pumped storage project utilizing small reservoirs ([Axpo](https://www.axpo.com/ch/en/about-us/projects/linthal-2015.html)).
+
+### Environmental Services
+- **Ecological Flow Management**: Using small hydro to maintain river health.
+- **Water Quality Improvement**: Aeration systems powered by small hydro.
+- **Flood Control**: Integrating small hydro with flood management infrastructure.
+
+**Case Studies:**
+1. **River Trent, UK**: Small hydro system helping to manage river flows for ecological benefits ([Environment Agency](https://www.gov.uk/government/organisations/environment-agency)).
+2. **Lake Elsinore, USA**: Hydropower project improving lake water quality ([Nevada Hydro Company](https://www.nevadahydro.com/)).
+3. **Oder River, Poland**: Small hydro integrated with flood control systems ([Regional Water Management Board in Wrocław](https://wroclaw.wody.gov.pl/)).
+
 ## Lessons Learned
 
-1. **Small hydropower is a crucial renewable energy source** combating climate change.
-2. **Cost-effectiveness**: Often competitive levelized costs of electricity (LCOE) compared to other renewables.
-3. Contributes to **grid stability and flexibility**, aiding integration of higher shares of renewable energy.
-4. **Environmental and social considerations**: Careful planning and stakeholder engagement crucial for success.
-
-Prominent contributors in small hydropower development include the **International Hydropower Association (IHA)**, the **Small Hydropower Association (SHPA)**, and various national/regional hydropower associations.
+1. **Renewable Energy Source**: Small hydropower can be a crucial tool in combating climate change.
+2. **Cost-Effectiveness**: Often competitive levelized costs of electricity (LCOE) compared to other renewables.
+3. **Grid Stability**: Contributes to grid stability and flexibility, aiding integration of variable renewables.
+4. **Environmental Considerations**: Careful planning and stakeholder engagement are crucial for success.
 
 ## Challenges Ahead
 
-- **Cost barriers**: High expenses, particularly challenging in developing nations.
-- **Technical hurdles**: Novelty of technology involves significant technical challenges.
-- **Environmental impacts**: Alterations to hydrology, habitat loss, and community displacement.
-
-**Public-private partnerships** can address cost hurdles. For instance, the **World Bank** collaborates with governments and the private sector in countries like Nepal, Pakistan, and Vietnam. Innovations like **Blue Energy**'s Swiss hydropower plant costing under $1,000 are helping make the technology affordable. **IRENA** and the **UNDP** work on the technical challenges via research and capacity building.
-
-Balancing the benefits and potential environmental impacts of small hydropower is crucial. **Environmental assessments** are essential to minimize negative effects.
+1. **Cost Barriers**: High upfront costs, particularly challenging in developing nations.
+2. **Technical Hurdles**: Ongoing need for innovation in turbine design and system efficiency.
+3. **Environmental Impacts**: Potential alterations to hydrology, habitat loss, and community displacement.
+4. **Regulatory Challenges**: Complex permitting processes and varying support policies across regions.
 
 ## Best Path Forward
 
-To effectively address climate change through small hydropower, key steps include:
+1. **Research and Development**: Invest in improving turbine efficiency and reducing environmental impacts.
+2. **Policy Support**: Implement supportive policies and streamlined permitting processes.
+3. **Capacity Building**: Enhance local skills and knowledge for project development and maintenance.
+4. **Integrated Planning**: Consider small hydropower within broader watershed and energy system planning.
+5. **Sustainable Finance**: Develop innovative financing mechanisms to overcome high upfront costs.
 
-1. **Raising awareness** about small hydropower's potential.
-2. Enhancing **affordability and accessibility** of small hydropower.
-3. Improving **system efficiency** of small hydropower setups.
-4. **Supporting research and development** for small hydropower technologies.
-
-Leading contributors in small hydropower development and promotion include the **International Renewable Energy Agency (IRENA)**, the **United Nations Development Programme (UNDP)**, and the **World Bank**.
+*Image credit: [MDPI Open Access Journals](https://www.mdpi.com/1996-1073/12/5/878)*

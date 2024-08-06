@@ -1,57 +1,37 @@
----
-title: Methane Leak Management
-displayed_sidebar: docSidebar
-pagination_prev: solutions
----
-![The "Open Path" sensors on drones use a single wavelength laser light, detecting reflections off the ground or objects.](/../static/img/methane-leak-management.jpg)
+## Solutions by Sector
 
-*Drone methane detection over a landfill ([Pergam Suisse AG](https://pergam-suisse.ch/tpost/t53ju5ami0-uav-methane-detection-latest-advances-an))*
+### Oil and Gas
+- **Well Pad Monitoring**: Continuous methane monitoring systems for oil and gas well pads.
+- **Pipeline Leak Detection**: Mobile leak detection systems for natural gas pipelines.
+- **Compressor Station Surveys**: Regular methane surveys at natural gas compressor stations.
 
+**Case Studies:**
+1. **ExxonMobil's Methane Leak Detection Program**: ExxonMobil claims to have implemented comprehensive methane monitoring across its operations. However, a study by the Environmental Defense Fund found that the company's reported methane emissions were likely significantly underestimated [Environmental Defense Fund](https://www.edf.org/media/new-study-finds-us-oil-and-gas-methane-emissions-are-60-percent-higher-epa-reports-0).
 
-:::company job openings
-  #### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Methane+Leak+Management)
-:::
+2. **Chevron's Methane Management**: Chevron reports using advanced technologies to detect and repair methane leaks. Yet, a 2021 report by the International Energy Agency (IEA) suggests that the oil and gas industry overall needs to do much more to reduce methane emissions to meet climate goals [IEA Methane Tracker 2021](https://www.iea.org/reports/methane-tracker-2021).
 
-## Overview
+3. **BP's Drone Program**: BP claims to use drones for methane leak detection in its operations. While this technology shows promise, a study published in Nature Communications indicates that current industry efforts are insufficient to meet Paris Agreement targets [Nature Communications](https://www.nature.com/articles/s41467-021-25017-4).
 
-Methane Leak Management is a process of detecting and repairing methane leaks from natural gas infrastructure. This process can help to reduce greenhouse gas emissions and combat climate change.
+### Landfills
+- **Surface Emissions Monitoring**: Regular surveys of landfill surfaces for methane emissions.
+- **Gas Collection Systems**: Installation and optimization of landfill gas collection systems.
+- **Biocover Systems**: Use of biocovers to oxidize methane emissions from landfills.
 
-There have been several breakthrough technologies that have been developed to help with methane leak detection and repair. One example is the use of drones equipped with methane detectors. These drones can fly over natural gas infrastructure and identify leaks. Another example is the use of infrared cameras to detect methane leaks.
+**Case Studies:**
+1. **Waste Management's Landfill Gas-to-Energy Program**: Waste Management reports converting landfill methane to electricity. However, the EPA's Landfill Methane Outreach Program suggests that many landfills still have untapped potential for methane capture and use [EPA LMOP](https://www.epa.gov/lmop).
 
-Several companies and organizations have been at the forefront of developing methane leak management solutions. One example is the company Blue Sky Analytics, which has developed a methane leak detection system using drones. Another example is the Environmental Defense Fund, which has been working to promote the use of methane leak detection and repair technologies.
+2. **Republic Services' Methane Capture**: Republic Services claims to implement advanced methane capture technologies in landfills. A report by the Global Methane Initiative indicates that while progress has been made, significant opportunities remain for improving methane capture in the waste sector globally [Global Methane Initiative](https://www.globalmethane.org/documents/gmi-mitigation-factsheet.pdf).
 
-## Progress Made
+3. **SUEZ's BioMethane Production**: SUEZ reports converting landfill gas to renewable natural gas. While this is a positive step, research published in Waste Management journal suggests that optimizing landfill operations could further reduce methane emissions [Waste Management Journal](https://www.sciencedirect.com/science/article/pii/S0956053X20301167).
 
-Development of methane leak management to reverse climate change has been ongoing for many years. Some of the breakthrough technologies that have been developed include:
+### Agriculture
+- **Manure Management**: Implementation of anaerobic digesters for livestock manure.
+- **Rice Cultivation**: Alternate wetting and drying techniques to reduce methane emissions.
+- **Enteric Fermentation**: Feed additives to reduce methane emissions from livestock.
 
-* Carbon Capture and Storage (CCS): This technology captures methane emissions from power plants and other industrial facilities, and stores them in underground reservoirs. CCS has the potential to reduce methane emissions by up to 90%.
-* Methane Leak Detection and Repair (LDAR): This technology detects methane leaks at oil and gas production facilities, and then repairs them. LDAR can reduce methane emissions by up to 95%.
-* Direct Air Capture (DAC): This technology captures methane emissions from the atmosphere and stores them in underground reservoirs. DAC has the potential to reduce methane emissions by up to 99%.
+**Case Studies:**
+1. **California Bioenergy's Dairy Digesters**: California Bioenergy installs digesters on dairy farms to capture methane. While this technology is promising, a report by the Institute for Agriculture and Trade Policy suggests that large-scale dairy operations still contribute significantly to greenhouse gas emissions [IATP Report](https://www.iatp.org/documents/milking-planet).
 
-Organizations that have been at the forefront of developing these technologies include the Carbon Storage Leadership Forum, the Global CCS Institute, and the International Energy Agency.
+2. **Arla Foods' Climate Check Program**: Arla Foods implements methane reduction strategies on dairy farms. However, a study in the Journal of Dairy Science indicates that more comprehensive approaches are needed to significantly reduce dairy's carbon footprint [Journal of Dairy Science](https://www.journalofdairyscience.org/article/S0022-0302(19)30761-7/fulltext).
 
-## Lessons Learned
-
-The development and implementation of methane leak management to reverse climate change has been a success in many ways. One of the key lessons learned is that it is important to have a comprehensive and accurate inventory of all methane sources. This inventory can be used to identify and quantify leaks, and it is essential for designing and targeting mitigation strategies. Additionally, it is important to have a robust monitoring and detection system in place to identify and quantify methane leaks. This system should be able to detect leaks at all stages of their development, from small to large. Additionally, the system should be able to rapidly identify and quantify leaks, and it should be able to monitor multiple leaks simultaneously. Finally, it is important to have a comprehensive and coordinated response plan in place to quickly and effectively respond to methane leaks. This plan should be designed to minimize the impact of the leak on the environment and public health, and it should be designed to maximize the recovery of methane.
-
-## Challenges Ahead
-
-The major challenges that remain in the development and implementation of Methane Leak Management to reverse climate change are:
-
-1. Finding and repairing leaks: Methane leaks can be difficult to find and repair because they are often invisible and can occur in hard-to-reach places.
-2. Cost: repairing methane leaks can be expensive, and the technology needed to do so is not always readily available.
-3. Scaling up: There is a need to scale up methane leak management in order to make a significant dent in global methane emissions. This will require a coordinated effort among governments, businesses, and individuals.
-4. Awareness: A lack of awareness about methane leaks and their impact on climate change can hinder progress in this area.
-
-Organizations that have been at the forefront of methane leak management include the Environmental Defense Fund, the Natural Resources Defense Council, and the World Resources Institute. These organizations have been working to raise awareness about methane leaks and to promote policies and practices that can help reduce them.
-
-## Best Path Forward
-
-The best path forward for the continued development and implementation of Methane Leak Management to effectively mitigate the effects of climate change is to continue to invest in research and development of the technology, and to incentivize companies to adopt the technology on a large scale. Some steps that need to be taken to ensure that this technology is adopted on a large scale and is effective include:
-
-1. Increasing public awareness of the problem of methane leaks and their contribution to climate change.
-2. Incentivizing companies to adopt methane leak detection and repair technologies through tax breaks, regulations, or other means.
-3. Increasing government investment in research and development of methane leak detection and repair technologies.
-4. Working with the oil and gas industry to develop and implement best practices for methane leak detection and repair.
-
-Some companies and organizations that have been at the forefront of this solution include the Environmental Defense Fund, the Natural Resources Defense Council, and the Environmental Protection Agency.
+3. **Tyson Foods' Manure-to-Energy Projects**: Tyson Foods converts livestock manure to energy. While this is a step in the right direction, research published in Environmental Science & Technology suggests that addressing methane emissions from enteric fermentation remains a significant challenge in livestock agriculture [Environmental Science & Technology](https://pubs.acs.org/doi/10.1021/acs.est.0c06811).

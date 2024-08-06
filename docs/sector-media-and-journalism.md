@@ -15,7 +15,8 @@ The influence of media and journalism can drive systemic change, mobilize public
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Media+%26+Journalism&p=0&remote=false)
 
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
-:::
+
+
 
 A strong fearless media will allow us to:
 

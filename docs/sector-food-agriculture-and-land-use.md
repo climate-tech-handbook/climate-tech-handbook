@@ -5,10 +5,16 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
+At least 25% of all emission sources come from food, agriculture, or land use practices.
+
+Fixing this sector has multiple benefits beyond solving the climate crisis.
+
+We can also reduce food waste to solve hunger, restore biodiversity to prevent further extinction, and improve mental as examples.
+
 ## Sector Overview
 
-:::tip 226.5–312 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
-:::
+<!-- :::tip 226.5–312 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
+::: -->
 
 ![](/../static/img/food-agriculture-and-land-use.jpg)
 
@@ -21,20 +27,12 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 - [Yard Stick](https://www.useyardstick.com/)
 - [Regrow Ag](https://regrow.ag/)
 - [Aigen](https://www.aigen.io)
-
-
-<!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
 
-The Food, Agriculture, and Land Use sector is essential in the worldwide effort to combat climate change.
-
-Beyond decreasing its emissions, it also presents opportunities for carbon capture and enhancing resilience to climate-related impacts.
-
 ## Resources:
-
-:::info
-- [A Look at Food & Agriculture](https://www.climatedrift.com/p/a-look-at-food-and-agriculture?utm_source=%2Fsearch%2Fagriculture&utm_medium=reader2)
-- [The Complete Guide to Alternative-Proteins](https://www.climatedrift.com/p/the-complete-guide-to-alternative?utm_source=%2Fsearch%2Fagriculture&utm_medium=reader2)
+:::book great articles
+- [A Look at Food & Agriculture](https://climatedrift.substack.com/p/a-look-at-food-and-agriculture) - Climate Drift
+- [The Complete Guide to Alternative-Proteins](https://www.climatedrift.com/p/the-complete-guide-to-alternative?utm_source=%2Fsearch%2Fagriculture&utm_medium=reader2) - Climate Drift
 :::
 
 ## Solutions in this Sector

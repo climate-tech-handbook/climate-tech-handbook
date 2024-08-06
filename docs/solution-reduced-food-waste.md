@@ -18,9 +18,18 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 
 :::company job openings
 ### [View open jobs in Reduced Food Waste](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Reduced+Food+Waste)
+#### Example Companies:
+- [Mill](https://www.mill.com) - Consumer food dehydrator and accompanying processing service to reclaim residential food waste as chicken feed.
+- [Afresh](https://www.afresh.com) - Uses AI to reduce food waste and increase profits in the fresh food supply chain.
+- [Apeel Sciences](https://www.apeelsciences.com) - Develops plant-derived shelf life extension technology to reduce food waste.
 :::
 
 ## Overview
+:::book Great Resources
+- [ReFED](https://refed.org/): is an up to date resource on food waste solutions
+- [Food Waste: Fixing the world's dumbest issue](https://www.climatetechdistillery.com/p/23-food-waste) - Climate Tech Distillery
+- [Project Drawdown - food waste](https://drawdown.org/news/insights/fixing-foods-big-climate-problem) overview
+:::
 
 - Globally, about one-third of all food produced for human consumption is lost or wasted, amounting to approximately 1.3 billion tonnes per year ([FAO](http://www.fao.org/food-loss-and-food-waste/en/)).
 - Food waste contributes to roughly 8-10% of global greenhouse gas emissions ([UNEP Food Waste Index Report 2021](https://www.unep.org/resources/report/unep-food-waste-index-report-2021)).
@@ -33,10 +42,7 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 - Wasted food also represents a significant loss of water, land, and energy resources used in production.
 
 ![Drawdown food waste chart](/img/drawdown-food-waste-chart.jpg)
-:::book More info
-- [ReFED](https://refed.org/): is an up to date resource on food waste solutions
-- [Project Drawdown - food waste](https://drawdown.org/news/insights/fixing-foods-big-climate-problem) overview
-:::
+
 ## Solutions by Sector
 
 ### Production

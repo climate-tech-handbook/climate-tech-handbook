@@ -219,7 +219,6 @@ const darkCodeTheme = themes.dracula;
           minHeadingLevel: 2,
           maxHeadingLevel: 2,
         },
-
         announcementBar: {
           id: 'announcement-bar',
           content: 'Our new AI climate career advisor is live! <a target="_blank" rel="noopener noreferrer" href="/playground">check it out</a>',
