@@ -4,7 +4,7 @@ displayed_sidebar: docSidebar
 Tags:
   - Sector
   - Transportation
-# hide_table_of_contents: true
+# hide_table_of_contents: false
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
