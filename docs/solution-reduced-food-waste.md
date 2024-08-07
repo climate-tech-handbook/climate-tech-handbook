@@ -45,6 +45,20 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 
 ## Solutions by Sector
 
+The biggest benchmark from **Speed & Scale**
+
+Commit and enforce the end of hydrofluorocarbons (HFCs)
+
+Use their [news tracking tool](https://speedandscale.com/okrs/7-0-win-politics-and-policy/7-6-refrigerants/) to track progress
+
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+Cut food waste down from 38% to 10% by 2050
+
+Use their [news tracking tool](https://speedandscale.com/okrs/3-0-fix-food/3-5-food-waste/) to track progress
+:::
+
 ### Production
 - Improved harvesting techniques
 - Better storage and preservation methods
