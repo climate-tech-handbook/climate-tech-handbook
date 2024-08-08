@@ -26,7 +26,6 @@ Forest protection is a critical strategy for mitigating climate change, preservi
 Forest protection is crucial for combating climate change, with significant advancements in technologies and policies supporting sustainable forest management and carbon sequestration.
 
 :::info Learn More
-- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-579) - Climate Drift
 - [Wildfires: Using climate tech to prevent them, detect them and stop them](https://www.climatetechdistillery.com/p/20-wildfires) - Climate Tech Distillery
 - [IUCN - Forest Conservation Programme](https://www.iucn.org/theme/forests)
 - [FAO - Sustainable Forest Management](http://www.fao.org/forestry/sfm/en/)

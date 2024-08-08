@@ -24,11 +24,6 @@ High-speed rail is a transformative transportation solution that offers a sustai
 
 High-speed rail has made significant progress in recent years, with advancements in technologies such as magnetic levitation and linear motors. These innovations enable trains to travel at high speeds with minimal friction, reducing greenhouse gas emissions. Companies like Central Japan Railway Company and Virgin Hyperloop are at the forefront of this solution.
 
-:::info Learn More
-- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-579) - Climate Drift
-- [Wildfires: Using climate tech to prevent them, detect them and stop them](https://www.climatetechdistillery.com/p/20-wildfires) - Climate Tech Distillery
-:::
-
 ## Progress Made
 
 Significant advancements have been made in high-speed rail technologies:

@@ -96,12 +96,4 @@ Key organizations pioneering these advancements include:
 3. **Public Awareness**: Amplify public awareness about the advantages of improved manure management.
 4. **Policy Support**: Collaborate with governments to establish incentives for farmers.
 
-Leading organizations in this venture include:
-
-- **United States Environmental Protection Agency (EPA)**
-- **United States Department of Agriculture (USDA)**
-- **United Nations Food and Agriculture Organization (FAO)**
-
-Their efforts have been characterized by tech innovations, implementation of voluntary measures, and legislations.
-
 *Image credit: [University of Minnesota Extension](https://extension.umn.edu/livestock-operations/manure-management)*

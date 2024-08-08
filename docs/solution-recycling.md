@@ -24,10 +24,9 @@ Recycling is a crucial strategy for reducing greenhouse gas emissions, conservin
 
 Recycling plays a crucial role in reducing greenhouse gas emissions, conserving natural resources, and minimizing environmental impacts. Technologies such as pyrolysis, which breaks down organic matter into useful products without producing emissions, have been developed to recycle plastics and other materials into fuel, chemicals, and other useful products. Companies and organizations such as ExxonMobil and the U.S. Environmental Protection Agency have been at the forefront of developing and promoting recycling technologies.
 
-:::info Learn More
-- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-6ba) - Climate Drift
+<!-- :::info Learn More
 :::
-
+ -->
 ## Progress Made
 
 Significant advancements have been made in recycling technologies:

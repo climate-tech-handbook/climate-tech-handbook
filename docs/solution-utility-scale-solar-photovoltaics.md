@@ -23,7 +23,6 @@ Utility-Scale Solar Photovoltaics (PV) refers to large-scale solar power generat
 ## Overview
 :::book Great articles
 - [How Solar Got Cheap](https://climatedrift.substack.com/p/how-solar-got-cheap) - Climate Drift
-- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-ef4) - Climate Drift
 - [Perovskite: A Cheaper, More Efficient and Sustainable Material for Solar Cells](https://www.climatetechdistillery.com/p/24-perovskite) - Climate Tech Distillery
 :::
 

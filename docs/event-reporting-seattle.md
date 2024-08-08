@@ -55,3 +55,9 @@ Come join the PNW DER community for our September meetup! We will be providing g
 Can't make it? Drop a few bucks, and we'll give you a special summary report!
 
 <a href="https://square.link/u/pGK8PWKz" class="doc-button" target="_blank" rel="noopener noreferrer">$ Contribute 🙏</a>
+
+### One last thing
+
+:::note Opportunity
+If you want to be a reporter, write to `feedback@climatetechhandbook.com`
+:::

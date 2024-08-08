@@ -24,11 +24,9 @@ Walkable cities prioritize pedestrian-friendly infrastructure, reducing reliance
 
 Walkable cities focus on creating pedestrian-friendly environments that reduce reliance on cars, lower greenhouse gas emissions, and enhance urban livability. Key technologies and strategies include reflective pavement, pedestrian-centric design, and comprehensive urban planning.
 
-:::info Learn More
-- [10 Essential Books on Climate Solutions](https://climatedrift.substack.com/p/top-10-climate-frameworks-to-win) - Climate Drift
-- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions) - Climate Drift
+<!-- :::info Learn More
 :::
-
+ -->
 ## Progress Made
 
 Significant advancements have been made in creating walkable cities:

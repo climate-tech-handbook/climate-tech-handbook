@@ -16,7 +16,6 @@ Aquaculture, the cultivation of fish, shellfish, and other aquatic life, has see
 - [Upward Farms](https://www.upwardfarms.com) - Grows high ecological and quality standard leafy greens and fish using indoor vertical farming technology.
 - [AquaBounty Technologies](https://www.aquabounty.com) - Develops genetically engineered salmon for faster growth and sustainability.
 - [Global Aquaculture Alliance](https://www.aquaculturealliance.org) - Promotes sustainable aquaculture practices worldwide.
-- [World Wildlife Fund (WWF)](https://www.worldwildlife.org) - Advocates for sustainable aquaculture through various initiatives.
 - [Marine Harvest](https://www.marineharvest.com) - One of the largest seafood companies focusing on sustainable aquaculture.
 - [Cargill Aqua Nutrition](https://www.cargill.com) - Provides sustainable feed solutions for aquaculture.
 :::
