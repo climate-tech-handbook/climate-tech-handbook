@@ -14,12 +14,23 @@ Every day there is news about which technologies are succeeding, which are faili
 
 ## Our Mission
 
-To build the world's most **accessible**, yet **comprehensive**, resource for anyone who wants to work on technology to address our climate emergency.
+To build the world's most **accessible**, yet **comprehensive**, resource for anyone who wants to work on technology that will solve our climate emergency.
 
 
 ## Our Vision
 
-The Climate Tech Handbook is here to serve:
+### Climate tech is the new American Dream.
+
+Instead of working for a boring tech company, or even worse, starting one...we want to inspire people to solve humanity's biggest challenge.
+
+And still bring home a solid living that a tech career provides.
+
+![seattle climate tech meetup](../static/img/seattle-climate-tech-meetup.jpg)
+_Here is an example happy hour in Seattle. They're full of optimistic people working on climate, investing in climate, and starting climate tech companies._
+
+### What does this look like?
+
+The Climate Tech Handbook is here to pull together all the complicated information out there, and provide a free 100% open source guide for:
 
 1. [Job seekers](intro) in Climate Tech
 
@@ -63,4 +74,4 @@ We are made possible by our [Advisory Board](#advisory-board) and an active comm
 
 Photo by <a href="https://unsplash.com/@nrdoherty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicholas Doherty</a> on <a href="https://unsplash.com/photos/pONBhDyOFoM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-Copyright 2023 - Differential Design, LLC.
+Copyright 2024 - Differential Design, LLC.

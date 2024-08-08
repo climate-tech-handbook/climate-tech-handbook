@@ -71,8 +71,8 @@ export default function Home(): JSX.Element {
           <div className={clsx(styles.infoDiv)}>
             <h1>OUR MISSION</h1>
             <p>Our mission is to build the world's most <span>accessible</span>, 
-            yet <span>comprehensive</span>, resource for anyone using technology 
-            to address our climate emergency. Your skills are the missing pieces 
+            yet <span>comprehensive</span>, resource for anyone who wants to work on technology 
+            that will solve our climate emergency. Your skills are the missing pieces 
             in the fight against climate change. We help you join the solution 
             and make a lasting impact.</p>
             <Link className={styles.secondaryButton} to="/about">
@@ -84,7 +84,7 @@ export default function Home(): JSX.Element {
         <div className={clsx(styles.homecardContainer)}>
             
           <HomeCard
-            title="Courses"
+            title="Free mini-course"
             linkUrl="/intro"
             icon="FaBookOpen"
           />

@@ -1,7 +1,9 @@
 ---
-title: Help us cover Seattle climate events! 
+title: Help us cover Climate Week NYC!
 displayed_sidebar: docSidebar
 ---
+
+## There are over 600 climate events for one week New York
 
 There are so many fantastic events going on in Seattle, you probably can't make them all.
 
