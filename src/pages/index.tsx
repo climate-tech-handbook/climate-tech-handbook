@@ -72,9 +72,7 @@ export default function Home(): JSX.Element {
             <h1>OUR MISSION</h1>
             <p>Our mission is to build the world's most <span>accessible</span>, 
             yet <span>comprehensive</span>, resource for anyone who wants to work on technology 
-            that will solve our climate emergency. Your skills are the missing pieces 
-            in the fight against climate change. We help you join the solution 
-            and make a lasting impact.</p>
+            that will solve our climate emergency. The world is counting on us.</p>
             <Link className={styles.secondaryButton} to="/about">
               Learn More
             </Link>
