@@ -23,11 +23,8 @@ Alternative cement technologies are essential for reducing the carbon footprint 
 ## Overview
 :::book Great articles
 - [A Look at Industry](https://climatedrift.substack.com/p/a-look-at-industry) - Climate Drift
-- [We need to talk about rocks](https://climatedrift.substack.com/p/we-need-to-talk-about-rocks) - Climate Drift
 - [Carbon-Neutral Cement: Decarbonizing the main building material to eliminate 8% of global CO2 emissions](https://www.climatetechdistillery.com/p/carbon-neutral-cement) - Climate Tech Distillery
-- [Green Steel: Decarbonizing an amazing but really polluting material](https://www.climatetechdistillery.com/p/03-green-steel) - Climate Tech Distillery
 - [Reducing Industrial Emissions: Steel and Cement](https://warminguptoclimatetech.substack.com/p/reducing-industrial-emissions-steel-cement) - Warming Up to Climate Tech
-- [The Guide to the Carbon Removal Hype - Part 3](https://climatedrift.substack.com/p/the-guide-to-the-carbon-removal-hype-cdc) - Climate Drift
 :::
 
 
@@ -39,12 +36,6 @@ The production of cement is a major source of greenhouse gas emissions, accounti
 - Traditional Portland cement production is highly energy-intensive and emits a significant amount of CO2.
 - Alternative cements can utilize industrial by-products, reducing waste and emissions.
 - Energy-efficient production processes can further reduce the carbon footprint.
-
-:::book Resources 
-- [A Look at Industry](https://climatedrift.substack.com/p/a-look-at-industry) - Climate Drift
-- [Carbon-Neutral Cement: Decarbonizing the main building material to eliminate 8% of global CO2 emissions](https://www.climatetechdistillery.com/p/carbon-neutral-cement) - Climate Tech Distillery
-- [Reducing Industrial Emissions: Steel and Cement](https://warminguptoclimatetech.substack.com/p/reducing-industrial-emissions-steel-cement) - Warming up to Climate Tech
-:::
 
 :::podcast MCJ Podcast Episode
 <iframe

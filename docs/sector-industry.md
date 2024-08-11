@@ -24,7 +24,7 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 :::
 
 :::newsletter a great newsletter
-- [Industry Decarbonization](https://industrydecarbonization.com/)
+- [Industry Decarbonization](https://industrydecarbonization.com/) - Newsletter
 :::
 
 ## Solutions in this Sector

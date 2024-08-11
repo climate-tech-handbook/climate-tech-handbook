@@ -20,7 +20,7 @@ Sign up below and **we'll reach out to see what you want included** in your spec
 
 - [Climate Tech Investor Panel & Report from Silicon Valley Bank](https://www.linkedin.com/feed/update/urn:li:activity:7224526092621987840/)
 
-## Upcoming Events
+## Featured Events
 
 - [☀️ The Burien Solar Punk Festival](#%EF%B8%8F-the-burien-solar-punk-festival-sat-aug-8) (Sat Aug 8)
 
@@ -42,7 +42,7 @@ It is an iconic one-day event that celebrates the best of Burien and empowers th
 
 Can't make it? Drop a few bucks, and we'll give you a special summary report!
 
-<a href="https://square.link/u/pGK8PWKz" class="doc-button" target="_blank" rel="noopener noreferrer">$ Contribute 🙏</a>
+<a href="https://square.link/u/pGK8PWKz" class="doc-button" target="_blank" rel="noopener noreferrer">$ Buy us coffee ☕️</a>
 
 ## ⚡️ PNW DERs: September Meetup (Tue Sep 17)
 
@@ -54,4 +54,4 @@ Come join the PNW DER community for our September meetup! We will be providing g
 
 Can't make it? Drop a few bucks, and we'll give you a special summary report!
 
-<a href="https://square.link/u/pGK8PWKz" class="doc-button" target="_blank" rel="noopener noreferrer">$ Contribute 🙏</a>
+<a href="https://square.link/u/pGK8PWKz" class="doc-button" target="_blank" rel="noopener noreferrer">$ Buy us coffee ☕️</a>
