@@ -18,9 +18,14 @@ const darkCodeTheme = themes.dracula;
     plugins: [
       require.resolve('docusaurus-lunr-search'),
       require.resolve('docusaurus-plugin-image-zoom'),
-      './custom-plugins/auto-set-displayed-sidebar.js',      
+      './custom-plugins/auto-set-displayed-sidebar.js',
+      [
+        'docusaurus-pushfeedback',
+        {
+          project: 'edkiy3ku9g'
+        }
+      ]
     ],
-
     presets: [
       [
         "@docusaurus/preset-classic",
