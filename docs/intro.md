@@ -6,7 +6,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Welcome to the Climate Tech Handbook's Mini Course!
 
-### **This mini-course will help you find:** 
+### **This one hour mini-course will help you find:** 
 
 1. A **climate solution** that fits you
 2. An **organization** working to solve it

@@ -207,13 +207,11 @@ As we [continue writing the Handbook together](contribute), we will better be tr
 
 ## Fundamental Climate Knowledge
 
-:::info If you already know this
+:::note If you already know this
 Skip to:
 - [Solution Frameworks](#solution-frameworks)
 
 - [Core Communities](#core-communities)
-
-- [Skill Requirements](./career-guide.md#evaluate-your-skills-and-experience)
 :::
 ###
 
