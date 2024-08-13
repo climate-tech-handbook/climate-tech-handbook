@@ -23,6 +23,14 @@ Efficient aviation technologies aim to reduce the environmental impact of air tr
 
 This includes breakthrough technologies such as efficient engines, fuel-efficient airplanes, and sustainable aviation fuels (SAF).
 
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+By 2050, achieve net-zero emissions for aviation.
+
+Use their [news tracking tool](https://speedandscale.com/okrs/1-0-electrify-transportation/1-6-planes/) to track progress
+:::
+
 :::book Resource
 - [Sustainable Aviation Fuel (SAF): No longer feeling guilty about traveling by plane](https://www.climatetechdistillery.com/p/17-sustainable-aviation-fuel-saf) - Climate Tech Distillery
 - [Boeing's Sustainability Together Project](https://sustainabilitytogether.aero/)

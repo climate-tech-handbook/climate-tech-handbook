@@ -25,8 +25,13 @@ const darkCodeTheme = themes.dracula;
           botsonicToken: "122fc084-8514-4948-bf90-cc4de5f806ee",
         },
       ],
+      [
+        'docusaurus-pushfeedback',
+        {
+          project: 'edkiy3ku9g'
+        }
+      ]
     ],
-
     presets: [
       [
         "@docusaurus/preset-classic",

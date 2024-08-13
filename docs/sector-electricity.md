@@ -8,8 +8,10 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 Overhauling electricity is a critical step, and tends to be the primary climate tech focus.
 
-:::tip Impact Goal
-196.8–420.6 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
+:::info Critical Goal
+Reach 50% zero-emissions electricity by 2025 and 90% by 2035.
+
+Use their [news tracking tool](https://speedandscale.com/okrs/2-0-decarbonize-the-grid/2-1-zero-emissions/) to track progress
 :::
 
 ![power line](/../static/img/electricity.png)
@@ -46,10 +48,11 @@ Be prepared to read [a lot of obscure PDFs like these](https://www.eia.gov/analy
 
 Great news sites and podcasts:
 
-:::tip try 
+:::newsletter try these news sources 
 - [Cipher News](https://ciphernews.com/topics/electricity)
 - [Volts](https://volts.wtf)
 - [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) - with [Shayle Kann](https://www.linkedin.com/in/shaylekann)
+- [Curated feed](https://climatechangeresources.org/learn-more/communities/green-architecture/electrify-everything/) from climatechangeresources.org
 :::
 
 Important organizations:

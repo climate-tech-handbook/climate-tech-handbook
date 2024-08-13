@@ -7,15 +7,12 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## The ultimate resource for hosting your local climate event
 
-:::caution Under Construction
-[Help us](../contribute) improve this page
-:::
-
-![seattle climate tech meetup](../static/img/seattle-climate-tech-meetup.jpg)
 
 There's nothing like getting people together who share a common purpose to save humanity.
 
 This guide will help you host events on a scale of easy happy hours to a full on festival.
+
+![seattle climate tech meetup](../static/img/seattle-climate-tech-meetup.jpg)
 
 ## We will cover:
 
@@ -36,15 +33,10 @@ Check to see if there are existing events and organizations you are not aware of
 - General climate change meetups - 350.org chapter, green drinks, etc.
 - You can also search through event sites like Eventbrite and Meetup.com for things about climate change
 
-<!-- :::contribute Climate Week
-More and more US cities are hosting [Climate Week](event-format-climate-day-or-week) events
-- [Climate Week NYC](https://www.climateweeknyc.org/)
-- [SF Climate Week](https://www.sfclimateweek.org/)
-- [PNW Climate Week](https://www.pnwclimateweek.org/)
-- [Houston Energy & Climate Week](https://climateweekhouston.com/)
-
-Bookmark them on your calendar
-::: -->
+:::contribute
+Let's make this the best thing ever.
+[You can contribute here](contribute) 😊
+:::
 
 ## Event Guides
 
@@ -144,7 +136,7 @@ This will take some work but it can be the most rewarding.
 
 - Activity Workshop (Example: [Circular Spring](https://lu.ma/q2vkpzob))
 
-- [Minute Motifs](event-format-minute-motifs) - ([Example here](https://www.linkedin.com/posts/jacobcaggiano_pnwclimateweek-activity-7216904462840258561-pLzG): it's like a lightning talk, but more people participate and it's only 1 minute 1 slide)
+- [Minute Motifs](../event-format-minute-motifs) - ([Example here](https://www.linkedin.com/posts/jacobcaggiano_pnwclimateweek-activity-7216904462840258561-pLzG): it's like a lightning talk, but more people participate and it's only 1 minute 1 slide)
 
 - Pickleball
 

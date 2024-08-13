@@ -42,6 +42,14 @@ Significant advancements have been made in rice production:
 4. **Crop Rotation**: Innovative crop rotations that incorporate rice reduce emissions and enrich the soil.
 5. **Pest Management**: Environment-friendly pest management minimizes the use of harmful chemicals, reducing pollution.
 
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+Reduce methane and nitrous oxide from rice farming by 50% by 2050.
+↓ 0.5 Gt of reductions
+
+Use their [news tracking tool](https://speedandscale.com/okrs/3-0-fix-food/3-4-rice/) to track progress
+:::
 ## Solutions by Sector
 
 ### Seed Varieties

@@ -26,6 +26,16 @@ Efficient trucks utilize advanced technologies such as electric propulsion, aero
 - [Climate Hype Curve: Transportation - Part 3](https://climatedrift.substack.com/p/climate-hype-curve-transportation-0ff) - Climate Drift
 :::
 
+Also:
+
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+By 2040, transition all new truck sales to zero-emission vehicles.
+
+Use their [news tracking tool](https://speedandscale.com/okrs/1-0-electrify-transportation/1-4-trucks/) to track progress
+:::
+
 ## Progress Made
 
 Significant advancements have been made in efficient truck technologies:

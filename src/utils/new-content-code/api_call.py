@@ -31,7 +31,7 @@ def call_perplexity_api(prompt, max_retries=3, delay=5):
         "messages": [
             {
                 "role": "system",
-                "content": "You are a helpful assistant providing information about climate solutions."
+                "content": "You are a helpful assistant providing information about climate solutions.You are an expert in Project Drawdown's system of climate solutions"
             },
             {
                 "role": "user",

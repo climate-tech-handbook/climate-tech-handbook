@@ -25,9 +25,19 @@ Electric cars are becoming increasingly popular as people look for ways to reduc
 - [Challenges and Opportunities of Electric Vehicles](https://warminguptoclimatetech.substack.com/p/challenges-and-opportunities-of-electric) - Warming Up to Climate Tech
 :::
 
-
-
 Electric cars are a key solution to reducing greenhouse gas emissions from the transportation sector. Advances in battery technology, charging infrastructure, and vehicle design have made electric vehicles (EVs) more accessible and practical for everyday use.
+
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+Achieve price and performance parity between EVs and combustion cars within two years.
+
+Use their [news tracking tool](https://speedandscale.com/okrs/1-0-electrify-transportation/1-1-price/) to track progress
+
+Also to attain a 50% global share of EVs by 2030 which is being [tracked here](https://speedandscale.com/okrs/1-0-electrify-transportation/1-2-cars/)
+
+:::
+
 
 ## Progress Made
 

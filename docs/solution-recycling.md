@@ -12,22 +12,116 @@ Recycling is a crucial strategy for reducing greenhouse gas emissions, conservin
 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Recycling)
-#### Example Companies
-- [The Recycling Partnership](https://recyclingpartnership.org) - Works to improve recycling systems across the U.S.
-- [Waste Management](https://www.wm.com) - Provides comprehensive waste management and recycling services.
-- [TerraCycle](https://www.terracycle.com) - Specializes in recycling hard-to-recycle materials.
-- [Loop Industries](https://www.loopindustries.com) - Pioneers plastics recycling into virgin-quality materials.
-- [Suez](https://www.suez.com) - Provides comprehensive waste management and recycling services.
 :::
+
+## Example Companies
+
+<div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
+  <a href="https://www.akkuser.fi" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-NB-.akkuser.fi.jpeg" alt="AkkuSer" style={{ width: '100px' }} />
+    <p>AkkuSer</p>
+  </a>
+  <a href="https://atecbio.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-SEA-.atecbio.com.jpeg" alt="ATEC" style={{ width: '100px' }} />
+    <p>ATEC</p>
+  </a>
+  <a href="https://www.avanime.eco/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-MENA-.avanime.eco.jpeg" alt="Avani" style={{ width: '100px' }} />
+    <p>Avani</p>
+  </a>
+  <a href="http://batteryboosterindia.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-South Asia-.batteryboosterindia.com.jpeg" alt="Battery Booster" style={{ width: '100px' }} />
+    <p>Battery Booster</p>
+  </a>
+  <a href="https://breathesciences.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-South Asia-.breathesciences.com.jpeg" alt="Breathe Sciences" style={{ width: '100px' }} />
+    <p>Breathe Sciences</p>
+  </a>
+  <a href="http://www.earthrecycler.in/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-South Asia-.earthrecycler.in.jpeg" alt="Earth Recycler" style={{ width: '100px' }} />
+    <p>Earth Recycler</p>
+  </a>
+  <a href="https://iq-energy.com.au/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-ANZ-.iq-energy.com.au.jpeg" alt="IQ Energy Australia" style={{ width: '100px' }} />
+    <p>IQ Energy Australia</p>
+  </a>
+  <a href="https://www.log9materials.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-South Asia-.log9materials.com.jpeg" alt="Log9 Materials" style={{ width: '100px' }} />
+    <p>Log9 Materials</p>
+  </a>
+  <a href="http://www.lucro.in/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-South Asia-.lucro.in.jpeg" alt="Lucro Plastecycle" style={{ width: '100px' }} />
+    <p>Lucro Plastecycle</p>
+  </a>
+  <a href="https://www.mallsampah.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-SEA-.mallsampah.com.jpeg" alt="Mallsampah" style={{ width: '100px' }} />
+    <p>Mallsampah</p>
+  </a>
+  <a href="http://www.matsmart.se" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-NB-.matsmart.se.jpeg" alt="Matsmart - Motatos" style={{ width: '100px' }} />
+    <p>Matsmart - Motatos</p>
+  </a>
+  <a href="http://www.mint.bio" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-ANZ-.mint.bio.jpeg" alt="Mint Innovation" style={{ width: '100px' }} />
+    <p>Mint Innovation</p>
+  </a>
+  <a href="https://n2applied.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-NB-.n2applied.com.jpeg" alt="N2 Applied" style={{ width: '100px' }} />
+    <p>N2 Applied</p>
+  </a>
+  <a href="http://www.nordsense.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-NB-.nordsense.com.jpeg" alt="Nordsense" style={{ width: '100px' }} />
+    <p>Nordsense</p>
+  </a>
+  <a href="https://www.octopus.co.id" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-SEA-.octopus.co.id.jpeg" alt="Octopus" style={{ width: '100px' }} />
+    <p>Octopus</p>
+  </a>
+  <a href="https://paptic.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-NB-.paptic.com.jpeg" alt="Paptic" style={{ width: '100px' }} />
+    <p>Paptic</p>
+  </a>
+  <a href="http://patersonenergy.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-South Asia-.patersonenergy.com.jpeg" alt="Paterson Energy" style={{ width: '100px' }} />
+    <p>Paterson Energy</p>
+  </a>
+  <a href="http://www.polycycl.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-South Asia-.polycycl.com.jpeg" alt="PolyCycl" style={{ width: '100px' }} />
+    <p>PolyCycl</p>
+  </a>
+  <a href="https://www.recyclesmart.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-ANZ-.recyclesmart.com.jpeg" alt="Recycle Smart" style={{ width: '100px' }} />
+    <p>Recycle Smart</p>
+  </a>
+  <a href="https://www.recyglo.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-SEA-.recyglo.com.jpeg" alt="Recyglo" style={{ width: '100px' }} />
+    <p>Recyglo</p>
+  </a>
+  <a href="https://redwoodmaterials.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-NA230-.redwoodmaterials.com.jpeg" alt="Redwood Materials" style={{ width: '100px' }} />
+    <p>Redwood Materials</p>
+  </a>
+  <a href="https://toogoodtogo.com/en" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-NB-.toogoodtogo.com.jpeg" alt="Too Good to Go" style={{ width: '100px' }} />
+    <p>Too Good to Go</p>
+  </a>
+  <a href="https://www.wasteless.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-MENA-.wasteless.com.jpeg" alt="Wasteless" style={{ width: '100px' }} />
+    <p>Wasteless</p>
+  </a>
+  <a href="http://www.zenrobotics.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Recycling-NB-.zenrobotics.com.jpeg" alt="ZenRobotics" style={{ width: '100px' }} />
+    <p>ZenRobotics</p>
+  </a>
+</div>
 
 ## Overview
 
 Recycling plays a crucial role in reducing greenhouse gas emissions, conserving natural resources, and minimizing environmental impacts. Technologies such as pyrolysis, which breaks down organic matter into useful products without producing emissions, have been developed to recycle plastics and other materials into fuel, chemicals, and other useful products. Companies and organizations such as ExxonMobil and the U.S. Environmental Protection Agency have been at the forefront of developing and promoting recycling technologies.
 
-:::info Learn More
-- [The Overview of Climate Solutions](https://climatedrift.substack.com/p/the-overview-of-climate-solutions-6ba) - Climate Drift
+<!-- :::info Learn More
 :::
-
+ -->
 ## Progress Made
 
 Significant advancements have been made in recycling technologies:

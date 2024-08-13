@@ -29,6 +29,15 @@ Nutrient management involves the efficient use of fertilizers and soil amendment
 - [International Fertilizer Association](https://www.fertilizer.org)
 :::
 
+<iframe 
+  allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" 
+  frameBorder="0" 
+  height="175" 
+  style={{width:'100%', maxWidth:'660px', overflow:'hidden', borderRadius:'10px'}} 
+  sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" 
+  src="https://embed.podcasts.apple.com/us/podcast/ai-weather-forecasts-for-climate-adaptation-with-dr/id1221460035?i=1000533177667"
+/>
+
 ## Progress Made
 
 Significant advancements have been made in nutrient management strategies:

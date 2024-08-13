@@ -1,7 +1,7 @@
 ---
 title: Industry
 displayed_sidebar: docSidebar
-# hide_table_of_contents: true
+# hide_table_of_contents: false
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
@@ -24,7 +24,7 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 :::
 
 :::newsletter a great newsletter
-- [Industry Decarbonization](https://industrydecarbonization.com/)
+- [Industry Decarbonization](https://industrydecarbonization.com/) - Newsletter
 :::
 
 ## Solutions in this Sector

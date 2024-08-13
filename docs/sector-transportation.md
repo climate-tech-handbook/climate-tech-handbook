@@ -4,7 +4,7 @@ displayed_sidebar: docSidebar
 Tags:
   - Sector
   - Transportation
-# hide_table_of_contents: true
+# hide_table_of_contents: false
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
@@ -25,12 +25,16 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 
 ## Resources:
 
-:::info
+:::newsletter Background and News sources
 - [Cipher News](https://ciphernews.com/topics/transportation)
 - [A Look at Transportation Companies](https://www.climatedrift.com/p/a-look-at-transportation-companies?utm_source=%2Fsearch%2Ftransportation&utm_medium=reader2)
 - [Climate Hype Curve: Transportation](https://www.climatedrift.com/p/climate-hype-curve-transportation?utm_source=%2Fsearch%2Ftransportation&utm_medium=reader2)
 :::
-
+Note:
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+By 2050, shift from fossil fuel vehicles to a fleet of zero-emissions cars, trucks, buses, and motorcycles. Use their [news tracking tool](https://speedandscale.com/okrs/1-0-electrify-transportation/) to track progress 
+:::
 ## Solutions in this Sector
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>

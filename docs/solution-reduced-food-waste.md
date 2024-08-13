@@ -35,6 +35,9 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 - Food waste contributes to roughly 8-10% of global greenhouse gas emissions ([UNEP Food Waste Index Report 2021](https://www.unep.org/resources/report/unep-food-waste-index-report-2021)).
 - In the United States alone, families discard food worth about $1,500 annually ([Natural Resources Defense Council](https://www.nrdc.org/resources/wasted-how-america-losing-40-percent-its-food-farm-fork-landfill)).
 
+:::newsletter Latest news
+[Follow the this newsfeed about food waste](https://climatechangeresources.org/learn-more/food-agriculture/agriculture/meat-dairy/) - Climate Change Resources.org
+:::
 ## Environmental Impact
 
 - If food waste were a country, it would be the third-largest greenhouse gas emitter after China and the United States ([FAO](http://www.fao.org/food-loss-and-food-waste/en/)).
@@ -44,6 +47,14 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 ![Drawdown food waste chart](/img/drawdown-food-waste-chart.jpg)
 
 ## Solutions by Sector
+
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+Cut food waste down from 38% to 10% by 2050
+
+Use their [news tracking tool](https://speedandscale.com/okrs/3-0-fix-food/3-5-food-waste/) to track progress
+:::
 
 ### Production
 - Improved harvesting techniques
@@ -71,8 +82,28 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 4. **Home Composting Solutions**: [Mill](https://mill.com) offers a special household compost bin that turns food waste into livestock feed.
 
 5. **Waste-to-Energy**: [Generate Upcycle](https://generateupcycle.com/) uses anaerobic digestion to convert food waste into renewable energy and organic fertilizers.
+### Company Profile - [Too Good To Go](https://www.toogoodtogo.com/en-us)
 
-## Case Studies
+**Solution**: List and sell unsold food in “Surprise Bags” through an app for local users to collect in-store at designated times. Surprise Bags are sold at 25-50% of their contents’ original retail value
+
+**Benefits**:
+	- Businesses: Unlock revenue from unsold food and attract new customers
+	- Customers: Save money on food purchases
+	- Environment: Reduce food waste and contribute to sustainability
+
+**Innovation**: 
+- Too Good To Go continues to innovate by expanding its partnerships with independent stores and supporting local businesses, with a passion for community, environmentalism, and good food.
+- Collaborating with schools and universities to put protecting our planet at the fore front of education
+ - Introducing new features to enhance user experience and engagement 
+    
+**Metrics and Impact:** 
+    
+- In 2023, over 21 million new users have registered
+- Too Good To Go has partnered with other 72 thousand new active stores
+- Saved over 121,686,720 meals since 2016
+- Saved over 14,562.6 tons CO2e from 2020-2022
+
+## Additional Case Studies
 
 1. **South Korea's Food Waste Reduction**: Implemented a pay-as-you-throw system, reducing food waste by 10% in its first year ([World Economic Forum](https://www.weforum.org/agenda/2019/01/south-korea-recycling-food-waste/)).
 

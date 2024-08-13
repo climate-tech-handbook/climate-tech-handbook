@@ -70,13 +70,10 @@ export default function Home(): JSX.Element {
 
           <div className={clsx(styles.infoDiv)}>
             <h1>OUR MISSION</h1>
-            <p>Our mission is to build the world's most <span>accessible</span>, 
-            yet <span>comprehensive</span>, resource for anyone using technology 
-            to address our climate emergency. Your skills are the missing pieces 
-            in the fight against climate change. We help you join the solution 
-            and make a lasting impact.</p>
+            <p>Build the world's most <span>accessible</span>, 
+            yet <span>comprehensive</span> resource for anyone who wants to work in climate tech...AND...do it as open source collective.</p>
             <Link className={styles.secondaryButton} to="/about">
-              Learn More
+              About us
             </Link>
           </div>
         </div>
@@ -84,7 +81,7 @@ export default function Home(): JSX.Element {
         <div className={clsx(styles.homecardContainer)}>
             
           <HomeCard
-            title="Courses"
+            title="Free mini-course"
             linkUrl="/intro"
             icon="FaBookOpen"
           />

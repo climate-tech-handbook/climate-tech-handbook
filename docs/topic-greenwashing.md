@@ -20,6 +20,10 @@ This topic cannot be ignored for two reasons:
 
 While it's easy to condemn blatant greenwashing, the reality is often more complex. Many companies are genuinely trying to improve their environmental impact but may struggle with implementation or communication.
 
+:::newsletter Keep up with news about greenwashing
+- [Follow this curated feed](https://climatechangeresources.org/learn-more/talking-climate/greenwashing/) from climatechangeresources.org
+:::
+
 ### Key points of the debate
 
 - **Tech Giants' Carbon Neutrality Claims**: Companies like Google and Microsoft have made ambitious carbon neutrality pledges, but questions remain about the effectiveness of carbon offsets and the true impact of their operations.
