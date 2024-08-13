@@ -12,7 +12,7 @@ Coastal wetland protection is a critical climate solution that leverages natural
 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Coastal+Wetland+Protection)
-#### Example Companies
+#### Example Organizations
 - [The Nature Conservancy](https://www.nature.org/) - Global conservation organization working on coastal wetland protection and restoration.
 - [Wetlands International](https://www.wetlands.org/) - Non-profit dedicated to the conservation and restoration of wetlands.
 - [Environmental Defense Fund](https://www.edf.org/) - Focuses on using science and economics to solve environmental problems, including coastal protection.
