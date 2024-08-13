@@ -74,3 +74,28 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 />
 
 </div>
+<!-- 
+## Example Companies:
+
+<div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }}>
+  <a href="https://cleanseasolutions.no/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Ocean-NB-.cleanseasolutions.no.jpeg" alt="Clean Sea Solutions AS" style={{ width: '100px' }} />
+    <p>Clean Sea Solutions AS</p>
+  </a>
+  <a href="http://fishcoin.co" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Ocean-SEA-.fishcoin.co.jpeg" alt="Fishcoin" style={{ width: '100px' }} />
+    <p>Fishcoin</p>
+  </a>
+  <a href="http://www.gringgo.co" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Ocean-SEA-.gringgo.co.jpeg" alt="Gringgo" style={{ width: '100px' }} />
+    <p>Gringgo</p>
+  </a>
+  <a href="http://www.varshajal.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Ocean-South Asia-.varshajal.com.jpeg" alt="Kedia Rainwater Harvesting Pvt Ltd" style={{ width: '100px' }} />
+    <p>Kedia Rainwater Harvesting Pvt Ltd</p>
+  </a>
+  <a href="http://pinovo.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Ocean-NB-.pinovo.com.jpeg" alt="Pinovo AS" style={{ width: '100px' }} />
+    <p>Pinovo AS</p>
+  </a>
+</div> -->

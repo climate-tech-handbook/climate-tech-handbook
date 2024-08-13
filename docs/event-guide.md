@@ -136,7 +136,7 @@ This will take some work but it can be the most rewarding.
 
 - Activity Workshop (Example: [Circular Spring](https://lu.ma/q2vkpzob))
 
-- [Minute Motifs](event-format-minute-motifs) - ([Example here](https://www.linkedin.com/posts/jacobcaggiano_pnwclimateweek-activity-7216904462840258561-pLzG): it's like a lightning talk, but more people participate and it's only 1 minute 1 slide)
+- [Minute Motifs](../event-format-minute-motifs) - ([Example here](https://www.linkedin.com/posts/jacobcaggiano_pnwclimateweek-activity-7216904462840258561-pLzG): it's like a lightning talk, but more people participate and it's only 1 minute 1 slide)
 
 - Pickleball
 
