@@ -25,6 +25,7 @@
     "csv-parser": "^3.0.0",
     "docusaurus-lunr-search": "^3.3.2",
     "docusaurus-plugin-image-zoom": "^1.0.1",
+    "docusaurus-pushfeedback": "^1.0.1",
     "i": "^0.3.7",
     "moment": "^2.30.1",
     "npm": "^10.3.0",
