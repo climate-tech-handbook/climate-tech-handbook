@@ -46,10 +46,11 @@ Be prepared to read [a lot of obscure PDFs like these](https://www.eia.gov/analy
 
 Great news sites and podcasts:
 
-:::tip try 
+:::newsletter try these news sources 
 - [Cipher News](https://ciphernews.com/topics/electricity)
 - [Volts](https://volts.wtf)
 - [Catalyst](https://www.canarymedia.com/podcasts/catalyst-with-shayle-kann) - with [Shayle Kann](https://www.linkedin.com/in/shaylekann)
+- [Curated feed](https://climatechangeresources.org/learn-more/communities/green-architecture/electrify-everything/) from climatechangeresources.org
 :::
 
 Important organizations:

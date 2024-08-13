@@ -35,6 +35,14 @@ Significant advancements have been made in efficient ocean shipping technologies
 2. **Fuel-Efficient Vessels**: Design improvements for better fuel efficiency.
 3. **Wind-Assisted Propulsion**: Utilizing wind power to reduce fuel consumption.
 
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+By 2050, achieve net-zero emissions for the maritime sector.
+
+Use their [news tracking tool](https://speedandscale.com/okrs/1-0-electrify-transportation/1-7-maritime/) to track progress
+:::
+
 ## Solutions by Sector
 
 ### Ship Design

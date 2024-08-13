@@ -18,6 +18,48 @@ Small hydropower refers to hydroelectric power plants with a capacity of up to 1
 - [International Renewable Energy Agency (IRENA)](https://www.irena.org/) - Supports countries in their transition to sustainable energy futures.
 :::
 
+## Hydropower companies
+_Sourced by [HolonIQ](https://globalclimatelandscape.org) these do not necessarily qualify as "small" hydropower_
+<div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'left' }}>
+  <a href="https://aw-energy.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Wave-NB-.aw-energy.com.jpeg" alt="AW-Energy" style={{ width: '100px' }} />
+    <p>AW-Energy</p>
+  </a>
+  <a href="https://www.bomborawave.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Wave-ANZ-.bomborawave.com.jpeg" alt="Bombora Wave Power" style={{ width: '100px' }} />
+    <p>Bombora Wave Power</p>
+  </a>
+  <a href="https://www.carnegiece.com/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Wave-ANZ-.carnegiece.com.jpeg" alt="Carnegie Clean Energy" style={{ width: '100px' }} />
+    <p>Carnegie Clean Energy</p>
+  </a>
+  <a href="http://corpowerocean.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Wave-NB-.corpowerocean.com.jpeg" alt="CorPower Ocean" style={{ width: '100px' }} />
+    <p>CorPower Ocean</p>
+  </a>
+  <a href="https://www.ingine.co.kr" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Wave-EA-.ingine.co.kr.jpeg" alt="Ingine" style={{ width: '100px' }} />
+    <p>Ingine</p>
+  </a>
+  <a href="https://ingine.co.kr/en/" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Wave-EA-.ingine.co.kr.jpeg" alt="Ingine Pacific" style={{ width: '100px' }} />
+    <p>Ingine Pacific</p>
+  </a>
+  <a href="http://www.resenwaves.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Wave-NB-.resenwaves.com.jpeg" alt="Resen Waves" style={{ width: '100px' }} />
+    <p>Resen Waves</p>
+  </a>
+  <a href="http://www.seabased.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Wave-NB-.seabased.com.jpeg" alt="Seabased" style={{ width: '100px' }} />
+    <p>Seabased</p>
+  </a>
+  <a href="https://www.waveswell.com" style={{ margin: '10px', textAlign: 'center' }}>
+    <img src="https://www.globalclimatelandscape.org/icons/Wave-ANZ-.waveswell.com.jpeg" alt="Wave Swell" style={{ width: '100px' }} />
+    <p>Wave Swell</p>
+  </a>
+</div>
+
+
 ## Overview
 
 Small hydropower development has contributed to greenhouse gas emission reduction through innovations like micro-hydro turbines. These efficient systems can provide power in diverse settings, including remote villages lacking grid access.

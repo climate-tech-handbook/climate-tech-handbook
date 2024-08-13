@@ -27,6 +27,7 @@ Forefront organizations include the U.S. Department of Energy, the Nuclear Regul
 :::info Learn More
 - [Nuclear Fusion: The holy grail of clean energy](https://www.climatetechdistillery.com/p/14-nuclear-fusion) - Climate Tech Distillery
 - [The Recent Nuclear Fusion Breakthrough](https://warminguptoclimatetech.substack.com/p/the-recent-nuclear-fusion-breakthrough) - Warming Up to Climate Tech
+- [Curated newsfeed](https://climatechangeresources.org/learn-more/energy/sources/nuclear/) - climatetechresources.org
 :::
 
 ## Progress Made

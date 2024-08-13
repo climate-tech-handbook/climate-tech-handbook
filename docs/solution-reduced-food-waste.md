@@ -35,6 +35,9 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 - Food waste contributes to roughly 8-10% of global greenhouse gas emissions ([UNEP Food Waste Index Report 2021](https://www.unep.org/resources/report/unep-food-waste-index-report-2021)).
 - In the United States alone, families discard food worth about $1,500 annually ([Natural Resources Defense Council](https://www.nrdc.org/resources/wasted-how-america-losing-40-percent-its-food-farm-fork-landfill)).
 
+:::newsletter Latest news
+[Follow the this newsfeed about food waste](https://climatechangeresources.org/learn-more/food-agriculture/agriculture/meat-dairy/) - Climate Change Resources.org
+:::
 ## Environmental Impact
 
 - If food waste were a country, it would be the third-largest greenhouse gas emitter after China and the United States ([FAO](http://www.fao.org/food-loss-and-food-waste/en/)).
@@ -44,12 +47,6 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 ![Drawdown food waste chart](/img/drawdown-food-waste-chart.jpg)
 
 ## Solutions by Sector
-
-The biggest benchmark from **Speed & Scale**
-
-Commit and enforce the end of hydrofluorocarbons (HFCs)
-
-Use their [news tracking tool](https://speedandscale.com/okrs/7-0-win-politics-and-policy/7-6-refrigerants/) to track progress
 
 :::info Critical Goal
 The biggest benchmark from **Speed & Scale**
