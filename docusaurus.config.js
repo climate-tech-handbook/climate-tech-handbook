@@ -64,7 +64,7 @@ const darkCodeTheme = themes.dracula;
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
-        image: 'img/social-cover.png'
+        image: 'img/social-cover.png',
         docs: {
           sidebar: {
             hideable: true,
