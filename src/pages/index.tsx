@@ -54,7 +54,7 @@ export default function Home(): JSX.Element {
   return (
     <div  className={clsx(styles.bodyWrapper)}> 
     <Layout
-      icon="IoEarth"
+     
       description="Get up to speed on climate tech as quickly as possible"
     > 
       <HomepageHeader />
