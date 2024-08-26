@@ -5,6 +5,7 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
+<meta property="og:image" content="/../static/img/coastal-and-ocean-sinks.png" />
 
 ## Sector Overview
 
