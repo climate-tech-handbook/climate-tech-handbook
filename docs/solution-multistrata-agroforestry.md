@@ -70,6 +70,68 @@ Organizations such as the World Agroforestry Centre and the International Centre
 2. **Trees for the Future**: Implements community-based agroforestry projects ([Trees for the Future](https://trees.org)).
 3. **Agroforestry Research Trust**: Conducts research and promotes public awareness about agroforestry ([Agroforestry Research Trust](https://www.agroforestry.co.uk)).
 
+---
+
+### [ECHO (Educational Concerns for Hunger Organization)](https://echonet.org/)
+
+![farmer](/../static/img/New-ECHO-Hero-Grow.png)
+
+**Solution**: ECHO is a global nonprofit organization that provides agricultural and 
+appropriate technology training and resources for developing countries. They promote sustainable farming practices, including multistrata agroforestry. 
+
+**Benefits:**
+
+1. Smallholder farmers and communities in developing countries throughout Latin America, countries in Africa, 
+
+2. Development workers and organizations working to alleviate hunger and poverty
+
+3. Promotes environmental sustainability through sustainable farming practices
+
+4. Offers career positions, internships, and volunteer opportunities  
+
+
+**Innovation:**
+
+- Online resources and training materials that are freely accessible to farmers and development workers worldwide
+
+
+- ECHO's Seed Bank: A collection of over 300 species of underutilized crops that are adapted to challenging conditions for local farmers to grow 
+
+
+**Metrics:**
+
+- ECHO has trained over 17,000 development workers from more than 165 countries
+
+- They have a global network of regional impact centers in developing regions in Asia, Africa, and Latin America
+
+---
+### [Greening Australia](https://www.greeningaustralia.org.au/)
+
+![cuckatoo](/../static/img/cockatoo-australia.jpg)
+
+**Solution**: At Greening Australia we don’t just plant trees, we rebuild ecosystems. We're a national not-for-profit committed to restoring Australia’s diverse landscapes and protecting biodiversity in ways that benefit communities, economies, and nature.
+
+**Benefits**:    
+
+- Farmers and landowners seeking to improve the productivity and sustainability of their land
+
+- Communities and ecosystems that depend on healthy landscapes to prevent climate change and biodiversity loss
+
+**Innovative Technology**:
+
+- Greening Australia uses drone technology to survey large areas quickly and efficiently, capturing images of their forestry to monitor restoration sites, which helps identify areas that need attention and track the success of reforestation efforts
+
+- Greening Australia employs eco-engineering techniques to restore degraded landscapes, such as using natural materials and structures to stabilize soils and promote vegetation growth. These techniques mimic natural processes to create self-sustaining ecosystems, reducing the need for ongoing intervention
+
+**Metrics in 2023:**
+
+- 4.4 million+ native plants established \    
+- Partnered with 72 nations 
+- 3,800+ hectares of habitat established
+- 38,000+ Tonnes of carbon sequestered per annum
+
+---
+
 ## Lessons Learned
 
 1. **Diversification**: Diversifying crops and trees reduces the risk of crop failure and provides a stable income for farmers.

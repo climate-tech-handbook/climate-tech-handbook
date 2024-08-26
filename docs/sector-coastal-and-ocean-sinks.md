@@ -26,14 +26,19 @@ Use their [news tracking tool](https://speedandscale.com/okrs/4-0-protect-nature
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Coastal+%26+Ocean+Sinks&p=0&remote=false)
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
-
-<!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
 
 <!-- :::info Job Board
 [Nature Tech](https://naturetech.io/) - specifically for nature based solutions
 ::: -->
 
+## Featured Resource
+:::newsletter workonocean.com
+<a href="https://www.workonocean.com" target="_blank">
+<img src="/img/work-on-ocean-logo.png" alt="Your Image" style={{width: 400}} />
+</a>
+[Work on Ocean](https://www.workonocean.com) curates data and resources to track who, and how to work on solving our Ocean crisis
+:::
 ## Solutions in this Sector
 
 <div style={{ display: 'flex', flexWrap: 'wrap'}}>

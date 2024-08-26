@@ -82,6 +82,7 @@ Use their [news tracking tool](https://speedandscale.com/okrs/3-0-fix-food/3-5-f
 4. **Home Composting Solutions**: [Mill](https://mill.com) offers a special household compost bin that turns food waste into livestock feed.
 
 5. **Waste-to-Energy**: [Generate Upcycle](https://generateupcycle.com/) uses anaerobic digestion to convert food waste into renewable energy and organic fertilizers.
+
 ### Company Profile - [Too Good To Go](https://www.toogoodtogo.com/en-us)
 
 **Solution**: List and sell unsold food in “Surprise Bags” through an app for local users to collect in-store at designated times. Surprise Bags are sold at 25-50% of their contents’ original retail value
@@ -102,6 +103,33 @@ Use their [news tracking tool](https://speedandscale.com/okrs/3-0-fix-food/3-5-f
 - Too Good To Go has partnered with other 72 thousand new active stores
 - Saved over 121,686,720 meals since 2016
 - Saved over 14,562.6 tons CO2e from 2020-2022
+
+### Company Profile - Winnow
+
+**Solution**: Winnow is a UK-based technology company focused on reducing food waste in commercial kitchens. Their flagship product, Winnow Vision, is an AI-enabled system designed to help chefs and kitchen staff track and minimize food waste efficiently.
+
+**Benefits**:
+- **Cost Savings**: By reducing food waste, Winnow helps businesses save on food costs, which can be significant in high-volume kitchens.
+- **Environmental Impact**: Lowering food waste contributes to a reduction in greenhouse gas emissions and conserves natural resources.
+- **Operational Efficiency**: Real-time data and insights enable kitchens to streamline operations, improve inventory management, and enhance overall efficiency.
+
+**Innovative Technology**:
+- **AI and Machine Learning**: The system uses AI to automatically identify and track food waste. Machine learning algorithms improve over time, becoming more accurate in recognizing different types of food waste.
+- **Computer Vision**: Cameras installed in waste bins capture images of discarded food. The AI then analyzes these images to determine what is being thrown away and in what quantities.
+- **Real-Time Data**: The system provides immediate feedback and analytics, allowing kitchen staff to make informed decisions on the spot. This real-time data is crucial for identifying trends and areas for improvement.
+- **User-Friendly Interface**: Winnow's platform offers an intuitive dashboard where users can access detailed reports, track progress, and set waste reduction goals.
+
+**Metrics and Impact**:
+- **Global Reach**: Winnow's technology is used in over 85 countries, impacting thousands of commercial kitchens worldwide.
+- **Waste Reduction**: On average, Winnow's clients report a 50% reduction in food waste within the first year of implementation. Here are some numbers to put it in perspective: 50 million meals saved per year, 87,000 tonnes of CO2e prevented per year, and $70 million saved per year.
+- **Cost Savings**: Businesses using Winnow have saved millions of dollars by reducing food waste. For example, a large hotel chain reported saving over $1 million annually across multiple properties.
+- **Environmental Metrics**: Winnow's impact extends beyond individual kitchens. By reducing food waste, the company has helped prevent millions of meals from going to landfills, contributing to a reduction in carbon emissions.
+- **Client Base**: Winnow works with a diverse range of clients, including hotels, restaurants, catering companies, and corporate kitchens. Notable clients include IKEA, Compass Group, and AccorHotels.
+
+**Case Studies**:
+- [ISS](https://650776.fs1.hubspotusercontent-na1.net/hubfs/650776/2024/Case%20Studies/ISS%20Guckenheimer%20Case%20Study.pdf): How an ISS Guckenheimer Facility Reduces Food Waste by 50%
+ - [Chartwells](https://650776.fs1.hubspotusercontent-na1.net/hubfs/650776/2024/Winnow%20Case%20Study%20%7C%20St.%20Faiths%2058%25%20Reduction%20in%20Food%20Waste.pdf): How Chartwells and St Faith's School reduced waste by 58%
+ - [Swissôtel](https://650776.fs1.hubspotusercontent-na1.net/hubfs/650776/2024/Winnow%20Case%20Study%20%7C%20Swissotel%20Clark%20Philippines%20Reduce%20Waste%20by%2067%25.pdf): How Swissôtel Clark Philippines used AI to cut food waste by 67%**
 
 ## Additional Case Studies
 
