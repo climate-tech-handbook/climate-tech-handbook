@@ -45,14 +45,14 @@ const darkCodeTheme = themes.dracula;
       tagName: 'meta',
       attributes: {
         property: 'og:image',
-        content: 'https://www.climatetechhandbook.com/img/social-cover.png ',
+        content: 'https://picsum.photos/200/300 ',
       },
     },
     {
       tagName: 'meta',
       attributes: {
         property: 'og:url',
-        content: 'https://www.climatetechhandbook.com/img/social-cover.png ',
+        content: 'https://picsum.photos/200/300 ',
       },
     },
   ],
