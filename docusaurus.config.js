@@ -38,7 +38,7 @@ const darkCodeTheme = themes.dracula;
       tagName: 'meta',
       attributes: {
         property: 'og:description',
-        content: 'Test Your Page Description',
+        content:  'Test Your Page Description',
       },
     },
     {
