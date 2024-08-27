@@ -45,14 +45,14 @@ const darkCodeTheme = themes.dracula;
       tagName: 'meta',
       attributes: {
         property: 'og:image',
-        content: 'https://deploy-preview-531--ct-handbook-public.netlify.app/ ',
+        content: 'https://deploy-preview-530--ct-handbook-public.netlify.app/ ',
       },
     },
     {
       tagName: 'meta',
       attributes: {
         property: 'og:url',
-        content: 'https://deploy-preview-531--ct-handbook-public.netlify.app/',
+        content: 'https://deploy-preview-530--ct-handbook-public.netlify.app/',
       },
     },
   ],
