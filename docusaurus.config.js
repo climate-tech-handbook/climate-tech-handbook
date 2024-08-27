@@ -45,14 +45,14 @@ const darkCodeTheme = themes.dracula;
       tagName: 'meta',
       attributes: {
         property: 'og:image',
-        content: 'https://deploy-preview-528--ct-handbook-public.netlify.app/img/main/cth-earth-logo.png ',
+        content: 'https://picsum.photos/200/300 ',
       },
     },
     {
       tagName: 'meta',
       attributes: {
         property: 'og:url',
-        content: 'https://deploy-preview-528--ct-handbook-public.netlify.app/img/main/cth-earth-logo.png',
+        content: 'https://picsum.photos/200/300',
       },
     },
   ],
