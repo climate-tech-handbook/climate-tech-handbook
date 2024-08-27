@@ -26,6 +26,37 @@ const darkCodeTheme = themes.dracula;
         }
       ]
     ],
+    headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:title',
+        content: 'Test Your Page Title',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:description',
+        content: 'Test Your Page Description',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:image',
+        content: 'https://www.climatetechhandbook.com/img/social-cover.png ',
+      },
+    },
+    {
+      tagName: 'meta',
+      attributes: {
+        property: 'og:url',
+        content: 'https://www.climatetechhandbook.com/img/social-cover.png ',
+      },
+    },
+  ],
+
     presets: [
       [
         "@docusaurus/preset-classic",
