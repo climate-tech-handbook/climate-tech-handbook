@@ -38,21 +38,21 @@ const darkCodeTheme = themes.dracula;
       tagName: 'meta',
       attributes: {
         property: 'og:description',
-        content:  'Test Your Page Description',
+        content: 'Test Your Page Description',
       },
     },
     {
       tagName: 'meta',
       attributes: {
         property: 'og:image',
-        content: 'https://deploy-preview-530--ct-handbook-public.netlify.app/ ',
+        content: 'https://picsum.photos/200/300 ',
       },
     },
     {
       tagName: 'meta',
       attributes: {
         property: 'og:url',
-        content: 'https://deploy-preview-530--ct-handbook-public.netlify.app/',
+        content: 'https://picsum.photos/200/300',
       },
     },
   ],
