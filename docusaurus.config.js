@@ -45,7 +45,7 @@ const darkCodeTheme = themes.dracula;
       tagName: 'meta',
       attributes: {
         property: 'og:image',
-        content: 'https://picsum.photos/200/300 ',
+        content: 'https://fastweb.mybabb.com/images/NewMew-paperclip-300px.jpg',
       },
     },
     {
