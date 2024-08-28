@@ -52,7 +52,7 @@ const darkCodeTheme = themes.dracula;
       tagName: 'meta',
       attributes: {
         property: 'og:url',
-        content: 'https://picsum.photos/200/300',
+        content: 'https://deploy-preview-530--ct-handbook-public.netlify.app ',
       },
     },
   ],
