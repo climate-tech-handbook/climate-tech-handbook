@@ -5,11 +5,9 @@ displayed_sidebar: docSidebar
 # hide_table_of_contents: false
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
-   <meta property="og:title" content="Test Title" />
-   <meta property="og:description" content="Test Description" />
-   <meta property="og:url" content= "https://www.climatetechhandbook.com/" />
-   <meta property="og:image" content="https://www.climatetechhandbook.com/assets/images/coastal-and-ocean-sinks-380e188d485bf7bee15f3e947b0bd548.png" />
- 
+
+<meta property="og:image" content="https://www.climatetechhandbook.com/assets/images/coastal-and-ocean-sinks-380e188d485bf7bee15f3e947b0bd548.png" />
+
 ## Sector Overview
 
 Coastal and ocean sinks can absorb and sequester large amounts of carbon dioxide from the atmosphere, also known as "blue carbon".
