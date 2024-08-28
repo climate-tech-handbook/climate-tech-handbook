@@ -31,7 +31,7 @@ const darkCodeTheme = themes.dracula;
       tagName: 'meta',
       attributes: {
         property: 'og:title',
-        content: 'Test Your Page Title',
+        content: 'Climate Tech Handbook',
       },
     },
     {
@@ -45,14 +45,14 @@ const darkCodeTheme = themes.dracula;
       tagName: 'meta',
       attributes: {
         property: 'og:image',
-        content: 'https://fastweb.mybabb.com/images/NewMew-paperclip-300px.jpg',
+        content: 'https://www.climatetechhandbook.com/img/main/cth-earth-logo.png',
       },
     },
     {
       tagName: 'meta',
       attributes: {
         property: 'og:url',
-        content: 'https://deploy-preview-530--ct-handbook-public.netlify.app ',
+        content: 'https://www.climatetechhandbook.com/',
       },
     },
   ],
