@@ -1,11 +1,16 @@
 ---
 title: Coastal and Ocean Sinks
 displayed_sidebar: docSidebar
+ 
+description: My document description
+image: https://picsum.photos/id/1/200/300
+slug: /my-document
+
 # hide_table_of_contents: false
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-<meta property="og:image" content="https://www.climatetechhandbook.com/assets/images/coastal-and-ocean-sinks-380e188d485bf7bee15f3e947b0bd548.png" />
+<!-- <meta property="og:image" content="https://www.climatetechhandbook.com/assets/images/coastal-and-ocean-sinks-380e188d485bf7bee15f3e947b0bd548.png" /> -->
 
 ## Sector Overview
 

@@ -26,37 +26,7 @@ const darkCodeTheme = themes.dracula;
         }
       ]
     ],
-    headTags: [
-    {
-      tagName: 'meta',
-      attributes: {
-        property: 'og:title',
-        content: 'Test Your Page Title',
-      },
-    },
-    {
-      tagName: 'meta',
-      attributes: {
-        property: 'og:description',
-        content: 'Test Your Page Description',
-      },
-    },
-    {
-      tagName: 'meta',
-      attributes: {
-        property: 'og:image',
-        content: ' https://picsum.photos/200/300',
-      },
-    },
-    {
-      tagName: 'meta',
-      attributes: {
-        property: 'og:url',
-        content:'https://picsum.photos/200/300',
-      },
-    },
-  ],
-
+    
     presets: [
       [
         "@docusaurus/preset-classic",
