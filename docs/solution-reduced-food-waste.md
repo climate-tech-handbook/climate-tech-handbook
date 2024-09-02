@@ -3,12 +3,13 @@ title: Reduced Food Waste
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
+import ImageCard from '../src/components/ImageCard/ImageCard';
 
 # Reduced Food Waste
 
 Reducing food waste is the NUMBER ONE recommended climate solution from Project Drawdown.
 
-The total [emissions from the food system rise to ~34%](https://www.nature.com/articles/s43016-021-00225-9) when considering emissions associated with food waste rotting in landfills plus cooking, refrigerating, processing, transporting, and packaging food. That makes food the single largest emitting economic sector – larger than power generation, industry, transportation, or buildings.
+The total [emissions from the food system rise to ~34%](https://www.nature.com/articles/s43016-021-00225-9) when considering emissions associated with food waste rotting in landfills plus cooking, refrigerating, processing, transporting, and packaging food. That makes food the single largest emitting economic sector – larger than power generation, industry, transportation, or buildings.
 
 ![Food waste illustration](/../static/img/reduced-food-waste.png)
 
@@ -83,48 +84,20 @@ Use their [news tracking tool](https://speedandscale.com/okrs/3-0-fix-food/3-5-f
 
 5. **Waste-to-Energy**: [Generate Upcycle](https://generateupcycle.com/) uses anaerobic digestion to convert food waste into renewable energy and organic fertilizers.
 
-### Company Profile - [Too Good To Go](https://www.toogoodtogo.com/en-us)
-
-**Solution**: List and sell unsold food in “Surprise Bags” through an app for local users to collect in-store at designated times. Surprise Bags are sold at 25-50% of their contents’ original retail value
-
-**Benefits**:
-	- Businesses: Unlock revenue from unsold food and attract new customers
-	- Customers: Save money on food purchases
-	- Environment: Reduce food waste and contribute to sustainability
-
-**Innovation**: 
-- Too Good To Go continues to innovate by expanding its partnerships with independent stores and supporting local businesses, with a passion for community, environmentalism, and good food.
-- Collaborating with schools and universities to put protecting our planet at the fore front of education
- - Introducing new features to enhance user experience and engagement 
-    
-**Metrics and Impact:** 
-    
-- In 2023, over 21 million new users have registered
-- Too Good To Go has partnered with other 72 thousand new active stores
-- Saved over 121,686,720 meals since 2016
-- Saved over 14,562.6 tons CO2e from 2020-2022
-
-### Company Profile - Winnow
-
-**Solution**: Winnow is a UK-based technology company focused on reducing food waste in commercial kitchens. Their flagship product, Winnow Vision, is an AI-enabled system designed to help chefs and kitchen staff track and minimize food waste efficiently.
-
-**Benefits**:
-- **Cost Savings**: By reducing food waste, Winnow helps businesses save on food costs, which can be significant in high-volume kitchens.
-- **Environmental Impact**: Lowering food waste contributes to a reduction in greenhouse gas emissions and conserves natural resources.
-- **Operational Efficiency**: Real-time data and insights enable kitchens to streamline operations, improve inventory management, and enhance overall efficiency.
-
-**Innovative Technology**:
-- **AI and Machine Learning**: The system uses AI to automatically identify and track food waste. Machine learning algorithms improve over time, becoming more accurate in recognizing different types of food waste.
-- **Computer Vision**: Cameras installed in waste bins capture images of discarded food. The AI then analyzes these images to determine what is being thrown away and in what quantities.
-- **Real-Time Data**: The system provides immediate feedback and analytics, allowing kitchen staff to make informed decisions on the spot. This real-time data is crucial for identifying trends and areas for improvement.
-- **User-Friendly Interface**: Winnow's platform offers an intuitive dashboard where users can access detailed reports, track progress, and set waste reduction goals.
-
-**Metrics and Impact**:
-- **Global Reach**: Winnow's technology is used in over 85 countries, impacting thousands of commercial kitchens worldwide.
-- **Waste Reduction**: On average, Winnow's clients report a 50% reduction in food waste within the first year of implementation. Here are some numbers to put it in perspective: 50 million meals saved per year, 87,000 tonnes of CO2e prevented per year, and $70 million saved per year.
-- **Cost Savings**: Businesses using Winnow have saved millions of dollars by reducing food waste. For example, a large hotel chain reported saving over $1 million annually across multiple properties.
-- **Environmental Metrics**: Winnow's impact extends beyond individual kitchens. By reducing food waste, the company has helped prevent millions of meals from going to landfills, contributing to a reduction in carbon emissions.
-- **Client Base**: Winnow works with a diverse range of clients, including hotels, restaurants, catering companies, and corporate kitchens. Notable clients include IKEA, Compass Group, and AccorHotels.
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+    <ImageCard
+    title="Company Profile - Too Good to Go"
+    description="List and sell unsold food in “Surprise Bags” through an app for local users to collect in-store at designated times"
+    imageUrl="/img/too-good-to-go-logo.png"
+    linkUrl="../company-too-good-to-go"
+    />
+    <ImageCard
+    title="Company Profile - Winnow"
+    description="Reducing food waste in commercial kitchens"
+    imageUrl="/img/winnow-logo-square.png"
+    linkUrl="../company-winnow"
+    />
+</div>
 
 **Case Studies**:
 - [ISS](https://650776.fs1.hubspotusercontent-na1.net/hubfs/650776/2024/Case%20Studies/ISS%20Guckenheimer%20Case%20Study.pdf): How an ISS Guckenheimer Facility Reduces Food Waste by 50%
