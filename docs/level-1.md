@@ -14,9 +14,7 @@ import cthlogo from '/img/main/cth-earth-logo.png';
 
 ## ⛳️ Introduction to Level 1
 
-**Welcome to Level 1!** You are in the right place if you are _brand new to climate action_, and need a _basic overview of terms_ as well as some _questions_ you probably want answered!
-
-
+**Welcome to Level 1** You are in the right place if you are _brand new to climate action_, and need a _basic overview of terms_ as well as some _questions_ that need answering.
 
 #### Learning Objectives
 
@@ -103,7 +101,7 @@ Green tech is just **an umbrella term for climate tech and clean tech**. Climate
 
 <!--questions about IT tech, deep tech, hard tech, and trade work-->
 
-Now that we know what climate tech is, let’s dig into what the climate tech _job_ is!
+Now that we know what climate tech is, let’s dig into what the climate tech _job_ is.
 
 #### **Click each drop-down menu below** to read through each frequently asked question about climate jobs.
 
@@ -115,7 +113,7 @@ Now that we know what climate tech is, let’s dig into what the climate tech _j
 | Startups 								| Established companies | Government jobs |
 | -------- 								| --------              |--------         |
 |Tend to be paid **lower** salaries					|Tend to be paid **higher** salaries |**Lower salaries**, but offer good health care and pensions
-|More startups to choose from (**Roughly 3,000+ companies and organizations** to choose from our database!).|You can work for bigger companies once you rack up **experience** and/or have great **networking skills**! | There can be a **higher level of job security, predictability, and transparency** compared to a fast moving startup environment.|
+|More startups to choose from (**Roughly 3,000+ companies and organizations** to choose from our database).|You can work for bigger companies once you rack up **experience** and/or have great **networking skills**. | There can be a **higher level of job security, predictability, and transparency** compared to a fast moving startup environment.|
 </details>
 
 <details>
@@ -199,7 +197,7 @@ As we [continue writing the Handbook together](contribute), we will better be tr
 - Read and support journalism outlets such as [DeSmog](https://www.desmog.com//), [Grist](grist.org), [Inside Climate News](https://insideclimatenews.org/), [Climate Desk](climatedesk.org), [Drilled](https://drilled.media), and more.
 <!--Link to Resources, and Media Sector-->
 
-- [Tell us your findings on Slack](contribute) and we'll report on it!
+- [Tell us your findings on Slack](contribute) and we'll report on it.
 </details>
 
 

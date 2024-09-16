@@ -57,7 +57,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 You've poked around the [Climate Sectors and Solutions](solutions).
 
-Now it's time to pick just one!
+Now it's time to pick just one 🫢
 
 You don't have to stick with it forever.
 
