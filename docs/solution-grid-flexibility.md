@@ -10,6 +10,8 @@ authors:
 
 Grid flexibility refers to the capability of the electric grid to accommodate diverse energy sources and dynamically adapt to changing demand and supply conditions, enhancing efficiency and resilience.
 
+A common term that you'll hear is DER (Distributed Energy Resources).
+
 ![Cover Image](../static/img/grid-flexibility.jpg)
 *Image from the [Alliance for an Energy Efficient Economy](https://aeee.in/why-indian-grid-operators-need-to-acknowledge-demand-flexibility-for-optimal-grid-operation/) in India*
 
@@ -25,6 +27,7 @@ Grid flexibility refers to the capability of the electric grid to accommodate di
 
 ## Overview
 :::book Great articles
+- [DER Resource Guide](https://pnwders.notion.site/PNW-DERs-Resources-Guide-b140785035504276a036a0973e9a7989) - PNW DERs
 - [A guide to Virtual Power Plants (VPP)](https://climatedrift.substack.com/p/a-guide-to-virtual-power-plants-vpp) - Climate Drift
 - [Smart Grids: The green transition requires an updated grid](https://www.climatetechdistillery.com/p/22-smart-grids) - Climate Tech Distillery
 - [How to Decarbonize the Global Electric Grid](https://warminguptoclimatetech.substack.com/p/how-to-decarbonize-the-global-electric-grid) - Warming Up to Climate Tech
