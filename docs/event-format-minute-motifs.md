@@ -36,6 +36,8 @@ They are very similar to [Lightning Talks](event-format-lightning-talks) but:
 - [Entry Form](https://docs.google.com/forms/d/e/1FAIpQLScZ6ooCPQWQqb5ibGiUptHP4J39sxv9S0zJXZrJzlSy9f3NUQ/viewform)
 
 - [Slide Deck](https://docs.google.com/presentation/d/1Oc0tDsuZSJp7bNwp7FhtjWg462LAzKKZxTGxOJNnj9c/edit?usp=sharing) for the show
+
+- [LinkedIn Post](https://www.linkedin.com/posts/jacobcaggiano_pnwclimateweek-activity-7216904462840258561-pLzG) to celebrate
 :::
 
 ## Primary goal - enlightenment and inspiration
@@ -160,8 +162,6 @@ When you have that established, you can score your proposals on a spreadsheet.
 - Tech rehearsal
 
 - Dry run
-
-
 
 
 ## STEP THREE: Promote the event

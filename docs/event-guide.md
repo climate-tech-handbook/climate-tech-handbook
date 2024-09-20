@@ -126,6 +126,10 @@ This will take some work but it can be the most rewarding.
 
 - Community barbecue
 
+- Subject Matter Expert webinar - (Example: [Work on Climate hosts](https://workonclimate.org) these in the #founders channel)
+
+- Action Group - (Example: [PNW DERs](https://pnwders.notion.site/PNW-DERs-Home-33d49ff437f54e12b5de8ce37bac58e9))
+
 - Outdoor excursion (Example [Bike Ride](https://lu.ma/9wmgdncx))
 
 - Karaoke - (Examples: [Snocap / 9zero](https://www.linkedin.com/feed/update/urn:li:activity:7217987708512522240/), or [Cool Climate Collective / Pachamama Ventures](https://lu.ma/casual-climate-karaoke)) 
@@ -136,7 +140,7 @@ This will take some work but it can be the most rewarding.
 
 - Activity Workshop (Example: [Circular Spring](https://lu.ma/q2vkpzob))
 
-- [Minute Motifs](../event-format-minute-motifs) - ([Example here](https://www.linkedin.com/posts/jacobcaggiano_pnwclimateweek-activity-7216904462840258561-pLzG): it's like a lightning talk, but more people participate and it's only 1 minute 1 slide)
+- [Minute Motifs](../event-format-minute-motifs) - it's like a lightning talk, but more people participate and it's only 1 minute 1 slide)
 
 - Pickleball
 
