@@ -40,6 +40,9 @@ Significant progress has been made in forest protection techniques:
 2. **Forest Management Planning Tools**: Assist landowners in understanding the value and benefits of forest protection.
 3. **Remote Sensing Technologies**: Enable monitoring of forest cover and detecting deforestation.
 
+:::book Fantastic resource
+- [The Forest Tech Landscape](https://kodama.ai/insights-/foresttech2023) - by Kodama
+:::
 ## Solutions by Sector
 
 ### Conservation

@@ -6,6 +6,10 @@ displayed_sidebar: docSidebar
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
+Land sinks are a type of carbon sequestration that refers to the capture and storage of carbon dioxide on natural land, through trees, soil, and other native habitats.
+
+![](/../static/img/land-sinks.jpg)
+
 
 :::info Goals
 Critical benchmarks from **Speed & Scale**
@@ -17,13 +21,7 @@ Critical benchmarks from **Speed & Scale**
 Use their [news tracking tool](https://speedandscale.com/okrs/4-0-protect-nature/4-3-lands/) to track progress
 :::
 
-![](/../static/img/land-sinks.jpg)
 
-Land sinks are a type of carbon sequestration that refers to the capture and storage of carbon dioxide on natural land, through trees, soil, and other native habitats.
-
-:::book Fantastic resource
-- [The Forest Tech Landscape](https://kodama.ai/insights-/foresttech2023) - by Kodama
-:::
 
 ## Solutions in this Sector
 

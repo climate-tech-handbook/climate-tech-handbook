@@ -11,15 +11,14 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 1. A **climate solution** that fits you
 2. An **organization** working to solve it
 3. A **job offer** that is right for you
-4. **Success your first 90 days** of working
 
 ### Why do climate tech jobs matter?
 
 #### ![Lightning Bolt](../static/img/lightningbolt.png)The harsh reality is:
 
-- We are _5 years_ from reaching a global temperature of **1.5 degrees Celsius (or 2.7 degrees Fahrenheit)**. 
+- We are roughly _4 years_ from reaching a global temperature of **1.5 degrees Celsius (or 2.7 degrees Fahrenheit)**. 
 - We need to _reduce greenhouse pollution_ by **50% before 2030 and 100% by 2050**.
-- We are already experiencing _millions of deaths per year_ and **billions of economic damages thus far**. Each year this number is increasing (this is being tracked by [Yale Climate Connections](https://yaleclimateconnections.org)).
+- *We are already experiencing* thousands of unnecessary deaths per year and **billions of economic damages thus far**. Each year this number is increasing (see [Climate Signals](https://www.climatesignals.org)).
 
 #### ![Partly Cloudy](../static/img/partlycloudy.png) Despite this, though, there is still hope. Currently:
 
