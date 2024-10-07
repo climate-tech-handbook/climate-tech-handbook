@@ -6,8 +6,7 @@ displayed_sidebar: docSidebar
 
 ## Sector Overview
 
---x
-
+Without financing, new technologies to solve climate change would not be possible.
 ![](/../static/img/journalism.jpg)
 
 :::company job openings
@@ -20,6 +19,13 @@ displayed_sidebar: docSidebar
 - [Guardian Glass](https://www.guardianglass.com) - Provides advanced glass solutions, including dynamic glass.
 :::
 
+:::book Resources
+- Climate Tech VC
+:::
+
+:::expert Experts
+- Sophie Purdam
+:::
 
 - [What is FOAK](topic-foak)
 

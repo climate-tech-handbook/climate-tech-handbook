@@ -1,5 +1,5 @@
 ---
-title: Replace with Page 
+title: What is FOAK exactly?
 displayed_sidebar: docSidebar
 ---
 :::caution
@@ -7,15 +7,36 @@ Heavy work in progress
 [Help us](../contribute) to improve this page
 :::
 
-:::Experts to follow
-- Daniel
+FOAK stands for "First of a Kind"
+
+There is an important discussion going on about how to fund --xx
+
+### Examples of FOAK projects
+
+- Sustainabile Aviation Fuel
+- Steel
+- Cement
+
+[Graphic] - P
+
+:::expert Experts to follow
+- Daniel - creator of [Climate Capital Stack.com](https://climatecapitalstack.com)
 - Deanna
-- 3 others in Deanna's post
+- Sophie
+- MIT person from the video
+- 3 others in Deanna's post - Christian
 :::
 
-:::question
-Where is the data?
-:::
+[YouTube Playlist]
+[Video featuring Gabriel]
+
+## Where is the data?
+
+Open Data set?
+
+[Deanna's LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7248080204747698176)
+
+---
 
 [Kriozere](https://substack.com/app-link/post?publication_id=2685124&post_id=149615725)
 

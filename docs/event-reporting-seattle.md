@@ -3,7 +3,7 @@ title: Help us cover Seattle climate events!
 displayed_sidebar: docSidebar
 ---
 
-There are so many fantastic events going on in Seattle, **you'll never make them all**.
+There are so many [fantastic events](https://seattleclimate.tech/#meetup) going on in Seattle, **you'll never make them all**.
 
 Let us cover it for you! ✍️
 
@@ -20,14 +20,10 @@ Sign up below and **we'll reach out to see what you want included** in your spec
 
 ## Next Event
 
-<!-- - [☀️ The Burien Solar Punk Festival](#%EF%B8%8F-the-burien-solar-punk-festival-sat-aug-8) (Sat Aug 10) -->
-
-<!-- - [⚡️ PNW DERs: September Meetup](#%EF%B8%8F-pnw-ders-september-meetup-tue-sep-17) (Tue Sep 17) -->
-
 :::info Let us know what you want
 ### Write to `feedback@climatetechhandbook.com` and request an event for us to cover
 
-**[You have a lot of great options right here](https://seattleclimate.tech/)**
+[You have a lot of great options right here](https://seattleclimate.tech/#meetup)
 :::
 
 <!-- ## ☀️ The Burien Solar Punk Festival (Sat Aug 8)
@@ -44,13 +40,13 @@ Can't make it? Drop a few bucks, and we'll give you a special summary report!
 
 <a href="https://square.link/u/pGK8PWKz" class="doc-button" target="_blank" rel="noopener noreferrer">$ Contribute 🙏</a>
  -->
-## ⚡️ PNW DERs: September Meetup (Tue Sep 17)
+## ⚡️ PNW DERs: September Meetup (Wed Oct 16, 2024)
 
-### [Event Page](https://lu.ma/rtnvum09)
+### [Event Page](https://lu.ma/zgmbnhnh)
 
-Come join the PNW DER community for our September meetup! We will be providing group updates and hosting a community presentation (topic TBD).
+The Pacific Northwest is rapidly emerging as a major center for battery innovation in the U.S. The PNW Battery Collaborative invites the region’s top battery entrepreneurs, scientists, investors, and enthusiasts to connect and position the PNW as the nation's leading net-zero battery hub.
 
-![logo](https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,background=white,quality=75,width=400,height=400/event-covers/59/4d06f507-1d98-4210-924b-03d8b33bafd8)
+![logo](https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=280,height=280/event-covers/kr/122957be-4b14-44aa-9744-d77b98db1910)
 
 Can't make it? Drop a few bucks, and we'll give you a special summary report!
 
