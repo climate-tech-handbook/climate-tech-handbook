@@ -33,6 +33,9 @@ Some notable Climate Weeks:
 - [Houston Energy & Climate Week](https://climateweekhouston.com/)
 - [London Climate Action Week](https://www.londonclimateactionweek.org/)
 - [Climate Action Week - Sydney](https://www.caw.sydney)
+- [Montreal Climate Summit](https://sommetclimatmtl.com/)
+- [Chicago Climate Tech Week](https://gotechchicago.com/climateweek/)
+- [LA Climate Week](https://laclimateweek.com/)
 
 and virtual events like [Climate Career Week](https://www.climatecareerweek.org/)
 
