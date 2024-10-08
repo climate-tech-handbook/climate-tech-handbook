@@ -10,7 +10,7 @@ const darkCodeTheme = themes.dracula;
     tagline: "solving the climate crisis.",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
-    onBrokenLinks: "ignore",
+    onBrokenLinks: "warn",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/main/favicon.ico",
     organizationName: "The Climate Tech Handbook", // Usually your GitHub org/user name.
@@ -64,7 +64,7 @@ const darkCodeTheme = themes.dracula;
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
-        image: '/img/social-cover.png',
+        image: 'https://futuresoup.com/social-cover.png',
         docs: {
           sidebar: {
             hideable: true,
