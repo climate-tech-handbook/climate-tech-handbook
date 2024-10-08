@@ -27,7 +27,7 @@ This guide will help you host events on a scale of easy happy hours to a full on
 Check to see if there are existing events and organizations you are not aware of.
 
 - [Climate Tech Cities](https://www.climatetechcities.com/)
-- [MCJ Events Calendar](https://lu.ma/u/mcj), [Climate Draft Events Calendar](https://lu.ma/climatedraft-community)
+- [MCJ Events Calendar](https://lu.ma/u/mcj), [Climate Draft Events Calendar](https://lu.ma/climatedraft-community), 9Zero's [events list](https://www.notion.so/9zero/31efde2dbc50431e9bf09344fbfd7298?v=f8c3bcd309ce41c0a367d18e398dd3d3)
 - Local channels in various [Slack Communities](/level-1#core-communities), for example `#meet-seattle` in the [Work on Climate Slack](https://workonclimate.org)
 - Email newsletters and Substacks - like [the one for Seattle](https://seattle.climatetechcities.com) 
 - General climate change meetups - 350.org chapter, green drinks, etc.

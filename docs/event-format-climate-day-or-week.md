@@ -36,6 +36,7 @@ Some notable Climate Weeks:
 - [Montreal Climate Summit](https://sommetclimatmtl.com/)
 - [Chicago Climate Tech Week](https://gotechchicago.com/climateweek/)
 - [LA Climate Week](https://laclimateweek.com/)
+- [DC Climate Week](https://www.dcclimateweek.com/)
 
 and virtual events like [Climate Career Week](https://www.climatecareerweek.org/)
 
