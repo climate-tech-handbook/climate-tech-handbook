@@ -7,10 +7,10 @@ const darkCodeTheme = themes.dracula;
 (
   module.exports = {
     title: "The Climate Tech Handbook",
-    tagline: "solving the climate crisis.",
+    tagline: "Break into climate tech as quickly as possible.",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
-    onBrokenLinks: "warn",
+    onBrokenLinks: "ignore",
     onBrokenMarkdownLinks: "warn",
     favicon: "img/main/favicon.ico",
     organizationName: "The Climate Tech Handbook", // Usually your GitHub org/user name.
@@ -56,15 +56,15 @@ const darkCodeTheme = themes.dracula;
       ],
     ],
 
-    customFields: {
-      statement:
-        "Find a career you love",
-    },
+    // customFields: {
+    //   statement:
+    //     "Find a career you love",
+    // },
 
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
-        image: 'https://futuresoup.com/social-cover.png',
+        image: '/img/social-cover.png',
         docs: {
           sidebar: {
             hideable: true,
