@@ -7,7 +7,7 @@ const darkCodeTheme = themes.dracula;
 (
   module.exports = {
     title: "The Climate Tech Handbook",
-    tagline: "Break into climate tech as quickly as possible.",
+    tagline: "Break into climate tech as quickly as possible",
     url: "https://www.climatetechhandbook.com",
     baseUrl: "/",
     onBrokenLinks: "ignore",
