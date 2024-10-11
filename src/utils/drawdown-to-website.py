@@ -2,8 +2,8 @@ import os
 import pandas as pd
 
 # Load the CSV file
-csv_file_path = './data/Companies_drawdown_to_website.csv'
-md_files_directory = './docs/'  # Path to the directory containing .md files
+csv_file_path = '../../data/Companies_drawdown_to_website.csv'
+md_files_directory = '../../docs/'  # Path to the directory containing .md files
 
 df = pd.read_csv(csv_file_path)
 
