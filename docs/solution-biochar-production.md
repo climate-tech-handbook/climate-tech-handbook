@@ -21,13 +21,6 @@ Biochar production is a promising solution for carbon sequestration and soil imp
 :::
 
 ## Overview
-:::book Great articles
-- [The Guide to the Carbon Removal Hype](https://climatedrift.substack.com/p/the-guide-to-the-carbon-removal-hype) - Climate Drift
-- [Scaling Up for the Carbon Challenge: Going from Micro to Massive](https://climatedrift.substack.com/p/scaling-up-for-the-carbon-challenge) - Climate Drift
-- [A Look at Carbon Removal](https://climatedrift.substack.com/p/a-look-at-carbon-removal) - Climate Drift
-:::
-
-
 
 Biochar is a carbon-rich material produced by heating organic matter in a low-oxygen environment, a process called pyrolysis. It retains most of the carbon produced by decomposing biomass, effectively sequestering it for long periods when added to soil.
 
@@ -40,6 +33,19 @@ Significant progress has been made in biochar production methods, carbon capture
 1. Development of low-emission biochar kilns using renewable energy sources.
 2. Techniques for rapid production and utilization of agricultural waste as feedstock.
 3. Large-scale, environmentally friendly biochar production methods.
+
+
+:::info Learn More
+- [International Biochar Initiative](https://biochar-international.org/)
+- [Biochar for Climate Change Mitigation](https://www.frontiersin.org/articles/10.3389/fclim.2021.631593/full)
+- [The Biochar Solution: Carbon Farming and Climate Change](https://www.amazon.com/Biochar-Solution-Carbon-Farming-Climate/dp/0865716773)
+:::
+
+:::podcast Podcast Episodes
+- [Startup Series: Carbo Culture](https://player.simplecast.com/10b86d33-6c0b-467c-91d1-2cced2ac2d58?dark=true&wmode=opaque) — MCJ Collective
+- [From biowaste to "biogold"](https://embed.podcasts.apple.com/us/podcast/from-biowaste-to-biogold/id1593204897?i=1000565755759)
+:::
+
 
 ## Solutions by Sector
 
@@ -94,22 +100,5 @@ Significant progress has been made in biochar production methods, carbon capture
 3. Encouraging government and business investment in biochar projects.
 4. Establishing standards, certification programs, and incentives for adoption.
 5. Developing integrated systems that combine biochar production with renewable energy generation and waste management.
-
-:::info Learn More
-- [International Biochar Initiative](https://biochar-international.org/)
-- [Biochar for Climate Change Mitigation](https://www.frontiersin.org/articles/10.3389/fclim.2021.631593/full)
-- [The Biochar Solution: Carbon Farming and Climate Change](https://www.amazon.com/Biochar-Solution-Carbon-Farming-Climate/dp/0865716773)
-:::
-
-:::podcast Podcast Episodes
-- [Startup Series: Carbo Culture](https://player.simplecast.com/10b86d33-6c0b-467c-91d1-2cced2ac2d58?dark=true&wmode=opaque) — MCJ Collective
-- [From biowaste to "biogold"](https://embed.podcasts.apple.com/us/podcast/from-biowaste-to-biogold/id1593204897?i=1000565755759)
-:::
-
-:::book Additional Articles
-- [The Guide to the Carbon Removal Hype](https://climatedrift.substack.com/p/the-guide-to-the-carbon-removal-hype)
-- [Scaling Up for the Carbon Challenge: Going from Micro to Massive](https://climatedrift.substack.com/p/scaling-up-for-the-carbon-challenge)
-- [A Look at Carbon Removal](https://climatedrift.substack.com/p/a-look-at-carbon-removal)
-:::
 
 *Image credit: [vnews.com](https://www.vnews.com/Biochar-Demonstration-Offers-Alternative-to-Burn-Piles-46911424)*
