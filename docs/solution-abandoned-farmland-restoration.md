@@ -15,7 +15,9 @@ Restoring abandoned farmland offers significant potential for mitigating climate
 * [The Nature Conservancy](https://www.nature.org/) - Global conservation organization working on land and water preservation
 * [Ecosystem Restoration Camps](https://ecosystemrestorationcamps.org/) - Non-profit focused on restoring degraded landscapes worldwide
 * [Commonland](https://www.commonland.com/) - Organization dedicated to large-scale landscape restoration
-* Dendra Systems - uses drones and AI for large-scale ecosystem restoration, including abandoned farmlands:::
+* [Dendra Systems](https://dendra.io/) - uses drones and AI for large-scale ecosystem restoration, including abandoned farmlands
+
+:::
 
 ## Overview
 
