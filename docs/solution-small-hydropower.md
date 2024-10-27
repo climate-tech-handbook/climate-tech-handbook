@@ -78,6 +78,12 @@ Significant advancements have been made in small hydropower technologies:
 2. **Run-of-River Systems**: Low-impact hydropower systems that don't require large reservoirs.
 3. **Fish-Friendly Turbines**: Innovations to reduce impacts on aquatic ecosystems.
 
+:::company Company
+
+Natel Energy - see article
+[A Once-in-a-Generation Opportunity to Modernize Hydropower and Protect the Fish in Our Waters](https://newsletter.mcj.vc/p/natel-energy) - by MCJ
+:::
+
 ## Solutions by Sector
 
 ### Rural Electrification

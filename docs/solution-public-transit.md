@@ -24,8 +24,12 @@ Public transit systems are essential for reducing greenhouse gas emissions, alle
 
 In recent years, there has been a concerted effort to develop public transit systems that are more sustainable and have a smaller carbon footprint. This has led to the development of new technologies, including electric buses, solar-powered trains, and wind-powered ferries. These innovations have contributed to a significant reduction in greenhouse gas emissions from public transit systems around the world.
 
-:::info Learn More
-- [I want you for the American Climate Corps](https://climatedrift.substack.com/p/i-want-you-for-the-american-climate) - Climate Drift
+:::info Critical Goal
+The biggest benchmark from **Speed & Scale**
+
+By 2030, transition all new bus sales to zero-emission vehicles.
+
+Use their [news tracking tool](https://speedandscale.com/okrs/1-0-electrify-transportation/1-3-buses/) to track progress
 :::
 
 ## Progress Made

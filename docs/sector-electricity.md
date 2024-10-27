@@ -9,7 +9,7 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 Overhauling electricity is a critical step, and tends to be the primary climate tech focus.
 
 :::info Critical Goal
-Reach 50% zero-emissions electricity by 2025 and 90% by 2035.
+Reach 50% zero-emissions electricity by 2025 and 90% by 2035 to just 3 gigatons.
 
 Use the [Speed & Scale news tracking tool](https://speedandscale.com/okrs/2-0-decarbonize-the-grid/2-1-zero-emissions/) to monitor progress
 :::
