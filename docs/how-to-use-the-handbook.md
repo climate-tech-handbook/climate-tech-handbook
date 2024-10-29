@@ -4,25 +4,22 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-
-
-Now that it has been established why climate jobs matter and how this handbook/mini-course will aid in your finding of a climate solution and company that solves it, it is time to learn how this mini-course is set up the way it is!
-
+This Handbook is your personalized gateway into the climate tech field. As a beginner, you’re guided step-by-step, from gaining essential knowledge to building a network and landing your dream role—all within the climate tech space.
 
 ## How is this course set up?
-#### Climate Tech Handbook’s uses the Dream Climate Job System to get you to your climate tech job!
+
+#### Climate Tech Handbook’s uses the **Dream Climate Job System** to get you to your climate tech job!
 
 :::note **Dream Climate Job System:**
 
 1. **Choose a climate solution** (you will complete this in Level 2).
 2. **Select 10 companies** working on that climate solution (you will do this in Level 3).
-3. **Build your portfolio** and network (you will do this in Level 3).
-:::
+3. **Build a standout portfolio** and professional network to launch your career.(you will do this in Level 3).
+   :::
 
 Our model is loosely based on [Austin Belcak’s Dream Job System](https://cultivatedculture.com/djs-podcast/).
 
----
-
+- - -
 
 <!-- ### Desktop
 
@@ -34,38 +31,40 @@ Our model is loosely based on [Austin Belcak’s Dream Job System](https://culti
 - Use the top left hamburger menu to navigate pages
 - Use jump links within  -->
 
-
-
 ## There are 3 learning levels!
 
-**Level 1:** An introductory lesson on what climate tech is, fundamental climate knowledge you should have, and an overview of terms and commonly asked questions.
+**Level 1:** Start with a 15-minute introductory lesson to learn about the climate tech industry and essential skills for related roles.
 
-**Level 2:** Here, you will do research on select climate solutions and choose one.
+**Level 2:** Identify specific climate solutions that align with your interests.
 
-**Level 3:** Once you have a climate solution selected, you will research and choose 10 companies you are willing to work with and build your portfolio and network to increase your chances of getting a climate tech job!
+**Level 3:** Explore descriptions, job openings, companies, and podcasts related to your interests by simply clicking the links provided.\
+\
+Don’t forget to follow our [LinkedIn](https://www.linkedin.com/company/91400958) for real-time updates and industry news!
 
----
+- - -
 
+## Join Our Growing Community
 
-## Contribute
+Before selecting your learning level, remember this:
 
-Before you choose your learning level, we want you to remember this one important thing!
+This Handbook is a **community-driven, open-source project**—we welcome you to learn and contribute alongside us. Being part of an open-source project is a unique way to prove your skills, gain real-world experience, and create lasting impact.
 
-This is a community supported open source project. Contributing to an open source project is the best way to prove yourself and gain skills and experience in tech!
+How You Can Contribute: 
 
-**You can help us produce:**
+* **Content Creation**: Share insights, write guides, or update industry information.
+* **Code Contributions**: Help develop and refine features, improve accessibility, or enhance user experience.
+* **Design Assistance**: Enhance visuals, user interface, or branding.
 
-- Content
-- Code
-- Designs
+**Supporting Our Mission**\
+Every contribution, whether big or small, makes a difference. *Consider helping us financially with a small donation to sustain and grow the project.*
 
-_You can also help us financially through a small donation._
+Let’s make climate tech accessible and impactful—together!
 
 <a href="/contribute" class="doc-button">Contribute</a>
 
 <br/>
 
----
+- - -
 
 ## Task 2: Choose Your Learning Level
 
@@ -89,6 +88,3 @@ _You can also help us financially through a small donation._
     linkUrl="/level-3"
     />
 </div>
-
-
-
