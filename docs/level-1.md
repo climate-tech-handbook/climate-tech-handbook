@@ -100,9 +100,9 @@ Now that we know what climate tech is, let’s dig into what the climate tech *j
 #### **Click each drop-down menu below** to read through each frequently asked question about climate jobs.
 
 <details>
-  <summary>\*\*How well does it pay?\*\*</summary>
+  <summary>**How well does it pay?**</summary>
   
-\*\*This depends on one thing: whether the job involves working with an early stage startup, an established company, or a government agency.\*\*
+This depends on one thing: whether the job involves working with an early stage startup, an established company, or a government agency.
 
 | Startups                                                                                                   | Established companies                                                                                      | Government jobs                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -112,9 +112,9 @@ Now that we know what climate tech is, let’s dig into what the climate tech *j
 </details>
 
 <details>
-  <summary>\*\*How can I use my voice as an employee?\*\*</summary>
+  <summary>**How can I use my voice as an employee?**</summary>
   
-\*\*You can change the direction of the current company you work for to one that is involved in solving the climate crisis.\*\*
+You can change the direction of the current company you work for to one that is involved in solving the climate crisis.
 
 [Project Drawdown](https://drawdown.org/sites/default/files/210920_Drawdown_AtWork_06.pdf) is a framework and guide you can use to not only educate yourself on ways you can help the climate through your actions at work, but how to leverage your climate actions to involve your colleagues and employer.
 
@@ -127,9 +127,9 @@ Now that we know what climate tech is, let’s dig into what the climate tech *j
 <!-- Check for PDF updates periodically -->
 
 <details>
-  <summary>\*\*How do I learn the necessary skills?\*\*</summary>
+  <summary>**How do I learn the necessary skills?**</summary>
   
-\*\*You can get a climate job based on:\*\*
+**You can get a climate job based on:**
 
 1. **Marketable skills**
 2. **Domain knowledge**
@@ -144,9 +144,9 @@ Now that we know what climate tech is, let’s dig into what the climate tech *j
 </details>
 
 <details>
-  <summary>\*\*How secure are these jobs?\*\*</summary>
+  <summary>**How secure are these jobs?**</summary>
   
-\*\*It varies by job category and climate solution.\*\*
+It varies by job category and climate solution.
 
 **Depending on the job category**--whether it is a startup, established company, or a government job, security varies. Here is a [Fact Sheet](https://www.eesi.org/files/FactSheet_Climate_Jobs_2024.pdf) that details the demand for climate jobs, and which sectors have been steadily on the rise in the United States.
 
@@ -161,9 +161,9 @@ As we [continue writing the Handbook together](contribute), we will better be tr
 </details>
 
 <details>
-  <summary>\*\*How much do I need to know about climate science and politics?\*\*</summary>
+  <summary>**How much do I need to know about climate science and politics?**</summary>
   
-\*\*This depends on two things:\*\* \_The solution space and the job role\_
+This depends on two things: The solution space and the job role
 
 #### 1. The [Solution](solution) space
 
@@ -177,9 +177,9 @@ As we [continue writing the Handbook together](contribute), we will better be tr
 </details>
 
 <details>
-  <summary>\*\*How do I avoid greenwashing?\*\*</summary>
+  <summary>**How do I avoid greenwashing?**</summary>
   
-\*\*Greenwashing\*\* occurs when a company or product is presented as being more environmentally friendly than they actually are. Some examples of this can include \["embellishing claims about product ingredients, recycling efforts, carbon emissions reductions, or overall commitment to sustainability."](https://www.greenhive.io/blog/greenwashing-examples)
+Greenwashing occurs when a company or product is presented as being more environmentally friendly than they actually are. Some examples of this can include ["embellishing claims about product ingredients, recycling efforts, carbon emissions reductions, or overall commitment to sustainability."](https://www.greenhive.io/blog/greenwashing-examples)
 
 [Tech Target](https://www.techtarget.com/sustainability/post/4-tips-to-avoid-greenwashing-with-authentic-commitment) provides a guide on how to avoid greenwashing.
 
