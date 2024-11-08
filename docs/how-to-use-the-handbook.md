@@ -4,17 +4,17 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-This Handbook is your personalized gateway into the climate tech field. As a beginner, you’re guided step-by-step, from gaining essential knowledge to building a network and landing your dream role—all within the climate tech space.
+This Handbook is your personalized gateway into the climate tech field. As a beginner, you’ll be guided step-by-step—from gaining essential knowledge to building a network and landing your dream role—all within the climate tech space.
 
 ## How is this course set up?
 
-#### Climate Tech Handbook’s uses the **Dream Climate Job System** to get you to your climate tech job!
+**The Climate Tech Handbook uses the Dream Climate Job System to help you secure a climate tech job!**
 
 :::note **Dream Climate Job System:**
 
 1. **Choose a climate solution** (you will complete this in Level 2).
 2. **Select 10 companies** working on that climate solution (you will do this in Level 3).
-3. **Build a standout portfolio** and professional network to launch your career.(you will do this in Level 3).
+3. **Build a standout portfolio** and professional network to launch your career (you will do this in Level 3).
    :::
 
 Our model is loosely based on [Austin Belcak’s Dream Job System](https://cultivatedculture.com/djs-podcast/).
@@ -33,7 +33,7 @@ Our model is loosely based on [Austin Belcak’s Dream Job System](https://culti
 
 ## There are 3 learning levels!
 
-**Level 1:** Start with a 15-minute introductory lesson to learn about the climate tech industry and essential skills for related roles.
+**Level 1:** Start with a 1 hour introductory lesson to learn about the climate tech industry and essential skills for related roles.
 
 **Level 2:** Identify specific climate solutions that align with your interests.
 
@@ -47,7 +47,7 @@ Don’t forget to follow our [LinkedIn](https://www.linkedin.com/company/9140095
 
 Before selecting your learning level, remember this:
 
-This Handbook is a **community-driven, open-source project**—we welcome you to learn and contribute alongside us. Being part of an open-source project is a unique way to prove your skills, gain real-world experience, and create lasting impact.
+This Handbook is a **community-driven, open-source project**—we welcome you to learn and contribute alongside us. Being part of an open-source project is a unique way to showcase your skills, gain real-world experience, and make a lasting impact.
 
 How You Can Contribute: 
 
@@ -56,7 +56,7 @@ How You Can Contribute:
 * **Design Assistance**: Enhance visuals, user interface, or branding.
 
 **Supporting Our Mission**\
-Every contribution, whether big or small, makes a difference. *Consider helping us financially with a small donation to sustain and grow the project.*
+Every contribution, big or small, makes a difference. *Consider making a small donation to help sustain and grow the project.*
 
 Let’s make climate tech accessible and impactful—together!
 
