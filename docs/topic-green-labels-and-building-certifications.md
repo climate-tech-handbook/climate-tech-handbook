@@ -7,6 +7,8 @@ displayed_sidebar: docSidebar
 
 An ecolabel is a symbol or certification granted to products, services, or buildings that meet specific environmental criteria, indicating that they have been produced or designed with reduced environmental impact compared to similar alternatives. 
 
+![green building](/../static/img/green-building.jpg)
+
 The Environmental Protection Agency (EPA) green labels serve as a valuable tool for industries striving to demonstrate their commitment to environmental responsibility. These labels, such as the ENERGY STAR certification and the WaterSense label, signify that products, buildings, or processes meet stringent environmental performance criteria set by the EPA. Ecolabels can also be owned or managed by nonprofit environmental advocacy organizations, or private sector entities and can be used for better purchasing strategies for customers.    
 The labels below mostly focus on ecolabels for the building and chemicals industry. 
 
