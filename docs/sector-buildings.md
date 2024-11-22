@@ -35,7 +35,7 @@ Connect with [Connor Dillon](https://www.linkedin.com/in/connorjdillon/) to unde
 
 :::info
 - [A Look at Building Companies](https://www.climatedrift.com/p/a-look-at-building-companies?utm_source=%2Fsearch%2Finsulation&utm_medium=reader2)
-- [Use Toasters and Bricks to Reduce Global Emissions](https://www.climatedrift.com/p/how-to-use-toasters-and-bricks-to)
+- Retrofitting - The forgotten part of making buildings green[Climate Tech Distillery](https://www.climatetechdistillery.com/p/27-retrofitting)
 :::
 
 ## Solutions in the this Sector
