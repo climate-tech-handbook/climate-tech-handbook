@@ -10,20 +10,18 @@ import cthlogo from '/img/main/cth-earth-logo.png';
 
 ![video game pic](/img/climate-tech-level-1-mario.jpg)
 
-
-
 ## ⛳️ Introduction to Level 1
 
-**Welcome to Level 1** You are in the right place if you are _brand new to climate action_, and need a _basic overview of terms_ as well as some _questions_ that need answering.
+**Welcome to Level 1** You are in the right place if you are *brand new to climate action*, and need a *basic overview of terms* as well as some *questions* that need answering.
 
 #### Learning Objectives
 
 :::note Learning Objectives:
 
-- Be able to **define climate tech**.
-- Gain **fundamental climate knowledge**.
-- Browse **solution frameworks**.
-- Consider joining a **core community**.
+* Be able to **define climate tech**.
+* Gain **fundamental climate knowledge**.
+* Browse **solution frameworks**.
+* Consider joining a **core community**.
 
 :::
 
@@ -43,83 +41,80 @@ import cthlogo from '/img/main/cth-earth-logo.png';
 </div>
 <br/>
 
-_In Level 1_, you will read up on climate definitions, and it is _recommended_ that you read some of the articles that are linked in this level for a comprehensive background.
+*In Level 1*, you will read up on climate definitions, and it is *recommended* that you read some of the articles that are linked in this level for a comprehensive background.
 
 ## What is Climate Tech?
 
-The term "climate tech", short for climate technology, is **used in two related ways.** There is a _broad_ definition and a _Silicon Valley-style industry_ definition.
+The term "Climate Tech", short for climate technology, is **used in two related ways.** There is a *broad* definition and a *Silicon Valley-style industry* definition.
 
-| Broad Definition   | Industry Definition |
-|    --------        |      -------        |
-|Climate Tech is **any form of technology, physical or digital**, that will help people implement climate change.|Climate Tech is a **recent financial movement to invest in startup companies** that are focused on a solution to the climate emergency.
+| Broad Definition                                                                                                 | Industry Definition                                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Climate Tech is **any form of technology, physical or digital**, that will help people implement climate change. | Climate Tech is a **recent financial movement to invest in startup companies** that are focused on a solution to the climate emergency. |
 
-**They are used interchangeably at times**, but it is only a matter of one referring to a movement and the other being a physical thing that jump started the movement. The broad definition of climate tech is what we are mostly going to be using in this mini-course.
+**They are used interchangeably at times**, but it is only a matter of one referring to a movement and the other being a physical thing that jump started the movement. The **broad definition** of climate tech is what we are mostly going to be using in this mini-course.
 
 **These climate technologies are focused on:**
-- _reducing GHG_ (Greenhouse gasses - gasses in the earth’s atmosphere that trap heat) _emissions_
 
-
+* The primary goal of climate tech is to **reduce greenhouse gas (GHG) emissions**. GHGs are gases that trap heat in the Earth's atmosphere, contributing to global warming and climate change. The main sources of GHG emissions are divided into the following sectors, which we will explore in more detail later in this mini-course:
 
 **The main sources of GHG emissions are divided into the following sectors, or subcategories**, which we will go more in depth with later on in this course:
 
-1. Electricity
+1. **Electricity**: Reducing emissions from power generation, such as through the use of renewable energy sources like solar and wind.
+2. **Food, Agriculture, and Land Use**: Improving farming practices and land management to reduce emissions and enhance carbon storage.
+3. **Industry**: Implementing cleaner and more efficient manufacturing processes and using sustainable materials.
+4. **Transportation**: Transitioning to electric and low-emission vehicles and creating sustainable transportation infrastructure.
+5. **Buildings**: Increasing energy efficiency in homes and commercial buildings through improved design, insulation, and smart technologies.
 
-2. Food, Agriculture, and Land Use
-
-3. Industry
-
-4. Transportation
-
-5. Buildings
-
-
-You have probably heard of clean tech before. What is it, and is it the same thing as _climate tech_?
-
+You have probably heard of clean tech before. What is it, and is it the same thing as *climate tech*?
 
 #### What is clean tech?
 
-| Clean Tech |
-| -------- |
-|The term “clean tech”, short for clean technology, are **technologies that reduce the environmental impact that existing technologies cause**, as well as **improve the quality of natural resources**. |
-
+| Clean Tech                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The term “clean tech”, short for clean technology, are **technologies that reduce the environmental impact that existing technologies cause**, as well as **improve the quality of natural resources**. |
 
 **These clean tech technologies are focused on**:
 
-- **Reducing usage of “dirty” technologies** (coal, gas, oil, mining, transportation, manufacturing).
-- **Improving areas of natural resources**: clean water, air quality, recycling, clean energy
+* **Reducing usage of “dirty” technologies** (coal, gas, oil, mining, transportation, manufacturing).
+* **Improving areas of natural resources**: clean water, air quality, recycling, clean energy
 
-It is important to note that “clean tech” has a negative association with a failed “Clean Tech 1.0” startup period from 2006-2011. **Learn more about this here:**
-- [How VCs can avoid another bloodbath as the clean-tech boom 2.0](https://www.technologyreview.com/2020/11/30/1012660/venture-capital-clean-tech-boom-biden/)
-- [Eight lessons from the first climate boom and bust](https://www.bvp.com/atlas/eight-lessons-from-the-first-climate-tech-boom-and-bust)
+#### Historical Context: Clean Tech 1.0
 
-#### _Also, ever heard of “green tech”?_
+It’s important to recognize that the term "clean tech" carries some negative connotations due to the "Clean Tech 1.0" startup wave from 2006-2011, a period marked by heavy investments and significant failures. This history offers valuable lessons for future endeavors.
 
-Green tech is just **an umbrella term for climate tech and clean tech**. Climate tech and Clean tech _are_ green tech. Climate tech and Clean tech are different are simply different from one another, however.
+**Learn more about this period and how investors are approaching a new wave of clean tech:**
 
+* [How VCs can avoid another bloodbath as the clean-tech boom 2.0](https://www.technologyreview.com/2020/11/30/1012660/venture-capital-clean-tech-boom-biden/)
+* [Eight lessons from the first climate boom and bust](https://www.bvp.com/atlas/eight-lessons-from-the-first-climate-tech-boom-and-bust)
+
+#### *Also, ever heard of “green tech”?*
+
+Green tech is just **an umbrella term for climate tech and clean tech**. Climate tech and Clean tech *are* green tech. While they are related and often overlap, climate tech specifically focuses on addressing climate change, whereas clean tech broadly aims to reduce environmental harm and optimize resource use.
 
 ## What is a climate job like?
 
 <!--questions about IT tech, deep tech, hard tech, and trade work-->
 
-Now that we know what climate tech is, let’s dig into what the climate tech _job_ is.
+Now that we know what climate tech is, let’s dig into what the climate tech *job* is.
 
 #### **Click each drop-down menu below** to read through each frequently asked question about climate jobs.
 
 <details>
   <summary>**How well does it pay?**</summary>
   
-**This depends on one thing: whether the job involves working with an early stage startup, an established company, or a government agency.**
+This depends on one thing: whether the job involves working with an early stage startup, an established company, or a government agency.
 
-| Startups 								| Established companies | Government jobs |
-| -------- 								| --------              |--------         |
-|Tend to be paid **lower** salaries					|Tend to be paid **higher** salaries |**Lower salaries**, but offer good health care and pensions
-|More startups to choose from (**Roughly 3,000+ companies and organizations** to choose from our database).|You can work for bigger companies once you rack up **experience** and/or have great **networking skills**. | There can be a **higher level of job security, predictability, and transparency** compared to a fast moving startup environment.|
+| Startups                                                                                                   | Established companies                                                                                      | Government jobs                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Tend to be paid **lower** salaries                                                                         | Tend to be paid **higher** salaries                                                                        | **Lower salaries**, but offer good health care and pensions                                                                      |
+| More startups to choose from (**Roughly 3,000+ companies and organizations** to choose from our database). | You can work for bigger companies once you rack up **experience** and/or have great **networking skills**. | There can be a **higher level of job security, predictability, and transparency** compared to a fast moving startup environment. |
+
 </details>
 
 <details>
   <summary>**How can I use my voice as an employee?**</summary>
   
-**You can change the direction of the current company you work for to one that is involved in solving the climate crisis.**
+You can change the direction of the current company you work for to one that is involved in solving the climate crisis.
 
 [Project Drawdown](https://drawdown.org/sites/default/files/210920_Drawdown_AtWork_06.pdf) is a framework and guide you can use to not only educate yourself on ways you can help the climate through your actions at work, but how to leverage your climate actions to involve your colleagues and employer.
 
@@ -131,8 +126,6 @@ Now that we know what climate tech is, let’s dig into what the climate tech _j
 
 <!-- Check for PDF updates periodically -->
 
-
-
 <details>
   <summary>**How do I learn the necessary skills?**</summary>
   
@@ -141,87 +134,78 @@ Now that we know what climate tech is, let’s dig into what the climate tech _j
 1. **Marketable skills**
 2. **Domain knowledge**
 
-<br></br>
 | Marketable skills | Domain Knowledge |
 |       --------    |     --------     |
 |Marketable skills are skills that you bring from other jobs, such as data analysis, digital marketing, project management, UX, and more, that can be applicable and relevant to climate jobs. | Domain knowledge is the knowledge you have relating to the specific industry of climate tech.
 |If you already have marketable skills and 3+ years of tech experience, there are [plenty of jobs](https://climatetechlist.com) that have the same roles as a non-climate tech company. | If you need to gain domain knowledge on climate tech: we built the Handbook to gather the best information on [all 93 Climate Solutions](solutions) from Project Drawdown.
 
-**Need to gain experience _and_ domain knowledge?** Writing is learning. Kill two birds with one stone by **[contributing](contribute)** to The Climate Tech Handbook.
-</details>
+**Need to gain experience *and* domain knowledge?** Writing is learning. Kill two birds with one stone by **[contributing](contribute)** to The Climate Tech Handbook.
 
+</details>
 
 <details>
   <summary>**How secure are these jobs?**</summary>
   
-**It varies by job category and climate solution.**
+It varies by job category and climate solution.
 
 **Depending on the job category**--whether it is a startup, established company, or a government job, security varies. Here is a [Fact Sheet](https://www.eesi.org/files/FactSheet_Climate_Jobs_2024.pdf) that details the demand for climate jobs, and which sectors have been steadily on the rise in the United States.
 
 **Depending on the climate solution**--whether it is a more established solution or an early one, job security varies. 
 
-_For instance_, the highest anticipated growth are in automotive, power generation, and electrical efficiency.  <!--citation. MCJ Podcast??, add links to solution pages-->
+*For instance*, the highest anticipated growth are in automotive, power generation, and electrical efficiency.  <!--citation. MCJ Podcast??, add links to solution pages-->
 
-_Voluntary Carbon Markets_ started as a popular solution, but have recently been hit by a round of layoffs, due to public criticism on overstated benefits.
+*Voluntary Carbon Markets* started as a popular solution, but have recently been hit by a round of layoffs, due to public criticism on overstated benefits.
 
 As we [continue writing the Handbook together](contribute), we will better be tracking news on [Solution](solutions) viability in the marketplace.
-</details>
 
+</details>
 
 <details>
   <summary>**How much do I need to know about climate science and politics?**</summary>
   
-**This depends on two things:** _The solution space and the job role_
+This depends on two things: The solution space and the job role
 
 #### 1. The [Solution](solution) space
 
-- For example, a solution involving the [electrical](sector-electricity) grid can get quite complicated. In this case, you would need to already know or learn a lot about the science and politics that falls under this solution. 
-
+* For example, a solution involving the [electrical](sector-electricity) grid can get quite complicated. In this case, you would need to already know or learn a lot about the science and politics that falls under this solution. 
 
 #### 2. The job role
 
-- Some jobs and associated skills are more transferable than others.
-- For instance, if you are a software engineer or running people operations, the skills you developed in these roles are highly transferable in climate tech. However, if you work in sales or marketing, there is a larger learning curve, and you will need to learn the particular skills of the industry market you are looking to work in for climate tech.
+* Some jobs and associated skills are more transferable than others.
+* For instance, if you are a software engineer or running people operations, the skills you developed in these roles are highly transferable in climate tech. However, if you work in sales or marketing, there is a larger learning curve, and you will need to learn the particular skills of the industry market you are looking to work in for climate tech.
 
 </details>
 
 <details>
   <summary>**How do I avoid greenwashing?**</summary>
   
-**Greenwashing** occurs when a company or product is presented as being more environmentally friendly than they actually are. Some examples of this can include ["embellishing claims about product ingredients, recycling efforts, carbon emissions reductions, or overall commitment to sustainability."](https://www.greenhive.io/blog/greenwashing-examples)
+Greenwashing occurs when a company or product is presented as being more environmentally friendly than they actually are. Some examples of this can include ["embellishing claims about product ingredients, recycling efforts, carbon emissions reductions, or overall commitment to sustainability."](https://www.greenhive.io/blog/greenwashing-examples)
 
 [Tech Target](https://www.techtarget.com/sustainability/post/4-tips-to-avoid-greenwashing-with-authentic-commitment) provides a guide on how to avoid greenwashing.
 
 [CNN Underscored](https://www.cnn.com/cnn-underscored/home/what-is-greenwashing) also dissects ways to avoid greenwashing, as well as how to identify it in the first place.
 
-- Read and support journalism outlets such as [DeSmog](https://www.desmog.com//), [Grist](grist.org), [Inside Climate News](https://insideclimatenews.org/), [Climate Desk](climatedesk.org), [Drilled](https://drilled.media), and more.
-<!--Link to Resources, and Media Sector-->
+* Read and support journalism outlets such as [DeSmog](https://www.desmog.com//), [Grist](grist.org), [Inside Climate News](https://insideclimatenews.org/), [Climate Desk](climatedesk.org), [Drilled](https://drilled.media), and more.
+* [Tell us your findings on Slack](contribute) and we'll report on it.
 
-- [Tell us your findings on Slack](contribute) and we'll report on it.
 </details>
 
-
----
+- - -
 
 ## Fundamental Climate Knowledge
 
 :::note If you already know this
 Skip to:
-- [Solution Frameworks](#solution-frameworks)
 
-- [Core Communities](#core-communities)
-:::
-###
+* [Solution Frameworks](#solution-frameworks)
+* [Core Communities](#core-communities)
+  :::
 
 #### The 2015 Paris Agreement:
 
-The bottom line is that we are supposed to keep the global average temperature down to **1.5 degrees celsius**.
+The primary goal of the 2015 Paris Agreement is to limit the global average temperature increase to **1.5 degrees Celsius**. Achieving this target is critical to avoiding [the most severe consequences of climate change](https://www.npr.org/2021/11/08/1052198840/1-5-degrees-warming-climate-change).
 
-This would allow us to avoid [the most catastrophic impacts](https://www.npr.org/2021/11/08/1052198840/1-5-degrees-warming-climate-change).
-
-To do so, **we need to cut greenhouse pollution down 50% by 2030 and 100% by 2050.**
-
-By 2050 we need to be at "net zero".
+To meet this challenge, the world must reduce greenhouse gas emissions by **50% by 2030** and achieve **net-zero emissions by 2050**.
 
 #### 1.5 degrees versus 2 degrees celsius:
 
@@ -243,14 +227,11 @@ There are many different calculations.
 
 One [budget from the Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en/research/co2-budget.html) states:
 
-- The world is emitting roughly 42.2 gigatons of greenhouse pollution per year.
-
-- **We have roughly 995 gigatons left if we want some likelihood of staying below 2C.**
-
-- We have [250 gigatons of CO2 left](https://www.washingtonpost.com/climate-environment/2023/06/08/carbon-budget-study-climate-change/) to stay below 1.5 degrees, roughly 5 years.
+* The world is emitting roughly **42.2 gigatons** of greenhouse pollution per year.
+* To have a reasonable chance of keeping global warming under 2°C, we can only afford to emit about **995 gigatons more**.
+* We have [250 gigatons of CO2 left](https://www.washingtonpost.com/climate-environment/2023/06/08/carbon-budget-study-climate-change/) to stay below 1.5 degrees, roughly 5 years.
 
 The global standard comes from the United Nations [Intergovernmental Panel on Climate Change](https://www.ipcc.ch) (IPCC).
-
 
 #### Common myths:
 
@@ -260,13 +241,11 @@ One of the [most important myths to debunk](https://upgrader.gapminder.org/q/85)
 
 This implies that we can partially reduce emissions and keep global temperatures at a stable level.
 
-In reality, carbon dioxide persists for [hundreds of years](https://www.epa.gov/ghgemissions/overview-greenhouse-gases#CO2-references)
+In reality, **carbon dioxide remains in the atmosphere for** [hundreds of years](https://www.epa.gov/ghgemissions/overview-greenhouse-gases#CO2-references) and continues to trap heat long after emissions stop. Therefore, **we need to eliminate emissions entirely** to prevent further global warming. 
 
-**We need to cut emissions completely** to stop any further damage.
+Partial reductions simply will not work!
 
-Partial cuts will not work. 
-
----
+- - -
 
 ## Solution Frameworks
 
@@ -286,13 +265,10 @@ They calculated and ranked the highest likelihood of reducing greenhouse polluti
 
 Examples include:
 
-- Reducing food waste
-
-- Alternatives to meat
-
-- Alternative refrigerants
-
-- Family planning
+* Reducing food waste
+* Alternatives to meat
+* Alternative refrigerants
+* Family planning
 
 :::note
 The Handbook's [Solution Page](solutions) is mostly based off of Project Drawdown.
@@ -311,7 +287,9 @@ Here is Speed and Scale's [official OKR Tracker](https://speedandscale.com/track
 :::
 
 :::question
+
 #### Which framework to use?
+
 :::
 
 Both are valuable and are not mutually exclusive.
@@ -320,7 +298,7 @@ Project Drawdown has some more granular solutions, while Speed and Scale has lar
 
 Speed and Scale has a great OKR system that is time bound and uses very specific metrics to track progress.
 
----
+- - -
 
 ## Core Communities
 
@@ -330,7 +308,7 @@ Some are generalized for climate job seekers, and others are specialized toward 
 
 **Here are 3 to start with:**
 
----
+- - -
 
 #### The Climate Tech Handbook
 
@@ -354,7 +332,6 @@ The largest Slack community for climate work.
 
 25,000+ members
 
-
 #### MCJ Collective
 
 https://mcjcollective.com
@@ -375,7 +352,7 @@ They have a [great podcast here](https://www.mcjcollective.com/media/podcast)
 
 Networking strategies will be covered further in [Level 2](level-2).
 
----
+- - -
 
 ## You did it!
 
