@@ -49,7 +49,7 @@ We value:
 
 ## Team
 
-The Handbook was started by [Jacob Caggiano](https://jacobcaggiano.com).
+The Handbook was started by [Jacob Caggiano](https://www.jacobcaggiano.com).
 
 We are made possible by our [Advisory Board](#advisory-board) and an active community of [Contributors](../contribute)
 
