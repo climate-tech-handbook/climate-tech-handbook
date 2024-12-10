@@ -30,6 +30,8 @@ Some notable Climate Weeks:
 - [Climate Week NYC](https://www.climateweeknyc.org/)
 - [SF Climate Week](https://www.sfclimateweek.org/)
 - [PNW Climate Week](https://www.pnwclimateweek.org/)
+- [Chicago Climate Tech Week](https://gotechchicago.com/climateweek/)
+- [DC Climate Week](https://www.dcclimateweek.com/)
 - [Houston Energy & Climate Week](https://climateweekhouston.com/)
 - [London Climate Action Week](https://www.londonclimateactionweek.org/)
 - [Climate Action Week - Sydney](https://www.caw.sydney)

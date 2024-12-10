@@ -4,10 +4,9 @@ displayed_sidebar: docSidebar
 # hide_table_of_contents: false
 ---
 
-## Sector Overview
+While health and education may not directly influence the physical mechanisms of climate change, they can contribute to building resilience, promoting sustainable practices, and fostering informed decision-making.
 
-:::tip 68.9 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
-:::
+## Sector Overview
 
 ![](/../static/img/healthy-lifestyle.jpg)
 
@@ -15,14 +14,4 @@ displayed_sidebar: docSidebar
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Research+%26+Education&p=0&remote=false)
 :::
 
-While health and education may not directly influence the physical mechanisms of climate change, they can contribute to building resilience, promoting sustainable practices, and fostering informed decision-making.
-
-Examples:
-
-* Reduce, reuse, repair & recycle
-
-* Low-carbon lifestyle
-
-## Solutions in this Sector
-
-* [Family Planning and Education](../solution-family-planning-and-education)
+Project Drawdown lists [Family Planning and Education](../solution-family-planning-and-education) as a critical solution to the climate crisis.

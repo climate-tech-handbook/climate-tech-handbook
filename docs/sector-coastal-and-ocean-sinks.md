@@ -24,7 +24,10 @@ Use their [news tracking tool](https://speedandscale.com/okrs/4-0-protect-nature
 ![](/../static/img/coastal-and-ocean-sinks.png)
 
 :::company Job openings
-### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Coastal+%26+Ocean+Sinks&p=0&remote=false)
+### [View open jobs on the Schmidt Marine Job Board](https://jobs.schmidtmarine.org/jobs)
+
+### [View open jobs on ClimateBase](https://climatebase.org/jobs?l=&q=&sectors=Transportation&p=0&remote=false)
+
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
 :::

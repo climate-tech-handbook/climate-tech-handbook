@@ -7,9 +7,15 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 ## Sector Overview
 
-:::tip 1.4–3 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
-:::
+There are plenty of startups working to engineer non-nature solutions to capture carbon.
 
+However, Project Drawdown has only assessed biochar, which is ready today and its feasible to scale.
+
+<!-- :::tip Impact Goal
+1.4–3 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
+>>>>>>> Stashed changes
+:::
+ -->
 ![Biochar use cases for climate change mitigation](/../static/img/biochar-production.jpg)
 
 :::company Job openings
@@ -20,6 +26,7 @@ Then come back to learn more about this [Solution](#solutions-in-this-sector)
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
 
+<<<<<<< Updated upstream
 There are plenty of startups working to engineer solutions to capture carbon beyond [Land Sinks](sector-land-sinks) or [Coastal and Ocean Sinks](sector-coastal-and-ocean-sinks)
 
 Keep in mind that some of these solutions are hotly debated for various reason.

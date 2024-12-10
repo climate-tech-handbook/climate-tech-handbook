@@ -65,7 +65,7 @@ Important organizations:
 
 :::contribute Join
 - DER Task Force: [on Slack](https://dertaskforce.slack.com/join/shared_invite/zt-21a4npous-I6REKJMdbpLNeRJT5RM2RA#/shared-invite/email) and their [Website](https://www.dertaskforce.com/p/resources)
-- Solar Punk [on Reddit]((https://www.reddit.com/r/solarpunk/))
+- Solar Punk [on Reddit](https://www.reddit.com/r/solarpunk/)
 :::
 
 ## Solutions in this Sector

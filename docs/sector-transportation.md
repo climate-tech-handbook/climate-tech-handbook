@@ -8,6 +8,8 @@ Tags:
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
+The invention of fossil fuels revolutionized transportation. Now it's up to us to revolutionize it again with zero emitting vehicles and infrastructure.
+
 ## Sector Overview
 
 :::tip Emission Reduction
