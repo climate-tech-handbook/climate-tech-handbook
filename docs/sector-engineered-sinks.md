@@ -13,7 +13,6 @@ However, Project Drawdown has only assessed biochar, which is ready today and it
 
 <!-- :::tip Impact Goal
 1.4–3 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
->>>>>>> Stashed changes
 :::
  -->
 ![Biochar use cases for climate change mitigation](/../static/img/biochar-production.jpg)
@@ -26,7 +25,6 @@ Then come back to learn more about this [Solution](#solutions-in-this-sector)
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::
 
-<<<<<<< Updated upstream
 There are plenty of startups working to engineer solutions to capture carbon beyond [Land Sinks](sector-land-sinks) or [Coastal and Ocean Sinks](sector-coastal-and-ocean-sinks)
 
 Keep in mind that some of these solutions are hotly debated for various reason.

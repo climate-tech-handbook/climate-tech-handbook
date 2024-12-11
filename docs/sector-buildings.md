@@ -9,9 +9,9 @@ Buildings account for nearly 40% of global energy consumption and around one-thi
 
 ## Sector Overview
 
-:::tip Impact Goal
+<!-- :::tip Impact Goal
 72-144.3 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
-:::
+::: -->
 
 ![](/../static/img/buildings.jpg)
 
@@ -19,6 +19,8 @@ Buildings account for nearly 40% of global energy consumption and around one-thi
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Buildings&p=0&remote=false)
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
+
+*[See Example Companies](https://www.climatetechlist.com/search/vertical/BuiltEnvironment)*
 
 <!--This is the best strategy to accelerate your expertise as a top candidate-->
 :::

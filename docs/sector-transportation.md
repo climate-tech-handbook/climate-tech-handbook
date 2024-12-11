@@ -10,11 +10,11 @@ import ImageCard from '../src/components/ImageCard/ImageCard';
 
 The invention of fossil fuels revolutionized transportation. Now it's up to us to revolutionize it again with zero emitting vehicles and infrastructure.
 
-## Sector Overview
-
-:::tip Emission Reduction
+<!-- :::tip Emission Reduction
 61.7–88.4 Gigatons will be saved from our [carbon budget](/glossary/#carbon-budget)
-:::
+::: -->
+
+## Sector Overview
 
 ![](/../static/img/transportation.jpeg)
 
@@ -23,7 +23,7 @@ The invention of fossil fuels revolutionized transportation. Now it's up to us t
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
 
-<!--This is the best strategy to accelerate your expertise as a top candidate-->
+*[See Example Companies](https://www.climatetechlist.com/search/vertical/Transportation)*
 :::
 
 ## Resources:

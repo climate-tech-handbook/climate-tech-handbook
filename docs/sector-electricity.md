@@ -24,6 +24,8 @@ Use the [Speed & Scale news tracking tool](https://speedandscale.com/okrs/2-0-de
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Energy&p=0&remote=false)
 
 Then come back to learn more about a specific [Solution](#solutions-in-this-sector) in the Energy Sector
+
+[See Example Companies](https://www.climatetechlist.com/search/vertical/CleanEnergy)
 :::
 
 In addition to scaling new technologies, there are unique challenges such as:
@@ -59,6 +61,7 @@ Important organizations:
 
 :::expert Organization:
 - [Rewiring America](https://www.rewiringamerica.org)
+- [RMI](https://rmi.org)
 :::
 
 ## Example Communities:

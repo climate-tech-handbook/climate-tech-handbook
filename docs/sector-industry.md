@@ -21,6 +21,8 @@ Below are the primary industries that cause the most emissions and make the best
 ### [View open jobs in this Sector](https://climatebase.org/jobs?l=&q=&sectors=Materials+%26+Manufacturing&p=0&remote=false)
 
 Then come back to learn more about each [Solution](#solutions-in-this-sector)
+
+*[See Example Companies](https://www.climatetechlist.com/search/vertical/Industrials)*
 :::
 
 :::newsletter a great newsletter
