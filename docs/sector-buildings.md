@@ -28,10 +28,10 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 :::contribute Community
 Meet people in the *[#learn-built-environment](https://app.slack.com/client/T017M28BLSG/C033K3U1ZQR)* channel - [Work on Climate Slack](https://workonclimate.org)
 :::
-
+<!-- 
 :::expert
 Connect with [Connor Dillon](https://www.linkedin.com/in/connorjdillon/) to understand building code adoption
-:::
+::: -->
 
 ## Resources:
 
