@@ -35,9 +35,9 @@ Connect with [Connor Dillon](https://www.linkedin.com/in/connorjdillon/) to unde
 
 ## Resources:
 
-:::info
-- [A Look at Building Companies](https://www.climatedrift.com/p/a-look-at-building-companies?utm_source=%2Fsearch%2Finsulation&utm_medium=reader2)
-- Retrofitting - The forgotten part of making buildings green[Climate Tech Distillery](https://www.climatetechdistillery.com/p/27-retrofitting)
+:::info Resources
+- A Look at Building Companies - [Climate Drift](https://www.climatedrift.com/p/a-look-at-building-companies?utm_source=%2Fsearch%2Finsulation&utm_medium=reader2)
+- Retrofitting - The forgotten part of making buildings green - [Climate Tech Distillery](https://www.climatetechdistillery.com/p/27-retrofitting)
 :::
 
 ## Solutions in the this Sector
