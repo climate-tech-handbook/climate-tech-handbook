@@ -3,6 +3,7 @@ title: Bioplastics
 displayed_sidebar: docSidebar
 pagination_prev: solutions
 ---
+import ImageCard from '../src/components/ImageCard/ImageCard';
 
 Bioplastics are made from renewable sources and offer a sustainable alternative to traditional fossil fuel-based plastics. They are recyclable, compostable, and help reduce landfill emissions.
 
@@ -19,23 +20,31 @@ Bioplastics are made from renewable sources and offer a sustainable alternative 
 - [Biome Bioplastics](https://www.biomebioplastics.com) - Develops high-performance bioplastics for packaging and other uses.
 :::
 
-:::info Resources
-- [Great overview by Climate Tech Distillery](https://www.climatetechdistillery.com/p/19-bioplastics)
-:::
-
 ## Overview
-:::book Great articles
+:::book Great Article
 - [Bioplastics: Solving the huge plastic pollution problem](https://www.climatetechdistillery.com/p/19-bioplastics) - Climate Tech Distillery
-- [Shloop is The Sustainable Footwear Manufacturer of The Future](https://warminguptoclimatetech.substack.com/p/shloop-sustainable-footwear) - Warming Up to Climate Tech
-- [Fabulose’s New Vegan Leather is Climate Friendly and Durable](https://warminguptoclimatetech.substack.com/p/fabuloses-new-vegan-leather-is-climate) - Warming Up to Climate Tech
 :::
-
-
 
 - **Bioplastics** are made from renewable sources such as corn and sugar cane, replacing fossil fuel-based plastics.
 - They are **recyclable**, **compostable**, and help curb landfill emissions.
 - Companies leading bioplastics development include NatureWorks, BASF, and Dow Chemical.
 - Organizations like the **Biodegradable Products Institute** promote bioplastics and certify compostable products.
+
+There are several examples of sustainable materials:
+
+<div style={{ display: 'flex', flexWrap: 'wrap'}}>
+    <ImageCard
+    title="Bloom Footwear"
+    description="Turning harmful algae blooms into eco-friendly shoes"
+    imageUrl="/img/bloom-footwear.png"
+    linkUrl="/company-bloom-footwear"
+    />
+</div>
+
+- [Shloop is The Sustainable Footwear Manufacturer of The Future](https://warminguptoclimatetech.substack.com/p/shloop-sustainable-footwear) - Warming Up to Climate Tech
+- [Fabulose’s New Vegan Leather is Climate Friendly and Durable](https://warminguptoclimatetech.substack.com/p/fabuloses-new-vegan-leather-is-climate) - Warming Up to Climate Tech
+
+
 
 :::podcast Podcast episode
 
