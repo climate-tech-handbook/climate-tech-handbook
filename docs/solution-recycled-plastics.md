@@ -13,6 +13,11 @@ Recycled plastics play a crucial role in reducing greenhouse gas emissions, cons
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Recycled+Plastics)
 #### Example Companies
+- [Resynergi](https://www.climatetechlist.com/company/resynergi) - Resynergi focuses on the global problem of waste plastics.
+- [Pyrowave](https://www.climatetechlist.com/company/pyrowave) - Pyrowave closes the loop of polymer lifecycle by bringing plastic waste back to life.
+- [Infinited Fiber Company](https://www.climatetechlist.com/company/infinited-fiber-company) - Infinited Fiber Company is on a mission to make circular fashion and textiles an everyday reality
+- [Gen Phoenix](https://www.climatetechlist.com/company/gen-phoenix) - Gen Phoenix recycles materials to produce advanced upholstery and cladding materials.
+- [Blocktexx](https://www.climatetechlist.com/company/blocktexx) - BlockTexx is a clean technology company that recovers polyester and cellulose from textiles and clothing.
 - [Banyan Nation](https://www.banyannation.com) - Unlocking the circular economy and the market for premium recycled plastics in India.
 - [Loop Industries](https://www.loopindustries.com) - Pioneering plastics recycling into virgin-quality materials.
 - [Green Dot Bioplastics](https://www.greendotbioplastics.com) - Develops biodegradable and compostable plastics.

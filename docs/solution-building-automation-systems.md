@@ -13,6 +13,11 @@ These systems use sensors, controllers, and software to monitor and manage build
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Building+Automation+Systems)
 #### Example Companies
+- [PassiveLogic](https://www.climatetechlist.com/company/passivelogic) - PassiveLogic is engineering an autonomous controls platform for buildings, leveraging physics-based digital twins, generative autonomy, cutting-edge sensors, and more.
+- [Beebryte](https://www.climatetechlist.com/company/beebryte) - Predictive HVAC Control Software for Smarter Buildings & Factories
+- [Zen Ecosystems](https://www.climatetechlist.com/company/zen-ecosystems) - Zen Ecosystems provides intelligent energy management solutions to businesses and consumers.
+- [SmartAC.com](https://www.climatetechlist.com/company/smartaccom) - SmartAC.com is digitizing the HVAC industry to perfect the experience of home comfort.
+- [Infogrid](https://www.climatetechlist.com/company/infogrid) - Infogrid is an AI technology company that automates building management.
 - [SmartAC.com](https://smartac.com) - SmartAC.com is digitizing the HVAC industry to perfect the experience of home comfort.
 - [Bluon](https://bluon.com) - Bluon is a mobile app & support platform utilized by one third of all HVAC techs in the U.S.
 - [Johnson Controls](https://www.johnsoncontrols.com) - Leading provider of BAS solutions.

@@ -13,6 +13,9 @@ _Image from [Bloomberg Green](https://www.bloomberg.com/sponsors/jll/seven-ways-
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Building+Retrofitting)
 
 #### Example Companies
+- [BlocPower](https://www.climatetechlist.com/company/blocpower) - Software for financing, designing, and planning clean energy building retrofits.
+- [Enerbrain](https://www.climatetechlist.com/company/enerbrain) - Enerbrain turns wasteful buildings into smarter, healthier & more sustainable ones with an innovative IoT energy retrofit solution.
+- [enVerid Systems](https://www.climatetechlist.com/company/enverid-systems) - enVerid provides indoor air quality and HVAC energy-saving technologies for commercial buildings.
 
 - [enVerid Systems](https://enverid.com) - enVerid provides indoor air quality and HVAC energy-saving technologies for commercial buildings.
 - [Enerbrain](https://www.enerbrain.com) - Enerbrain turns wasteful buildings into smarter, healthier & more sustainable ones with an innovative IoT energy retrofit solution.

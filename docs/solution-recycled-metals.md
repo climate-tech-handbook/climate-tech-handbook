@@ -13,6 +13,9 @@ Recycling metals is a crucial strategy for reducing greenhouse gas emissions, co
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Recycled+Metals)
 #### Example Companies
+- [Mint Innovation](https://www.climatetechlist.com/company/mint-innovation) - Developing a biometallurgical processes that use microbes to capture value from metal waste streams while mitigating environmental harm.
+- [Nth Cycle](https://www.climatetechlist.com/company/nth-cycle) - Nth Cycle is a metal processing technology company working with battery recyclers and miners to recover production-grade critical minerals.
+- [Noveon Magnetics](https://www.climatetechlist.com/company/noveon-magnetics) - Noveon Magnetics develops a proprietary Magnet-to-Magnet recycling process.
 - [Greencopper](https://www.greencopper.com) - Develops sustainable recycling technologies.
 - [Recycling Technologies](https://www.recyclingtechnologies.co.uk) - Innovates in recycling processes for various materials.
 - [Ecometals Technologies](https://www.ecometals.com) - Innovates in metal recycling processes.

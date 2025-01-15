@@ -13,6 +13,9 @@ Electric bicycles (e-bikes) are an eco-friendly transportation solution that com
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Bicycles)
 #### Example Companies
+- [Immotor](https://www.climatetechlist.com/company/immotor) - Immotor develops and sells portable and personal transport systems.
+- [ZEWAY](https://www.climatetechlist.com/company/zeway) - ZEWAY is a developer of mobility solution intended to help people switch to electric scooters for mobility.
+- [Xingxing Mobility](https://www.climatetechlist.com/company/xingxing-mobility) - Xingxing Mobility is an app that offers an electric kickboard sharing service.
 - [Electric Bike Company](https://electricbikecompany.com) - Manufactures high-quality electric bicycles for various uses.
 - [Bosch eBike Systems](https://www.bosch-ebike.com) - Provides innovative drive systems for electric bicycles.
 - [Shimano](https://bike.shimano.com) - Develops advanced components for electric bicycles.

@@ -11,6 +11,7 @@ High-performance glass technologies play a crucial role in improving energy effi
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=High-Performance+Glass)
 #### Example Companies
+- [Ubiquitous Energy](https://www.climatetechlist.com/company/ubiquitous-energy) - Ubiquitous Energy makes transparent solar technology for windows, electronics, and other applications.
 - [Pilkington](https://www.pilkington.com) - Develops innovative glass products for various applications.
 - [Saint-Gobain](https://www.saint-gobain.com) - Produces high-performance materials including advanced glass solutions.
 - [Guardian Industries](https://www.guardianglass.com) - Manufactures high-performance glass for commercial and residential use.

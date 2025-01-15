@@ -13,6 +13,7 @@ Microgrids are localized energy systems that generate, distribute, and store ele
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Microgrids)
 #### Example Companies
+- [Nuru](https://www.climatetechlist.com/company/nuru) - Nuru is a renewable and environment company that specializes in the fields of storage micro-grids and solar energy.
 - [Schneider Electric](https://www.se.com/ww/en/work/solutions/microgrids/) - Provides microgrid solutions for various applications.
 - [Siemens](https://new.siemens.com/global/en/products/energy/topics/microgrids.html) - Offers microgrid control systems and integration services.
 - [ABB](https://new.abb.com/distributed-energy-microgrids) - Develops microgrid solutions for remote communities and industrial applications.

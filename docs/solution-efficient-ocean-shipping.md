@@ -12,6 +12,9 @@ Efficient ocean shipping technologies aim to reduce the environmental impact of 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Efficient+Ocean+Shipping)
 #### Example Companies
+- [Norsepower Oy](https://www.climatetechlist.com/company/norsepower-oy) - Norsepower Oy is a clean technology and engineering company pioneering the generation of renewable wind energy.
+- [Ayro](https://www.climatetechlist.com/company/ayro) - Ayro is a shipping wind power company which designs and delivers wind propulsion systems such as Oceanwings, for maritime transport.
+- [ZeroNorth](https://www.climatetechlist.com/company/zeronorth) - ZeroNorth is a Clean Tech company that is using data connected on a digital platform to support shipping's decarbonisation.
 - [Maersk](https://www.maersk.com) - Leading shipping company committed to reducing its carbon footprint through innovative technologies.
 - [CMA CGM](https://www.cma-cgm.com) - Global shipping company focusing on sustainable practices and alternative fuels.
 - [Wärtsilä](https://www.wartsila.com) - Provides advanced technologies and lifecycle solutions for the marine and energy markets.

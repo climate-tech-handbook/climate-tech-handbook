@@ -13,6 +13,7 @@ Macroalgae, including seaweeds, play a crucial role in carbon sequestration and 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Macroalgae+Protection+and+Restoration)
 #### Example Companies
+- [Sea6 Energy](https://www.climatetechlist.com/company/sea6-energy) - Sea6 Energy is a platform that utilizes the unlimited potential of the oceans in a sustainable and ethical way.
 - [Ocean Rainforest](https://www.oceanrainforest.com) - Cultivates seaweed for food, feed, and bio-based materials.
 - [GreenWave](https://www.greenwave.org) - Promotes regenerative ocean farming.
 - [Acadian Seaplants](https://www.acadianseaplants.com) - Develops seaweed-based products for agriculture and food.

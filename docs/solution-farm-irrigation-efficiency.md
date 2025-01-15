@@ -12,6 +12,7 @@ Farm irrigation efficiency technologies aim to optimize water use in agriculture
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Farm+Irrigation+Efficiency)
 #### Example Companies
+- [N-drip](https://www.climatetechlist.com/company/n-drip) - N-Drip is an agritech company that develops gravity micro-irrigation system to reduce water use in agriculture.
 - [Aquaspy](https://www.aquaspy.com) - Develops soil moisture sensors and irrigation management solutions.
 - [N-drip](https://www.ndrip.com) - Develops gravity micro-irrigation systems to reduce water use in agriculture.
 - [Netafim](https://www.netafim.com) - Specializes in precision irrigation systems.

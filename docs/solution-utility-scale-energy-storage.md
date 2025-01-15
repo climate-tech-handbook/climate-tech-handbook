@@ -13,6 +13,10 @@ Utility-scale energy storage involves large-scale storage systems that capture e
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Utility-Scale+Energy+Storage)
 #### Example Companies
+- [H2](https://www.climatetechlist.com/company/h2) - H2 is a Korea-based advanced energy storage company specialized in vanadium redox flow battery.
+- [UniEnergy Technologies](https://www.climatetechlist.com/company/unienergy-technologies) - UniEnergy Technologies is a produces large-scale energy storage systems
+- [Rongke Power](https://www.climatetechlist.com/company/rongke-power) - Rongke Energy Storage is a vanadium redox flow battery energy storage system service provider.
+- [On.Energy](https://www.climatetechlist.com/company/onenergy) - On.Energy is an energy storage developer that offers AI-powered energy management software and in-house analytics for grid-scale projects.
 - [Tesla](https://www.tesla.com) - Develops large-scale battery storage systems like the Tesla Powerpack and Megapack.
 - [NextEra Energy](https://www.nexteraenergy.com) - Implements utility-scale energy storage projects across the U.S.
 - [Fluence](https://www.fluenceenergy.com) - Provides energy storage technology and services for utilities and commercial customers.

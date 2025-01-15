@@ -18,6 +18,11 @@ A common term that you'll hear is DER (Distributed Energy Resources).
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Grid+Flexibility)
 #### Example Companies
+- [Ampacimon](https://www.climatetechlist.com/company/ampacimon) - Ampacimon develops dynamic line rating systems for transmission and distribution systems operators.
+- [Vizimax](https://www.climatetechlist.com/company/vizimax) - Vizimax manufactures automation systems for grid modernization products, making the electric grid more efficient with less network outages.
+- [DEPsys](https://www.climatetechlist.com/company/depsys) - DEPsys is a technology company that delivers solutions enabling traditional low-voltage electricity networks.
+- [Piclo](https://www.climatetechlist.com/company/piclo) - Piclo develops software to make electricity grids smart, flexible and sustainable.
+- [Leap](https://www.climatetechlist.com/company/leap) - Distributed energy resource aggregation software / virtual power plant software.
 - [Voltus](https://voltus.co) - Provides demand response software to optimize energy use.
 - [Autogrid](https://www.auto-grid.com) - Offers flexibility management applications for the energy industry.
 - [Enbala](https://www.enbala.com) - Develops smart grid solutions for real-time energy management.

@@ -13,6 +13,7 @@ Biochar production is a promising solution for carbon sequestration and soil imp
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biochar+Production)
 #### Example Companies
+- [Airex Energy](https://www.climatetechlist.com/company/airex-energy) - Airex Energy has successfully developed an exciting new technology for biomass torrefaction.
 - [Carbo Culture](https://carboculture.com/) - Develops technology to convert biomass into stable biochar for carbon removal.
 - [The Bioeconomy Institute Carbon Removal](https://www.biorenew.iastate.edu/) - $1 million XPrize winning team that developed small and large-scale pyrolyzers for biochar production.
 - [Pacific Biochar](https://pacificbiochar.com/) - Produces high-quality biochar from waste biomass for agricultural and environmental applications.

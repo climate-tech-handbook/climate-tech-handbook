@@ -11,6 +11,7 @@ Electric cars are becoming increasingly popular as people look for ways to reduc
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Electric+Cars)
 #### Example Companies
+- [Tau Group](https://www.climatetechlist.com/company/tau-group) - E-mobility, Sustainable Manufacturing, Advanced Materials, Cleantech, Electrification, Decarbonization
 - [ev.energy](https://ev.energy/) - Provides smart charging solutions for electric vehicles to optimize energy use.
 - [EdgeEnergy](https://www.edgeenergyev.com/) - Develops innovative EV charging infrastructure.
 - [Zoox](https://zoox.com/) - Focuses on autonomous electric vehicles for urban mobility.

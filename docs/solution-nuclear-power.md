@@ -13,6 +13,8 @@ Nuclear power is a clean and efficient means of generating electricity, free fro
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Nuclear+Power)
 #### Example Organizations
+- [First Light Fusion](https://www.climatetechlist.com/company/first-light-fusion) - First Light Fusion is an energy company that focuses on researching energy generation by inertial confinement fusion.
+- [Zap Energy](https://www.climatetechlist.com/company/zap-energy) - Compact fusion energy, no magnets required.
 - [U.S. Department of Energy](https://www.energy.gov) - Oversees nuclear energy research and development.
 - [Nuclear Regulatory Commission](https://www.nrc.gov) - Regulates commercial nuclear power plants and other uses of nuclear materials.
 - [World Nuclear Association](https://www.world-nuclear.org) - Promotes nuclear power and supports the nuclear energy industry.
