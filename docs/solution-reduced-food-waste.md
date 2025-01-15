@@ -19,7 +19,9 @@ Join the discussion in the *[#learn-food-waste](https://workonclimate.slack.com/
 
 :::company job openings
 ### [View open jobs in Reduced Food Waste](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Reduced+Food+Waste)
-#### Example Companies:
+#### Example Companies
+- [Afresh](https://www.climatetechlist.com/company/afresh) - Software to forecast demand and manage orders, inventory and operations for fresh produce in grocery stores.
+- [Mill](https://www.climatetechlist.com/company/mill) - Consumer food dehydrator and accompanying processing service to reclaim residential food waste as chicken feed.:
 - [Strella](https://www.strellabiotech.com) - food monitoring censors that can do things like predict fruit/veggie ripening
 - [Mill](https://www.mill.com) - Consumer food dehydrator and accompanying processing service to reclaim residential food waste as chicken feed.
 - [Afresh](https://www.afresh.com) - Uses AI to reduce food waste and increase profits in the fresh food supply chain.

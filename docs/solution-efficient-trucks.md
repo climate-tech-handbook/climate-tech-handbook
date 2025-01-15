@@ -11,6 +11,8 @@ Efficient truck technologies aim to reduce the environmental impact of freight t
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Efficient+Trucks)
 #### Example Companies
+- [Volta Trucks](https://www.climatetechlist.com/company/volta-trucks) - Volta Trucks is an automotive company offering electric trucks for sustainable cities.
+- [Effenco](https://www.climatetechlist.com/company/effenco) - Effenco is an autotech company specializing in heavy-duty vehicle electrification and connected mobility for the transport industry.
 - [Tesla](https://www.tesla.com/semi) - Developing electric semi-trucks with long-range capabilities.
 - [Nikola Motors](https://nikolamotor.com) - Specializes in hydrogen-electric trucks.
 - [Rivian](https://rivian.com) - Produces electric delivery vans and trucks.

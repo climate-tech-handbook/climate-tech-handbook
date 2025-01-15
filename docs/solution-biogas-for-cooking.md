@@ -12,6 +12,7 @@ Biogas for cooking is a sustainable solution that converts organic waste into cl
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Biogas+for+Cooking)
 #### Example Companies
+- [Atec Biodigesters](https://www.climatetechlist.com/company/atec-biodigesters) - ATEC Biodigesters is an Australian-Cambodian social enterprise that produces small-scale biodigester system for rural Cambodian households.
 - [Sistema.bio](https://sistema.bio) - Provides biodigesters that convert organic waste into biogas and biofertilizer.
 - [HomeBiogas](https://www.homebiogas.com) - Develops small-scale biogas systems for households and small farms.
 - [Biogas Engineering](https://www.biogasengineering.com) - Specializes in the design and construction of biogas plants.

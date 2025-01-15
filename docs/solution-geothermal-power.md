@@ -15,6 +15,7 @@ Geothermal power harnesses the Earth's heat to generate electricity, providing a
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Geothermal+Power)
 #### Example Companies
+- [Eavor](https://www.climatetechlist.com/company/eavor) - Eavor is a technology-based energy company that provides a clean, carbon-neutral, scalable, baseload power solution.
 - [AltaRock Energy](https://www.altarockenergy.com) - Develops enhanced geothermal systems (EGS) for efficient heat capture.
 - [Ormat Technologies](https://www.ormat.com) - Specializes in geothermal and recovered energy generation.
 - [Davenport Newberry Holdings](https://www.davenportnewberry.com) - Focuses on geothermal energy projects.

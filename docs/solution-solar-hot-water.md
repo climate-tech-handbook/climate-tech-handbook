@@ -13,6 +13,7 @@ Solar hot water systems use solar energy to heat water for domestic use, reducin
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Solar+Hot+Water)
 #### Example Companies
+- [Naked Energy](https://www.climatetechlist.com/company/naked-energy) - Naked Energy has developed an innovative hybrid solar technology generating combined heat and power.
 - [SolarReserve](https://www.solarreserve.com) - Develops solar thermal power projects.
 - [SolarCity](https://www.solarcity.com) - Provides solar energy services, including solar hot water systems.
 - [Viessmann](https://www.viessmann-us.com) - Manufactures solar thermal systems for domestic hot water and space heating.

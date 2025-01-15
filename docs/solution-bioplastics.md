@@ -12,6 +12,8 @@ Bioplastics are made from renewable sources and offer a sustainable alternative 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Bioplastics)
 #### Example Companies
+- [Xampla](https://www.climatetechlist.com/company/xampla) - Xampla develops natural, biodegradable materials as sustainable alternatives to traditional plastics.
+- [TripleW Ltd.](https://www.climatetechlist.com/company/triplew-ltd) - TripleW upcycles food waste into high-demand, high-value lactic acid, the building block of PLA bioplastics.
 - [NatureWorks](https://www.natureworksllc.com) - Produces Ingeo™ biopolymer from renewable plant materials.
 - [BASF](https://www.basf.com) - Develops a range of bioplastics for various applications.
 - [Novamont](https://www.novamont.com) - Specializes in producing bioplastics from renewable sources like corn starch.

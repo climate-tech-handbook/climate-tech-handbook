@@ -11,6 +11,7 @@ Carpooling is a sustainable transportation solution that reduces individual car 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Carpooling)
 #### Example Companies
+- [Scoop Technologies](https://www.climatetechlist.com/company/scoop-technologies) - Scoop brings commuters together in convenient carpools by partnering with their employers.
 - [BlaBlaCar](https://www.blablacar.com/) - Long-distance carpooling platform connecting drivers with empty seats to passengers looking for a ride.
 - [Waze Carpool](https://www.waze.com/carpool/) - Ride-sharing service that connects drivers and passengers with similar routes.
 - [Scoop](https://www.takescoop.com/) - Enterprise carpooling solution for commuters.

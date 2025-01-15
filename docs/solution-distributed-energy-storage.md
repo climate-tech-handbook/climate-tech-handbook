@@ -11,6 +11,11 @@ Distributed Energy Storage is a crucial component in the transition to a cleaner
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Distributed+Energy+Storage)
 #### Example Companies
+- [ConnectDER](https://www.climatetechlist.com/company/connectder) - ConnectDER make products that integrate power and data from residential scale DERs into the grid.
+- [Swell Energy](https://www.climatetechlist.com/company/swell-energy) - Swell Energy is a home energy company that provides smart grid and energy management solutions for homeowners and businesses.
+- [RedEarth Energy Storage](https://www.climatetechlist.com/company/redearth-energy-storage) - RedEarth Energy Storage is a professional energy storage company that offers systems to suit every client
+- [Cygni Energy](https://www.climatetechlist.com/company/cygni-energy) - Cygni Energy is a manufacturer of energy storage devices for commercial and institutional customers.
+- [Span](https://www.climatetechlist.com/company/span) - Smart electrical panels to enable homes to get clean energy, faster, cheaper, and more easily.
 - [Tesla](https://www.tesla.com/powerwall) - Powerwall for home energy storage
 - [Stem](https://www.stem.com/) - AI-driven energy storage solutions
 - [Fluence](https://fluenceenergy.com/) - Advanced energy storage technology and services

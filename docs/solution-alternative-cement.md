@@ -11,6 +11,7 @@ Alternative cement technologies are essential for reducing the carbon footprint 
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Alternative+Cement)
 #### Example Companies
+- [Biomason](https://www.climatetechlist.com/company/biomason) - Biomason is a developer of a building materials technology that employs natural microorganisms to grow bio cement in ambient temperatures.
 - [Terra CO2 Technologies](https://terraco2.com/) - Develops low-carbon cement alternatives using abundant raw materials.
 - [Brimstone](https://www.brimstone.energy/) - Produces carbon-neutral cement through innovative chemical processes.
 - [CarbonBuilt](https://carbonbuilt.com/) - Utilizes CO2 in the curing process to create low-carbon concrete.

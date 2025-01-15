@@ -13,6 +13,8 @@ Public transit systems are essential for reducing greenhouse gas emissions, alle
 :::company job openings
 ### [View open jobs in this Solution](https://climatebase.org/jobs?l=&q=&drawdown_solutions=Public+Transit)
 #### Example Organizations
+- [Urent](https://www.climatetechlist.com/company/urent) - Urent is an e-scooter and bike-sharing service provider of e-scooter and bikes for public transportation and urban mobility.
+- [Maas Global](https://www.climatetechlist.com/company/maas-global) - MaaS Global is a mobility-as-a-service operator that provides its users all types of city transport services in a single app.
 - [BYD](https://www.byd.com) - World's largest manufacturer of electric vehicles, including electric buses.
 - [Bombardier](https://www.bombardier.com) - Leading manufacturer of trains and rail equipment.
 - [Siemens Mobility](https://www.mobility.siemens.com) - Develops sustainable public transit solutions.
