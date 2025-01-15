@@ -158,8 +158,3 @@ Connect with [Connor Dillon](https://www.linkedin.com/in/connorjdillon/) to unde
 
 </div>
 
-ater"
-  />
-
-</div>
-
