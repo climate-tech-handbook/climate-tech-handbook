@@ -49,15 +49,13 @@ The term "Climate Tech", short for climate technology, is **used in two related 
 
 | Broad Definition                                                                                                 | Industry Definition                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Climate Tech is **any form of technology, physical or digital**, that will help people implement climate change. | Climate Tech is a **recent financial movement to invest in startup companies** that are focused on a solution to the climate emergency. |
+| Climate Tech is **any form of technology, physical or digital**, that will help solve the climate emergency. | Climate Tech is a **recent financial movement to invest in startup companies** that are focused on a solution to the climate emergency. |
 
-**They are used interchangeably at times**, but it is only a matter of one referring to a movement and the other being a physical thing that jump started the movement. The **broad definition** of climate tech is what we are mostly going to be using in this mini-course.
+They are used interchangeably at times.
 
-**These climate technologies are focused on:**
+The **broad definition** of climate tech is what we are mostly going to be using in this mini-course.
 
-* The primary goal of climate tech is to **reduce greenhouse gas (GHG) emissions**. GHGs are gases that trap heat in the Earth's atmosphere, contributing to global warming and climate change. The main sources of GHG emissions are divided into the following sectors, which we will explore in more detail later in this mini-course:
-
-**The main sources of GHG emissions are divided into the following sectors, or subcategories**, which we will go more in depth with later on in this course:
+The primary goal of climate tech is to **reduce greenhouse gas (GHG) emissions**. GHGs are gases that trap heat in the Earth's atmosphere, contributing to global warming and climate change. The main sources of GHG emissions are divided into the following sectors, which we will explore in more detail later in this mini-course:
 
 1. **Electricity**: Reducing emissions from power generation, such as through the use of renewable energy sources like solar and wind.
 2. **Food, Agriculture, and Land Use**: Improving farming practices and land management to reduce emissions and enhance carbon storage.
@@ -65,18 +63,9 @@ The term "Climate Tech", short for climate technology, is **used in two related 
 4. **Transportation**: Transitioning to electric and low-emission vehicles and creating sustainable transportation infrastructure.
 5. **Buildings**: Increasing energy efficiency in homes and commercial buildings through improved design, insulation, and smart technologies.
 
-You have probably heard of clean tech before. What is it, and is it the same thing as *climate tech*?
+Note: there is also a term called "Clean Tech" which is very similiar.
 
-#### What is clean tech?
-
-| Clean Tech                                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| The term “clean tech”, short for clean technology, are **technologies that reduce the environmental impact that existing technologies cause**, as well as **improve the quality of natural resources**. |
-
-**These clean tech technologies are focused on**:
-
-* **Reducing usage of “dirty” technologies** (coal, gas, oil, mining, transportation, manufacturing).
-* **Improving areas of natural resources**: clean water, air quality, recycling, clean energy
+Technically clean tech can refer to sustainable technologies that go beyond stopping greenhouse pollution, for example, water quality, biodiversity, and other environmental goals. 
 
 #### Historical Context: Clean Tech 1.0
 
@@ -87,9 +76,6 @@ It’s important to recognize that the term "clean tech" carries some negative c
 * [How VCs can avoid another bloodbath as the clean-tech boom 2.0](https://www.technologyreview.com/2020/11/30/1012660/venture-capital-clean-tech-boom-biden/)
 * [Eight lessons from the first climate boom and bust](https://www.bvp.com/atlas/eight-lessons-from-the-first-climate-tech-boom-and-bust)
 
-#### *Also, ever heard of “green tech”?*
-
-Green tech is just **an umbrella term for climate tech and clean tech**. Climate tech and Clean tech *are* green tech. While they are related and often overlap, climate tech specifically focuses on addressing climate change, whereas clean tech broadly aims to reduce environmental harm and optimize resource use.
 
 ## What is a climate job like?
 
@@ -338,7 +324,7 @@ https://mcjcollective.com
 
 ![MCJ Collective logo](/img/mcjcollective-logo.png)
 
-This one costs $10 per month, but is well worth it.
+This one costs $10 per month.
 
 Work on Climate is very heavy toward job seekers, while MCJ also has a strong startup / investor community.
 
