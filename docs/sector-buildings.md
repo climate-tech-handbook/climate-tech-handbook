@@ -28,16 +28,16 @@ Then come back to learn more about each [Solution](#solutions-in-this-sector)
 :::contribute Community
 Meet people in the *[#learn-built-environment](https://app.slack.com/client/T017M28BLSG/C033K3U1ZQR)* channel - [Work on Climate Slack](https://workonclimate.org)
 :::
-
+<!-- 
 :::expert
 Connect with [Connor Dillon](https://www.linkedin.com/in/connorjdillon/) to understand building code adoption
-:::
+::: -->
 
 ## Resources:
 
-:::info Resources
-- A Look at Building Companies - [Climate Drift](https://www.climatedrift.com/p/a-look-at-building-companies?utm_source=%2Fsearch%2Finsulation&utm_medium=reader2)
-- Retrofitting - The forgotten part of making buildings green - [Climate Tech Distillery](https://www.climatetechdistillery.com/p/27-retrofitting)
+:::info
+- [A Look at Building Companies](https://www.climatedrift.com/p/a-look-at-building-companies?utm_source=%2Fsearch%2Finsulation&utm_medium=reader2)
+- Retrofitting - The forgotten part of making buildings green[Climate Tech Distillery](https://www.climatetechdistillery.com/p/27-retrofitting)
 :::
 
 ## Solutions in the this Sector
@@ -154,6 +154,11 @@ Connect with [Connor Dillon](https://www.linkedin.com/in/connorjdillon/) to unde
     description="Utilization of solar energy to heat water for various applications, including domestic use and space heating."
     imageUrl="/img/solar-hot-water.webp"
     linkUrl="../solution-solar-hot-water"
+  />
+
+</div>
+
+ater"
   />
 
 </div>
