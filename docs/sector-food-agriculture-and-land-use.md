@@ -5,11 +5,11 @@ displayed_sidebar: docSidebar
 ---
 import ImageCard from '../src/components/ImageCard/ImageCard';
 
-At least 25% of all emission sources come from food, agriculture, or land use practices.
+At least 25% of global greenhouse gas emissions come from food, agriculture, and land use practices.
 
 Fixing this sector has multiple benefits beyond solving the climate crisis.
 
-We can also reduce food waste to solve hunger, restore biodiversity to prevent further extinction, and improve mental as examples.
+We can also reduce food waste to help address hunger, restore biodiversity, and improve public health.
 
 ## Sector Overview
 
